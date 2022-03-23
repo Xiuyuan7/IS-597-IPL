@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.13125/2039-6597/1386",
+    "type": "works",
+    "attributes": {
+        "doi": "10.13125/2039-6597/1386",
+        "identifier": "https://doi.org/10.13125/2039-6597/1386",
+        "url": "http://ojs.unica.it/index.php/testdatacite/article/view/2360",
+        "author": [
+            {
+                "given": "Sheri Chinen",
+                "family": "Biesen"
+            }
+        ],
+        "title": "Censoring and Selling Film Noir",
+        "container-title": "Unica",
+        "description": "Film noir is known for its duplicity. Industry censors considered 1940s noir cinema provocative, salacious and \u2018sordid.\u2019 Hollywood studios walked a fine line between appearing to comply with Hays office Production Code censorship while simultaneously pushing the envelope of its moral constraints, then hyping and sensationalizing censorable sex, violence and hard-hitting themes to sell noir films to the public. In fact, studios capitalized on the racy explicit nature of noir pictures in publicity contradicting assurances of censorial compliance. For instance, censor Joseph Breen was \u201cshocked\u201d when MGM purchased James Cain\u2019s The Postman Always Rings Twice. It was banned for a decade. Yet, ten years later as filmmakers adapted hardboiled fiction, Breen assured religious groups it would \u201cnot be offensive.\u201d Yet, it was promoted as \u201ctorrid,\u201d \u201ctoo hot to handle\u201d with Lana Turner in a bathing suit finding \u201cLove at Laguna Beach\u201d with hunky John Garfield who clamored, \u201cYou must be a she-devil,\u201d suggesting far more sex, skin and \u201csavage boldness\u201d than is shown in the film. Film noir responded to Production Code censorship and other regulatory factors, including Office of War Information Bureau of Motion Pictures restrictions on Hollywood screen depictions of the domestic American home front (or overseas combat front), and Office of Censorship strictures such as a wartime ban on screen gangsters as \u2018un-American\u2019 for propaganda purposes in World War II-era noir films centering on criminals. These multiple censorship entities often collided. This regulatory climate catalyzed the development of film noir, a dark cycle of shadowy 1940s-50s crime films that boomed by World War II and evolved over the postwar era. I will investigate extensive primary archival research\u2014including scripts, memos from industry censors, writers, directors, producers, and publicity records\u2014to compare how film noir was censored and sold.",
+        "resource-type-subtype": "Article",
+        "data-center-id": "crui.unica",
+        "member-id": "crui",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2015",
+        "registered": "2015-06-08T20:30:18.000Z",
+        "checked": null,
+        "updated": "2019-09-09T04:02:41.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6amF0cz0iaHR0cDovL3d3dy5uY2JpLm5sbS5uaWguZ292L0pBVFMxIiB4bWxuczphaT0iaHR0cDovL3d3dy5jcm9zc3JlZi5vcmcvQWNjZXNzSW5kaWNhdG9ycy54c2QiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMy9tZXRhZGF0YS54c2QiPjxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjEzMTI1LzIwMzktNjU5Ny8xMzg2PC9pZGVudGlmaWVyPjxjcmVhdG9ycz48Y3JlYXRvcj48Y3JlYXRvck5hbWU+Qmllc2VuLCBTaGVyaSBDaGluZW48L2NyZWF0b3JOYW1lPjwvY3JlYXRvcj48L2NyZWF0b3JzPjx0aXRsZXM+PHRpdGxlPkNlbnNvcmluZyBhbmQgU2VsbGluZyBGaWxtIE5vaXI8L3RpdGxlPjwvdGl0bGVzPjxwdWJsaXNoZXI+VW5pY2E8L3B1Ymxpc2hlcj48cHVibGljYXRpb25ZZWFyPjIwMTU8L3B1YmxpY2F0aW9uWWVhcj48c3ViamVjdHM+PHN1YmplY3Q+Q2Vuc29yc2hpcDsgRmlsbSBOb2lyOyBIb2xseXdvb2QgQ2luZW1hOyBNb3Rpb24gUGljdHVyZSBQcm9kdWN0aW9uIENvZGU7IEZpbG08L3N1YmplY3Q+PC9zdWJqZWN0cz48ZGF0ZXM+PGRhdGUgZGF0ZVR5cGU9IlN1Ym1pdHRlZCI+MjAxNi0wNi0xOTwvZGF0ZT48ZGF0ZSBkYXRlVHlwZT0iQWNjZXB0ZWQiPjIwMTYtMDYtMTk8L2RhdGU+PGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAxNS0wNS0xNDwvZGF0ZT48ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxNi0wNi0xOTwvZGF0ZT48L2RhdGVzPjxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+PHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5BcnRpY2xlPC9yZXNvdXJjZVR5cGU+PGFsdGVybmF0ZUlkZW50aWZpZXJzPjxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJwdWJsaXNoZXJJZCI+MTctNjgtMjM2MDwvYWx0ZXJuYXRlSWRlbnRpZmllcj48L2FsdGVybmF0ZUlkZW50aWZpZXJzPjxyaWdodHNMaXN0PjxyaWdodHMgcmlnaHRzVVJJPSIiPjwvcmlnaHRzPjwvcmlnaHRzTGlzdD48ZGVzY3JpcHRpb25zPjxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5GaWxtIG5vaXIgaXMga25vd24gZm9yIGl0cyBkdXBsaWNpdHkuIEluZHVzdHJ5IGNlbnNvcnMgY29uc2lkZXJlZCAxOTQwcyBub2lyIGNpbmVtYSBwcm92b2NhdGl2ZSwgc2FsYWNpb3VzIGFuZCDigJhzb3JkaWQu4oCZIEhvbGx5d29vZCBzdHVkaW9zIHdhbGtlZCBhIGZpbmUgbGluZSBiZXR3ZWVuIGFwcGVhcmluZyB0byBjb21wbHkgd2l0aCBIYXlzIG9mZmljZSBQcm9kdWN0aW9uIENvZGUgY2Vuc29yc2hpcCB3aGlsZSBzaW11bHRhbmVvdXNseSBwdXNoaW5nIHRoZSBlbnZlbG9wZSBvZiBpdHMgbW9yYWwgY29uc3RyYWludHMsIHRoZW4gaHlwaW5nIGFuZCBzZW5zYXRpb25hbGl6aW5nIGNlbnNvcmFibGUgc2V4LCB2aW9sZW5jZSBhbmQgaGFyZC1oaXR0aW5nIHRoZW1lcyB0byBzZWxsIG5vaXIgZmlsbXMgdG8gdGhlIHB1YmxpYy4gSW4gZmFjdCwgc3R1ZGlvcyBjYXBpdGFsaXplZCBvbiB0aGUgcmFjeSBleHBsaWNpdCBuYXR1cmUgb2Ygbm9pciBwaWN0dXJlcyBpbiBwdWJsaWNpdHkgY29udHJhZGljdGluZyBhc3N1cmFuY2VzIG9mIGNlbnNvcmlhbCBjb21wbGlhbmNlLiBGb3IgaW5zdGFuY2UsIGNlbnNvciBKb3NlcGggQnJlZW4gd2FzIOKAnHNob2NrZWTigJ0gd2hlbiBNR00gcHVyY2hhc2VkIEphbWVzIENhaW7igJlzIFRoZSBQb3N0bWFuIEFsd2F5cyBSaW5ncyBUd2ljZS4gSXQgd2FzIGJhbm5lZCBmb3IgYSBkZWNhZGUuIFlldCwgdGVuIHllYXJzIGxhdGVyIGFzIGZpbG1tYWtlcnMgYWRhcHRlZCBoYXJkYm9pbGVkIGZpY3Rpb24sIEJyZWVuIGFzc3VyZWQgcmVsaWdpb3VzIGdyb3VwcyBpdCB3b3VsZCDigJxub3QgYmUgb2ZmZW5zaXZlLuKAnSBZZXQsIGl0IHdhcyBwcm9tb3RlZCBhcyDigJx0b3JyaWQs4oCdIOKAnHRvbyBob3QgdG8gaGFuZGxl4oCdIHdpdGggTGFuYSBUdXJuZXIgaW4gYSBiYXRoaW5nIHN1aXQgZmluZGluZyDigJxMb3ZlIGF0IExhZ3VuYSBCZWFjaOKAnSB3aXRoIGh1bmt5IEpvaG4gR2FyZmllbGQgd2hvIGNsYW1vcmVkLCDigJxZb3UgbXVzdCBiZSBhIHNoZS1kZXZpbCzigJ0gc3VnZ2VzdGluZyBmYXIgbW9yZSBzZXgsIHNraW4gYW5kIOKAnHNhdmFnZSBib2xkbmVzc+KAnSB0aGFuIGlzIHNob3duIGluIHRoZSBmaWxtLiBGaWxtIG5vaXIgcmVzcG9uZGVkIHRvIFByb2R1Y3Rpb24gQ29kZSBjZW5zb3JzaGlwIGFuZCBvdGhlciByZWd1bGF0b3J5IGZhY3RvcnMsIGluY2x1ZGluZyBPZmZpY2Ugb2YgV2FyIEluZm9ybWF0aW9uIEJ1cmVhdSBvZiBNb3Rpb24gUGljdHVyZXMgcmVzdHJpY3Rpb25zIG9uIEhvbGx5d29vZCBzY3JlZW4gZGVwaWN0aW9ucyBvZiB0aGUgZG9tZXN0aWMgQW1lcmljYW4gaG9tZSBmcm9udCAob3Igb3ZlcnNlYXMgY29tYmF0IGZyb250KSwgYW5kIE9mZmljZSBvZiBDZW5zb3JzaGlwIHN0cmljdHVyZXMgc3VjaCBhcyBhIHdhcnRpbWUgYmFuIG9uIHNjcmVlbiBnYW5nc3RlcnMgYXMg4oCYdW4tQW1lcmljYW7igJkgZm9yIHByb3BhZ2FuZGEgcHVycG9zZXMgaW4gV29ybGQgV2FyIElJLWVyYSBub2lyIGZpbG1zIGNlbnRlcmluZyBvbiBjcmltaW5hbHMuIFRoZXNlIG11bHRpcGxlIGNlbnNvcnNoaXAgZW50aXRpZXMgb2Z0ZW4gY29sbGlkZWQuIFRoaXMgcmVndWxhdG9yeSBjbGltYXRlIGNhdGFseXplZCB0aGUgZGV2ZWxvcG1lbnQgb2YgZmlsbSBub2lyLCBhIGRhcmsgY3ljbGUgb2Ygc2hhZG93eSAxOTQwcy01MHMgY3JpbWUgZmlsbXMgdGhhdCBib29tZWQgYnkgV29ybGQgV2FyIElJIGFuZCBldm9sdmVkIG92ZXIgdGhlIHBvc3R3YXIgZXJhLiBJIHdpbGwgaW52ZXN0aWdhdGUgZXh0ZW5zaXZlIHByaW1hcnkgYXJjaGl2YWwgcmVzZWFyY2jigJRpbmNsdWRpbmcgc2NyaXB0cywgbWVtb3MgZnJvbSBpbmR1c3RyeSBjZW5zb3JzLCB3cml0ZXJzLCBkaXJlY3RvcnMsIHByb2R1Y2VycywgYW5kIHB1YmxpY2l0eSByZWNvcmRz4oCUdG8gY29tcGFyZSBob3cgZmlsbSBub2lyIHdhcyBjZW5zb3JlZCBhbmQgc29sZC48L2Rlc2NyaXB0aW9uPjxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IlNlcmllc0luZm9ybWF0aW9uIj50ZXN0ZGF0YWNpdGUsIFZvbCA1LCBOIDkgKDIwMTUpOiBDZW5zdXJhIGUgYXV0by1jZW5zdXJhPC9kZXNjcmlwdGlvbj48L2Rlc2NyaXB0aW9ucz48L3Jlc291cmNlPgo="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "crui.unica",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "crui",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

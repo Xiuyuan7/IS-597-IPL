@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.22004/ag.econ.11620",
+    "type": "works",
+    "attributes": {
+        "doi": "10.22004/ag.econ.11620",
+        "identifier": "https://doi.org/10.22004/ag.econ.11620",
+        "url": "https://ageconsearch.umn.edu/record/11620",
+        "author": [
+            {
+                "given": "Paul D.",
+                "family": "Wessen"
+            },
+            {
+                "given": "James F.",
+                "family": "Oehmke"
+            },
+            {
+                "given": "Paul D.",
+                "family": "Wessen"
+            },
+            {
+                "given": "James F.",
+                "family": "Oehmke"
+            }
+        ],
+        "title": "PRIVATIZING MARKETS FOR HETEROGENOUS, EXPERIENCE GOODS: COFFEE IN NORTHWEST CAMEROON",
+        "container-title": "Unknown",
+        "description": "Reform and privatization of administratively controlled marketing parastatals is always a thorny issue. Reform of public coffee parastatals is one of the most fascinating and trickiest exercises in free-market development. Coffee, a heterogenous, experience good, undergoes several processing stages with imperfect quality control, leading to agency problems. Successful privatization must address these problems. This paper analyzes the reform and partial privatization of the North West Cooperative Association (NWCA) parastatal in Cameroon. A conceptual, principal-agent framework informs the analysis. In an interesting twist, the reforms structured the marketing chain so that farmers are the residual claimants to profits from international sales, in effect making them the principals. As is suggested by the conceptual framework, empirical work confirms that farmers as principals have reinvested in coffee quality. However, the evidence also shows that agency problems still exist at later stages of the marketing chain. This is consistent with the principal-agent framework, since incentive-compatible contracts are not used in this marketing chain. The paper concludes by drawing more general lessons about how incomplete information and incentive structure issues arising from imperfect markets might be handled within the context of market liberalization.",
+        "resource-type-subtype": "Text",
+        "data-center-id": "tind.agecon",
+        "member-id": "tind",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2001",
+        "registered": "2019-08-23T23:53:36.000Z",
+        "checked": null,
+        "updated": "2019-08-25T04:00:56.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjIwMDQvQUcuRUNPTi4xMTYyMDwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPldlc3NlbiwgUGF1bCBELjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPk9laG1rZSwgSmFtZXMgRi48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5XZXNzZW4sIFBhdWwgRC48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5PZWhta2UsIEphbWVzIEYuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+UFJJVkFUSVpJTkcgTUFSS0VUUyBGT1IgSEVURVJPR0VOT1VTLCBFWFBFUklFTkNFIEdPT0RTOiBDT0ZGRUUgSU4gTk9SVEhXRVNUIENBTUVST09OPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlVua25vd248L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMDE8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5NYXJrZXRpbmc8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOS0wOC0yNFQyMzowMDo1Ni4wLTA1OjAwPC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPlRleHQ8L3Jlc291cmNlVHlwZT4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlJlZm9ybSBhbmQgcHJpdmF0aXphdGlvbiBvZiBhZG1pbmlzdHJhdGl2ZWx5IGNvbnRyb2xsZWQgbWFya2V0aW5nIHBhcmFzdGF0YWxzIGlzIGFsd2F5cyBhIHRob3JueSBpc3N1ZS4gIFJlZm9ybSBvZiBwdWJsaWMgY29mZmVlIHBhcmFzdGF0YWxzIGlzIG9uZSBvZiB0aGUgbW9zdCBmYXNjaW5hdGluZyBhbmQgdHJpY2tpZXN0IGV4ZXJjaXNlcyBpbiBmcmVlLW1hcmtldCBkZXZlbG9wbWVudC4gIENvZmZlZSwgYSBoZXRlcm9nZW5vdXMsIGV4cGVyaWVuY2UgZ29vZCwgdW5kZXJnb2VzIHNldmVyYWwgcHJvY2Vzc2luZyBzdGFnZXMgd2l0aCBpbXBlcmZlY3QgcXVhbGl0eSBjb250cm9sLCBsZWFkaW5nIHRvIGFnZW5jeSBwcm9ibGVtcy4gIFN1Y2Nlc3NmdWwgcHJpdmF0aXphdGlvbiBtdXN0IGFkZHJlc3MgdGhlc2UgcHJvYmxlbXMuCgpUaGlzIHBhcGVyIGFuYWx5emVzIHRoZSByZWZvcm0gYW5kIHBhcnRpYWwgcHJpdmF0aXphdGlvbiBvZiB0aGUgTm9ydGggV2VzdCBDb29wZXJhdGl2ZSBBc3NvY2lhdGlvbiAoTldDQSkgcGFyYXN0YXRhbCBpbiBDYW1lcm9vbi4gIEEgY29uY2VwdHVhbCwgcHJpbmNpcGFsLWFnZW50IGZyYW1ld29yayBpbmZvcm1zIHRoZSBhbmFseXNpcy4gIEluIGFuIGludGVyZXN0aW5nIHR3aXN0LCB0aGUgcmVmb3JtcyBzdHJ1Y3R1cmVkIHRoZSBtYXJrZXRpbmcgY2hhaW4gc28gdGhhdCBmYXJtZXJzIGFyZSB0aGUgcmVzaWR1YWwgY2xhaW1hbnRzIHRvIHByb2ZpdHMgZnJvbSBpbnRlcm5hdGlvbmFsIHNhbGVzLCBpbiBlZmZlY3QgbWFraW5nIHRoZW0gdGhlIHByaW5jaXBhbHMuICBBcyBpcyBzdWdnZXN0ZWQgYnkgdGhlIGNvbmNlcHR1YWwgZnJhbWV3b3JrLCBlbXBpcmljYWwgd29yayBjb25maXJtcyB0aGF0IGZhcm1lcnMgYXMgcHJpbmNpcGFscyBoYXZlIHJlaW52ZXN0ZWQgaW4gY29mZmVlIHF1YWxpdHkuICBIb3dldmVyLCB0aGUgZXZpZGVuY2UgYWxzbyBzaG93cyB0aGF0IGFnZW5jeSBwcm9ibGVtcyBzdGlsbCBleGlzdCBhdCBsYXRlciBzdGFnZXMgb2YgdGhlIG1hcmtldGluZyBjaGFpbi4gIFRoaXMgaXMgY29uc2lzdGVudCB3aXRoIHRoZSBwcmluY2lwYWwtYWdlbnQgZnJhbWV3b3JrLCBzaW5jZSBpbmNlbnRpdmUtY29tcGF0aWJsZSBjb250cmFjdHMgYXJlIG5vdCB1c2VkIGluIHRoaXMgbWFya2V0aW5nIGNoYWluLiAgVGhlIHBhcGVyIGNvbmNsdWRlcyBieSBkcmF3aW5nIG1vcmUgZ2VuZXJhbCBsZXNzb25zIGFib3V0IGhvdyBpbmNvbXBsZXRlIGluZm9ybWF0aW9uIGFuZCBpbmNlbnRpdmUgc3RydWN0dXJlIGlzc3VlcyBhcmlzaW5nIGZyb20gaW1wZXJmZWN0IG1hcmtldHMgbWlnaHQgYmUgaGFuZGxlZCB3aXRoaW4gdGhlIGNvbnRleHQgb2YgbWFya2V0IGxpYmVyYWxpemF0aW9uLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tind.agecon",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tind",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

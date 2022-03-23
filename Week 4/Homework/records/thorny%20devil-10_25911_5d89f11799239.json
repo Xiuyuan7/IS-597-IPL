@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.25911/5d89f11799239",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25911/5d89f11799239",
+        "identifier": "https://doi.org/10.25911/5d89f11799239",
+        "url": "https://openresearch-repository.anu.edu.au/handle/1885/169649",
+        "author": [
+            {
+                "given": "Sophie",
+                "family": "Johns"
+            }
+        ],
+        "title": "Modelling host evolutionary responses to infection",
+        "container-title": "The Australian National University",
+        "description": "Infectious diseases are pervasive, producing strong evolutionary pressure on their hosts. Often epidemiological models focus on pathogen evolution because they have short lifespans relative to their hosts. However, pathogens also impose strong selective pressure on their hosts. With prolonged exposure to pathogens host populations adapt to pathogen's selection pressure. Host evolution could occur in a variety of ways - from minimising infection costs to disease avoidance. In this thesis I present two theoretical models that examine optimal host evolutionary responses to infectious diseases. Chapter 1 explores how sexually transmitted infections shape female reproductive investment and, in turn, alters selection on males for infection resistance. I discuss the conditions required for female terminal investment to be favorable, and in populations where females terminally invest, I then consider the ramifications for selection on male immune resistance, since infecting their mate has a reproductive advantage. In the second chapter I look at the effect of devil facial tumour disease on Tasmanian devils. Specifically, I explore the conditions required for devils to evolve passive behavior to avoid infection. I highlight that this evolution could occur on an ecological timescale, potentially preventing devil extinction.",
+        "resource-type-subtype": "Thesis (MPhil)",
+        "data-center-id": "ands.centre13",
+        "member-id": "ands",
+        "resource-type-id": "other",
+        "version": null,
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-09-24T10:34:02.000Z",
+        "checked": null,
+        "updated": "2019-09-25T10:44:02.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjU5MTEvNUQ4OUYxMTc5OTIzOTwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkpvaG5zLCBTb3BoaWU8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5Nb2RlbGxpbmcgaG9zdCBldm9sdXRpb25hcnkgcmVzcG9uc2VzIHRvIGluZmVjdGlvbjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5UaGUgQXVzdHJhbGlhbiBOYXRpb25hbCBVbml2ZXJzaXR5PC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPGNvbnRyaWJ1dG9ycz4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IkRhdGFNYW5hZ2VyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5UaGUgQXVzdHJhbGlhbiBOYXRpb25hbCBVbml2ZXJzaXR5PC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iSG9zdGluZ0luc3RpdHV0aW9uIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5UaGUgQXVzdHJhbGlhbiBOYXRpb25hbCBVbml2ZXJzaXR5PC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogIDwvY29udHJpYnV0b3JzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJBY2NlcHRlZCI+MjAxOS0wOS0xNTwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJBdmFpbGFibGUiPjIwMTktMDktMTU8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE5PC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuLUFVPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9Ik90aGVyIj5UaGVzaXMgKE1QaGlsKTwvcmVzb3VyY2VUeXBlPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJ1cmkiPmh0dHA6Ly9oZGwuaGFuZGxlLm5ldC8xODg1LzE2OTY0OTwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+SW5mZWN0aW91cyBkaXNlYXNlcyBhcmUgcGVydmFzaXZlLCBwcm9kdWNpbmcgc3Ryb25nIGV2b2x1dGlvbmFyeSBwcmVzc3VyZSBvbiB0aGVpciBob3N0cy4gT2Z0ZW4gZXBpZGVtaW9sb2dpY2FsIG1vZGVscyBmb2N1cyBvbiBwYXRob2dlbiBldm9sdXRpb24gYmVjYXVzZSB0aGV5IGhhdmUgc2hvcnQgbGlmZXNwYW5zIHJlbGF0aXZlIHRvIHRoZWlyIGhvc3RzLiBIb3dldmVyLCBwYXRob2dlbnMgYWxzbyBpbXBvc2Ugc3Ryb25nIHNlbGVjdGl2ZSBwcmVzc3VyZSBvbiB0aGVpciBob3N0cy4gV2l0aCBwcm9sb25nZWQgZXhwb3N1cmUgdG8gcGF0aG9nZW5zIGhvc3QgcG9wdWxhdGlvbnMgYWRhcHQgdG8gcGF0aG9nZW4ncyBzZWxlY3Rpb24gcHJlc3N1cmUuIEhvc3QgZXZvbHV0aW9uIGNvdWxkIG9jY3VyIGluIGEgdmFyaWV0eSBvZiB3YXlzIC0gZnJvbSBtaW5pbWlzaW5nIGluZmVjdGlvbiBjb3N0cyB0byBkaXNlYXNlIGF2b2lkYW5jZS4gSW4gdGhpcyB0aGVzaXMgSSBwcmVzZW50IHR3byB0aGVvcmV0aWNhbCBtb2RlbHMgdGhhdCBleGFtaW5lIG9wdGltYWwgaG9zdCBldm9sdXRpb25hcnkgcmVzcG9uc2VzIHRvIGluZmVjdGlvdXMgZGlzZWFzZXMuIENoYXB0ZXIgMSBleHBsb3JlcyBob3cgc2V4dWFsbHkgdHJhbnNtaXR0ZWQgaW5mZWN0aW9ucyBzaGFwZSBmZW1hbGUgcmVwcm9kdWN0aXZlIGludmVzdG1lbnQgYW5kLCBpbiB0dXJuLCBhbHRlcnMgc2VsZWN0aW9uIG9uIG1hbGVzIGZvciBpbmZlY3Rpb24gcmVzaXN0YW5jZS4gSSBkaXNjdXNzIHRoZSBjb25kaXRpb25zIHJlcXVpcmVkIGZvciBmZW1hbGUgdGVybWluYWwgaW52ZXN0bWVudCB0byBiZSBmYXZvcmFibGUsIGFuZCBpbiBwb3B1bGF0aW9ucyB3aGVyZSBmZW1hbGVzIHRlcm1pbmFsbHkgaW52ZXN0LCBJIHRoZW4gY29uc2lkZXIgdGhlIHJhbWlmaWNhdGlvbnMgZm9yIHNlbGVjdGlvbiBvbiBtYWxlIGltbXVuZSByZXNpc3RhbmNlLCBzaW5jZSBpbmZlY3RpbmcgdGhlaXIgbWF0ZSBoYXMgYSByZXByb2R1Y3RpdmUgYWR2YW50YWdlLiBJbiB0aGUgc2Vjb25kIGNoYXB0ZXIgSSBsb29rIGF0IHRoZSBlZmZlY3Qgb2YgZGV2aWwgZmFjaWFsIHR1bW91ciBkaXNlYXNlIG9uIFRhc21hbmlhbiBkZXZpbHMuIFNwZWNpZmljYWxseSwgSSBleHBsb3JlIHRoZSBjb25kaXRpb25zIHJlcXVpcmVkIGZvciBkZXZpbHMgdG8gZXZvbHZlIHBhc3NpdmUgYmVoYXZpb3IgdG8gYXZvaWQgaW5mZWN0aW9uLiBJIGhpZ2hsaWdodCB0aGF0IHRoaXMgZXZvbHV0aW9uIGNvdWxkIG9jY3VyIG9uIGFuIGVjb2xvZ2ljYWwgdGltZXNjYWxlLCBwb3RlbnRpYWxseSBwcmV2ZW50aW5nIGRldmlsIGV4dGluY3Rpb24uPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ands.centre13",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ands",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "other",
+                "type": "resource-types"
+            }
+        }
+    }
+}

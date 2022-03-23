@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+  <identifier identifierType="DOI">10.18730/PN0ZT</identifier>
+  <creators>
+    <creator>
+      <creatorName>GLIS of the ITPGRFA</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Phaseolus vulgaris L. G9168</title>
+  </titles>
+  <publisher>Centro Internacional de Agricultura Tropical</publisher>
+  <publicationYear>2018</publicationYear>
+  <subjects>
+    <subject>Plant Genetic Resource for Food and Agriculture</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="Other">
+      <contributorName>Centro Internacional de Agricultura Tropical</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">1977-02-01</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="PhysicalObject">PGRFA Material</resourceType>
+  <alternateIdentifiers/>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relatedMetadataScheme="GLIS Descriptors" relationType="HasMetadata" schemeType="XML" schemeURI="http://www.fao.org/plant-treaty/areas-of-work/global-information-system/descriptors">https://ssl.fao.org/glisapi/v1/pgrfas?doi=10.18730/PN0ZT</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relatedMetadataScheme="Darwin Core Archive" relationType="HasMetadata" schemeType="DwC-A" schemeURI="http://rs.tdwg.org/dwc/terms/guides/text/index.htm">https://ssl.fao.org/glisapi/v1/pgrfas?_format=dwc&amp;doi=10.18730/PN0ZT</relatedIdentifier>
+  </relatedIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">Plant Genetic Resource.&lt;br/&gt;Taxonomy: Phaseolus vulgaris L.&lt;br/&gt;Common name(s): beans&lt;br/&gt;Other names: Devil Fin Precoce&lt;br/&gt;Conserved by: Centro Internacional de Agricultura Tropical (CIAT), Colombia&lt;br/&gt;Local sample unique identifier: G9168&lt;br/&gt;Method of creation: Acquisition&lt;br/&gt;Date: 1977-02-01&lt;br/&gt;Biological status: Traditional cultivar/landrace&lt;br/&gt;MLS status: Included&lt;br/&gt;Historical: No</description>
+  </descriptions>
+  <geoLocations/>
+</resource>

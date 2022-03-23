@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.22004/AG.ECON.29164</identifier>
+  <creators>
+    <creator>
+      <creatorName>Fulton, Murray E.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Gray, Richard S.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Fulton, Murray E.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Gray, Richard S.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>THE PROVISION OF RAIL SERVICE: THE IMPACT OF COMPETITION</title>
+  </titles>
+  <publisher>Unknown</publisher>
+  <publicationYear>1998</publicationYear>
+  <subjects>
+    <subject>Public Economics</subject>
+    <subject subjectScheme="keyword">barriers to entry</subject>
+    <subject subjectScheme="keyword">competition</subject>
+    <subject subjectScheme="keyword">grain handling</subject>
+    <subject subjectScheme="keyword">grain transportation</subject>
+    <subject subjectScheme="keyword">monopoly</subject>
+    <subject subjectScheme="keyword">railroads</subject>
+    <subject subjectScheme="keyword">regulation</subject>
+  </subjects>
+  <dates>
+    <date dateType="Updated">2019-08-25T00:36:31.0-05:00</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">Grain transportation is one of the most important economic issues for grain producers in the Northern Plains. The reliance on export markets and the long distances to port position means that transportation costs have a significant effect on the price received by farmers.
+
+In the prairie region of Canada, rail transportation is undergoing a major transformation that will affect the competitive positions of agriculture in both the United States and Canada and influence the direction of grain flows between the two countries. Rail rates are no longer legislated although a cap is still in place), restrictions on branch line abandonment have been lifted, and further deregulation of price and car allocation is being considered. Some parties, including the railways, argue that a completely deregulated system, similar to the U.S. system, is the only way to achieve transportation efficiencies. Other groups, supporting the status quo, argue that the regulation of rates is essential to control the monopoly power of the railways. There has been very little discussion of other policy options, with the exception of a limited discussion of nationalized railbeds.
+
+The U.S. experience provides a stark view of the likely outcome of deregulation. When railways are not faced with competition from other railways or from other forms of transportation such as barges, the evidence suggests railways will price freight services at or near truck competitive rates.  Freight rates in Montana, where no effective rail and/or barge competition exists, are approximately twice those at Kansas City and Denver/Commerce City, where such competition exists. The current cost-based regulated rates in Western Canada are similar to those at Kansas City and Denver/Commerce City. Given similar distances to port and the existence of only two railways (and no likelihood of new entrants), deregulation in Western Canada is likely to result in freight rates closer to those in Montana than to the current regulated level. The increase in freight costs will result in transfers from producers to the railways, distort production incentives, and create losses elsewhere in the economy.
+
+While maintenance of a regulated freight rate structure would address the freight rate issue, other problems would result. The lack of price signals reduces incentives for industry participants to perform. Branch lines are less likely to be maintained in a regulated environment because railways may be unable to charge the extra amount necessary to make them viable. Railways may also disrupt the system - as a form of bargaining - to create pressure for deregulation.
+
+This report explores the option of the government encouraging entry into rail service provision. Just as telecommunication companies are required to allow competitors to use their phone lines, existing railways could be required to make their track and switching equipment available to rail operators who wish to run train service on a line, on the condition that the access price covers the infrastructure cost. The paper examines the case of the British railway system where the ownership of the track has been separated from the operation of the rail equipment and the provision of service, and explores the applicability of this model to grain transportation on the Great Plains. In Britain, ownership of the  track rests with a company called Railtrack (although Railtrack was  government-owned, it has been privatized). Railtrack leases access to thirty train operators for fees that are regulated by the Office of the Rail Regulator to cover maintenance costs and provide a return on investment. The thirty rail operators then compete to provide service to customers.
+This model and others similar to it need to be developed and articulated before they can be considered in the public policy forum. Nevertheless, given the importance of rail transportation to the grain industry in the Northern Plains, it is imperative that options such as these be investigated to address the very thorny issue of freight rate and entry regulation.</description>
+  </descriptions>
+</resource>

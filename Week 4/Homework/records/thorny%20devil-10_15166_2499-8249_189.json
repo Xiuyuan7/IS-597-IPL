@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.15166/2499-8249/189",
+    "type": "works",
+    "attributes": {
+        "doi": "10.15166/2499-8249/189",
+        "identifier": "https://doi.org/10.15166/2499-8249/189",
+        "url": "http://www.europeanpapers.eu/en/e-journal/comments-on-draft-treaty-on-democratization-of-governance-of-euro-area",
+        "author": [
+            {
+                "given": "Christian",
+                "family": "Joerges"
+            }
+        ],
+        "title": "Comments on the Draft Treaty on the Democratization of the Governance of the Euro Area",
+        "container-title": "European Papers (www.europeanpapers.eu)",
+        "description": "European Papers, Vol. 3, 2018, No 1, www.europeanpapers.eu, pp. 75-81, ISSN 2499-8249",
+        "resource-type-subtype": "Overview",
+        "data-center-id": "crui.unitelma",
+        "member-id": "crui",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by-nc-nd/4.0",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-04-27T15:33:07.000Z",
+        "checked": null,
+        "updated": "2019-09-07T00:01:14.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxyZXNvdXJjZSB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTQiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTQgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtNC4xL21ldGFkYXRhLnhzZCI+DQogPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTUxNjYvMjQ5OS04MjQ5LzE4OTwvaWRlbnRpZmllcj4NCiA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+DQogIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJVUkkiPmh0dHA6Ly93d3cuZXVyb3BlYW5wYXBlcnMuZXUvZW4vZS1qb3VybmFsL2NvbW1lbnRzLW9uLWRyYWZ0LXRyZWF0eS1vbi1kZW1vY3JhdGl6YXRpb24tb2YtZ292ZXJuYW5jZS1vZi1ldXJvLWFyZWE8L2FsdGVybmF0ZUlkZW50aWZpZXI+DQogPC9hbHRlcm5hdGVJZGVudGlmaWVycz4NCiA8Y3JlYXRvcnM+DQogIDxjcmVhdG9yPg0KICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+Sm9lcmdlcywgQ2hyaXN0aWFuPC9jcmVhdG9yTmFtZT4NCiAgIDxnaXZlbk5hbWU+Q2hyaXN0aWFuPC9naXZlbk5hbWU+DQogICA8ZmFtaWx5TmFtZT5Kb2VyZ2VzPC9mYW1pbHlOYW1lPg0KICAgPGFmZmlsaWF0aW9uPkhlcnRpZSBTY2hvb2wgb2YgR292ZXJuYW5jZSBCZXJsaW48L2FmZmlsaWF0aW9uPgogICA8YWZmaWxpYXRpb24+Q2VudHJlIGZvciBFdXJvcGVhbiBMYXcgYW5kIFBvbGl0aWNzLCBCcmVtZW48L2FmZmlsaWF0aW9uPg0KICA8L2NyZWF0b3I+DQogPC9jcmVhdG9ycz4NCiA8dGl0bGVzPg0KICA8dGl0bGUgeG1sOmxhbmc9ImVuZyI+Q29tbWVudHMgb24gdGhlIERyYWZ0IFRyZWF0eSBvbiB0aGUgRGVtb2NyYXRpemF0aW9uIG9mIHRoZSBHb3Zlcm5hbmNlIG9mIHRoZSBFdXJvIEFyZWE8L3RpdGxlPg0KIDwvdGl0bGVzPg0KIDxwdWJsaXNoZXI+RXVyb3BlYW4gUGFwZXJzICh3d3cuZXVyb3BlYW5wYXBlcnMuZXUpPC9wdWJsaXNoZXI+DQogPHB1YmxpY2F0aW9uWWVhcj4yMDE4PC9wdWJsaWNhdGlvblllYXI+DQogPHN1YmplY3RzPg0KICA8c3ViamVjdCB4bWw6bGFuZz0iZW5nIj5jb25kaXRpb25hbGl0eTwvc3ViamVjdD4NCiAgPHN1YmplY3QgeG1sOmxhbmc9ImVuZyI+ZW1lcmdlbmN5PC9zdWJqZWN0Pg0KICA8c3ViamVjdCB4bWw6bGFuZz0iZW5nIj50ZWNobm9jcmFjeTwvc3ViamVjdD4NCiAgPHN1YmplY3QgeG1sOmxhbmc9ImVuZyI+ZWNvbm9taWMgY3VsdHVyZXM8L3N1YmplY3Q+DQogIDxzdWJqZWN0IHhtbDpsYW5nPSJlbmciPnNvY2lhbCBhY3F1aXM8L3N1YmplY3Q+DQogIDxzdWJqZWN0IHhtbDpsYW5nPSJlbmciPmRlbW9jcmF0aWMgcG9saXRpY2lzYXRpb248L3N1YmplY3Q+DQogPC9zdWJqZWN0cz4NCiA8Y29udHJpYnV0b3JzPg0KICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJIb3N0aW5nSW5zdGl0dXRpb24iPg0KICAgPGNvbnRyaWJ1dG9yTmFtZT5SZXNlYXJjaCBDZW50cmUgZm9yIEV1cm9wZWFuIExhdywgVW5pdGVsbWEgU2FwaWVuemEgLSBVbml2ZXJzaXR5IG9mIFJvbWU8L2NvbnRyaWJ1dG9yTmFtZT4NCiAgPC9jb250cmlidXRvcj4NCiA8L2NvbnRyaWJ1dG9ycz4NCiA8bGFuZ3VhZ2U+ZW5nPC9sYW5ndWFnZT4NCiA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPk92ZXJ2aWV3PC9yZXNvdXJjZVR5cGU+DQogPGZvcm1hdHM+DQogIDxmb3JtYXQ+dGV4dC9odG1sPC9mb3JtYXQ+DQogIDxmb3JtYXQ+UERGPC9mb3JtYXQ+DQogPC9mb3JtYXRzPg0KIDxyaWdodHNMaXN0Pg0KICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMtbmQvNC4wLyI+Q3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbi1Ob25Db21tZXJjaWFsLU5vRGVyaXZhdGl2ZXMgNC4wIEludGVybmF0aW9uYWwgTGljZW5zZTwvcmlnaHRzPg0KIDwvcmlnaHRzTGlzdD4NCiA8ZGVzY3JpcHRpb25zPg0KICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJTZXJpZXNJbmZvcm1hdGlvbiI+RXVyb3BlYW4gUGFwZXJzLCBWb2wuIDMsIDIwMTgsIE5vIDEsIHd3dy5ldXJvcGVhbnBhcGVycy5ldSwgcHAuIDc1LTgxLCBJU1NOIDI0OTktODI0OTwvZGVzY3JpcHRpb24+DQogIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IlRhYmxlT2ZDb250ZW50cyI+SS4gVGhlIG1haW4gY29uY2VybnMgb2YgdGhlIFQtRGVtIGluaXRpYXRpdmUuIOKAkyBJSS4gRXVyb3BlIGluIHRyb3VibGVkIHdhdGVycy4gTW9yZSBFdXJvcGUgdGhlIHNvbHV0aW9uPyDigJMgSUlJLiBObyBhbHRlcm5hdGl2ZT8uPC9kZXNjcmlwdGlvbj4NCiAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPldpdGggdGhlIGJlbmVmaXQgb2YgaGluZHNpZ2h0LCB0aGUgbXVsdGlmYWNldGVkIGRpbWVuc2lvbiBhbmQgdGhlIHNpbmNlIGxvbmcgY3JlZXBpbmcgY2F1c2VzIG9mIEV1cm9wZeKAmXMgY29uc3RpdHV0aW9uYWwgbWlzZXJ5IGFyZSBldmVyIGJldHRlciBleHBsb3JlZC4gQSByaGFwc29keSBvZiB3ZWxsLW1pbmRlZCBwcm9wb3NhbHMgZnJvbSB0aGUgbWFueSBxdWFydGVycyBvZiBFdXJvcGVhbiBzdHVkaWVzIGlzIGF2YWlsYWJsZSwgYW5kIGVjb25vbWlzdHMgYXJlIHByb3ZpZGluZyB1cyB3aXRoIHJlY2lwZXMgb3V0IG9mIHRoZWlyIHRlY2hub2NyYXRpYyB0b29sa2l0LiBJdCBpcyBub3QgYnkgY2hhbmNlIHRoYXQgbGF3eWVycyBzZWVtIHVuLWFibGUgdG8gYWN0IGxpa2V3aXNlIGFmdGVyIHRoZSBkZWVwIHRyYW5zZm9ybWF0aW9ucyBvZiBFdXJvcGXigJlzIGNvbnN0aXR1dGlvbmFsIGNvbnN0ZWxsYXRpb24gd2hpY2ggRXVyb3BlYW4gY3Jpc2lzIHBvbGl0aWNzIGhhcyBicm91Z2h0IGFib3V0IGFuZCBoYXZlIGJlZW4gbGVnYWxpc2VkIGJ5IHRoZSBDb3VydCBvZiBKdXN0aWNlIGluIFByaW5nbGUgYW5kIEdhdXdlaWxlci4gRXZlbiB0aG9zZSBhbW9uZyB1cyB3aG8gZmluZCB0aGVzZSBkZXZlbG9wbWVudHMgb3V0cmFnZW91cyBzaW1wbHkgZG8gbm90IGtub3cgaG93IHRvIGRlZmVuZCB0aGUgbGF34oCZcyBpbnRlZ3JpdHkuIFByZWNpc2VseSBiZWNhdXNlIG9mIHRoaXMgYmFja2dyb3VuZCwgbXkgaW5pdGlhbCBpbnR1aXRpb24gYWZ0ZXIgYmVjb21pbmcgYXdhcmUgb2YgdGhlIERyYWZ0IFRyZWF0eSBvbiB0aGUgRGVtb2NyYXRpemF0aW9uIG9mIHRoZSBHb3Zlcm5hbmNlIG9mIHRoZSBFdXJvIHdhcyBhbiBpcnJpdGF0ZWQgY2hlIGZ1cmJpemlhOiB0aGV5IG9wZXJhdGUgYmV5b25kIEV1cm9wZWFuIGxlZ2FsIGZyYW1lcy4gQXJlIHRoZXkgY2FzdGluZyBvdXQgdGhlIGRldmlsIGJ5IEJlZWx6ZWJ1Yj8gVGhleSBhcmUgZG9pbmcgc29tZXRoaW5nIGVsc2UuIFRoZSBwbGVhIGZvciBhIERyYWZ0IFRyZWF0eSBvbiBEZW1vY3JhdGl6YXRpb24gaXMgbXVjaCBtb3JlIHRoYW4gYW4gZXhlcmNpc2UgaW4gZWxlZ2FudCBjcmFmdGluZXNzLiBJbiB0aGUgZm9sbG93aW5nLCBJIHdpbGwgdW5kZXJsaW5lIHRocmVlIGFzcGVjdHM6IChJKSB0aGUgdmVyeSBjbGVhciBhbmQgd2VsbC1mb3VuZGVkIHJlamVjdGlvbiBvZiB0aGUgcHJlc2VudCBzdGF0ZSBvZiB0aGUgVW5pb247IChJSSkgdGhlIHZhbGlkaXR5IG9mIHRoZSBjcml0aXF1ZSBvZiBFdXJvcGXigJlzIHN1cHBvc2VkIHBvc3QtY3Jpc2lzIOKAnG5vcm1hbGN54oCdOyAoSUlJKSB0aGUgY29udmVyZ2VuY2Ugb2YgdGhlIG11bHRpZGlzY2lwbGluYXJ5IHJlYXNvbmluZyBvZiB0aGUgcHJvcG9zYWwgd2l0aCByZWNlbnQgZW5kZWF2b3VycyB0byByZS13cml0ZSB0aGUgcG9saXRpY2FsIHBoaWxvc29waHkgb2YgdGhlIEV1cm9wZWFuIFVuaW9uOyBhbmQgKElWKSB0aGUgY2hhbGxlbmdlcyBvZiBzb2Npby1lY29ub21pYyBkaXZlcmdlbmNlIGFuZCB0aGUgZGlzY3JlcGFuY2llcyBvZiBlY29ub21pYyBjdWx0dXJlcyB3aXRoaW4gdGhlIEV1cm96b25lIGFuZCB0aGUgRVUgbW9yZSBnZW5lcmFsbHkuPC9kZXNjcmlwdGlvbj4NCiA8L2Rlc2NyaXB0aW9ucz4NCjwvcmVzb3VyY2U+DQo="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "crui.unitelma",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "crui",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

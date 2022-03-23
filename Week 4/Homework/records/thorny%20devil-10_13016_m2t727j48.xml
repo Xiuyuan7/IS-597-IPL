@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.13016/M2T727J48</identifier>
+  <creators>
+    <creator>
+      <creatorName>Jackson, Telana Leilani</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Collisional Plasmas In Martian Dust Storms: Application To Sustenance And Glow Emissions</title>
+  </titles>
+  <publisher>My University</publisher>
+  <publicationYear>2008</publicationYear>
+  <subjects>
+    <subject>Chemistry</subject>
+    <subject>Plasma</subject>
+    <subject>Dust Devil</subject>
+    <subject>Mars</subject>
+    <subject>Plasma Physics</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>My University</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>My University</contributorName>
+    </contributor>
+    <contributor contributorType="RelatedPerson">
+      <contributorName>Nithianandam, Jeyasingh</contributorName>
+    </contributor>
+    <contributor contributorType="RelatedPerson">
+      <contributorName>Farrell, William M</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2008</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Collection">Text</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="uri">http://hdl.handle.net/11603/9741</alternateIdentifier>
+  </alternateIdentifiers>
+  <rightsList>
+    <rights>This item is made available by Morgan State University for personal, educational, and research purposes in accordance with Title 17 of the U.S. Copyright Law. Other uses may require permission from the copyright owner.</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Mars' dynamic atmosphere displays dust devils and larger, global dust storms. Through models and simulations, these features show large electrostatic fields and it is possible that, in the low pressure Martian atmosphere, they may create an electron avalanche and a collisional plasma due to an increase in electron density with ambient E-field. To show that a plasma is sustained under these conditions, a model of the predicted electric Martian dust storm electron avalanche is created, including electron impact ionization sources and electron loss processes (i.e. dust absorption, system loss, electron dissociation and electron recombination). This new model is called the "Dust Devil Electron Avalanche Model (DDEAM)". 	      These losses have not been included in previous models, which stimulated the objectives of this study, to (a) develop a simple form for the Townsend coefficient, (b) determine the critical E-field where plasma sustenance occurs, (c) determine the electron density and model the continuity equation including losses, and (d) model the developments of a plasma "glow" discharge and Mars methane destruction as functions of E-field. This work enhances the recently-published model by Delory et al. [2006], which considered source terms for electron generation.        The DDEAM system of eight one-dimensional differential equations was solved simultaneously for values to characterize the electron density, the densities of constituents (CO2,H2O) and their products (CO2+, CO,O-, OH ,H-) due to electron/molecule interactions in the Martian atmosphere. Values for glow discharge and methane destruction rates were also found. When all losses are included in the electron continuity equation, the electron density grows exponentially with increasing E-field, eventually reaching the equilibrium needed to sustain a plasma. The recombination loss plays the biggest role in stabilizing the system. It is also shown that glow discharges can occur within Martian dust storms, reaching a value of 6*10^21 photons/m^3 with a mean free path of ~32m after traveling 60m down a dust column and should be observable by landed spacecraft. The destruction rate for methane shows an increase by a factor of 10^17/m^3s as the E-field increases</description>
+  </descriptions>
+</resource>

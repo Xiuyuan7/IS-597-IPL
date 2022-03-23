@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.13136/SJTDS.V5I1.219</identifier>
+  <creators>
+    <creator>
+      <creatorName>Mullini, Roberta</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Bianca Del Villano, Using the Devil with Courtesy. Shakespeare and the Language of (Im)Politeness, Bern: Peter Lang, 2018</title>
+  </titles>
+  <publisher>Skenè. Journal of Theatre and Drama Studies</publisher>
+  <publicationYear>2019</publicationYear>
+  <dates>
+    <date dateType="Submitted">2019-04-30</date>
+    <date dateType="Accepted">2019-04-30</date>
+    <date dateType="Updated">2019-05-26</date>
+    <date dateType="Issued">2019-05-21</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="publisherId">1-22-219</alternateIdentifier>
+  </alternateIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">
+This review of Bianca Del Villano’s Using the Devil with Courtesy. Shakespeare and the Language of (Im)Politeness highlights the interdisciplinary approach used in the volume, so that the pragmatic research at its basis is enlivened with a vast series of theoretical perspectives. The detailed study of im(politeness) phenomena goes hand in hand with the Author’s cultural awareness of the deep changes in early modern English society, thus shedding new light onto the interpersonal relationships revealed by dramatic dialogue both in Hamlet  and in The Taming of the Shrew, the two plays chosen as case studies. 
+</description>
+    <description descriptionType="SeriesInformation">Skenè. Journal of Theatre and Drama Studies, Vol 5 No 1 (2019)</description>
+  </descriptions>
+</resource>

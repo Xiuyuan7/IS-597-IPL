@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25959/100.00028455</identifier>
+  <creators>
+    <creator>
+      <creatorName>Lyall, JM</creatorName>
+      <givenName>JM</givenName>
+      <familyName>Lyall</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en">Native and invasive mammalian carnivores in a forestry and agricultural landscape in northwest Tasmania</title>
+  </titles>
+  <descriptions>
+    <description xml:lang="en" descriptionType="Abstract">Globally, human activities including land clearing, habitat conversion and degradation, and human induced climate change are putting immense pressures on biodiversity. Habitat change is a primary cause of species decline and extinction, but in many places invasive predators, often favoured by habitat change, also have had large impacts on biodiversity through direct predation, competition and disease transmission.&#13;
+&#13;
+In the Australian island State of Tasmania, a higher percentage of the original forest cover has been maintained than in other parts of Australia, retaining 63.8% of its c1750 forest cover, or 3.06 million hectares. Of this, following selective logging, clear-felling for regeneration or conversion to plantation species, approximately 25% of old growth forest remains. Land clearing for agriculture in Tasmania occurred particularly in the fertile country at lower altitudes, while forestry activities generally continued at higher elevations.&#13;
+&#13;
+These changes to habitat affect the fauna differentially. In Tasmania, some mammal species such as the Tasmanian pademelon Thylogale billardierii appear to benefit from forest fragmentation and the introduction of exotic pasture species in proximity to refuge, however other species are likely to experience population decline through this loss of habitat. Within this fragmented landscape are the native marsupial predators, the Tasmanian devil Sarcophilus harrisii and spotted-tailed quoll Dasyurus maculatus and the introduced feral/domestic cat Felis catus. Recently, populations of the devil have declined by up to 85% because of Devil Facial Tumour Disease (DFTD), a lethal transmissible cancer that was first detected in 1996 and has spread across most of the island. Persecution of the devil and quoll still occurs. The cat became established throughout Tasmania following introduction at the time of European settlement and competes with the native carnivores in addition to carrying the disease, Toxoplasmosis gondii, to which many of the native herbivores are susceptible.&#13;
+&#13;
+Few studies have examined in depth, the combination of available prey, landscape use and site level features determining whether devils, quolls or cats will use a particular site. Chapter 2 of this study aims to investigate further the way quolls, devils and cats are using this perturbed landscape, identifying the features at landscape and site level where each species is more abundant and relationships between the species. While Chapter 3 further analyses the use of plantations for new insights into the factors that influence the use of plantations by each species. Within a study area of approximately 250,000 ha in north-west Tasmania, I used camera survey data from 150 sites over two seasons to investigate the distribution and abundance of, and relationships between, the quoll, devil and cat in relation to site and landscape factors within four land use categories. I used N-mixture modelling (Royle, 2004) with K=15 to estimate the direction and size of effect of the selected environmental parameters on the abundance of each predator species across the study area. As I was able to identify individual animals, I ran single species abundance models using the unmarked Point Count package “pcount”, for both the winter and summer “seasons”. This provides an estimation of abundance of each of the predators at each site.&#13;
+&#13;
+Quolls and devils were more abundant at the same sites, and cats and devils had no adverse influence on each other’s presence, however there was some evidence that quolls and cats avoid each other or choose different habitats. Quolls appeared to be more specialised in their habitat requirements than the other two species, with taller forests and understorey qualities influencing their occurrence, while elevation, forest cover and prey emerged as factors influencing the abundance of the devil. Cats were more abundant on the edges of agricultural land with this study indicating cover, including trees and undergrowth, is an important factor. Quolls and devils were less abundant in plantations than nearby forests while cats were more abundant in plantations in proximity to agricultural land. Differences between the species in where they were more abundant and relationships between species have been revealed by this study, however further study is required to determine the drivers. The relationship between cats and quolls should also be explored further to ascertain whether the negative relationship relates primarily to spatial influences or whether there is a temporal aspect to the relationship. Would interventions to increase understorey complexity in disturbed habitats reduce the spread and success of cats within the natural and plantation landscapes?&#13;
+&#13;
+A more thorough investigation of potential den sites in plantations would be of value with a direct comparison with potential den sites in adjacent native forest. Further analysis of the abundance of different prey species and the diet of devils and quolls in plantations would be of interest in gauging the dietary flexibility of devils and quolls in plantations, seasonally and at different stages of the breeding cycle.&#13;
+&#13;
+Quolls, devils and cats are coexisting within this fragmented landscape. Historical and current changes to the composition of the marsupial predator guild through loss of the thylacine and recent reduction in the devil population through DFTD is likely to be affecting both the populations of prey species and populations of the alien mesopredator, the cat. There is a strong indication that the native predators favour a more intact natural habitat leading to the possibility that managing the&#13;
+land to retain more native vegetation will benefit the native predators over the introduced cat.</description>
+  </descriptions>
+  <resourceType resourceTypeGeneral="Text">Thesis</resourceType>
+  <rightsList>
+    <rights rightsURI="https://eprints.utas.edu.au/licence.html">University of Tasmania Standard License</rights>
+  </rightsList>
+  <publisher>University of Tasmania</publisher>
+  <publicationYear>2018</publicationYear>
+</resource>

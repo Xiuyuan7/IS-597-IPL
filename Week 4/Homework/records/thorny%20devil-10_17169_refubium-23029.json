@@ -1,0 +1,54 @@
+{
+    "id": "https://doi.org/10.17169/refubium-23029",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17169/refubium-23029",
+        "identifier": "https://doi.org/10.17169/refubium-23029",
+        "url": "https://refubium.fu-berlin.de/handle/fub188/19373",
+        "author": [
+            {
+                "given": "Vikrom",
+                "family": "Mathur"
+            },
+            {
+                "given": "Aniruddh",
+                "family": "Mohanr"
+            }
+        ],
+        "title": "Searching for middle ground",
+        "container-title": "Freie Universit\u00e4t Berlin",
+        "description": "After two weeks of intense negotiations at the 21st Conference of the Parties (COP 21) in December 2015 in Paris - the 196 Parties to the United Nations Framework Convention on Climate Change (UNFCCC) agreed on the COP Decisions and Paris Agreement. The UN Secretary General, Ban Ki-Moon, described the Paris Agreement as a \u2018monumental triumph for people and our planet1\u2019. The Paris agreement is a return to the \u2018pledge and review\u2019 approach of the early days of global climate policy \u2013 middle ground between national pledges for climate action within a global architecture of review and collaboration. For the last twenty years, international climate change policy has been focused on the search for a centrally negotiated multilateral climate treaty with all countries as signatories. Yet since its inception, adapting the top-down multilateral treaty model to the challenge of climate change has been a Sisyphean task. The new approach has broken a deadlock and created a sense of optimism \u2013 but trust and legitimacy in the regime still needs to be built to ensure performance. The devil is the detail \u2013 right balance between top-down measures and bottom-up flexibility are needed for specific challenges related to ensuring equity, mobilizing finance, driving technological change and ensuring climate resilient development. In this paper we enroll theoretical insights from the work of Elinor Ostrom on polycentric governance, to see how a durable, hybrid climate regime could emerge out of the Paris Agreement and facilitate equitable and ambitious climate outcomes. The paper is divided into four sections: we first examine the road to Paris \u2013the lessons from the last thirty years of climate policy for the future regime; next we review theory \u2013 what are the theoretical insights from the work of Elinor Ostrom on polycentric governance; we examine how the \u2018hybrid\u2019 architecture of the new regime might play out in dealing with specific issues: setting ambition, ensuring differentiation, legal form, mitigation and adaptation; and lastly weanalyze the way forward \u2013 building trust and legitimacy and encouraging the \u2018ground swell\u2019 of actors.",
+        "resource-type-subtype": null,
+        "data-center-id": "tib.fuub",
+        "member-id": "tib",
+        "resource-type-id": null,
+        "version": null,
+        "license": "http://www.fu-berlin.de/sites/refubium/rechtliches/Nutzungsbedingungen",
+        "schema-version": "3",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2016",
+        "registered": "2019-09-11T17:37:44.000Z",
+        "checked": null,
+        "updated": "2019-09-11T20:40:02.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTcxNjkvUkVGVUJJVU0tMjMwMjk8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5NYXRodXIsIFZpa3JvbTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPk1vaGFuciwgQW5pcnVkZGg8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5TZWFyY2hpbmcgZm9yIG1pZGRsZSBncm91bmQ8L3RpdGxlPgogICAgPHRpdGxlIHRpdGxlVHlwZT0iU3VidGl0bGUiPk5hdGlvbmFsIENvbnRyaWJ1dGlvbnMgaW4gYSBHbG9iYWwgQWdyZWVtZW50PC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPkZyZWllIFVuaXZlcnNpdMOkdCBCZXJsaW48L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTY8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdCBzdWJqZWN0U2NoZW1lPSJkZGMiPjMwMCBTb3ppYWx3aXNzZW5zY2hhZnRlbjo6MzIwIFBvbGl0aWt3aXNzZW5zY2hhZnQ8L3N1YmplY3Q+CiAgICA8c3ViamVjdCBzdWJqZWN0U2NoZW1lPSJkZGMiPjMwMCBTb3ppYWx3aXNzZW5zY2hhZnRlbjo6MzMwIFdpcnRzY2hhZnQ6OjMzMyBCb2Rlbi0gdW5kIEVuZXJnaWV3aXJ0c2NoYWZ0PC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGNvbnRyaWJ1dG9ycz4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IkRhdGFNYW5hZ2VyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5Vbml2ZXJzaXTDpHRzYmlibGlvdGhlayBkZXIgRlUgQmVybGluPC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iSG9zdGluZ0luc3RpdHV0aW9uIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5Vbml2ZXJzaXTDpHRzYmlibGlvdGhlayBkZXIgRlUgQmVybGluPC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogIDwvY29udHJpYnV0b3JzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJBY2NlcHRlZCI+MjAxOC0wNi0wODwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJBdmFpbGFibGUiPjIwMTYtMDYtMjI8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE2PC9kYXRlPgogIDwvZGF0ZXM+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVyaSI+aHR0cHM6Ly9yZWZ1Yml1bS5mdS1iZXJsaW4uZGUvaGFuZGxlL2Z1YjE4OC8xOTM3MzwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxzaXplcz4KICAgIDxzaXplPjE0IFMuPC9zaXplPgogIDwvc2l6ZXM+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL3d3dy5mdS1iZXJsaW4uZGUvc2l0ZXMvcmVmdWJpdW0vcmVjaHRsaWNoZXMvTnV0enVuZ3NiZWRpbmd1bmdlbiIvPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkFmdGVyIHR3byB3ZWVrcyBvZiBpbnRlbnNlIG5lZ290aWF0aW9ucyBhdCB0aGUgMjFzdCBDb25mZXJlbmNlIG9mIHRoZSBQYXJ0aWVzIChDT1AgMjEpIGluIERlY2VtYmVyIDIwMTUgaW4gUGFyaXMgLSB0aGUgMTk2IFBhcnRpZXMgdG8gdGhlIFVuaXRlZCBOYXRpb25zIEZyYW1ld29yayBDb252ZW50aW9uIG9uIENsaW1hdGUgQ2hhbmdlIChVTkZDQ0MpIGFncmVlZCBvbiB0aGUgQ09QIERlY2lzaW9ucyBhbmQgUGFyaXMgQWdyZWVtZW50LiBUaGUgVU4gU2VjcmV0YXJ5IEdlbmVyYWwsIEJhbiBLaS1Nb29uLCBkZXNjcmliZWQgdGhlIFBhcmlzIEFncmVlbWVudCBhcyBhIOKAmG1vbnVtZW50YWwgdHJpdW1waCBmb3IgcGVvcGxlIGFuZCBvdXIgcGxhbmV0MeKAmS4gVGhlIFBhcmlzIGFncmVlbWVudCBpcyBhIHJldHVybiB0byB0aGUg4oCYcGxlZGdlIGFuZCByZXZpZXfigJkgYXBwcm9hY2ggb2YgdGhlIGVhcmx5IGRheXMgb2YgZ2xvYmFsIGNsaW1hdGUgcG9saWN5IOKAkyBtaWRkbGUgZ3JvdW5kIGJldHdlZW4gbmF0aW9uYWwgcGxlZGdlcyBmb3IgY2xpbWF0ZSBhY3Rpb24gd2l0aGluIGEgZ2xvYmFsIGFyY2hpdGVjdHVyZSBvZiByZXZpZXcgYW5kIGNvbGxhYm9yYXRpb24uIEZvciB0aGUgbGFzdCB0d2VudHkgeWVhcnMsIGludGVybmF0aW9uYWwgY2xpbWF0ZSBjaGFuZ2UgcG9saWN5IGhhcyBiZWVuIGZvY3VzZWQgb24gdGhlIHNlYXJjaCBmb3IgYSBjZW50cmFsbHkgbmVnb3RpYXRlZCBtdWx0aWxhdGVyYWwgY2xpbWF0ZSB0cmVhdHkgd2l0aCBhbGwgY291bnRyaWVzIGFzIHNpZ25hdG9yaWVzLiBZZXQgc2luY2UgaXRzIGluY2VwdGlvbiwgYWRhcHRpbmcgdGhlIHRvcC1kb3duIG11bHRpbGF0ZXJhbCB0cmVhdHkgbW9kZWwgdG8gdGhlIGNoYWxsZW5nZSBvZiBjbGltYXRlIGNoYW5nZSBoYXMgYmVlbiBhIFNpc3lwaGVhbiB0YXNrLiBUaGUgbmV3IGFwcHJvYWNoIGhhcyBicm9rZW4gYSBkZWFkbG9jayBhbmQgY3JlYXRlZCBhIHNlbnNlIG9mIG9wdGltaXNtIOKAkyBidXQgdHJ1c3QgYW5kIGxlZ2l0aW1hY3kgaW4gdGhlIHJlZ2ltZSBzdGlsbCBuZWVkcyB0byBiZSBidWlsdCB0byBlbnN1cmUgcGVyZm9ybWFuY2UuIFRoZSBkZXZpbCBpcyB0aGUgZGV0YWlsIOKAkyByaWdodCBiYWxhbmNlIGJldHdlZW4gdG9wLWRvd24gbWVhc3VyZXMgYW5kIGJvdHRvbS11cCBmbGV4aWJpbGl0eSBhcmUgbmVlZGVkIGZvciBzcGVjaWZpYyBjaGFsbGVuZ2VzIHJlbGF0ZWQgdG8gZW5zdXJpbmcgZXF1aXR5LCBtb2JpbGl6aW5nIGZpbmFuY2UsIGRyaXZpbmcgdGVjaG5vbG9naWNhbCBjaGFuZ2UgYW5kIGVuc3VyaW5nIGNsaW1hdGUgcmVzaWxpZW50IGRldmVsb3BtZW50LiBJbiB0aGlzIHBhcGVyIHdlIGVucm9sbCB0aGVvcmV0aWNhbCBpbnNpZ2h0cyBmcm9tIHRoZSB3b3JrIG9mIEVsaW5vciBPc3Ryb20gb24gcG9seWNlbnRyaWMgZ292ZXJuYW5jZSwgdG8gc2VlIGhvdyBhIGR1cmFibGUsIGh5YnJpZCBjbGltYXRlIHJlZ2ltZSBjb3VsZCBlbWVyZ2Ugb3V0IG9mIHRoZSBQYXJpcyBBZ3JlZW1lbnQgYW5kIGZhY2lsaXRhdGUgZXF1aXRhYmxlIGFuZCBhbWJpdGlvdXMgY2xpbWF0ZSBvdXRjb21lcy4gVGhlIHBhcGVyIGlzIGRpdmlkZWQgaW50byBmb3VyIHNlY3Rpb25zOiB3ZSBmaXJzdCBleGFtaW5lIHRoZSByb2FkIHRvIFBhcmlzIOKAk3RoZSBsZXNzb25zIGZyb20gdGhlIGxhc3QgdGhpcnR5IHllYXJzIG9mIGNsaW1hdGUgcG9saWN5IGZvciB0aGUgZnV0dXJlIHJlZ2ltZTsgbmV4dCB3ZSByZXZpZXcgdGhlb3J5IOKAkyB3aGF0IGFyZSB0aGUgdGhlb3JldGljYWwgaW5zaWdodHMgZnJvbSB0aGUgd29yayBvZiBFbGlub3IgT3N0cm9tIG9uIHBvbHljZW50cmljIGdvdmVybmFuY2U7IHdlIGV4YW1pbmUgaG93IHRoZSDigJhoeWJyaWTigJkgYXJjaGl0ZWN0dXJlIG9mIHRoZSBuZXcgcmVnaW1lIG1pZ2h0IHBsYXkgb3V0IGluIGRlYWxpbmcgd2l0aCBzcGVjaWZpYyBpc3N1ZXM6IHNldHRpbmcgYW1iaXRpb24sIGVuc3VyaW5nIGRpZmZlcmVudGlhdGlvbiwgbGVnYWwgZm9ybSwgbWl0aWdhdGlvbiBhbmQgYWRhcHRhdGlvbjsgYW5kIGxhc3RseSB3ZWFuYWx5emUgdGhlIHdheSBmb3J3YXJkIOKAkyBidWlsZGluZyB0cnVzdCBhbmQgbGVnaXRpbWFjeSBhbmQgZW5jb3VyYWdpbmcgdGhlIOKAmGdyb3VuZCBzd2VsbOKAmSBvZiBhY3RvcnMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tib.fuub",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tib",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": null
+        }
+    }
+}

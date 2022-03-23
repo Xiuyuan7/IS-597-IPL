@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.18146/SOIMA2015.3.14</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Zuberi, Irfan</creatorName>
+      <givenName>Irfan</givenName>
+      <familyName>Zuberi</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Open access</title>
+    <title titleType="Subtitle">A challenging opportunity for audiovisual archives</title>
+  </titles>
+  <publisher>International Centre for the Study of the Preservation and Restoration of Cultural Property (ICCROM) and Royal Institute for Cultural Heritage (KIK-IRPA)</publisher>
+  <publicationYear>2017</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Conference Paper</resourceType>
+  <dates>
+    <date dateType="Issued">2017-10-27</date>
+  </dates>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="ISBN" relationType="IsPartOf">978-92-9077-264-4</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="ISBN" relationType="IsPartOf">978-2-930054-30-8</relatedIdentifier>
+  </relatedIdentifiers>
+  <version/>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/licenses/by-sa/3.0/igo">This publication is available in Open Access under the Attribution Share Alike 3.0 IGO (CCBY-SA 3.0 IGO) license (http://creativecommons.org/licenses/by-sa/3.0/igo/). By using the content of this publication, the users accept to be bound by the terms of use of the terms of the future ICCROM Open Access Repository.</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">In the broadest sense, archives are an embodiment of cultural artefacts that endure as signifiers of who we are and why. They are both a place of representation of these signifiers and their institutional form, providing tangible evidence of memory as well as defining memory institutionally within prevailing political systems and cultural norms. The principle of offering equal and open access to archival resources remains a cornerstone in various guidelines and codes of ethics for archival practices. However, providing open access is also a thorny problem and one that is challenged by factors such as intellectual property rights. This paper considers the notion of open access in the domain of audiovisual archives and the challenging potential that it offers, looking specifically at the experience of India’s National Cultural Audiovisual Archives. Perhaps the moment of open access is well and truly upon audiovisual archives in the twenty-first century, for they face the necessity of reinventing themselves or risking possible irrelevancy and increased marginalization, even as they must continue to balance delicate questions pertaining to ethics of access.</description>
+  </descriptions>
+</resource>

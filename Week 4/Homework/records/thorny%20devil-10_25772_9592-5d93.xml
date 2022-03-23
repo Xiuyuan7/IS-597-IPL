@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25772/9592-5D93</identifier>
+  <creators>
+    <creator>
+      <creatorName>Bloomquist, John-Michael</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Milking The Devil</title>
+  </titles>
+  <publisher>VCU Libraries</publisher>
+  <publicationYear>2016</publicationYear>
+  <resourceType resourceTypeGeneral="Text">thesis</resourceType>
+  <descriptions>
+    <description descriptionType="SeriesInformation">VCU Theses and Dissertations</description>
+  </descriptions>
+</resource>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mets="http://www.loc.gov/METS/" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dryad="http://purl.org/dryad/terms/" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.P1S7R7G</identifier>
+  <version>1</version>
+  <creators>
+    <creator>
+      <creatorName>Cunningham, Calum</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Johnson, Christopher</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Hollings, Tracey</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Kreger, Kaely</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Jones, Menna</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Data from: Trophic rewilding establishes a landscape of fear: Tasmanian devil introduction increases risk-sensitive foraging in a key prey species</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>landscape of fear</subject>
+    <subject>trophic rewilding</subject>
+    <subject>apex predator</subject>
+    <subject>predator-prey</subject>
+    <subject>giving-up densities</subject>
+    <subject>trophic cascade</subject>
+    <subject>Tasmania</subject>
+    <subject>Australia</subject>
+    <subject>Sarcophilus harrisii</subject>
+    <subject>Trichosurus vulpecula</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.P1S7R7G/1</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.P1S7R7G/2</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1111/ECOG.04635</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1111/ECOG.04635</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/"/>
+  </rightsList>
+</resource>

@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.22004/ag.econ.45629",
+    "type": "works",
+    "attributes": {
+        "doi": "10.22004/ag.econ.45629",
+        "identifier": "https://doi.org/10.22004/ag.econ.45629",
+        "url": "https://ageconsearch.umn.edu/record/45629",
+        "author": [
+            {
+                "given": "Jill E.",
+                "family": "Hobbs"
+            },
+            {
+                "given": "Marni D.",
+                "family": "Plunkett"
+            },
+            {
+                "given": "Jill E.",
+                "family": "Hobbs"
+            },
+            {
+                "given": "Marni D.",
+                "family": "Plunkett"
+            }
+        ],
+        "title": "GMOs: The Economics of Consumer Food Safety Issues",
+        "container-title": "Unknown",
+        "description": "The controversy over genetically modified (GM) foods has swept across Europe and is beginning to make inroads into the North American consumer market. It is set to become a thorny trade issue between the European Union (EU) and the United States. The issue is important, not least because of the potential scale of the problem. There has been a rapid adoption of GM crops by U.S. corn and soybean and Canadian canola producers. Approximately 57 percent of the U.S. soybean harvested acreage in 1999 was in herbicide-tolerant GM varieties (ERS). Soya is a staple in food processing, with approximately 60 percent of processed foods containing soya or soya derivatives. Canola is an important crop on the Canadian prairies. Although estimates vary, the percentage of canola seeded to GM varieties may have been 60 percent in 1999 (Western Producer, 1999). The entire canola industry has lost its access to the EU market because GM canola is not approved for entry to that market. This paper explores the nature and origins of the GM food safety concerns of consumers, assesses the problem within a theoretical frame work and discusses some public policy solutions.",
+        "resource-type-subtype": "Text",
+        "data-center-id": "tind.agecon",
+        "member-id": "tind",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2000",
+        "registered": "2019-08-24T01:56:54.000Z",
+        "checked": null,
+        "updated": "2019-08-25T06:30:37.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjIwMDQvQUcuRUNPTi40NTYyOTwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkhvYmJzLCBKaWxsIEUuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+UGx1bmtldHQsIE1hcm5pIEQuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+SG9iYnMsIEppbGwgRS48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5QbHVua2V0dCwgTWFybmkgRC48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5HTU9zOiBUaGUgRWNvbm9taWNzIG9mIENvbnN1bWVyIEZvb2QgU2FmZXR5IElzc3VlczwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5Vbmtub3duPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDAwPC9wdWJsaWNhdGlvblllYXI+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+QWdyaWN1bHR1cmFsIGFuZCBGb29kIFBvbGljeTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkZvb2QgQ29uc3VtcHRpb24vTnV0cml0aW9uL0Zvb2QgU2FmZXR5PC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTktMDgtMjVUMDE6MzA6MzcuMC0wNTowMDwvZGF0ZT4KICA8L2RhdGVzPgogIDxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5UZXh0PC9yZXNvdXJjZVR5cGU+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5UaGUgY29udHJvdmVyc3kgb3ZlciBnZW5ldGljYWxseSBtb2RpZmllZCAoR00pIGZvb2RzIGhhcyBzd2VwdCBhY3Jvc3MgRXVyb3BlIGFuZCBpcyBiZWdpbm5pbmcgdG8gbWFrZSBpbnJvYWRzIGludG8gdGhlIE5vcnRoIEFtZXJpY2FuIGNvbnN1bWVyIG1hcmtldC4gSXQgaXMgc2V0IHRvIGJlY29tZSBhIHRob3JueSB0cmFkZSBpc3N1ZSBiZXR3ZWVuIHRoZSBFdXJvcGVhbiBVbmlvbiAoRVUpIGFuZCB0aGUgVW5pdGVkIFN0YXRlcy4gVGhlIGlzc3VlIGlzIGltcG9ydGFudCwgbm90IGxlYXN0IGJlY2F1c2Ugb2YgdGhlIHBvdGVudGlhbCBzY2FsZSBvZiB0aGUgcHJvYmxlbS4gVGhlcmUgaGFzIGJlZW4gYSByYXBpZCBhZG9wdGlvbiBvZiBHTSBjcm9wcyBieSBVLlMuIGNvcm4gYW5kIHNveWJlYW4gYW5kIENhbmFkaWFuIGNhbm9sYSBwcm9kdWNlcnMuIEFwcHJveGltYXRlbHkgNTcgcGVyY2VudCBvZiB0aGUgVS5TLiBzb3liZWFuIGhhcnZlc3RlZCBhY3JlYWdlIGluIDE5OTkgd2FzIGluIGhlcmJpY2lkZS10b2xlcmFudCBHTSB2YXJpZXRpZXMgKEVSUykuIFNveWEgaXMgYSBzdGFwbGUgaW4gZm9vZCBwcm9jZXNzaW5nLCB3aXRoIGFwcHJveGltYXRlbHkgNjAgcGVyY2VudCBvZiBwcm9jZXNzZWQgZm9vZHMgY29udGFpbmluZyBzb3lhIG9yIHNveWEgZGVyaXZhdGl2ZXMuIENhbm9sYSBpcyBhbiBpbXBvcnRhbnQgY3JvcCBvbiB0aGUgQ2FuYWRpYW4gcHJhaXJpZXMuIEFsdGhvdWdoIGVzdGltYXRlcyB2YXJ5LCB0aGUgcGVyY2VudGFnZSBvZiBjYW5vbGEgc2VlZGVkIHRvIEdNIHZhcmlldGllcyBtYXkgaGF2ZSBiZWVuIDYwIHBlcmNlbnQgaW4gMTk5OSAoV2VzdGVybiBQcm9kdWNlciwgMTk5OSkuIFRoZSBlbnRpcmUgY2Fub2xhIGluZHVzdHJ5IGhhcyBsb3N0IGl0cyBhY2Nlc3MgdG8gdGhlIEVVIG1hcmtldCBiZWNhdXNlIEdNIGNhbm9sYSBpcyBub3QgYXBwcm92ZWQgZm9yIGVudHJ5IHRvIHRoYXQgbWFya2V0LiBUaGlzIHBhcGVyIGV4cGxvcmVzIHRoZSBuYXR1cmUgYW5kIG9yaWdpbnMgb2YgdGhlIEdNIGZvb2Qgc2FmZXR5IGNvbmNlcm5zIG9mIGNvbnN1bWVycywgYXNzZXNzZXMgdGhlIHByb2JsZW0gd2l0aGluIGEgdGhlb3JldGljYWwgZnJhbWUgd29yayBhbmQgZGlzY3Vzc2VzIHNvbWUgcHVibGljIHBvbGljeSBzb2x1dGlvbnMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tind.agecon",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tind",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

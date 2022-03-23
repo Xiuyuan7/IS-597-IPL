@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.26049/VZ69-2-2019-04</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Yaryhin, Oleksandr</creatorName>
+      <givenName>Oleksandr</givenName>
+      <familyName>Yaryhin</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Werneburg, Ingmar</creatorName>
+      <givenName>Ingmar</givenName>
+      <familyName>Werneburg</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en">The origin of orbitotemporal diversity in lepidosaurs: insights from tuatara chondrocranial anatomy</title>
+  </titles>
+  <publisher>Senckenberg Gesellschaft für Naturforschung</publisher>
+  <publicationYear>2019</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Vertebrate Zoology, Scientific Article</resourceType>
+  <version/>
+  <descriptions>
+    <description xml:lang="en" descriptionType="Abstract">Sphenodon punctatus, the tuatara, is the last survivor of the formerly widely distributed group of Rhynchocephalia, which is the sister group of Squamata. The skull anatomy of S. punctatus and its fossil relatives is comparably well known; however, embryological data of skull development are rare, incomplete, and mostly represented by dated works. Knowing the anatomy of the chondrocranium of S. punctatus is crucial to an understanding of chondrocranial evolution in reptiles and particularly in lepidosaurs. Here, based on the historical histological collection of Hugo Schauinsland, we reexamined the anatomy of the fully formed chondrocranium in S. punctatus and describe a very early stage of its chondrocranium formation, which was not considered in any previous study. The architecture of the fully formed chondrocranium of S. punctatus represents one of the most complex ones among sauropsids. We observed a number of characters, that are absent in other reptiles and were never previously described in S. punctatus. We consider the robust lateral braincase wall in S. punctatus to represent an ancestral condition. In the lepidosaurian ancestor it likely had the potential for further diversification of the orbitotemporal region in squamates. Certainly, it provided extra mechanical strength to the chondrocranium as a whole. At the same time, the strong cartilaginous lateral wall of the chondrocranium in S. punctatus could also be a rudimentary form of the more distant ancestor of lepidosaurs, in which the chondrocranium played a more functional role.</description>
+  </descriptions>
+</resource>

@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.26300/2d2x-hh05",
+    "type": "works",
+    "attributes": {
+        "doi": "10.26300/2d2x-hh05",
+        "identifier": "https://doi.org/10.26300/2d2x-hh05",
+        "url": "https://repository.library.brown.edu/studio/item/bdr:792775/",
+        "author": [
+            {
+                "given": "Andrew Steven",
+                "family": "Campbell"
+            }
+        ],
+        "title": "Beware the \"Hive of Presbytery\": The Scottish Presbyterian as Folk Devil in Restoration Britain",
+        "container-title": "Brown University",
+        "description": null,
+        "resource-type-subtype": "Text",
+        "data-center-id": "brown.bdr",
+        "member-id": "brown",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2019-06-12T17:49:24.000Z",
+        "checked": null,
+        "updated": "2019-09-17T17:32:33.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjYzMDAvMkQyWC1ISDA1PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Q2FtcGJlbGwsIEFuZHJldyBTdGV2ZW48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5CZXdhcmUgdGhlICJIaXZlIG9mIFByZXNieXRlcnkiOiBUaGUgU2NvdHRpc2ggUHJlc2J5dGVyaWFuIGFzIEZvbGsgRGV2aWwgaW4gUmVzdG9yYXRpb24gQnJpdGFpbjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5Ccm93biBVbml2ZXJzaXR5PC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE4PC9wdWJsaWNhdGlvblllYXI+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5UZXh0PC9yZXNvdXJjZVR5cGU+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "brown.bdr",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "brown",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

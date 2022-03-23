@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.5258/soton/d0982",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5258/soton/d0982",
+        "identifier": "https://doi.org/10.5258/soton/d0982",
+        "url": "https://eprints.soton.ac.uk/id/eprint/432278",
+        "author": [
+            {
+                "given": "Rachel",
+                "family": "Owen"
+            }
+        ],
+        "title": "Appendices for Investigating Cellular Origins to Identify Peptide Vaccine Targets in two Independent Transmissible Tumours Circulating in the Tasmanian Devil (Sarcophilus harrisii)",
+        "container-title": "University of Southampton",
+        "description": "This dataset supports the PhD These titled \"Investigating Cellular Origins to Identify Peptide Vaccine Targets in two Independent Transmissible Tumours Circulating in the Tasmanian Devil\" by Rachel Owen. It contains the following Appendices:Appendix C.1 - Raw mass spectrometry data for triplicate non-quantified whole cell proteomes for DFT2_RV, DFT1_4906 (+IFN\u03b3) and fibroblast (Salem) cell lines.Appendix C.2 - Raw mass spectrometry data for label-free quantification of proteins identified in the whole cell proteomes of DFT2_RV, DFT1_4906 and fibroblast (Salem) cell lines.Appendix C.3 - Full results for functional analysis of the full, quantified proteomes of each cell line against the Gene Ontology: Biological process, Gene Ontology: Cellular compartment, Reactome and Human Protein Atlas databases.Appendix C.4 - Cross cell line comparisons of the functional analysis presented in Appendix C.3.Appendix C.5 - Full results for functional analysis of proteins unique to and quantified in a single cell line against the Gene Ontology: Biological process, Gene Ontology: Cellular compartment, Reactome and Human Protein Atlas databases.Appendix C.6 - Cross cell line comparisons of the functional analysis presented in Appendix C.5.Appendix C.7 - Functional analysis of tumour specific and ubiquitous proteins against the Gene Ontology: Biological process, Gene Ontology: Cellular compartment, Reactome and Human Protein Atlas databases.Appendix G.3 - Raw mass spectrometry data and sequenced peptide information following immunoaffinity purification of the MHC class I complex.Appendix G.4 - Raw mass spectrometry data and sequenced peptide information following immunoaffinity purification of the MHC class I complex performed by Annalisa Gastaldello et al. (in preparation).ROwen_README.docx - Full descriptions of the data contained in Appendices C.1-C.7 and G.3-G.4",
+        "resource-type-subtype": "Dataset",
+        "data-center-id": "bl.soton",
+        "member-id": "bl",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-09-04T10:23:35.000Z",
+        "checked": null,
+        "updated": "2019-09-04T10:23:35.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTI1OC9TT1RPTi9EMDk4MjwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+T3dlbiwgUmFjaGVsPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5SYWNoZWw8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+T3dlbjwvZmFtaWx5TmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCIgc2NoZW1lVVJJPSJodHRwczovL29yY2lkLm9yZyI+aHR0cHM6Ly9vcmNpZC5vcmcvMDAwMC0wMDAxLTY0NDEtMjIxMzwvbmFtZUlkZW50aWZpZXI+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlIHhtbDpsYW5nPSJlbi11cyI+QXBwZW5kaWNlcyBmb3IgSW52ZXN0aWdhdGluZyBDZWxsdWxhciBPcmlnaW5zIHRvIElkZW50aWZ5IFBlcHRpZGUgVmFjY2luZSBUYXJnZXRzIGluIHR3byBJbmRlcGVuZGVudCBUcmFuc21pc3NpYmxlIFR1bW91cnMgQ2lyY3VsYXRpbmcgaW4gdGhlIFRhc21hbmlhbiBEZXZpbCAoU2FyY29waGlsdXMgaGFycmlzaWkpPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlVuaXZlcnNpdHkgb2YgU291dGhhbXB0b248L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiPkRhdGFzZXQ8L3Jlc291cmNlVHlwZT4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdCB4bWw6bGFuZz0iZW4tdXMiPk1IQywgVGFzbWFuaWFuIGRldmlsLCBUcmFuc21pc3NpYmxlIGNhbmNlciwgVmFjY2luZTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJDb2xsZWN0ZWQiPjIwMTUtMTAvMjAxOS0wMzwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTk8L2RhdGU+CiAgPC9kYXRlcz4KICA8dmVyc2lvbi8+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiB4bWw6bGFuZz0iZW4tdXMiIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlRoaXMgZGF0YXNldCBzdXBwb3J0cyB0aGUgUGhEIFRoZXNlIHRpdGxlZCAiSW52ZXN0aWdhdGluZyBDZWxsdWxhciBPcmlnaW5zIHRvIElkZW50aWZ5IFBlcHRpZGUgVmFjY2luZSBUYXJnZXRzIGluIHR3byBJbmRlcGVuZGVudCBUcmFuc21pc3NpYmxlIFR1bW91cnMgQ2lyY3VsYXRpbmcgaW4gdGhlIFRhc21hbmlhbiBEZXZpbCIgYnkgUmFjaGVsIE93ZW4uIEl0IGNvbnRhaW5zIHRoZSBmb2xsb3dpbmcgQXBwZW5kaWNlczpBcHBlbmRpeCBDLjEgLSBSYXcgbWFzcyBzcGVjdHJvbWV0cnkgZGF0YSBmb3IgdHJpcGxpY2F0ZSBub24tcXVhbnRpZmllZCB3aG9sZSBjZWxsIHByb3Rlb21lcyBmb3IgREZUMl9SViwgREZUMV80OTA2ICgrSUZOzrMpIGFuZCBmaWJyb2JsYXN0IChTYWxlbSkgY2VsbCBsaW5lcy5BcHBlbmRpeCBDLjIgLSBSYXcgbWFzcyBzcGVjdHJvbWV0cnkgZGF0YSBmb3IgbGFiZWwtZnJlZSBxdWFudGlmaWNhdGlvbiBvZiBwcm90ZWlucyBpZGVudGlmaWVkIGluIHRoZSB3aG9sZSBjZWxsIHByb3Rlb21lcyBvZiBERlQyX1JWLCBERlQxXzQ5MDYgYW5kIGZpYnJvYmxhc3QgKFNhbGVtKSBjZWxsIGxpbmVzLkFwcGVuZGl4IEMuMyAtIEZ1bGwgcmVzdWx0cyBmb3IgZnVuY3Rpb25hbCBhbmFseXNpcyBvZiB0aGUgZnVsbCwgcXVhbnRpZmllZCBwcm90ZW9tZXMgb2YgZWFjaCBjZWxsIGxpbmUgYWdhaW5zdCB0aGUgR2VuZSBPbnRvbG9neTogQmlvbG9naWNhbCBwcm9jZXNzLCBHZW5lIE9udG9sb2d5OiBDZWxsdWxhciBjb21wYXJ0bWVudCwgUmVhY3RvbWUgYW5kIEh1bWFuIFByb3RlaW4gQXRsYXMgZGF0YWJhc2VzLkFwcGVuZGl4IEMuNCAtIENyb3NzIGNlbGwgbGluZSBjb21wYXJpc29ucyBvZiB0aGUgZnVuY3Rpb25hbCBhbmFseXNpcyBwcmVzZW50ZWQgaW4gQXBwZW5kaXggQy4zLkFwcGVuZGl4IEMuNSAtIEZ1bGwgcmVzdWx0cyBmb3IgZnVuY3Rpb25hbCBhbmFseXNpcyBvZiBwcm90ZWlucyB1bmlxdWUgdG8gYW5kIHF1YW50aWZpZWQgaW4gYSBzaW5nbGUgY2VsbCBsaW5lIGFnYWluc3QgdGhlIEdlbmUgT250b2xvZ3k6IEJpb2xvZ2ljYWwgcHJvY2VzcywgR2VuZSBPbnRvbG9neTogQ2VsbHVsYXIgY29tcGFydG1lbnQsIFJlYWN0b21lIGFuZCBIdW1hbiBQcm90ZWluIEF0bGFzIGRhdGFiYXNlcy5BcHBlbmRpeCBDLjYgLSBDcm9zcyBjZWxsIGxpbmUgY29tcGFyaXNvbnMgb2YgdGhlIGZ1bmN0aW9uYWwgYW5hbHlzaXMgcHJlc2VudGVkIGluIEFwcGVuZGl4IEMuNS5BcHBlbmRpeCBDLjcgLSBGdW5jdGlvbmFsIGFuYWx5c2lzIG9mIHR1bW91ciBzcGVjaWZpYyBhbmQgdWJpcXVpdG91cyBwcm90ZWlucyBhZ2FpbnN0IHRoZSBHZW5lIE9udG9sb2d5OiBCaW9sb2dpY2FsIHByb2Nlc3MsIEdlbmUgT250b2xvZ3k6IENlbGx1bGFyIGNvbXBhcnRtZW50LCBSZWFjdG9tZSBhbmQgSHVtYW4gUHJvdGVpbiBBdGxhcyBkYXRhYmFzZXMuQXBwZW5kaXggRy4zIC0gUmF3IG1hc3Mgc3BlY3Ryb21ldHJ5IGRhdGEgYW5kIHNlcXVlbmNlZCBwZXB0aWRlIGluZm9ybWF0aW9uIGZvbGxvd2luZyBpbW11bm9hZmZpbml0eSBwdXJpZmljYXRpb24gb2YgdGhlIE1IQyBjbGFzcyBJIGNvbXBsZXguQXBwZW5kaXggRy40IC0gUmF3IG1hc3Mgc3BlY3Ryb21ldHJ5IGRhdGEgYW5kIHNlcXVlbmNlZCBwZXB0aWRlIGluZm9ybWF0aW9uIGZvbGxvd2luZyBpbW11bm9hZmZpbml0eSBwdXJpZmljYXRpb24gb2YgdGhlIE1IQyBjbGFzcyBJIGNvbXBsZXggcGVyZm9ybWVkIGJ5IEFubmFsaXNhIEdhc3RhbGRlbGxvIGV0IGFsLiAoaW4gcHJlcGFyYXRpb24pLlJPd2VuX1JFQURNRS5kb2N4IC0gRnVsbCBkZXNjcmlwdGlvbnMgb2YgdGhlIGRhdGEgY29udGFpbmVkIGluIEFwcGVuZGljZXMgQy4xLUMuNyBhbmQgRy4zLUcuNDwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+Cg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "bl.soton",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "bl",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

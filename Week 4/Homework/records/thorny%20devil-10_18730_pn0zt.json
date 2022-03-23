@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.18730/pn0zt",
+    "type": "works",
+    "attributes": {
+        "doi": "10.18730/pn0zt",
+        "identifier": "https://doi.org/10.18730/pn0zt",
+        "url": "https://ssl.fao.org/glis/doi/10.18730/PN0ZT",
+        "author": [
+            {
+                "literal": "GLIS Of The ITPGRFA"
+            }
+        ],
+        "title": "Phaseolus vulgaris L. G9168",
+        "container-title": "Centro Internacional de Agricultura Tropical",
+        "description": "Plant Genetic Resource.<br>Taxonomy: Phaseolus vulgaris L.<br>Common name(s): beans<br>Other names: Devil Fin Precoce<br>Conserved by: Centro Internacional de Agricultura Tropical (CIAT), Colombia<br>Local sample unique identifier: G9168<br>Method of creation: Acquisition<br>Date: 1977-02-01<br>Biological status: Traditional cultivar/landrace<br>MLS status: Included<br>Historical: No",
+        "resource-type-subtype": "PGRFA Material",
+        "data-center-id": "fao.itpgrfa",
+        "member-id": "fao",
+        "resource-type-id": "physicalobject",
+        "version": null,
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-10-24T12:35:34.000Z",
+        "checked": null,
+        "updated": "2019-09-11T03:31:07.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjIvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4xODczMC9QTjBaVDwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkdMSVMgb2YgdGhlIElUUEdSRkE8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5QaGFzZW9sdXMgdnVsZ2FyaXMgTC4gRzkxNjg8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+Q2VudHJvIEludGVybmFjaW9uYWwgZGUgQWdyaWN1bHR1cmEgVHJvcGljYWw8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTg8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5QbGFudCBHZW5ldGljIFJlc291cmNlIGZvciBGb29kIGFuZCBBZ3JpY3VsdHVyZTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxjb250cmlidXRvcnM+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJPdGhlciI+CiAgICAgIDxjb250cmlidXRvck5hbWU+Q2VudHJvIEludGVybmFjaW9uYWwgZGUgQWdyaWN1bHR1cmEgVHJvcGljYWw8L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgPC9jb250cmlidXRvcnM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkFjY2VwdGVkIj4xOTc3LTAyLTAxPC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlBoeXNpY2FsT2JqZWN0Ij5QR1JGQSBNYXRlcmlhbDwvcmVzb3VyY2VUeXBlPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycy8+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IlVSTCIgcmVsYXRlZE1ldGFkYXRhU2NoZW1lPSJHTElTIERlc2NyaXB0b3JzIiByZWxhdGlvblR5cGU9Ikhhc01ldGFkYXRhIiBzY2hlbWVUeXBlPSJYTUwiIHNjaGVtZVVSST0iaHR0cDovL3d3dy5mYW8ub3JnL3BsYW50LXRyZWF0eS9hcmVhcy1vZi13b3JrL2dsb2JhbC1pbmZvcm1hdGlvbi1zeXN0ZW0vZGVzY3JpcHRvcnMiPmh0dHBzOi8vc3NsLmZhby5vcmcvZ2xpc2FwaS92MS9wZ3JmYXM/ZG9pPTEwLjE4NzMwL1BOMFpUPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IlVSTCIgcmVsYXRlZE1ldGFkYXRhU2NoZW1lPSJEYXJ3aW4gQ29yZSBBcmNoaXZlIiByZWxhdGlvblR5cGU9Ikhhc01ldGFkYXRhIiBzY2hlbWVUeXBlPSJEd0MtQSIgc2NoZW1lVVJJPSJodHRwOi8vcnMudGR3Zy5vcmcvZHdjL3Rlcm1zL2d1aWRlcy90ZXh0L2luZGV4Lmh0bSI+aHR0cHM6Ly9zc2wuZmFvLm9yZy9nbGlzYXBpL3YxL3BncmZhcz9fZm9ybWF0PWR3YyZhbXA7ZG9pPTEwLjE4NzMwL1BOMFpUPC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlBsYW50IEdlbmV0aWMgUmVzb3VyY2UuJmx0O2JyLyZndDtUYXhvbm9teTogUGhhc2VvbHVzIHZ1bGdhcmlzIEwuJmx0O2JyLyZndDtDb21tb24gbmFtZShzKTogYmVhbnMmbHQ7YnIvJmd0O090aGVyIG5hbWVzOiBEZXZpbCBGaW4gUHJlY29jZSZsdDtici8mZ3Q7Q29uc2VydmVkIGJ5OiBDZW50cm8gSW50ZXJuYWNpb25hbCBkZSBBZ3JpY3VsdHVyYSBUcm9waWNhbCAoQ0lBVCksIENvbG9tYmlhJmx0O2JyLyZndDtMb2NhbCBzYW1wbGUgdW5pcXVlIGlkZW50aWZpZXI6IEc5MTY4Jmx0O2JyLyZndDtNZXRob2Qgb2YgY3JlYXRpb246IEFjcXVpc2l0aW9uJmx0O2JyLyZndDtEYXRlOiAxOTc3LTAyLTAxJmx0O2JyLyZndDtCaW9sb2dpY2FsIHN0YXR1czogVHJhZGl0aW9uYWwgY3VsdGl2YXIvbGFuZHJhY2UmbHQ7YnIvJmd0O01MUyBzdGF0dXM6IEluY2x1ZGVkJmx0O2JyLyZndDtIaXN0b3JpY2FsOiBObzwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPGdlb0xvY2F0aW9ucy8+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "fao.itpgrfa",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "fao",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "physical-object",
+                "type": "resource-types"
+            }
+        }
+    }
+}

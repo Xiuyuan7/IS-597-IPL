@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.3203/IWF/E-2503</identifier>
+  <creators>
+    <creator>
+      <creatorName>Malkin, Borys</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Eastern Europe, Poland - Carving a Toy Devil</title>
+  </titles>
+  <publisher>IWF (Göttingen)</publisher>
+  <publicationYear>1978</publicationYear>
+  <language>qno</language>
+  <resourceType resourceTypeGeneral="Audiovisual">Documentation/Report</resourceType>
+  <subjects>
+    <subject>Ethnology</subject>
+    <subject>Holzbearbeitung&#13;</subject>
+    <subject>Kunsthandwerk&#13;</subject>
+    <subject>Plastiken&#13;</subject>
+    <subject>Schnitzen&#13;</subject>
+    <subject>Teufel</subject>
+    <subject>woodworking&#13;</subject>
+    <subject>handicraft&#13;</subject>
+    <subject>sculptures&#13;</subject>
+    <subject>carving&#13;</subject>
+    <subject>devil</subject>
+  </subjects>
+  <descriptions>
+    <description descriptionType="Abstract">An der Werkbank sägt ein Mann einen Kloben Lindenholz zurecht, zeichnet Markierungen darauf und schnitzt daraus eine ca. 25 cm hohe Teufelsfigur, die er anschließend bemalt.</description>
+    <description descriptionType="Abstract">A man is carving a toy devil at his work bench. He uses a prepared block of linden tree on which he roughly marks the outlines of the figure. With a variety of tools he shapes the figure. He finishes the approximately 25 cm high toy devil by painting it in polichrome colours.</description>
+  </descriptions>
+</resource>

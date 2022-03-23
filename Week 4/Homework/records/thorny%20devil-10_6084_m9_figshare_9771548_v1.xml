@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.6084/M9.FIGSHARE.9771548.V1</identifier>
+  <creators>
+    <creator>
+      <creatorName>Don Elsborg</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Alex Viggio</creatorName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org">0000-0002-9983-1327</nameIdentifier>
+    </creator>
+  </creators>
+  <titles>
+    <title>Opportunities for Intra-institutional Linked Open Data - Towards a Campus Knowledge Graph</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">While Linked Open Data promised automatic and obvious connections between structured data, interoperability remains a thorny social, not technical, issue. It is essentially an information model that relies on the removal of silos and requires interdepartmental collaboration. An intra-university knowledge graph operationalizes the network of relationships on which innovation is built. We are proposing to develop a Linked Open Data prototype that creates and surfaces relationships between the people, publications, and other high level metadata residing within the CU Experts semantic web application with departmental domain specific metadata sites which contain datasets, equipment, or observable phenomena? The problem space is very large and domains within campus currently have structured and unstructured metadata. In order to achieve a goal that demonstrates the value of having these cross departmental relationships, this project is scoped to work a specific institute within our University which already has domain specific metadata in space sciences. We want to demonstrate, using metadata, how CU Boulder was involved with sending a spacecraft to every planet in the solar system.</description>
+  </descriptions>
+  <subjects>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">150301 Business Information Management (incl. Records, Knowledge and Information Management, and Intelligence)</subject>
+  </subjects>
+  <publisher>figshare</publisher>
+  <publicationYear>2019</publicationYear>
+  <dates>
+    <date dateType="Created">2019-09-05</date>
+    <date dateType="Updated">2019-09-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Image">Poster</resourceType>
+  <sizes>
+    <size>8426255 Bytes</size>
+  </sizes>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsIdenticalTo">10.6084/m9.figshare.9771548</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</rights>
+  </rightsList>
+</resource>

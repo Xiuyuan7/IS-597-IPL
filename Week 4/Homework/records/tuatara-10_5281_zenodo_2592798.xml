@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/ZENODO.2592798</identifier>
+  <creators>
+    <creator>
+      <creatorName>Melissa Jordan</creatorName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-6267-3644</nameIdentifier>
+      <affiliation>New Zealand Institute for Plant and Food Research</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Richard Newcomb</creatorName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-7307-9755</nameIdentifier>
+      <affiliation>New Zealand Institute for Plant and Food Research</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>Olfactory receptors from tuatara - supplementary data from the genome project</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>Olfactory receptor</subject>
+    <subject>tuatara</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2019-03-14</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/2592799</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.5281/zenodo.2583274</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.5281/zenodo.2585367</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.5281/zenodo.2542571</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.5281/zenodo.1489354</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasVersion">10.5281/zenodo.2592799</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International</rights>
+    <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">&lt;p&gt;Olfactory receptor genes identified from the genome assembly of tuatara (&lt;em&gt;Sphenodon punctatus&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;File 1: List of intact OR genes&lt;/p&gt;
+
+&lt;p&gt;File 2: alignment file used to infer phylogenetic relationship&amp;nbsp;between intact tuatara ORs and other species of terrestrial squamates and two species of bird.&lt;/p&gt;
+
+&lt;p&gt;File 3: Excel spreadsheet listing OR identification from scaffolds (includes data on pseudogenes and partials)&lt;/p&gt;</description>
+    <description descriptionType="Other">These data are part of the tuatara genome project, which is supported by Ngatiwai iwi, Allan Wilson Centre, University of Otago, New Zealand Genomics Limited, Illumina, National eScience Infrastructure (NeSI NZ).</description>
+  </descriptions>
+</resource>

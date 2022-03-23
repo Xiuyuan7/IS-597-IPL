@@ -1,0 +1,77 @@
+{
+    "id": "https://doi.org/10.26028/cybium/2017-414-005",
+    "type": "works",
+    "attributes": {
+        "doi": "10.26028/cybium/2017-414-005",
+        "identifier": "https://doi.org/10.26028/cybium/2017-414-005",
+        "url": "http://sfi-cybium.fr/fr/does-depth-become-permissive-factor-reproductive-habitat-selection-reef-associate-damselfish",
+        "author": [
+            {
+                "given": "Tatsuki",
+                "family": "Fukuoka"
+            },
+            {
+                "given": "Satoshi",
+                "family": "Imamura"
+            },
+            {
+                "given": "Yuki",
+                "family": "Takeuchi"
+            },
+            {
+                "given": "Muhammad",
+                "family": "Badruzzaman"
+            },
+            {
+                "given": "Sung\u2011Pyo",
+                "family": "Hur"
+            },
+            {
+                "given": "Selma",
+                "family": "Bouchekioua"
+            },
+            {
+                "given": "Akihiro",
+                "family": "Takemura"
+            }
+        ],
+        "title": "Does depth become a permissive factor for reproductive habitat selection in the reef-associate damselfish Chrysiptera cyanea?",
+        "container-title": "Soci\u00e9t\u00e9 Fran\u00e7aise d\u2019Ichtyologie",
+        "description": "The sapphire devil Chrysiptera cyanea (Quoy & Gaimard, 1825) is a reef-associated damselfish. Because this species exhibits repeated active reproduction in shallow seas during the spawning season, it is hypothesized that there is a preferred depth for successful reproduction. The aim of this study was to clarify whether the reproductive activity of the sapphire devil is influenced by habitat depth. In a field survey, many individuals could be seen in shallow areas (0-1.5 m), but few in deeper areas (> 3.1 m). Based on this observation, mesh cages containing one male and eight females were set at the surface (0 m; surface group) and the bottom (3 m; bottom group) of coral reefs during the spawning season and ovarian development in the two groups was compared. At the start of this experiment, all fish had a high gonadosomatic index (GSI) (6.33 \u00b1 0.55) and ovaries with many vitellogenic oocytes at the tertiary yolk stage. Fish in the surface group maintained a high GSI (4.46 \u00b1 0.83; 6.13 \u00b1 0.91) and well-developed oocytes laden with yolk during the experimental period. Conversely, the GSI of the bottom group statistically decreased (1.73 \u00b1 0.67; p = 0.0018) beginning three weeks after initiation of the experiment. In the bottom group, the number of vitellogenic oocytes in ovaries decreased gradually and, consequently, ovaries were occupied by immature oocytes at the perinucleolus stage. These results suggest that depth has an impact on ovarian development in the sapphire devil. Measurement of levels of dopamine (DA), its metabolite 3,4-dihydroxyphenylacetic acid (DOPAC), and DA metabolic rate (DOPAC/DA) in the brain using high-performance liquid chromatography (HPLC) together with an electrochemical detection system indicated that DA levels increased (p = 0.046) and the metabolic rate of DA (DOPAC/DA) decreased (p = 0.0036) in the bottom group. These findings suggest that the combination of light wavelength and hydrostatic pressure impacts the regulation of reproduction in fish inhabiting shallow waters.",
+        "resource-type-subtype": null,
+        "data-center-id": "inist.sfi",
+        "member-id": "inist",
+        "resource-type-id": "datapaper",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2019-03-21T14:21:51.000Z",
+        "checked": null,
+        "updated": "2019-09-19T13:03:22.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjYwMjgvQ1lCSVVNLzIwMTctNDE0LTAwNTwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+RnVrdW9rYSwgVGF0c3VraTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+VGF0c3VraTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5GdWt1b2thPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkltYW11cmEsIFNhdG9zaGk8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPlNhdG9zaGk8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+SW1hbXVyYTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5UYWtldWNoaSwgWXVraTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+WXVraTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5UYWtldWNoaTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5CYWRydXp6YW1hbiwgTXVoYW1tYWQ8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPk11aGFtbWFkPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkJhZHJ1enphbWFuPC9mYW1pbHlOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkh1ciwgU3VuZ+KAkVB5bzwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+U3VuZ+KAkVB5bzwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5IdXI8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+Qm91Y2hla2lvdWEsIFNlbG1hPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5TZWxtYTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5Cb3VjaGVraW91YTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5UYWtlbXVyYSwgQWtpaGlybzwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+QWtpaGlybzwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5UYWtlbXVyYTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+RG9lcyBkZXB0aCBiZWNvbWUgYSBwZXJtaXNzaXZlIGZhY3RvciBmb3IgcmVwcm9kdWN0aXZlIGhhYml0YXQgc2VsZWN0aW9uIGluIHRoZSByZWVmLWFzc29jaWF0ZSBkYW1zZWxmaXNoIENocnlzaXB0ZXJhIGN5YW5lYT88L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+U29jacOpdMOpIEZyYW7Dp2Fpc2UgZOKAmUljaHR5b2xvZ2llPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE3PC9wdWJsaWNhdGlvblllYXI+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJEYXRhUGFwZXIiLz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE3PC9kYXRlPgogIDwvZGF0ZXM+CiAgPHZlcnNpb24vPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+VGhlIHNhcHBoaXJlIGRldmlsIENocnlzaXB0ZXJhIGN5YW5lYSAoUXVveSAmYW1wOyBHYWltYXJkLCAxODI1KSBpcyBhIHJlZWYtYXNzb2NpYXRlZCBkYW1zZWxmaXNoLiBCZWNhdXNlIHRoaXMgc3BlY2llcyBleGhpYml0cyByZXBlYXRlZCBhY3RpdmUgcmVwcm9kdWN0aW9uIGluIHNoYWxsb3cgc2VhcyBkdXJpbmcgdGhlIHNwYXduaW5nIHNlYXNvbiwgaXQgaXMgaHlwb3RoZXNpemVkIHRoYXQgdGhlcmUgaXMgYSBwcmVmZXJyZWQgZGVwdGggZm9yIHN1Y2Nlc3NmdWwgcmVwcm9kdWN0aW9uLiBUaGUgYWltIG9mIHRoaXMgc3R1ZHkgd2FzIHRvIGNsYXJpZnkgd2hldGhlciB0aGUgcmVwcm9kdWN0aXZlIGFjdGl2aXR5IG9mIHRoZSBzYXBwaGlyZSBkZXZpbCBpcyBpbmZsdWVuY2VkIGJ5IGhhYml0YXQgZGVwdGguIEluIGEgZmllbGQgc3VydmV5LCBtYW55IGluZGl2aWR1YWxzIGNvdWxkIGJlIHNlZW4gaW4gc2hhbGxvdyBhcmVhcyAoMC0xLjUgbSksIGJ1dCBmZXcgaW4gZGVlcGVyIGFyZWFzICgmZ3Q7IDMuMSBtKS4gQmFzZWQgb24gdGhpcyBvYnNlcnZhdGlvbiwgbWVzaCBjYWdlcyBjb250YWluaW5nIG9uZSBtYWxlIGFuZCBlaWdodCBmZW1hbGVzIHdlcmUgc2V0IGF0IHRoZSBzdXJmYWNlICgwIG07IHN1cmZhY2UgZ3JvdXApIGFuZCB0aGUgYm90dG9tICgzIG07IGJvdHRvbSBncm91cCkgb2YgY29yYWwgcmVlZnMgZHVyaW5nIHRoZSBzcGF3bmluZyBzZWFzb24gYW5kIG92YXJpYW4gZGV2ZWxvcG1lbnQgaW4gdGhlIHR3byBncm91cHMgd2FzIGNvbXBhcmVkLiBBdCB0aGUgc3RhcnQgb2YgdGhpcyBleHBlcmltZW50LCBhbGwgZmlzaCBoYWQgYSBoaWdoIGdvbmFkb3NvbWF0aWMgaW5kZXggKEdTSSkgKDYuMzMgwrEgMC41NSkgYW5kIG92YXJpZXMgd2l0aCBtYW55IHZpdGVsbG9nZW5pYyBvb2N5dGVzIGF0IHRoZSB0ZXJ0aWFyeSB5b2xrIHN0YWdlLiBGaXNoIGluIHRoZSBzdXJmYWNlIGdyb3VwIG1haW50YWluZWQgYSBoaWdoIEdTSSAoNC40NiDCsSAwLjgzOyA2LjEzIMKxIDAuOTEpIGFuZCB3ZWxsLWRldmVsb3BlZCBvb2N5dGVzIGxhZGVuIHdpdGggeW9sayBkdXJpbmcgdGhlIGV4cGVyaW1lbnRhbCBwZXJpb2QuIENvbnZlcnNlbHksIHRoZSBHU0kgb2YgdGhlIGJvdHRvbSBncm91cCBzdGF0aXN0aWNhbGx5IGRlY3JlYXNlZCAoMS43MyDCsSAwLjY3OyBwID0gMC4wMDE4KSBiZWdpbm5pbmcgdGhyZWUgd2Vla3MgYWZ0ZXIgaW5pdGlhdGlvbiBvZiB0aGUgZXhwZXJpbWVudC4gSW4gdGhlIGJvdHRvbSBncm91cCwgdGhlIG51bWJlciBvZiB2aXRlbGxvZ2VuaWMgb29jeXRlcyBpbiBvdmFyaWVzIGRlY3JlYXNlZCBncmFkdWFsbHkgYW5kLCBjb25zZXF1ZW50bHksIG92YXJpZXMgd2VyZSBvY2N1cGllZCBieSBpbW1hdHVyZSBvb2N5dGVzIGF0IHRoZSBwZXJpbnVjbGVvbHVzIHN0YWdlLiBUaGVzZSByZXN1bHRzIHN1Z2dlc3QgdGhhdCBkZXB0aCBoYXMgYW4gaW1wYWN0IG9uIG92YXJpYW4gZGV2ZWxvcG1lbnQgaW4gdGhlIHNhcHBoaXJlIGRldmlsLiBNZWFzdXJlbWVudCBvZiBsZXZlbHMgb2YgZG9wYW1pbmUgKERBKSwgaXRzIG1ldGFib2xpdGUgMyw0LWRpaHlkcm94eXBoZW55bGFjZXRpYyBhY2lkIChET1BBQyksIGFuZCBEQSBtZXRhYm9saWMgcmF0ZSAoRE9QQUMvREEpIGluIHRoZSBicmFpbiB1c2luZyBoaWdoLXBlcmZvcm1hbmNlIGxpcXVpZCBjaHJvbWF0b2dyYXBoeSAoSFBMQykgdG9nZXRoZXIgd2l0aCBhbiBlbGVjdHJvY2hlbWljYWwgZGV0ZWN0aW9uIHN5c3RlbSBpbmRpY2F0ZWQgdGhhdCBEQSBsZXZlbHMgaW5jcmVhc2VkIChwID0gMC4wNDYpIGFuZCB0aGUgbWV0YWJvbGljIHJhdGUgb2YgREEgKERPUEFDL0RBKSBkZWNyZWFzZWQgKHAgPSAwLjAwMzYpIGluIHRoZSBib3R0b20gZ3JvdXAuIFRoZXNlIGZpbmRpbmdzIHN1Z2dlc3QgdGhhdCB0aGUgY29tYmluYXRpb24gb2YgbGlnaHQgd2F2ZWxlbmd0aCBhbmQgaHlkcm9zdGF0aWMgcHJlc3N1cmUgaW1wYWN0cyB0aGUgcmVndWxhdGlvbiBvZiByZXByb2R1Y3Rpb24gaW4gZmlzaCBpbmhhYml0aW5nIHNoYWxsb3cgd2F0ZXJzLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+Cg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "inist.sfi",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "inist",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "data-paper",
+                "type": "resource-types"
+            }
+        }
+    }
+}

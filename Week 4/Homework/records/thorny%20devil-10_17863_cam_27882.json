@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.17863/cam.27882",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17863/cam.27882",
+        "identifier": "https://doi.org/10.17863/cam.27882",
+        "url": "https://www.repository.cam.ac.uk/handle/1810/280512",
+        "author": [
+            {
+                "given": "Nita",
+                "family": "Forouhi"
+            },
+            {
+                "given": "Ronald M",
+                "family": "Krauss"
+            },
+            {
+                "given": "Gary",
+                "family": "Taubes"
+            },
+            {
+                "given": "Walter",
+                "family": "Willett"
+            }
+        ],
+        "title": "Dietary fat and cardiometabolic health: evidence, controversies, and consensus for guidance.",
+        "container-title": "Apollo - University of Cambridge Repository",
+        "description": "In past decades, dietary guidance has almost universally advocated reducing the intake of total and saturated fat, with the emphasis shifting more recently from total fat to the replacement of saturated fat with polyunsaturated fats and the elimination of trans fat. These recommendations and the link between fat consumption and the risk of cardiovascular disease have been among the most vexed issues in public health: are dietary fats \u201cvillains,\u201d are they benign, or are they even \u201cheroes\u201d that could help us consume better overall diets and promote health? And, which dietary fats fit into which category? The medical literature is still full of articles arguing opposing positions. For example, in 2017, after a review of the evidence, the American heart Association Presidential Advisory strongly endorsed that \u201clowering intake of saturated fat and replacing it with unsaturated fats, especially polyunsaturated fats, will lower the incidence of CVD\u201d. Three months later, the 18-country observational Prospective Rural Urban Epidemiology (PURE) Study concluded much the opposite: \u201cTotal fat and types of fat were not associated with cardiovascular disease, myocardial infarction, or cardiovascular disease mortality\u201d. The devil, as always, is in the detail, including the inherent complexity of human diets, methodological considerations, and the role of bias and confounding. This article takes a critical look at the evolution of scientific understanding about dietary fats and health, the difficulties of establishing public health dietary guidelines, and what the current advice should be for dietary fat consumption. Although the focus is on cardiovascular disease, we also consider other outcomes, including weight gain and obesity, type 2 diabetes, and cancer.",
+        "resource-type-subtype": "Article",
+        "data-center-id": "bl.cam",
+        "member-id": "bl",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by-nc/4.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-09-20T12:52:45.000Z",
+        "checked": null,
+        "updated": "2019-08-29T06:47:51.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc4NjMvQ0FNLjI3ODgyPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Rm9yb3VoaSwgTml0YTwvY3JlYXRvck5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmciIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCI+MDAwMC0wMDAyLTUwNDEtMjQ4WDwvbmFtZUlkZW50aWZpZXI+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPktyYXVzcywgUm9uYWxkIE08L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5UYXViZXMsIEdhcnk8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5XaWxsZXR0LCBXYWx0ZXI8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5EaWV0YXJ5IGZhdCBhbmQgY2FyZGlvbWV0YWJvbGljIGhlYWx0aDogZXZpZGVuY2UsIGNvbnRyb3ZlcnNpZXMsIGFuZCBjb25zZW5zdXMgZm9yIGd1aWRhbmNlLjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5BcG9sbG8gLSBVbml2ZXJzaXR5IG9mIENhbWJyaWRnZSBSZXBvc2l0b3J5PC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE4PC9wdWJsaWNhdGlvblllYXI+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+SHVtYW5zPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+Q2FyZGlvdmFzY3VsYXIgRGlzZWFzZXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5NZXRhYm9saWMgRGlzZWFzZXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5EaWV0YXJ5IEZhdHM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5EaWV0YXJ5IEZhdHMsIFVuc2F0dXJhdGVkPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+TnV0cml0aW9uIFN1cnZleXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5SaXNrIEZhY3RvcnM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5Db25zZW5zdXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5QcmltYXJ5IFByZXZlbnRpb248L3N1YmplY3Q+CiAgICA8c3ViamVjdD5OdXRyaXRpb24gUG9saWN5PC9zdWJqZWN0PgogICAgPHN1YmplY3Q+R3VpZGVsaW5lcyBhcyBUb3BpYzwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkhlYWx0aHkgRGlldDwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxjb250cmlidXRvcnM+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJEYXRhTWFuYWdlciI+CiAgICAgIDxjb250cmlidXRvck5hbWU+QXBvbGxvIC0gVW5pdmVyc2l0eSBvZiBDYW1icmlkZ2UgUmVwb3NpdG9yeTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9Ikhvc3RpbmdJbnN0aXR1dGlvbiI+CiAgICAgIDxjb250cmlidXRvck5hbWU+QXBvbGxvIC0gVW5pdmVyc2l0eSBvZiBDYW1icmlkZ2UgUmVwb3NpdG9yeTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICA8L2NvbnRyaWJ1dG9ycz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE4LTA5LTIwPC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IkF2YWlsYWJsZSI+MjAxOC0wOS0yMDwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTgtMDYtMTM8L2RhdGU+CiAgPC9kYXRlcz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPkFydGljbGU8L3Jlc291cmNlVHlwZT4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iaXNzbiI+MDk1OS04MTQ2PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVyaSI+aHR0cHM6Ly93d3cucmVwb3NpdG9yeS5jYW0uYWMudWsvaGFuZGxlLzE4MTAvMjgwNTEyPC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9ImVpc3NuIj4xNzU2LTE4MzM8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMvNC4wLyI+QXR0cmlidXRpb24tTm9uQ29tbWVyY2lhbCA0LjAgSW50ZXJuYXRpb25hbDwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkluIHBhc3QgZGVjYWRlcywgZGlldGFyeSBndWlkYW5jZSBoYXMgYWxtb3N0IHVuaXZlcnNhbGx5IGFkdm9jYXRlZCByZWR1Y2luZyB0aGUgaW50YWtlIG9mIHRvdGFsIGFuZCBzYXR1cmF0ZWQgZmF0LCB3aXRoIHRoZSBlbXBoYXNpcyBzaGlmdGluZyBtb3JlIHJlY2VudGx5IGZyb20gdG90YWwgZmF0IHRvIHRoZSByZXBsYWNlbWVudCBvZiBzYXR1cmF0ZWQgZmF0IHdpdGggcG9seXVuc2F0dXJhdGVkIGZhdHMgYW5kIHRoZSBlbGltaW5hdGlvbiBvZiB0cmFucyBmYXQuIFRoZXNlIHJlY29tbWVuZGF0aW9ucyBhbmQgdGhlIGxpbmsgYmV0d2VlbiBmYXQgY29uc3VtcHRpb24gYW5kIHRoZSByaXNrIG9mIGNhcmRpb3Zhc2N1bGFyIGRpc2Vhc2UgaGF2ZSBiZWVuIGFtb25nIHRoZSBtb3N0IHZleGVkIGlzc3VlcyBpbiBwdWJsaWMgaGVhbHRoOiBhcmUgZGlldGFyeSBmYXRzIOKAnHZpbGxhaW5zLOKAnSBhcmUgdGhleSBiZW5pZ24sIG9yIGFyZSB0aGV5IGV2ZW4g4oCcaGVyb2Vz4oCdIHRoYXQgY291bGQgaGVscCB1cyBjb25zdW1lIGJldHRlciBvdmVyYWxsIGRpZXRzIGFuZCBwcm9tb3RlIGhlYWx0aD8gQW5kLCB3aGljaCBkaWV0YXJ5IGZhdHMgZml0IGludG8gd2hpY2ggY2F0ZWdvcnk/IFRoZSBtZWRpY2FsIGxpdGVyYXR1cmUgaXMgc3RpbGwgZnVsbCBvZiBhcnRpY2xlcyBhcmd1aW5nIG9wcG9zaW5nIHBvc2l0aW9ucy4gRm9yIGV4YW1wbGUsIGluIDIwMTcsIGFmdGVyIGEgcmV2aWV3IG9mIHRoZSBldmlkZW5jZSwgdGhlIEFtZXJpY2FuIGhlYXJ0IEFzc29jaWF0aW9uIFByZXNpZGVudGlhbCBBZHZpc29yeSBzdHJvbmdseSBlbmRvcnNlZCB0aGF0IOKAnGxvd2VyaW5nIGludGFrZSBvZiBzYXR1cmF0ZWQgZmF0IGFuZCByZXBsYWNpbmcgaXQgd2l0aCB1bnNhdHVyYXRlZCBmYXRzLCBlc3BlY2lhbGx5IHBvbHl1bnNhdHVyYXRlZCBmYXRzLCB3aWxsIGxvd2VyIHRoZSBpbmNpZGVuY2Ugb2YgQ1ZE4oCdLiBUaHJlZSBtb250aHMgbGF0ZXIsIHRoZSAxOC1jb3VudHJ5IG9ic2VydmF0aW9uYWwgUHJvc3BlY3RpdmUgUnVyYWwgVXJiYW4gRXBpZGVtaW9sb2d5IChQVVJFKSBTdHVkeSBjb25jbHVkZWQgbXVjaCB0aGUgb3Bwb3NpdGU6IOKAnFRvdGFsIGZhdCBhbmQgdHlwZXMgb2YgZmF0IHdlcmUgbm90IGFzc29jaWF0ZWQgd2l0aCBjYXJkaW92YXNjdWxhciBkaXNlYXNlLCBteW9jYXJkaWFsIGluZmFyY3Rpb24sIG9yIGNhcmRpb3Zhc2N1bGFyIGRpc2Vhc2UgbW9ydGFsaXR54oCdLiBUaGUgZGV2aWwsIGFzIGFsd2F5cywgaXMgaW4gdGhlIGRldGFpbCwgaW5jbHVkaW5nIHRoZSBpbmhlcmVudCBjb21wbGV4aXR5IG9mIGh1bWFuIGRpZXRzLCBtZXRob2RvbG9naWNhbCBjb25zaWRlcmF0aW9ucywgYW5kIHRoZSByb2xlIG9mIGJpYXMgYW5kIGNvbmZvdW5kaW5nLiBUaGlzIGFydGljbGUgdGFrZXMgYSBjcml0aWNhbCBsb29rIGF0IHRoZSBldm9sdXRpb24gb2Ygc2NpZW50aWZpYyB1bmRlcnN0YW5kaW5nIGFib3V0IGRpZXRhcnkgZmF0cyBhbmQgaGVhbHRoLCB0aGUgZGlmZmljdWx0aWVzIG9mIGVzdGFibGlzaGluZyBwdWJsaWMgaGVhbHRoIGRpZXRhcnkgZ3VpZGVsaW5lcywgYW5kIHdoYXQgdGhlIGN1cnJlbnQgYWR2aWNlIHNob3VsZCBiZSBmb3IgZGlldGFyeSBmYXQgY29uc3VtcHRpb24uIEFsdGhvdWdoIHRoZSBmb2N1cyBpcyBvbiBjYXJkaW92YXNjdWxhciBkaXNlYXNlLCB3ZSBhbHNvIGNvbnNpZGVyIG90aGVyIG91dGNvbWVzLCBpbmNsdWRpbmcgd2VpZ2h0IGdhaW4gYW5kIG9iZXNpdHksIHR5cGUgMiBkaWFiZXRlcywgYW5kIGNhbmNlci48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgogIDxmdW5kaW5nUmVmZXJlbmNlcz4KICAgIDxmdW5kaW5nUmVmZXJlbmNlPgogICAgICA8ZnVuZGVyTmFtZT5NUkM8L2Z1bmRlck5hbWU+CiAgICAgIDxhd2FyZE51bWJlcj5NQ19VVV8xMjAxNS81PC9hd2FyZE51bWJlcj4KICAgIDwvZnVuZGluZ1JlZmVyZW5jZT4KICA8L2Z1bmRpbmdSZWZlcmVuY2VzPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "bl.cam",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "bl",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

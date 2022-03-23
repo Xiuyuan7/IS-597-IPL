@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.17615/3w3k-pz20",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17615/3w3k-pz20",
+        "identifier": "https://doi.org/10.17615/3w3k-pz20",
+        "url": "https://cdr.lib.unc.edu/concern/masters_papers/v979v660f",
+        "author": [
+            {
+                "literal": "Downey, Moira"
+            }
+        ],
+        "title": "A New Who's Who: Using URIs in a Linked Data Approach to Name Authority Control.",
+        "container-title": "The University of North Carolina at Chapel Hill University Libraries",
+        "description": "The names of persons, families, and corporate bodies pose a particularly thorny problem for catalogers and other metadata specialists because they are simultaneously one of the most salient and most mutable pieces of metadata identifying a digital object. Despite continuing advances in distributed, web-based name authority control, this important work remains largely neglected by institutional repositories (IRs) in their efforts to archive the research outputs of their institution. This study aims to explore the possibilities surrounding name authority control in an IR context. Particularly, the study seeks to determine whether a linked data (or linked data-like) approach\u2014in which Uniform Resource Identifiers (URIs) rather than name strings are stored for the authors of repository objects\u2014is a feasible one for the Duke Digital Repository, and if specific steps can be outlined to provide a recommendation for implementing any such approach.",
+        "resource-type-subtype": "Masters Paper",
+        "data-center-id": "gdcc.odum-library",
+        "member-id": "gdcc",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://rightsstatements.org/vocab/InC/1.0/",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2019-08-20T05:16:40.000Z",
+        "checked": null,
+        "updated": "2019-10-02T19:41:39.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc2MTUvM1czSy1QWjIwPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5Eb3duZXksIE1vaXJhPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+QSBOZXcgV2hvJ3MgV2hvOiBVc2luZyBVUklzIGluIGEgTGlua2VkIERhdGEgQXBwcm9hY2ggdG8gTmFtZSBBdXRob3JpdHkgQ29udHJvbC48L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+VGhlIFVuaXZlcnNpdHkgb2YgTm9ydGggQ2Fyb2xpbmEgYXQgQ2hhcGVsIEhpbGwgVW5pdmVyc2l0eSBMaWJyYXJpZXM8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTg8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPk1hc3RlcnMgUGFwZXI8L3Jlc291cmNlVHlwZT4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5JbnN0aXR1dGlvbmFsIHJlcG9zaXRvcmllczwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlNlbWFudGljIFdlYjwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pk5hbWUgYXV0aG9yaXR5IHJlY29yZHMgKEluZm9ybWF0aW9uIHJldHJpZXZhbCk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5MaW5rZWQgZGF0YTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkF1dGhvcml0eSBmaWxlcyAoSW5mb3JtYXRpb24gcmV0cmlldmFsKTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDx2ZXJzaW9uLz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwOi8vcmlnaHRzc3RhdGVtZW50cy5vcmcvdm9jYWIvSW5DLzEuMC8iPkluIENvcHlyaWdodDwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlRoZSBuYW1lcyBvZiBwZXJzb25zLCBmYW1pbGllcywgYW5kIGNvcnBvcmF0ZSBib2RpZXMgcG9zZSBhIHBhcnRpY3VsYXJseSB0aG9ybnkgcHJvYmxlbSBmb3IgY2F0YWxvZ2VycyBhbmQgb3RoZXIgbWV0YWRhdGEgc3BlY2lhbGlzdHMgYmVjYXVzZSB0aGV5IGFyZSBzaW11bHRhbmVvdXNseSBvbmUgb2YgdGhlIG1vc3Qgc2FsaWVudCBhbmQgbW9zdCBtdXRhYmxlIHBpZWNlcyBvZiBtZXRhZGF0YSBpZGVudGlmeWluZyBhIGRpZ2l0YWwgb2JqZWN0LiBEZXNwaXRlIGNvbnRpbnVpbmcgYWR2YW5jZXMgaW4gZGlzdHJpYnV0ZWQsIHdlYi1iYXNlZCBuYW1lIGF1dGhvcml0eSBjb250cm9sLCB0aGlzIGltcG9ydGFudCB3b3JrIHJlbWFpbnMgbGFyZ2VseSBuZWdsZWN0ZWQgYnkgaW5zdGl0dXRpb25hbCByZXBvc2l0b3JpZXMgKElScykgaW4gdGhlaXIgZWZmb3J0cyB0byBhcmNoaXZlIHRoZSByZXNlYXJjaCBvdXRwdXRzIG9mIHRoZWlyIGluc3RpdHV0aW9uLiBUaGlzIHN0dWR5IGFpbXMgdG8gZXhwbG9yZSB0aGUgcG9zc2liaWxpdGllcyBzdXJyb3VuZGluZyBuYW1lIGF1dGhvcml0eSBjb250cm9sIGluIGFuIElSIGNvbnRleHQuIFBhcnRpY3VsYXJseSwgdGhlIHN0dWR5IHNlZWtzIHRvIGRldGVybWluZSB3aGV0aGVyIGEgbGlua2VkIGRhdGEgKG9yIGxpbmtlZCBkYXRhLWxpa2UpIGFwcHJvYWNo4oCUaW4gd2hpY2ggVW5pZm9ybSBSZXNvdXJjZSBJZGVudGlmaWVycyAoVVJJcykgcmF0aGVyIHRoYW4gbmFtZSBzdHJpbmdzIGFyZSBzdG9yZWQgZm9yIHRoZSBhdXRob3JzIG9mIHJlcG9zaXRvcnkgb2JqZWN0c+KAlGlzIGEgZmVhc2libGUgb25lIGZvciB0aGUgRHVrZSBEaWdpdGFsIFJlcG9zaXRvcnksIGFuZCBpZiBzcGVjaWZpYyBzdGVwcyBjYW4gYmUgb3V0bGluZWQgdG8gcHJvdmlkZSBhIHJlY29tbWVuZGF0aW9uIGZvciBpbXBsZW1lbnRpbmcgYW55IHN1Y2ggYXBwcm9hY2guPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4K"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "gdcc.odum-library",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "gdcc",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

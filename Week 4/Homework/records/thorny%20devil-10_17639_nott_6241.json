@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.17639/nott.6241",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17639/nott.6241",
+        "identifier": "https://doi.org/10.17639/nott.6241",
+        "url": "https://rdmc.nottingham.ac.uk/handle/internal/6248",
+        "author": [
+            {
+                "literal": "(:Unkn) Unknown"
+            }
+        ],
+        "title": "SLAVES OF THE DEVIL AND OTHER WITCHES: A HISTORY OF WITCHCRAFT IN EARLY MODERN EUROPE",
+        "container-title": "University of Nottingham",
+        "description": null,
+        "resource-type-subtype": "Other",
+        "data-center-id": "bl.notts",
+        "member-id": "bl",
+        "resource-type-id": "collection",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-05-02T17:01:45.000Z",
+        "checked": null,
+        "updated": "2019-09-28T17:32:13.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6cGF0dGVybj0iY29tLmF0bWlyZS51dGlscy5SZWdleFV0aWwiIHhtbG5zOmRzcGFjZT0iaHR0cDovL3d3dy5kc3BhY2Uub3JnL3htbG5zL2RzcGFjZS9kaW0iIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTQgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtNC9tZXRhZGF0YS54c2QiPgogIDxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjE3NjM5L05PVFQuNjI0MTwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPig6dW5rbikgdW5rbm93bjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPlNMQVZFUyBPRiBUSEUgREVWSUwgQU5EIE9USEVSIFdJVENIRVM6IEEgSElTVE9SWSBPRiBXSVRDSENSQUZUIElOIEVBUkxZIE1PREVSTiBFVVJPUEU8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+VW5pdmVyc2l0eSBvZiBOb3R0aW5naGFtPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPGNvbnRyaWJ1dG9ycz4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IkRhdGFNYW5hZ2VyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5Vbml2ZXJzaXR5IE9mIE5vdHRpbmdoYW08L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJIb3N0aW5nSW5zdGl0dXRpb24iPgogICAgICA8Y29udHJpYnV0b3JOYW1lPlVuaXZlcnNpdHkgT2YgTm90dGluZ2hhbTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICA8L2NvbnRyaWJ1dG9ycz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQXZhaWxhYmxlIj4yMDE5LTA1LTAyPC9kYXRlPgogIDwvZGF0ZXM+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJDb2xsZWN0aW9uIj5PdGhlcjwvcmVzb3VyY2VUeXBlPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJ1cmkiPmh0dHBzOi8vcmRtYy5ub3R0aW5naGFtLmFjLnVrL2hhbmRsZS9pbnRlcm5hbC82MjQ4PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogIDwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "bl.notts",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "bl",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "collection",
+                "type": "resource-types"
+            }
+        }
+    }
+}

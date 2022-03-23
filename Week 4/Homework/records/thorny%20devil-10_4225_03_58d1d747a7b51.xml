@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.4225/03/58D1D747A7B51</identifier>
+  <creators>
+    <creator>
+      <creatorName>Hoare, Karen Jean</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Reciprocal role modelling: A constructivist grounded theory</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">Information use by practice nurses in New Zealand has not been widely described in the literature. Practice nurses in New Zealand, the United Kingdom and Australia are usually employed by general practitioners. Compared with their peers in the United Kingdom, there is little evidence to suggest that New Zealand practice nurses provide the same autonomous nurse-led services. Providing nurse-led services is contingent on knowledge and skills and the ability to source and use contemporary information. In 2008, a New Zealand Ministry of Health programme of supporting new graduate hospital placements through finance and mentorship expanded to include primary health care, and a number of new graduate nurses were placed in general practice.
+This research sought to investigate information use by practice nurses in general practice in New Zealand. Using a constructivist grounded theory design, the author’s own general practice was the site of an initial ethnographic phase. Theoretical sensitivity was heightened by observing, conversing and documenting field notes in this environment. Following the ethnographic period, data were elicited from eleven practice nurses using an unstructured, in-depth interview technique. Of these participants, five were new graduates and six were experienced practice nurses.
+Reciprocal role modelling is the constructed grounded theory of this thesis. Within supportive multi-disciplinary environments, new graduate nurses (all from the Millennial generation) and experienced practice nurses (Generation X or Baby Boomers) become willing to enter into a relationship. Once they feel confident with their mentors, new graduate nurses subsequently deploy their unconscious expertise at sourcing information. Experienced practice nurses are then realising potential in the new graduates, the second category of the theory. Following this realisation, a mutual reciprocal arrangement follows where the new graduate nurse learns clinical and communication skills and knowledge of the community, while the experienced practice nurse discovers Internet sources of best practice information. This information is subsequently embedded into their practice and alternate avenues of continuing professional development to encourage their critical thinking. The final category of becoming better practitioners is the outcome of reciprocal role modelling. This theory has widespread implications for the thorny issue of getting evidence into general practice in New Zealand and elsewhere.</description>
+  </descriptions>
+  <subjects>
+    <subject>Uncategorized</subject>
+  </subjects>
+  <publisher>Monash University</publisher>
+  <publicationYear>2017</publicationYear>
+  <dates>
+    <date dateType="Created">2017-03-22</date>
+    <date dateType="Updated">2019-09-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Thesis</resourceType>
+  <sizes>
+    <size>17061358 Bytes</size>
+  </sizes>
+  <rightsList>
+    <rights rightsURI="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</rights>
+  </rightsList>
+</resource>

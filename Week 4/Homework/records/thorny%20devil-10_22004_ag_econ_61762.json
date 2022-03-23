@@ -1,0 +1,81 @@
+{
+    "id": "https://doi.org/10.22004/ag.econ.61762",
+    "type": "works",
+    "attributes": {
+        "doi": "10.22004/ag.econ.61762",
+        "identifier": "https://doi.org/10.22004/ag.econ.61762",
+        "url": "https://ageconsearch.umn.edu/record/61762",
+        "author": [
+            {
+                "given": "Heather",
+                "family": "Weeks"
+            },
+            {
+                "given": "Jason H.",
+                "family": "Grant"
+            },
+            {
+                "given": "Michael",
+                "family": "McConnell"
+            },
+            {
+                "given": "Karl D.",
+                "family": "Meilke"
+            },
+            {
+                "given": "Heather",
+                "family": "Weeks"
+            },
+            {
+                "given": "Jason H.",
+                "family": "Grant"
+            },
+            {
+                "given": "Michael",
+                "family": "McConnell"
+            },
+            {
+                "given": "Karl D.",
+                "family": "Meilke"
+            }
+        ],
+        "title": "THE SPECIAL SAFEGUARD MECHANISM IN THE DOHA DEVELOPMENT AGENDA: A CASE STUDY OF SOYBEANS",
+        "container-title": "Unknown",
+        "description": "The Special Safeguard Mechanism (SSM) proposed for developing countries has become a thorny issue in the Doha Development Agenda\u2019s (DDA) agricultural negotiations. Proponents of the mechanism argue that it is a necessary compromise to counter sharp price declines or rapid import surges in staple commodity markets of developing nations. Opponents of the SSM, which include many developed exporters, contend that the policy flexibility contained in current SSM proposals would severely limit market access if the mechanism is triggered. The impact of the SSM depends on a number of parameters: the number of times the SSM is triggered, whether the price or volume SSM is triggered, the size of current tariffs, the magnitude with which tariffs are reduced in the DDA, and the number of times a developing country will actually make use of the SSM. This study introduces a static, synthetic, global, partial equilibrium model of the world soybean complex to assess the preliminary aspects of the DDA\u2019s proposed tariff cuts. Future work on this project will extend the model to a stochastic framework from which to simulate the effects of an SSM combined with the DDA tariff cutting formulas for developing nations.",
+        "resource-type-subtype": "Text",
+        "data-center-id": "tind.agecon",
+        "member-id": "tind",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2010",
+        "registered": "2019-08-24T02:37:01.000Z",
+        "checked": null,
+        "updated": "2019-08-25T07:29:10.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjIwMDQvQUcuRUNPTi42MTc2MjwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPldlZWtzLCBIZWF0aGVyPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+R3JhbnQsIEphc29uIEguPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+TWNDb25uZWxsLCBNaWNoYWVsPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+TWVpbGtlLCBLYXJsIEQuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+V2Vla3MsIEhlYXRoZXI8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5HcmFudCwgSmFzb24gSC48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5NY0Nvbm5lbGwsIE1pY2hhZWw8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5NZWlsa2UsIEthcmwgRC48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5USEUgU1BFQ0lBTCBTQUZFR1VBUkQgTUVDSEFOSVNNIElOIFRIRSBET0hBIERFVkVMT1BNRU5UIEFHRU5EQTogQSBDQVNFIFNUVURZIE9GIFNPWUJFQU5TPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlVua25vd248L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTA8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5BZ3JpYnVzaW5lc3M8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOS0wOC0yNVQwMjoyOToxMC4wLTA1OjAwPC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPlRleHQ8L3Jlc291cmNlVHlwZT4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlRoZSBTcGVjaWFsIFNhZmVndWFyZCBNZWNoYW5pc20gKFNTTSkgcHJvcG9zZWQgZm9yIGRldmVsb3BpbmcgY291bnRyaWVzIGhhcyBiZWNvbWUgYQp0aG9ybnkgaXNzdWUgaW4gdGhlIERvaGEgRGV2ZWxvcG1lbnQgQWdlbmRh4oCZcyAoRERBKSBhZ3JpY3VsdHVyYWwgbmVnb3RpYXRpb25zLiBQcm9wb25lbnRzIG9mCnRoZSBtZWNoYW5pc20gYXJndWUgdGhhdCBpdCBpcyBhIG5lY2Vzc2FyeSBjb21wcm9taXNlIHRvIGNvdW50ZXIgc2hhcnAgcHJpY2UgZGVjbGluZXMgb3IgcmFwaWQKaW1wb3J0IHN1cmdlcyBpbiBzdGFwbGUgY29tbW9kaXR5IG1hcmtldHMgb2YgZGV2ZWxvcGluZyBuYXRpb25zLiBPcHBvbmVudHMgb2YgdGhlIFNTTSwKd2hpY2ggaW5jbHVkZSBtYW55IGRldmVsb3BlZCBleHBvcnRlcnMsIGNvbnRlbmQgdGhhdCB0aGUgcG9saWN5IGZsZXhpYmlsaXR5IGNvbnRhaW5lZCBpbgpjdXJyZW50IFNTTSBwcm9wb3NhbHMgd291bGQgc2V2ZXJlbHkgbGltaXQgbWFya2V0IGFjY2VzcyBpZiB0aGUgbWVjaGFuaXNtIGlzIHRyaWdnZXJlZC4gVGhlCmltcGFjdCBvZiB0aGUgU1NNIGRlcGVuZHMgb24gYSBudW1iZXIgb2YgcGFyYW1ldGVyczogdGhlIG51bWJlciBvZiB0aW1lcyB0aGUgU1NNIGlzCnRyaWdnZXJlZCwgd2hldGhlciB0aGUgcHJpY2Ugb3Igdm9sdW1lIFNTTSBpcyB0cmlnZ2VyZWQsIHRoZSBzaXplIG9mIGN1cnJlbnQgdGFyaWZmcywgdGhlCm1hZ25pdHVkZSB3aXRoIHdoaWNoIHRhcmlmZnMgYXJlIHJlZHVjZWQgaW4gdGhlIEREQSwgYW5kIHRoZSBudW1iZXIgb2YgdGltZXMgYSBkZXZlbG9waW5nCmNvdW50cnkgd2lsbCBhY3R1YWxseSBtYWtlIHVzZSBvZiB0aGUgU1NNLiBUaGlzIHN0dWR5IGludHJvZHVjZXMgYSBzdGF0aWMsIHN5bnRoZXRpYywgZ2xvYmFsLApwYXJ0aWFsIGVxdWlsaWJyaXVtIG1vZGVsIG9mIHRoZSB3b3JsZCBzb3liZWFuIGNvbXBsZXggdG8gYXNzZXNzIHRoZSBwcmVsaW1pbmFyeSBhc3BlY3RzIG9mCnRoZSBEREHigJlzIHByb3Bvc2VkIHRhcmlmZiBjdXRzLiBGdXR1cmUgd29yayBvbiB0aGlzIHByb2plY3Qgd2lsbCBleHRlbmQgdGhlIG1vZGVsIHRvIGEKc3RvY2hhc3RpYyBmcmFtZXdvcmsgZnJvbSB3aGljaCB0byBzaW11bGF0ZSB0aGUgZWZmZWN0cyBvZiBhbiBTU00gY29tYmluZWQgd2l0aCB0aGUgRERBCnRhcmlmZiBjdXR0aW5nIGZvcm11bGFzIGZvciBkZXZlbG9waW5nIG5hdGlvbnMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tind.agecon",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tind",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

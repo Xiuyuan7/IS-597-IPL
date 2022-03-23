@@ -1,0 +1,64 @@
+{
+    "id": "https://doi.org/10.6084/m9.figshare.5318950.v1",
+    "type": "works",
+    "attributes": {
+        "doi": "10.6084/m9.figshare.5318950.v1",
+        "identifier": "https://doi.org/10.6084/m9.figshare.5318950.v1",
+        "url": "https://figshare.com/articles/Evolutionary_distinctiveness_and_conservation_priority_of_the_endangered_i_Najas_ancistrocarpa_i_Hydrocharitaceae_/5318950/1",
+        "author": [
+            {
+                "given": "Yu",
+                "family": "Ito"
+            },
+            {
+                "literal": "Chigaya Enju"
+            },
+            {
+                "given": "Jie",
+                "family": "Li"
+            },
+            {
+                "given": "Norio",
+                "family": "Tanaka"
+            }
+        ],
+        "title": "Evolutionary distinctiveness and conservation priority of the endangered <i>Najas ancistrocarpa</i> (Hydrocharitaceae)",
+        "container-title": "Figshare",
+        "description": "Phylogeny is vitally important to evaluate evolutionary distinctiveness and conservation priorities of species. <i>Najas ancistrocarpa</i> is one of the rarest and least known East Asian species of the <i>c</i>. 30\u201340 species of the aquatic plant genus <i>Najas</i> (Hydrocharitaceae). We used a recently discovered collection of this nationally and regionally endangered species in Japan and East Asia to assess whether <i>N</i>. <i>ancistrocarpa</i> is a distinct species or an untypical form of other <i>Najas</i> species and to evaluate its conservation priority in a phylogenetic context. The sample set of our previous study, exploring worldwide phylogeny of the genus was used with <i>N. ancistrocarpa</i> to delimit species boundaries in <i>Najas</i> and obtain conservation priority scores, calculated by multiplying evolutionary distinctiveness and global extinction risks converted from Red List categories. We performed molecular phylogenetic analyses of plastid (ptDNA) and nuclear (ITS) DNA datasets, STACEY species delimitation analysis using the multilocus dataset and a measurement of conservation priority with Tuatara. <i>Najas ancistrocarpa</i> was consistently placed in ptDNA and ITS trees. Species delimitation analysis objectively assessed that <i>N</i>. <i>ancistrocarpa</i> is phylogenetically distinct. Phylogenetic conservation prioritization ranked <i>N</i>. <i>ancistrocarpa</i> the second highest priority species of the genus <i>Najas</i>. Overall, in terms of biodiversity conservation, <i>N</i>. <i>ancistrocarpa</i> represents an important <i>Najas</i> species in Japan and probably the world.",
+        "resource-type-subtype": "Dataset",
+        "data-center-id": "figshare.ars",
+        "member-id": "figshare",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "3",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-08-17T07:02:46.000Z",
+        "checked": null,
+        "updated": "2019-08-02T15:26:33.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxyZXNvdXJjZSB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMy9tZXRhZGF0YS54c2QiPgogIDxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjYwODQvbTkuZmlnc2hhcmUuNTMxODk1MC52MTwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPll1IEl0bzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkNoaWdheWEgRW5qdTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkppZSBMaTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPk5vcmlvIFRhbmFrYTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkV2b2x1dGlvbmFyeSBkaXN0aW5jdGl2ZW5lc3MgYW5kIGNvbnNlcnZhdGlvbiBwcmlvcml0eSBvZiB0aGUgZW5kYW5nZXJlZCAmbHQ7aSZndDtOYWphcyBhbmNpc3Ryb2NhcnBhJmx0Oy9pJmd0OyAoSHlkcm9jaGFyaXRhY2VhZSk8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+Jmx0O3AmZ3Q7UGh5bG9nZW55IGlzIHZpdGFsbHkgaW1wb3J0YW50IHRvIGV2YWx1YXRlIGV2b2x1dGlvbmFyeSBkaXN0aW5jdGl2ZW5lc3MgYW5kIGNvbnNlcnZhdGlvbiBwcmlvcml0aWVzIG9mIHNwZWNpZXMuICZsdDtpJmd0O05hamFzIGFuY2lzdHJvY2FycGEmbHQ7L2kmZ3Q7IGlzIG9uZSBvZiB0aGUgcmFyZXN0IGFuZCBsZWFzdCBrbm93biBFYXN0IEFzaWFuIHNwZWNpZXMgb2YgdGhlICZsdDtpJmd0O2MmbHQ7L2kmZ3Q7LiAzMCYjeDIwMTM7NDAgc3BlY2llcyBvZiB0aGUgYXF1YXRpYyBwbGFudCBnZW51cyAmbHQ7aSZndDtOYWphcyZsdDsvaSZndDsgKEh5ZHJvY2hhcml0YWNlYWUpLiBXZSB1c2VkIGEgcmVjZW50bHkgZGlzY292ZXJlZCBjb2xsZWN0aW9uIG9mIHRoaXMgbmF0aW9uYWxseSBhbmQgcmVnaW9uYWxseSBlbmRhbmdlcmVkIHNwZWNpZXMgaW4gSmFwYW4gYW5kIEVhc3QgQXNpYSB0byBhc3Nlc3Mgd2hldGhlciAmbHQ7aSZndDtOJmx0Oy9pJmd0Oy4gJmx0O2kmZ3Q7YW5jaXN0cm9jYXJwYSZsdDsvaSZndDsgaXMgYSBkaXN0aW5jdCBzcGVjaWVzIG9yIGFuIHVudHlwaWNhbCBmb3JtIG9mIG90aGVyICZsdDtpJmd0O05hamFzJmx0Oy9pJmd0OyBzcGVjaWVzIGFuZCB0byBldmFsdWF0ZSBpdHMgY29uc2VydmF0aW9uIHByaW9yaXR5IGluIGEgcGh5bG9nZW5ldGljIGNvbnRleHQuIFRoZSBzYW1wbGUgc2V0IG9mIG91ciBwcmV2aW91cyBzdHVkeSwgZXhwbG9yaW5nIHdvcmxkd2lkZSBwaHlsb2dlbnkgb2YgdGhlIGdlbnVzIHdhcyB1c2VkIHdpdGggJmx0O2kmZ3Q7Ti4gYW5jaXN0cm9jYXJwYSZsdDsvaSZndDsgdG8gZGVsaW1pdCBzcGVjaWVzIGJvdW5kYXJpZXMgaW4gJmx0O2kmZ3Q7TmFqYXMmbHQ7L2kmZ3Q7IGFuZCBvYnRhaW4gY29uc2VydmF0aW9uIHByaW9yaXR5IHNjb3JlcywgY2FsY3VsYXRlZCBieSBtdWx0aXBseWluZyBldm9sdXRpb25hcnkgZGlzdGluY3RpdmVuZXNzIGFuZCBnbG9iYWwgZXh0aW5jdGlvbiByaXNrcyBjb252ZXJ0ZWQgZnJvbSBSZWQgTGlzdCBjYXRlZ29yaWVzLiBXZSBwZXJmb3JtZWQgbW9sZWN1bGFyIHBoeWxvZ2VuZXRpYyBhbmFseXNlcyBvZiBwbGFzdGlkIChwdEROQSkgYW5kIG51Y2xlYXIgKElUUykgRE5BIGRhdGFzZXRzLCBTVEFDRVkgc3BlY2llcyBkZWxpbWl0YXRpb24gYW5hbHlzaXMgdXNpbmcgdGhlIG11bHRpbG9jdXMgZGF0YXNldCBhbmQgYSBtZWFzdXJlbWVudCBvZiBjb25zZXJ2YXRpb24gcHJpb3JpdHkgd2l0aCBUdWF0YXJhLiAmbHQ7aSZndDtOYWphcyBhbmNpc3Ryb2NhcnBhJmx0Oy9pJmd0OyB3YXMgY29uc2lzdGVudGx5IHBsYWNlZCBpbiBwdEROQSBhbmQgSVRTIHRyZWVzLiBTcGVjaWVzIGRlbGltaXRhdGlvbiBhbmFseXNpcyBvYmplY3RpdmVseSBhc3Nlc3NlZCB0aGF0ICZsdDtpJmd0O04mbHQ7L2kmZ3Q7LiAmbHQ7aSZndDthbmNpc3Ryb2NhcnBhJmx0Oy9pJmd0OyBpcyBwaHlsb2dlbmV0aWNhbGx5IGRpc3RpbmN0LiBQaHlsb2dlbmV0aWMgY29uc2VydmF0aW9uIHByaW9yaXRpemF0aW9uIHJhbmtlZCAmbHQ7aSZndDtOJmx0Oy9pJmd0Oy4gJmx0O2kmZ3Q7YW5jaXN0cm9jYXJwYSZsdDsvaSZndDsgdGhlIHNlY29uZCBoaWdoZXN0IHByaW9yaXR5IHNwZWNpZXMgb2YgdGhlIGdlbnVzICZsdDtpJmd0O05hamFzJmx0Oy9pJmd0Oy4gT3ZlcmFsbCwgaW4gdGVybXMgb2YgYmlvZGl2ZXJzaXR5IGNvbnNlcnZhdGlvbiwgJmx0O2kmZ3Q7TiZsdDsvaSZndDsuICZsdDtpJmd0O2FuY2lzdHJvY2FycGEmbHQ7L2kmZ3Q7IHJlcHJlc2VudHMgYW4gaW1wb3J0YW50ICZsdDtpJmd0O05hamFzJmx0Oy9pJmd0OyBzcGVjaWVzIGluIEphcGFuIGFuZCBwcm9iYWJseSB0aGUgd29ybGQuJmx0Oy9wJmd0OzwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+TWljcm9iaW9sb2d5PC9zdWJqZWN0PgogICAgPHN1YmplY3Q+R2VuZXRpY3M8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5Fdm9sdXRpb25hcnkgQmlvbG9neTwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHNjaGVtZVVSST0iaHR0cDovL3d3dy5hYnMuZ292LmF1L2F1c3N0YXRzL2Fic0AubnNmLzAvNkJCNDI3QUI5Njk2QzIyNUNBMjU3NDE4MDAwNDQ2M0UiIHN1YmplY3RTY2hlbWU9IkZPUiI+NTk5OTkgRW52aXJvbm1lbnRhbCBTY2llbmNlcyBub3QgZWxzZXdoZXJlIGNsYXNzaWZpZWQ8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5FY29sb2d5PC9zdWJqZWN0PgogICAgPHN1YmplY3Q+SW5vcmdhbmljIENoZW1pc3RyeTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlBsYW50IEJpb2xvZ3k8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8cHVibGlzaGVyPkZpZ3NoYXJlPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE3PC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkNyZWF0ZWQiPjIwMTctMDgtMTc8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxNy0xMi0wMTwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCI+RGF0YXNldDwvcmVzb3VyY2VUeXBlPgogIDxzaXplcz4KICAgIDxzaXplPjE4Mjk1IEJ5dGVzPC9zaXplPgogIDwvc2l6ZXM+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1N1cHBsZW1lbnRUbyI+MTAuMTA4MC8xNDc3MjAwMC4yMDE3LjEzNTgyMTk8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzSWRlbnRpY2FsVG8iPjEwLjYwODQvbTkuZmlnc2hhcmUuNTMxODk1MDwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzQuMC8iPkNDIEJZIDQuMDwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.ars",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

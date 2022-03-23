@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.17863/cam.37382",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17863/cam.37382",
+        "identifier": "https://doi.org/10.17863/cam.37382",
+        "url": "https://www.repository.cam.ac.uk/handle/1810/290154",
+        "author": [
+            {
+                "given": "Nita",
+                "family": "Forouhi"
+            },
+            {
+                "given": "Nigel",
+                "family": "Unwin"
+            }
+        ],
+        "title": "Global diet and health: old questions, fresh evidence, and new horizons.",
+        "container-title": "Apollo - University of Cambridge Repository",
+        "description": "Few, if any, would contest that diet and nutrition have a critical and substantial impact on human health. But, the devil is in the details. Common questions include: is there such as thing as an optimal diet? What is suboptimal? Which dietary components matter most? And given the necessity to take action on climate change and planetary health, what should the world eat?1 The Global Burden of Disease (GBD) Study contributes towards answering these questions through estimating the burden of mortality and disability attributable to specific dietary risks, within a comparative risk assessment framework which currently considers 84 behavioural, environmental, occupational and metabolic risks across 195 countries and territories.2 The latest in the series is the current report by the GBD Diet Collaborators,3 using data from GBD20172. Fifteen dietary risks are evaluated for their impacts on mortality and disability from cancers, cardiovascular diseases and diabetes.",
+        "resource-type-subtype": "Article",
+        "data-center-id": "bl.cam",
+        "member-id": "bl",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-03-05T08:16:49.000Z",
+        "checked": null,
+        "updated": "2019-08-28T10:55:31.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc4NjMvQ0FNLjM3MzgyPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Rm9yb3VoaSwgTml0YTwvY3JlYXRvck5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmciIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCI+MDAwMC0wMDAyLTUwNDEtMjQ4WDwvbmFtZUlkZW50aWZpZXI+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlVud2luLCBOaWdlbDwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkdsb2JhbCBkaWV0IGFuZCBoZWFsdGg6IG9sZCBxdWVzdGlvbnMsIGZyZXNoIGV2aWRlbmNlLCBhbmQgbmV3IGhvcml6b25zLjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5BcG9sbG8gLSBVbml2ZXJzaXR5IG9mIENhbWJyaWRnZSBSZXBvc2l0b3J5PC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+SHVtYW5zPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+RGlldDwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pkdsb2JhbCBCdXJkZW4gb2YgRGlzZWFzZTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxjb250cmlidXRvcnM+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJEYXRhTWFuYWdlciI+CiAgICAgIDxjb250cmlidXRvck5hbWU+QXBvbGxvIC0gVW5pdmVyc2l0eSBvZiBDYW1icmlkZ2UgUmVwb3NpdG9yeTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9Ikhvc3RpbmdJbnN0aXR1dGlvbiI+CiAgICAgIDxjb250cmlidXRvck5hbWU+QXBvbGxvIC0gVW5pdmVyc2l0eSBvZiBDYW1icmlkZ2UgUmVwb3NpdG9yeTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICA8L2NvbnRyaWJ1dG9ycz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE5LTAzLTA1PC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IkF2YWlsYWJsZSI+MjAxOS0wMy0wNTwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTktMDU8L2RhdGU+CiAgPC9kYXRlcz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPkFydGljbGU8L3Jlc291cmNlVHlwZT4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iaXNzbiI+MDE0MC02NzM2PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVyaSI+aHR0cHM6Ly93d3cucmVwb3NpdG9yeS5jYW0uYWMudWsvaGFuZGxlLzE4MTAvMjkwMTU0PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9ImVpc3NuIj4xNDc0LTU0N1g8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkZldywgaWYgYW55LCB3b3VsZCBjb250ZXN0IHRoYXQgZGlldCBhbmQgbnV0cml0aW9uIGhhdmUgYSBjcml0aWNhbCBhbmQgc3Vic3RhbnRpYWwgaW1wYWN0IG9uIGh1bWFuIGhlYWx0aC4gQnV0LCB0aGUgZGV2aWwgaXMgaW4gdGhlIGRldGFpbHMuIENvbW1vbiBxdWVzdGlvbnMgaW5jbHVkZTogaXMgdGhlcmUgc3VjaCBhcyB0aGluZyBhcyBhbiBvcHRpbWFsIGRpZXQ/IFdoYXQgaXMgc3Vib3B0aW1hbD8gV2hpY2ggZGlldGFyeSBjb21wb25lbnRzIG1hdHRlciBtb3N0PyBBbmQgZ2l2ZW4gdGhlIG5lY2Vzc2l0eSB0byB0YWtlIGFjdGlvbiBvbiBjbGltYXRlIGNoYW5nZSBhbmQgcGxhbmV0YXJ5IGhlYWx0aCwgd2hhdCBzaG91bGQgdGhlIHdvcmxkIGVhdD8xIFRoZSBHbG9iYWwgQnVyZGVuIG9mIERpc2Vhc2UgKEdCRCkgU3R1ZHkgY29udHJpYnV0ZXMgdG93YXJkcyBhbnN3ZXJpbmcgdGhlc2UgcXVlc3Rpb25zIHRocm91Z2ggZXN0aW1hdGluZyB0aGUgYnVyZGVuIG9mIG1vcnRhbGl0eSBhbmQgZGlzYWJpbGl0eSBhdHRyaWJ1dGFibGUgdG8gc3BlY2lmaWMgZGlldGFyeSByaXNrcywgd2l0aGluIGEgY29tcGFyYXRpdmUgcmlzayBhc3Nlc3NtZW50IGZyYW1ld29yayB3aGljaCBjdXJyZW50bHkgY29uc2lkZXJzIDg0IGJlaGF2aW91cmFsLCBlbnZpcm9ubWVudGFsLCBvY2N1cGF0aW9uYWwgYW5kIG1ldGFib2xpYyByaXNrcyBhY3Jvc3MgMTk1IGNvdW50cmllcyBhbmQgdGVycml0b3JpZXMuMiBUaGUgbGF0ZXN0IGluIHRoZSBzZXJpZXMgaXMgdGhlIGN1cnJlbnQgcmVwb3J0IGJ5IHRoZSBHQkQgRGlldCBDb2xsYWJvcmF0b3JzLDMgdXNpbmcgZGF0YSBmcm9tIEdCRDIwMTcyLiBGaWZ0ZWVuIGRpZXRhcnkgcmlza3MgYXJlIGV2YWx1YXRlZCBmb3IgdGhlaXIgaW1wYWN0cyBvbiBtb3J0YWxpdHkgYW5kIGRpc2FiaWxpdHkgZnJvbSBjYW5jZXJzLCBjYXJkaW92YXNjdWxhciBkaXNlYXNlcyBhbmQgZGlhYmV0ZXMuPC9kZXNjcmlwdGlvbj4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9Ik90aGVyIj5OR0YgYWNrbm93bGVkZ2VzIE1SQyBFcGlkZW1pb2xvZ3kgVW5pdCBzdXBwb3J0IChNQ19VVV8xMjAxNS81KSBhbmQgTklIUiBCaW9tZWRpY2FsIFJlc2VhcmNoIENlbnRyZSBDYW1icmlkZ2U6IE51dHJpdGlvbiwgRGlldCwgYW5kIExpZmVzdHlsZSBSZXNlYXJjaCBUaGVtZSAoSVMtQlJDLTEyMTUtMjAwMTQpPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KICA8ZnVuZGluZ1JlZmVyZW5jZXM+CiAgICA8ZnVuZGluZ1JlZmVyZW5jZT4KICAgICAgPGZ1bmRlck5hbWU+TVJDPC9mdW5kZXJOYW1lPgogICAgICA8YXdhcmROdW1iZXI+TUNfVVVfMTIwMTUvNTwvYXdhcmROdW1iZXI+CiAgICA8L2Z1bmRpbmdSZWZlcmVuY2U+CiAgICA8ZnVuZGluZ1JlZmVyZW5jZT4KICAgICAgPGZ1bmRlck5hbWU+Q2FtYnJpZGdlIFVuaXZlcnNpdHkgSG9zcGl0YWxzIE5IUyBGb3VuZGF0aW9uIFRydXN0PC9mdW5kZXJOYW1lPgogICAgICA8YXdhcmROdW1iZXI+Q1VIKSAoMTQ2MjgxPC9hd2FyZE51bWJlcj4KICAgIDwvZnVuZGluZ1JlZmVyZW5jZT4KICA8L2Z1bmRpbmdSZWZlcmVuY2VzPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "bl.cam",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "bl",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

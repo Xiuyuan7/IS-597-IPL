@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25911/5D4D570C07BB5</identifier>
+  <creators>
+    <creator>
+      <creatorName>Bender, Hannah</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Pathogenesis and molecular biology of a transmissible tumour in the Tasmanian devil</title>
+  </titles>
+  <publisher>The Australian National University</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+    <subject subjectScheme="lcsh">Tasmanian devil</subject>
+    <subject subjectScheme="lcsh">Tasmanian devil genome mapping</subject>
+    <subject subjectScheme="lcsh">Tumors in animals</subject>
+    <subject subjectScheme="lcsh">Metastasis Animal models</subject>
+    <subject subjectScheme="lcsh">Chromosomes Analysis</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>The Australian National University</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>The Australian National University</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2019-02-18</date>
+    <date dateType="Available">2019-02-18</date>
+    <date dateType="Copyrighted">2013</date>
+    <date dateType="Created">2013</date>
+    <date dateType="Issued">2013</date>
+    <date dateType="Updated">2019-01-10</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Other">Thesis (PhD)</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="other">b3557745</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">http://hdl.handle.net/1885/156127</alternateIdentifier>
+  </alternateIdentifiers>
+  <sizes>
+    <size>116 leaves.</size>
+  </sizes>
+  <descriptions>
+    <description descriptionType="Abstract">A recently emerged, transmissible neoplasm threatens the Tasmanian devil (Sarcophilus harrisii) with extinction. Devil facial tumour disease (DFTD) is characterised by the rapid growth of locally destructive, metastatic tumours that are invariably fatal. The infectious agent is the DFTD cancer cell; a clonal lineage that has been propagated through wild devil populations since at least 1996. The devil's conservation crisis has prompted urgent research efforts to understand DFTD pathogenesis. Here, I describe the global cytogenetic changes that characterise the tumour and document the progressive changes present in emerging karyotypic substrains. I used chromosome painting to determine the origin of rearranged marker chromosomes. In doing so I showed that pronounced restructuring is limited to specific regions of the genome, evoking chromothripsis as a mechanism for DFTD carcinogenesis. These results provided a foundation for subsequent gene mapping studies. Limited knowledge of the genes and gene pathways altered in DFTD presented a significant obstacle to elucidating the mechanisms underpinning tumour development, transmission and immune escape. I was closely involved in a collaborative project to assemble the DFTD transcriptome. Enrichment for a number of myelinating genes suggests DFTD originated from a Schwann cell or Schwann cell progenitor. Concurrent DFTD microRNA sequencing results support this finding. This work demonstrates the application of high throughput sequencing technology for classification of poorly differentiated tumours and provides a basis for comparison with well-studied peripheral nerve sheath tumours in humans and model species. In order to examine the system that safeguards chromosomal stability, I characterised telomere length and homeostasis within the Tasmanian devil and DFTD. In doing so I demonstrated that the chromosomes of the Tasmanian devil are characterised by unprecedented telomere length dimorphism between homologous chromosomes. Comparative studies in various marsupial species suggest this phenomenon is common to dasyurids and emerged at least 50 million years ago. The consistent distribution of long telomeres on the Y chromosome of male dasyurids implies parental control of telomere length. We propose a model of germline telomere length modulation with telomere lengthening during spermatogenesis. This is consistent with findings in DFTD cells, which are characterised by uniformly short telomeres. The DFTD clone has not been subject to germline modifications for over 15 years and telomeres are maintained at a uniform length by upregulation of telomerase. The threat DFTD poses to Tasmanian biodiversity and the fundamental questions surrounding the origin of such an unusual pathogen necessitated strong interdisciplinary collaborations between veterinarians, pathologists, immunologists, biologists and epidemiologists. The application of sophisticated genomic technology has propelled the field forward and, within a relatively short period, critical aspects of DFTD pathogenesis have been characterised. Despite the grim outlook, results emerging from urgent research efforts provide some hope that this charismatic species may yet be saved from extinction.</description>
+  </descriptions>
+</resource>

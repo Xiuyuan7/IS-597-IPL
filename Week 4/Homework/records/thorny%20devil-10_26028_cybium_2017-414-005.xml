@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.26028/CYBIUM/2017-414-005</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Fukuoka, Tatsuki</creatorName>
+      <givenName>Tatsuki</givenName>
+      <familyName>Fukuoka</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Imamura, Satoshi</creatorName>
+      <givenName>Satoshi</givenName>
+      <familyName>Imamura</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Takeuchi, Yuki</creatorName>
+      <givenName>Yuki</givenName>
+      <familyName>Takeuchi</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Badruzzaman, Muhammad</creatorName>
+      <givenName>Muhammad</givenName>
+      <familyName>Badruzzaman</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Hur, Sung‑Pyo</creatorName>
+      <givenName>Sung‑Pyo</givenName>
+      <familyName>Hur</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Bouchekioua, Selma</creatorName>
+      <givenName>Selma</givenName>
+      <familyName>Bouchekioua</familyName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Takemura, Akihiro</creatorName>
+      <givenName>Akihiro</givenName>
+      <familyName>Takemura</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Does depth become a permissive factor for reproductive habitat selection in the reef-associate damselfish Chrysiptera cyanea?</title>
+  </titles>
+  <publisher>Société Française d’Ichtyologie</publisher>
+  <publicationYear>2017</publicationYear>
+  <resourceType resourceTypeGeneral="DataPaper"/>
+  <dates>
+    <date dateType="Issued">2017</date>
+  </dates>
+  <version/>
+  <descriptions>
+    <description descriptionType="Abstract">The sapphire devil Chrysiptera cyanea (Quoy &amp; Gaimard, 1825) is a reef-associated damselfish. Because this species exhibits repeated active reproduction in shallow seas during the spawning season, it is hypothesized that there is a preferred depth for successful reproduction. The aim of this study was to clarify whether the reproductive activity of the sapphire devil is influenced by habitat depth. In a field survey, many individuals could be seen in shallow areas (0-1.5 m), but few in deeper areas (&gt; 3.1 m). Based on this observation, mesh cages containing one male and eight females were set at the surface (0 m; surface group) and the bottom (3 m; bottom group) of coral reefs during the spawning season and ovarian development in the two groups was compared. At the start of this experiment, all fish had a high gonadosomatic index (GSI) (6.33 ± 0.55) and ovaries with many vitellogenic oocytes at the tertiary yolk stage. Fish in the surface group maintained a high GSI (4.46 ± 0.83; 6.13 ± 0.91) and well-developed oocytes laden with yolk during the experimental period. Conversely, the GSI of the bottom group statistically decreased (1.73 ± 0.67; p = 0.0018) beginning three weeks after initiation of the experiment. In the bottom group, the number of vitellogenic oocytes in ovaries decreased gradually and, consequently, ovaries were occupied by immature oocytes at the perinucleolus stage. These results suggest that depth has an impact on ovarian development in the sapphire devil. Measurement of levels of dopamine (DA), its metabolite 3,4-dihydroxyphenylacetic acid (DOPAC), and DA metabolic rate (DOPAC/DA) in the brain using high-performance liquid chromatography (HPLC) together with an electrochemical detection system indicated that DA levels increased (p = 0.046) and the metabolic rate of DA (DOPAC/DA) decreased (p = 0.0036) in the bottom group. These findings suggest that the combination of light wavelength and hydrostatic pressure impacts the regulation of reproduction in fish inhabiting shallow waters.</description>
+  </descriptions>
+</resource>

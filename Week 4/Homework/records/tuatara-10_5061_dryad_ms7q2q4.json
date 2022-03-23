@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.5061/dryad.ms7q2q4",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5061/dryad.ms7q2q4",
+        "identifier": "https://doi.org/10.5061/dryad.ms7q2q4",
+        "url": "http://datadryad.org/stash/dataset/doi:10.5061/dryad.ms7q2q4",
+        "author": [
+            {
+                "given": "Felix",
+                "family": "Vaux"
+            },
+            {
+                "given": "Mary",
+                "family": "Morgan-Richards"
+            },
+            {
+                "given": "Elizabeth E.",
+                "family": "Daly"
+            },
+            {
+                "given": "Steven A.",
+                "family": "Trewick"
+            }
+        ],
+        "title": "Data from: Tuatara and a new morphometric dataset for Rhynchocephalia: comments on Herrera\u2010Flores et al",
+        "container-title": "Dryad",
+        "description": "It has recently been suggested that a \u2018living fossil\u2019 can be identified because it is both morphologically conservative and exhibits a significantly slower rate of morphological evolution compared to related lineages (Herrera-Flores et al. 2017). As an exemplar, variation among known rhynchocephalians was investigated, and it was concluded that the New Zealand tuatara Sphenodon punctatus Gray, 1831 is a living fossil species (Herrera-Flores et al. 2017). In addition to the dubious biological meaning and basis of describing a \u2018living fossil\u2019 (Grandcolas et al. 2014; Grandcolas and Trewick 2016), we find major flaws in the methods used to investigate morphological conservatism among rhynchocephalians. To assist future studies of dentary shape variation among rhynchocephalians and morphological conservatism, we provide a geometric morphometric dataset for tuatara.",
+        "resource-type-subtype": "dataset",
+        "data-center-id": "dryad.dryad",
+        "member-id": "dryad",
+        "resource-type-id": "dataset",
+        "version": "2",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2018-10-15T18:23:25.000Z",
+        "checked": null,
+        "updated": "2019-09-21T19:00:56.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTA2MS9EUllBRC5NUzdRMlE0PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VmF1eCwgRmVsaXg8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24+TWFzc2V5IFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Nb3JnYW4tUmljaGFyZHMsIE1hcnk8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24+TWFzc2V5IFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5EYWx5LCBFbGl6YWJldGggRS48L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24+TWFzc2V5IFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5UcmV3aWNrLCBTdGV2ZW4gQS48L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24+TWFzc2V5IFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT4KICAgICAgRGF0YSBmcm9tOiBUdWF0YXJhIGFuZCBhIG5ldyBtb3JwaG9tZXRyaWMgZGF0YXNldCBmb3IgUmh5bmNob2NlcGhhbGlhOgogICAgICBjb21tZW50cyBvbiBIZXJyZXJh4oCQRmxvcmVzIGV0IGFsCiAgICA8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+RHJ5YWQ8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5tb3JwaG9sb2dpY2FsIGNvbnNlcnZhdGlzbTwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pkdlb21ldHJpYyBtb3JwaG9tZXRyaWM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5TcGhlbm9kb24gcHVuY3RhdHVzPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+bGl2aW5nIGZvc3NpbDwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pm1vcnBob2xvZ2ljYWwgc3Rhc2lzPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+SG9sb2NlbmU8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQXZhaWxhYmxlIj4yMDE5LTEwLTE1VDAwOjAwOjAwWjwvZGF0ZT4KICA8L2RhdGVzPgogIDxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJEYXRhc2V0Ij5kYXRhc2V0PC9yZXNvdXJjZVR5cGU+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGlvblR5cGU9IklzU3VwcGxlbWVudFRvIiByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSI+ZG9pOjEwLjExMTEvcGFsYS4xMjQwMjwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHNpemVzPgogICAgPHNpemU+MjEyMjc2MzYgYnl0ZXM8L3NpemU+CiAgPC9zaXplcz4KICA8dmVyc2lvbj4yPC92ZXJzaW9uPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9wdWJsaWNkb21haW4vemVyby8xLjAvIj5DQzAgMS4wIFVuaXZlcnNhbCAoQ0MwIDEuMCkgUHVibGljIERvbWFpbiBEZWRpY2F0aW9uPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0PgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+CiAgICAgIEl0IGhhcyByZWNlbnRseSBiZWVuIHN1Z2dlc3RlZCB0aGF0IGEg4oCYbGl2aW5nIGZvc3NpbOKAmSBjYW4gYmUgaWRlbnRpZmllZAogICAgICBiZWNhdXNlIGl0IGlzIGJvdGggbW9ycGhvbG9naWNhbGx5IGNvbnNlcnZhdGl2ZSBhbmQgZXhoaWJpdHMgYQogICAgICBzaWduaWZpY2FudGx5IHNsb3dlciByYXRlIG9mIG1vcnBob2xvZ2ljYWwgZXZvbHV0aW9uIGNvbXBhcmVkIHRvIHJlbGF0ZWQKICAgICAgbGluZWFnZXMgKEhlcnJlcmEtRmxvcmVzIGV0IGFsLiAyMDE3KS4gQXMgYW4gZXhlbXBsYXIsIHZhcmlhdGlvbiBhbW9uZwogICAgICBrbm93biByaHluY2hvY2VwaGFsaWFucyB3YXMgaW52ZXN0aWdhdGVkLCBhbmQgaXQgd2FzIGNvbmNsdWRlZCB0aGF0IHRoZQogICAgICBOZXcgWmVhbGFuZCB0dWF0YXJhIFNwaGVub2RvbiBwdW5jdGF0dXMgR3JheSwgMTgzMSBpcyBhIGxpdmluZyBmb3NzaWwKICAgICAgc3BlY2llcyAoSGVycmVyYS1GbG9yZXMgZXQgYWwuIDIwMTcpLiBJbiBhZGRpdGlvbiB0byB0aGUgZHViaW91cwogICAgICBiaW9sb2dpY2FsIG1lYW5pbmcgYW5kIGJhc2lzIG9mIGRlc2NyaWJpbmcgYSDigJhsaXZpbmcgZm9zc2ls4oCZIChHcmFuZGNvbGFzCiAgICAgIGV0IGFsLiAyMDE0OyBHcmFuZGNvbGFzIGFuZCBUcmV3aWNrIDIwMTYpLCB3ZSBmaW5kIG1ham9yIGZsYXdzIGluIHRoZQogICAgICBtZXRob2RzIHVzZWQgdG8gaW52ZXN0aWdhdGUgbW9ycGhvbG9naWNhbCBjb25zZXJ2YXRpc20gYW1vbmcKICAgICAgcmh5bmNob2NlcGhhbGlhbnMuIFRvIGFzc2lzdCBmdXR1cmUgc3R1ZGllcyBvZiBkZW50YXJ5IHNoYXBlIHZhcmlhdGlvbgogICAgICBhbW9uZyByaHluY2hvY2VwaGFsaWFucyBhbmQgbW9ycGhvbG9naWNhbCBjb25zZXJ2YXRpc20sIHdlIHByb3ZpZGUgYQogICAgICBnZW9tZXRyaWMgbW9ycGhvbWV0cmljIGRhdGFzZXQgZm9yIHR1YXRhcmEuCiAgICA8L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPgogICAgICBUdXRhcmEgc2FtcGxpbmdQaG90b2dyYXBoaWMgYW5kIGRpZ2l0aXNhdGlvbiBzYW1wbGluZyBvZiB0dWF0YXJhIGRlbnRhcnkKICAgICAgYm9uZXMgZm9yIHRoaXMgc3R1ZHkuIEZpbGUgaW5jbHVkZXMgcHJvdmVuYW5jZSBhbmQgbXVzZXVtIGNvbGxlY3Rpb24KICAgICAgaW5mb3JtYXRpb24udHVhdGFyYS1zYW1wbGluZy54bHN4VHVhdGFyYSBtb3JwaG9tZXRyaWMgZGF0YXNldFByb2NydXN0ZXMKICAgICAgY29vcmRpbmF0ZXMgYW5kIGNlbnRyb2lkIHNpemUgdmFsdWVzIGZvciBkaWdpdGlzZWQgdHVhdGFyYSBkZW50YXJ5IGJvbmVzLgogICAgICBGaWxlIGNhbiBiZSBlYXNpbHkgbW9kaWZpZWQgKGluc3RydWN0aW9ucyBpbmNsdWRlZCkgZm9yIGNvbnZlcnNpb24gaW50bwogICAgICAuY3N2IGZpbGUgZm9yIGlucHV0IGludG8gdGhlIGdlb21ldHJpYyBtb3JwaG9tZXRyaWMgc29mdHdhcmUgTW9ycGhvSi4gRmlsZQogICAgICBpbmNsdWRlcyBrZXlzIGZvciB0aGUgY2xhc3NpZmllciBzdHJpbmdzIHVzZWQgaW4gc3BlY2ltZW4gSURzIHRvIGNsYXNzaWZ5CiAgICAgIHNwZWNpbWVucyBpbnRvIGdyb3VwcyAoZS5nLiByZWdpb25zLCBsZWZ0IG9yIHJpZ2h0LCBsaXZpbmcgb3IKICAgICAgZm9zc2lsKS50dWF0YXJhLW1vcnBoby1kYXRhc2V0Lnhsc3hTdXBwb3J0aW5nIE1hdGVyaWFsU3VwcG9ydGluZyBUYWJsZXMKICAgICAgYW5kIEZpZ3VyZXNTVVBQT1JUSU5HLmRvY3hTdXBwbGVtZW50YXJ5IEZpZ3VyZSAxU3VwcGxlbWVudGFyeSBGaWd1cmUKICAgICAgMVNVUEZJRzEudGlmU3VwcGxlbWVudGFyeSBGaWd1cmUgMlN1cHBsZW1lbnRhcnkgRmlndXJlCiAgICAgIDJTVVBGSUcyLnRpZlN1cHBsZW1lbnRhcnkgRmlndXJlIDNTdXBwbGVtZW50YXJ5IEZpZ3VyZQogICAgICAzU1VQRklHMy50aWZTdXBwbGVtZW50YXJ5IEZpZ3VyZSA0U3VwcGxlbWVudGFyeSBGaWd1cmUKICAgICAgNFNVUEZJRzQudGlmU3VwcGxlbWVudGFyeSBUYWJsZSAxU3VwcGxlbWVudGFyeSBUYWJsZSAxU1VQVEFCTEUxLmRvY3gKICAgIDwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPGdlb0xvY2F0aW9ucz4KICAgIDxnZW9Mb2NhdGlvbj4KICAgICAgPGdlb0xvY2F0aW9uUGxhY2U+TmV3IFplYWxhbmQ8L2dlb0xvY2F0aW9uUGxhY2U+CiAgICA8L2dlb0xvY2F0aW9uPgogIDwvZ2VvTG9jYXRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "dryad.dryad",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "dryad",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

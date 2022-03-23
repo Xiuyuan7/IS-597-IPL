@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.15166/2499-8249/206",
+    "type": "works",
+    "attributes": {
+        "doi": "10.15166/2499-8249/206",
+        "identifier": "https://doi.org/10.15166/2499-8249/206",
+        "url": "http://www.europeanpapers.eu/en/e-journal/tdem-as-realistic-utopia-why-it-fits-with-parliaments",
+        "author": [
+            {
+                "given": "Olivier",
+                "family": "Rozenberg"
+            }
+        ],
+        "title": "The T-Dem as a Realistic Utopia: Why It Fits with What We Know About Parliaments",
+        "container-title": "European Papers (www.europeanpapers.eu)",
+        "description": "European Papers, Vol. 3, 2018, No 1, www.europeanpapers.eu, pp. 121-125, ISSN 2499-8249",
+        "resource-type-subtype": "Overview",
+        "data-center-id": "crui.unitelma",
+        "member-id": "crui",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by-nc-nd/4.0",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-06-29T09:04:01.000Z",
+        "checked": null,
+        "updated": "2019-09-30T23:02:09.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxyZXNvdXJjZSB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTQiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTQgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtNC4xL21ldGFkYXRhLnhzZCI+DQogPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTUxNjYvMjQ5OS04MjQ5LzIwNjwvaWRlbnRpZmllcj4NCiA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+DQogIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJVUkkiPmh0dHA6Ly93d3cuZXVyb3BlYW5wYXBlcnMuZXUvZW4vZS1qb3VybmFsL3RkZW0tYXMtcmVhbGlzdGljLXV0b3BpYS13aHktaXQtZml0cy13aXRoLXBhcmxpYW1lbnRzPC9hbHRlcm5hdGVJZGVudGlmaWVyPg0KIDwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+DQogPGNyZWF0b3JzPg0KICA8Y3JlYXRvcj4NCiAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlJvemVuYmVyZywgT2xpdmllcjwvY3JlYXRvck5hbWU+DQogICA8Z2l2ZW5OYW1lPk9saXZpZXI8L2dpdmVuTmFtZT4NCiAgIDxmYW1pbHlOYW1lPlJvemVuYmVyZzwvZmFtaWx5TmFtZT4NCiAgIDxhZmZpbGlhdGlvbj5TY2llbmNlcyBQb3ksIFBhcmlzPC9hZmZpbGlhdGlvbj4NCiAgPC9jcmVhdG9yPg0KIDwvY3JlYXRvcnM+DQogPHRpdGxlcz4NCiAgPHRpdGxlIHhtbDpsYW5nPSJlbmciPlRoZSBULURlbSBhcyBhIFJlYWxpc3RpYyBVdG9waWE6IFdoeSBJdCBGaXRzIHdpdGggV2hhdCBXZSBLbm93IEFib3V0IFBhcmxpYW1lbnRzPC90aXRsZT4NCiA8L3RpdGxlcz4NCiA8cHVibGlzaGVyPkV1cm9wZWFuIFBhcGVycyAod3d3LmV1cm9wZWFucGFwZXJzLmV1KTwvcHVibGlzaGVyPg0KIDxwdWJsaWNhdGlvblllYXI+MjAxODwvcHVibGljYXRpb25ZZWFyPg0KIDxzdWJqZWN0cz4NCiAgPHN1YmplY3QgeG1sOmxhbmc9ImVuZyI+ZGVtb2NyYWN5PC9zdWJqZWN0Pg0KICA8c3ViamVjdCB4bWw6bGFuZz0iZW5nIj5wYXJsaWFtZW50PC9zdWJqZWN0Pg0KICA8c3ViamVjdCB4bWw6bGFuZz0iZW5nIj5FdXJvcGVhbiBQYXJsaWFtZW50PC9zdWJqZWN0Pg0KICA8c3ViamVjdCB4bWw6bGFuZz0iZW5nIj5sZWdpdGltYWN5PC9zdWJqZWN0Pg0KICA8c3ViamVjdCB4bWw6bGFuZz0iZW5nIj5uYXRpb25hbCBwYXJsaWFtZW50czwvc3ViamVjdD4NCiAgPHN1YmplY3QgeG1sOmxhbmc9ImVuZyI+RXVyb3pvbmU8L3N1YmplY3Q+DQogPC9zdWJqZWN0cz4NCiA8Y29udHJpYnV0b3JzPg0KICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJIb3N0aW5nSW5zdGl0dXRpb24iPg0KICAgPGNvbnRyaWJ1dG9yTmFtZT5SZXNlYXJjaCBDZW50cmUgZm9yIEV1cm9wZWFuIExhdywgVW5pdGVsbWEgU2FwaWVuemEgLSBVbml2ZXJzaXR5IG9mIFJvbWU8L2NvbnRyaWJ1dG9yTmFtZT4NCiAgPC9jb250cmlidXRvcj4NCiA8L2NvbnRyaWJ1dG9ycz4NCiA8bGFuZ3VhZ2U+ZW5nPC9sYW5ndWFnZT4NCiA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPk92ZXJ2aWV3PC9yZXNvdXJjZVR5cGU+DQogPGZvcm1hdHM+DQogIDxmb3JtYXQ+dGV4dC9odG1sPC9mb3JtYXQ+DQogIDxmb3JtYXQ+UERGPC9mb3JtYXQ+DQogPC9mb3JtYXRzPg0KIDxyaWdodHNMaXN0Pg0KICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMtbmQvNC4wLyI+Q3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbi1Ob25Db21tZXJjaWFsLU5vRGVyaXZhdGl2ZXMgNC4wIEludGVybmF0aW9uYWwgTGljZW5zZTwvcmlnaHRzPg0KIDwvcmlnaHRzTGlzdD4NCiA8ZGVzY3JpcHRpb25zPg0KICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJTZXJpZXNJbmZvcm1hdGlvbiI+RXVyb3BlYW4gUGFwZXJzLCBWb2wuIDMsIDIwMTgsIE5vIDEsIHd3dy5ldXJvcGVhbnBhcGVycy5ldSwgcHAuIDEyMS0xMjUsIElTU04gMjQ5OS04MjQ5PC9kZXNjcmlwdGlvbj4NCiAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iVGFibGVPZkNvbnRlbnRzIj5JLiBJbnRyb2R1Y3Rpb24uIOKAkyBJSS4gQW4gQXNzZW1ibHkgZml0dGVkIHdpdGggdGhlIG11bHRpZnVuY3Rpb25hbCBuYXR1cmUgb2YgbGVnaXNsYXR1cmVzLiDigJMgSUlJLiBBbiBpbnN1cmFuY2UgYWdhaW5zdCBmcmVlLXJpZGluZy4g4oCTIElWLiBBIGZhaXIgc2hhcmUgZm9yIHRoZSBFdXJvcGVhbiBQYXJsaWFtZW50LiDigJMgVi4gVGhlIGRldmlsIGlzIGluIHRoZSBkZXRhaWxzLiDigJMgVkkuIENvbmNsdXNpb25zLjwvZGVzY3JpcHRpb24+DQogIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5BIG5ldyBhc3NlbWJseSBwcm9wb3NlZCBmb3IgdGhlIEV1cm96b25lIGNhbiBiZSBxdWFsaWZpZWQgYXMgcmVhbGlzdGljIHV0b3BpYS4gSW5kZWVkLCB0aGUgT3ZlcnZpZXcgc3VwcG9ydHMgdGhlIHZpZXcgdGhhdCB0aGUgZHJhZnQgVHJlYXR5IG9uIHRoZSBEZW1vY3JhdGl6YXRpb24gb2YgdGhlIEdvdmVybmFuY2Ugb2YgdGhlIEV1cm8gYXJlYSAoVC1EZW0pIG9mZmVycyBhIGNvaGVyZW50IHByb3Bvc2FsIGdpdmVuIHBhc3QgbGVzc29ucyBmcm9tIGxlZ2lzbGF0aXZlIGFuZCBFVSBzdHVkaWVzLiBUaGlzIGlzIHBhcnRpY3VsYXJseSB0aGUgY2FzZSByZWdhcmRpbmc6IGEpIHRoZSBtdWx0aWRpbWVuc2lvbmFsIGZ1bmN0aW9ucyBvZiB0aGUgUGFybGlhbWVudGFyeSBBc3NlbWJseSBvZiB0aGUgRXVybyBhcmVhIHByb3Bvc2VkOyBiKSB0aGUgZmFjdCB0aGF0IHRoaXMgYXNzZW1ibHkgd291bGQgaGF2ZSBpbXBvcnRhbnQgYW5kIG9wZW4gZGVjaXNpb25zIHRvIG1ha2U7IGMpIHRoZSBwcm92aXNpb24gb2YgODAgcGVyY2VudCBvZiBuYXRpb25hbCBNZW1iZXJzIG9mIHRoZSBQYXJsaWFtZW50cyB3aXRoaW4gaXQ7IGQpIHRoZSBoaWdoIGxldmVsIG9mIGRldGFpbCByZWdhcmRpbmcgdGhlIG1lbWJlcnNoaXAgb2YgdGhlIGFzc2VtYmx5LiBZZXQsIHRoZSBwcm92aXNpb25zIG9mIHRoZSB0cmVhdHkgY2FsbCBmb3Igc29tZSBjaGFuZ2VzIG9yIHByZWNpc2lvbnMgcmVnYXJkaW5nIGJhc2ljIGZlYXR1cmVzIG9mIHRoZSBwYXJsaWFtZW50YXJ5IG1hdHJpeCwgbm90YWJseTogcGx1cmFsaXNtLCB0cmFuc3BhcmVuY3kgYW5kIHBlcm1hbmVuY3kuPC9kZXNjcmlwdGlvbj4NCiA8L2Rlc2NyaXB0aW9ucz4NCjwvcmVzb3VyY2U+DQo="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "crui.unitelma",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "crui",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

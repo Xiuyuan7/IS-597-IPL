@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17615/3W3K-PZ20</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Downey, Moira</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>A New Who's Who: Using URIs in a Linked Data Approach to Name Authority Control.</title>
+  </titles>
+  <publisher>The University of North Carolina at Chapel Hill University Libraries</publisher>
+  <publicationYear>2018</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Masters Paper</resourceType>
+  <subjects>
+    <subject>Institutional repositories</subject>
+    <subject>Semantic Web</subject>
+    <subject>Name authority records (Information retrieval)</subject>
+    <subject>Linked data</subject>
+    <subject>Authority files (Information retrieval)</subject>
+  </subjects>
+  <version/>
+  <rightsList>
+    <rights rightsURI="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">The names of persons, families, and corporate bodies pose a particularly thorny problem for catalogers and other metadata specialists because they are simultaneously one of the most salient and most mutable pieces of metadata identifying a digital object. Despite continuing advances in distributed, web-based name authority control, this important work remains largely neglected by institutional repositories (IRs) in their efforts to archive the research outputs of their institution. This study aims to explore the possibilities surrounding name authority control in an IR context. Particularly, the study seeks to determine whether a linked data (or linked data-like) approach—in which Uniform Resource Identifiers (URIs) rather than name strings are stored for the authors of repository objects—is a feasible one for the Duke Digital Repository, and if specific steps can be outlined to provide a recommendation for implementing any such approach.</description>
+  </descriptions>
+</resource>

@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.5061/dryad.ms7q2q4/2",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5061/dryad.ms7q2q4/2",
+        "identifier": "https://doi.org/10.5061/dryad.ms7q2q4/2",
+        "url": "https://datadryad.org/resource/doi:10.5061/dryad.ms7q2q4/2",
+        "author": [
+            {
+                "given": "Felix",
+                "family": "Vaux"
+            },
+            {
+                "given": "Mary",
+                "family": "Morgan-Richards"
+            },
+            {
+                "given": "Elizabeth E.",
+                "family": "Daly"
+            },
+            {
+                "given": "Steven A.",
+                "family": "Trewick"
+            }
+        ],
+        "title": "Tuatara morphometric dataset",
+        "container-title": "Dryad Digital Repository",
+        "description": "Procrustes coordinates and centroid size values for digitised tuatara dentary bones. File can be easily modified (instructions included) for conversion into .csv file for input into the geometric morphometric software MorphoJ. File includes keys for the classifier strings used in specimen IDs to classify specimens into groups (e.g. regions, left or right, living or fossil).",
+        "resource-type-subtype": "DataFile",
+        "data-center-id": "dryad.dryad",
+        "member-id": "dryad",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": "http://creativecommons.org/publicdomain/zero/1.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-10-15T18:23:27.000Z",
+        "checked": null,
+        "updated": "2019-08-02T20:39:24.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHJ5YWQ9Imh0dHA6Ly9wdXJsLm9yZy9kcnlhZC90ZXJtcy8iIHhtbG5zOmRpbT0iaHR0cDovL3d3dy5kc3BhY2Uub3JnL3htbG5zL2RzcGFjZS9kaW0iIHhtbG5zOmRzcGFjZT0iaHR0cDovL3d3dy5kc3BhY2Uub3JnL3htbG5zL2RzcGFjZS9kaW0iIHhtbG5zOm1ldHM9Imh0dHA6Ly93d3cubG9jLmdvdi9NRVRTLyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTA2MS9EUllBRC5NUzdRMlE0LzI8L2lkZW50aWZpZXI+CiAgPHZlcnNpb24+MTwvdmVyc2lvbj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlZhdXgsIEZlbGl4PC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+TW9yZ2FuLVJpY2hhcmRzLCBNYXJ5PC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+RGFseSwgRWxpemFiZXRoIEUuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VHJld2ljaywgU3RldmVuIEEuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+VHVhdGFyYSBtb3JwaG9tZXRyaWMgZGF0YXNldDwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5EcnlhZCBEaWdpdGFsIFJlcG9zaXRvcnk8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTg8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5nZW9tZXRyaWMgbW9ycGhvbWV0cmljPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+bGl2aW5nIGZvc3NpbDwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pm1vcnBob2xvZ2ljYWwgc3Rhc2lzPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+bW9ycGhvbG9naWNhbCBjb25zZXJ2YXRpc208L3N1YmplY3Q+CiAgICA8c3ViamVjdD5OZXcgWmVhbGFuZDwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkhvbG9jZW5lPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+U3BoZW5vZG9uIHB1bmN0YXR1czwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJBY2NlcHRlZCI+MjAxOC0xMS0wMjwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCI+RGF0YUZpbGU8L3Jlc291cmNlVHlwZT4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0aW9uVHlwZT0iSXNQYXJ0T2YiIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41MDYxL0RSWUFELk1TN1EyUTQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDxzaXplcz4KICAgIDxzaXplPjU3MjQyIGJ5dGVzPC9zaXplPgogIDwvc2l6ZXM+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvcHVibGljZG9tYWluL3plcm8vMS4wLyIvPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPlByb2NydXN0ZXMgY29vcmRpbmF0ZXMgYW5kIGNlbnRyb2lkIHNpemUgdmFsdWVzIGZvciBkaWdpdGlzZWQgdHVhdGFyYSBkZW50YXJ5IGJvbmVzLiBGaWxlIGNhbiBiZSBlYXNpbHkgbW9kaWZpZWQgKGluc3RydWN0aW9ucyBpbmNsdWRlZCkgZm9yIGNvbnZlcnNpb24gaW50byAuY3N2IGZpbGUgZm9yIGlucHV0IGludG8gdGhlIGdlb21ldHJpYyBtb3JwaG9tZXRyaWMgc29mdHdhcmUgTW9ycGhvSi4gRmlsZSBpbmNsdWRlcyBrZXlzIGZvciB0aGUgY2xhc3NpZmllciBzdHJpbmdzIHVzZWQgaW4gc3BlY2ltZW4gSURzIHRvIGNsYXNzaWZ5IHNwZWNpbWVucyBpbnRvIGdyb3VwcyAoZS5nLiByZWdpb25zLCBsZWZ0IG9yIHJpZ2h0LCBsaXZpbmcgb3IgZm9zc2lsKS48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "dryad.dryad",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "dryad",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "id": "https://doi.org/10.17605/osf.io/bds35",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17605/osf.io/bds35",
+        "identifier": "https://doi.org/10.17605/osf.io/bds35",
+        "url": "https://osf.io/bds35/",
+        "author": [
+            {
+                "given": "Sophie",
+                "family": "Regnault"
+            },
+            {
+                "given": "John",
+                "family": "Hutchinson"
+            }
+        ],
+        "title": "Sesamoid bones in tuatara",
+        "container-title": "Open Science Framework",
+        "description": null,
+        "resource-type-subtype": null,
+        "data-center-id": "cos.osf",
+        "member-id": "cos",
+        "resource-type-id": null,
+        "version": null,
+        "license": null,
+        "schema-version": "3",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2016",
+        "registered": "2016-11-24T11:32:02.000Z",
+        "checked": null,
+        "updated": "2019-08-02T12:51:32.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+PGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc2MDUvT1NGLklPL0JEUzM1PC9pZGVudGlmaWVyPjxjcmVhdG9ycz48Y3JlYXRvcj48Y3JlYXRvck5hbWU+UmVnbmF1bHQsIFNvcGhpZTwvY3JlYXRvck5hbWU+PC9jcmVhdG9yPjxjcmVhdG9yPjxjcmVhdG9yTmFtZT5IdXRjaGluc29uLCBKb2huPC9jcmVhdG9yTmFtZT48L2NyZWF0b3I+PC9jcmVhdG9ycz48dGl0bGVzPjx0aXRsZT5TZXNhbW9pZCBib25lcyBpbiB0dWF0YXJhPC90aXRsZT48L3RpdGxlcz48cHVibGlzaGVyPk9wZW4gU2NpZW5jZSBGcmFtZXdvcms8L3B1Ymxpc2hlcj48cHVibGljYXRpb25ZZWFyPjIwMTY8L3B1YmxpY2F0aW9uWWVhcj48L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cos.osf",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cos",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": null
+        }
+    }
+}

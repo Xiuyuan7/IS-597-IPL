@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.5281/zenodo.1489354",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5281/zenodo.1489354",
+        "identifier": "https://doi.org/10.5281/zenodo.1489354",
+        "url": "https://zenodo.org/record/1489354",
+        "author": [
+            {
+                "given": "Kim Matthew",
+                "family": "Rutherford"
+            },
+            {
+                "given": "Neil J.",
+                "family": "Gemmell"
+            }
+        ],
+        "title": "Gene Predictions In Gff Format For Tuatara Genome Assembly Qepc00000000.1",
+        "container-title": "Zenodo",
+        "description": "<strong>Maker gene predictions for Sphenodon punctatus (tuatara) isolate: mauimua-1 </strong>                                                                                                                <br>\n<br>\nThese GFF files correspond to the genome assembly in GenBank ID QEPC00000000.1<br>\nhttps://www.ncbi.nlm.nih.gov/nuccore/QEPC00000000.1\n\nFiles:\n\n <strong>MASKED_Tuatara.DEVO.annot15102.gff.gz</strong><br>\n   - gene and transcript predictions only<br>\n<br>\n <strong>20160427.tuatara.maker.raw.gff3.gz</strong><br>\n   - raw Maker output including gene and transcript predictions, alignment results and output of individual gene prediction algorithms (SNAP and Augustus).\n\n<br>\n<br>",
+        "resource-type-subtype": null,
+        "data-center-id": "cern.zenodo",
+        "member-id": "cern",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-11-16T03:31:51.000Z",
+        "checked": null,
+        "updated": "2019-08-02T21:16:21.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41MjgxL1pFTk9ETy4xNDg5MzU0PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+UnV0aGVyZm9yZCwgS2ltIE1hdHRoZXc8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPktpbSBNYXR0aGV3PC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlJ1dGhlcmZvcmQ8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZy8iPjAwMDAtMDAwMS02Mjc3LTcyNlg8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24+VW5pdmVyc2l0eSBvZiBDYW1icmlkZ2U8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5HZW1tZWxsLCBOZWlsIEouPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5OZWlsIEouPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkdlbW1lbGw8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZy8iPjAwMDAtMDAwMy0wNjcxLTM2Mzc8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24+VW5pdmVyc2l0eSBvZiBPdGFnbzwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkdlbmUgUHJlZGljdGlvbnMgSW4gR2ZmIEZvcm1hdCBGb3IgVHVhdGFyYSBHZW5vbWUgQXNzZW1ibHkgUWVwYzAwMDAwMDAwLjE8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+WmVub2RvPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE4PC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAxOC0xMS0xNjwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCIvPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJ1cmwiPmh0dHBzOi8vemVub2RvLm9yZy9yZWNvcmQvMTQ4OTM1NDwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNWZXJzaW9uT2YiPjEwLjUyODEvemVub2RvLjE0ODkzNTM8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvIj5DcmVhdGl2ZSBDb21tb25zIEF0dHJpYnV0aW9uIDQuMDwvcmlnaHRzPgogICAgPHJpZ2h0cyByaWdodHNVUkk9ImluZm86ZXUtcmVwby9zZW1hbnRpY3Mvb3BlbkFjY2VzcyI+T3BlbiBBY2Nlc3M8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij4mbHQ7cCZndDsmbHQ7c3Ryb25nJmd0O01ha2VyIGdlbmUgcHJlZGljdGlvbnMgZm9yIFNwaGVub2RvbiBwdW5jdGF0dXMgKHR1YXRhcmEpIGlzb2xhdGU6IG1hdWltdWEtMSZhbXA7bmJzcDsmbHQ7L3N0cm9uZyZndDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7JmFtcDtuYnNwOyZhbXA7bmJzcDsmYW1wO25ic3A7Jmx0O2JyJmd0OwombHQ7YnImZ3Q7ClRoZXNlIEdGRiBmaWxlcyBjb3JyZXNwb25kIHRvIHRoZSBnZW5vbWUgYXNzZW1ibHkgaW4gR2VuQmFuayBJRCBRRVBDMDAwMDAwMDAuMSZsdDticiZndDsKaHR0cHM6Ly93d3cubmNiaS5ubG0ubmloLmdvdi9udWNjb3JlL1FFUEMwMDAwMDAwMC4xJmx0Oy9wJmd0OwoKJmx0O3AmZ3Q7RmlsZXM6Jmx0Oy9wJmd0OwoKJmx0O3AmZ3Q7JmFtcDtuYnNwOyZsdDtzdHJvbmcmZ3Q7TUFTS0VEX1R1YXRhcmEuREVWTy5hbm5vdDE1MTAyLmdmZi5neiZsdDsvc3Ryb25nJmd0OyZsdDticiZndDsKJmFtcDtuYnNwOyZhbXA7bmJzcDsgLSBnZW5lIGFuZCB0cmFuc2NyaXB0IHByZWRpY3Rpb25zIG9ubHkmbHQ7YnImZ3Q7CiZsdDticiZndDsKJmFtcDtuYnNwOyZsdDtzdHJvbmcmZ3Q7MjAxNjA0MjcudHVhdGFyYS5tYWtlci5yYXcuZ2ZmMy5neiZsdDsvc3Ryb25nJmd0OyZsdDticiZndDsKJmFtcDtuYnNwOyZhbXA7bmJzcDsgLSByYXcgTWFrZXIgb3V0cHV0IGluY2x1ZGluZyBnZW5lIGFuZCB0cmFuc2NyaXB0IHByZWRpY3Rpb25zLCBhbGlnbm1lbnQgcmVzdWx0cyBhbmQgb3V0cHV0IG9mIGluZGl2aWR1YWwgZ2VuZSBwcmVkaWN0aW9uIGFsZ29yaXRobXMgKFNOQVAgYW5kIEF1Z3VzdHVzKS4mbHQ7L3AmZ3Q7CgombHQ7cCZndDsmbHQ7YnImZ3Q7CiZsdDticiZndDsKJmFtcDtuYnNwOyZsdDsvcCZndDs8L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPlRoaXMgd29yayBpcyBzdXBwb3J0ZWQgYnkgTmdhdGl3YWkgaXdpLCBBbGxhbiBXaWxzb24gQ2VudHJlLCBVbml2ZXJzaXR5IG9mIE90YWdvLCBOZXcgWmVhbGFuZCBHZW5vbWljcyBMaW1pdGVkLCBJbGx1bWluYSwgTmF0aW9uYWwgZVNjaWVuY2UgSW5mcmFzdHJ1Y3R1cmUgKE5lU0kgTlopLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cern.zenodo",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cern",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

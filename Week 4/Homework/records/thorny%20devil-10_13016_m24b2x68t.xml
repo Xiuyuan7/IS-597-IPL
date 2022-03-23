@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.13016/M24B2X68T</identifier>
+  <creators>
+    <creator>
+      <creatorName>Rutere, Albert Mugambi</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Women And Patriarchal Power In The Selected Novels Of Ngugi Wa Thiong'o</title>
+  </titles>
+  <publisher>My University</publisher>
+  <publicationYear>2009</publicationYear>
+  <subjects>
+    <subject>Women</subject>
+    <subject>African</subject>
+    <subject>African Literature</subject>
+    <subject>Ngugi</subject>
+    <subject>Gender</subject>
+    <subject>Patriarchy</subject>
+    <subject>Literature</subject>
+    <subject>Gender Studies</subject>
+    <subject>Women's Studies</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>My University</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>My University</contributorName>
+    </contributor>
+    <contributor contributorType="RelatedPerson">
+      <contributorName>Mezu, Rose U</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2009</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Collection">Text</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="uri">http://hdl.handle.net/11603/8310</alternateIdentifier>
+  </alternateIdentifiers>
+  <rightsList>
+    <rights>This item is made available by Morgan State University for personal, educational, and research purposes in accordance with Title 17 of the U.S. Copyright Law. Other uses may require permission from the copyright owner.</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">This is study attempts to examine women's reaction to patriarchal power in the selected novels of Ngugi Wa Thiong'o. Specifically, the study analyses Ngugi's Weep Not, Child, The River Between, A Grain of Wheat, Petals of Blood, Devil on the Cross, and Wizard of the Crow while paying attention to various strategies which women use to respond to patriarchy. First and foremost, this study establishes a universal canvas of patriarchy, in order to show how this problem is an historical stumbling block to women's progress in most cultures, while justifying the war which women wage against this menace. Moreover, the study exposes the patriarchal challenges and constraints which women face in deconstructing patriarchy in the aforementioned works. However, this study argues that the success of women's struggle against patriarchy will be possible if women take the initiative and explore specific strategies to empower themselves socially, politically, and economically. Some of these strategies include good education, hard work, solidarity, pragmatic or temporary cooperation, tactical silence, and subversion. To examine women's struggle against patriarchal power in Ngugi's novels, this study employs theories of feminists like Virginia Woolf, Simone de Beauvoir, and Betty Freidan who advocate total liberation and empowerment of a woman. Equally, the ideas of power and struggle from writers such as Max Weber and Michel Foucault are explored in order to provide the paradigm for women's struggle in the society. Ultimately, Ngugi's novels argue that patriarchy is both oppressive and retrogressive to women and the society, and therefore it should be discontinued. As Ngugi suggests, the recognition of gender empowerment, equity, and partnership is the only fair and effective method of ensuring distribution of resources in the society. Indeed, for the progress of the society, this principle should be guarded at all cost by both men and women.</description>
+  </descriptions>
+</resource>

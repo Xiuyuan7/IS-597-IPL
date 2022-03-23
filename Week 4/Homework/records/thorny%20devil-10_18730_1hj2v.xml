@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.2/metadata.xsd">
+  <identifier identifierType="DOI">10.18730/1HJ2V</identifier>
+  <creators>
+    <creator>
+      <creatorName>GLIS of the ITPGRFA</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Cucumis sativus L. CGN20203</title>
+  </titles>
+  <publisher>Centre for Genetic Resources, the Netherlands</publisher>
+  <publicationYear>2017</publicationYear>
+  <subjects>
+    <subject>Plant Genetic Resource for Food and Agriculture</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="Other">
+      <contributorName>Centre for Genetic Resources, the Netherlands</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">1998-08-20</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="PhysicalObject">PGRFA Material</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="Other">61101</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="Other">4.304</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="PURL">http://purl.org/cgngenis/accenumb/CGN20203</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relatedMetadataScheme="GLIS Descriptors" relationType="HasMetadata" schemeType="XML" schemeURI="http://www.fao.org/plant-treaty/areas-of-work/global-information-system/descriptors">https://ssl.fao.org/glisapi/v1/pgrfas?doi=10.18730/1HJ2V</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relatedMetadataScheme="Darwin Core Archive" relationType="HasMetadata" schemeType="DwC-A" schemeURI="http://rs.tdwg.org/dwc/terms/guides/text/index.htm">https://ssl.fao.org/glisapi/v1/pgrfas?_format=dwc&amp;doi=10.18730/1HJ2V</relatedIdentifier>
+  </relatedIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">Plant Genetic Resource.&lt;br/&gt;Taxonomy: Cucumis sativus L.&lt;br/&gt;Common name(s): cucumber&lt;br/&gt;Other names: Shantung Thorny&lt;br/&gt;Conserved by: Centre for Genetic Resources, the Netherlands (CGN), Netherlands&lt;br/&gt;Local sample unique identifier: CGN20203&lt;br/&gt;Method of creation: Acquisition&lt;br/&gt;Date: 1998-08-20&lt;br/&gt;Other identifiers: 61101, 4.304, http://purl.org/cgngenis/accenumb/CGN20203&lt;br/&gt;MLS status: Not included&lt;br/&gt;Historical: No</description>
+  </descriptions>
+  <geoLocations>
+    <geoLocation>
+      <geoLocationPlace>Collecting site: Shantung (Shandong)</geoLocationPlace>
+    </geoLocation>
+  </geoLocations>
+</resource>

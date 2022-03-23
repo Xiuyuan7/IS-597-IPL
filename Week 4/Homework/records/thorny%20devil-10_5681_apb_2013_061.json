@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.5681/apb.2013.061",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5681/apb.2013.061",
+        "identifier": "https://doi.org/10.5681/apb.2013.061",
+        "url": "http://journals.tbzmed.ac.ir/PDF/APB/Manuscript/APB-3-379.pdf",
+        "author": [
+            {
+                "given": "Deepak",
+                "family": "Ganjewala"
+            },
+            {
+                "given": "Ashish Kumar",
+                "family": "Gupta"
+            }
+        ],
+        "title": "Study on Phytochemical Composition, Antibacterial and Antioxidant Properties of Different Parts of Alstonia scholaris Linn.",
+        "container-title": "Tabriz University of Medical Sciences",
+        "description": "Purpose: To evaluate phytochemical composition, antibacterial and antioxidant properties of methanolic extracts of different parts viz., leaves, follicles and latex of Indian devil tree (Alstonia scholaris Linn.) R. Br. Methods: Antibacterial activities of the methanol extracts against Gram +ve (Bacillus subtilis and Staphylococcus aureus) and Gram -ve (Escherichia coli, Pseudomonas aeruginosa) bacteria were determined by well diffusion techniques. Aantioxidant profiles of methanol extracts were determined by 1,1-diphenyl-2-picryl-hydrazil (DPPH) free radical scavenging, superoxide anion radial scavenging and ferric thiocyanate reducing assays. Results: Phytochemical composition revealed abundance of flavonoids (97.3 mg QE/g DW), proanthocynidins (99.3 mg CE/g DW) and phenolics (49.7 mgGAE/g DW) in the leaf extract. Extracts of follicles and latex had comparatively very content of phenolics, flavonoids and proanthocyanidins. However, in follicle extract level of proanthocyanidins was significantly higher (46.8 mg CE/gDW). Latex extract among others exhibited most potent antibacterial activity. All the extracts displayed strong DPPH free radical and superoxide anion scavenging activities, only leaf extract displayed powerful reducing and ferrous ion chelating activities. Conclusion: Study revealed significant antioxidant activities of A. scholaris leaf, follicles and latex extracts and potential antibacterial activity of latex extract.",
+        "resource-type-subtype": "JournalArticle",
+        "data-center-id": "zbmed.tabriz",
+        "member-id": "zbmed",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2013",
+        "registered": "2013-08-31T18:03:11.000Z",
+        "checked": null,
+        "updated": "2019-10-01T10:32:21.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMi4yIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly9kYXRhY2l0ZS5vcmcvc2NoZW1hL2tlcm5lbC0yLjIgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMi4yL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTY4MS9hcGIuMjAxMy4wNjE8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5HYW5qZXdhbGEsIERlZXBhazwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkd1cHRhLCBBc2hpc2ggS3VtYXI8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5TdHVkeSBvbiBQaHl0b2NoZW1pY2FsIENvbXBvc2l0aW9uLCBBbnRpYmFjdGVyaWFsIGFuZCBBbnRpb3hpZGFudCBQcm9wZXJ0aWVzIG9mIERpZmZlcmVudCBQYXJ0cyBvZiBBbHN0b25pYSBzY2hvbGFyaXMgTGlubi48L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+VGFicml6IFVuaXZlcnNpdHkgb2YgTWVkaWNhbCBTY2llbmNlczwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxMzwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0IHN1YmplY3RTY2hlbWU9IkREQyI+NjEwIE1lZGljYWwgc2NpZW5jZXM7IE1lZGljaW5lPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkF2YWlsYWJsZSI+MjAxMy0wOC0yMDwvZGF0ZT4KICA8L2RhdGVzPgogIDxsYW5ndWFnZT5lbmc8L2xhbmd1YWdlPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+Sm91cm5hbEFydGljbGU8L3Jlc291cmNlVHlwZT4KICA8Zm9ybWF0cz4KICAgIDxmb3JtYXQ+dGV4dC9odG1sPC9mb3JtYXQ+CiAgPC9mb3JtYXRzPgogIDxyaWdodHM+Q3JlYXRpdmUgQ29tbW9ucyBMaWNlbnNlIFtDQyBCWS1OQy1ORF0gaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMtbmQvMy4wL2RlLzwvcmlnaHRzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+UHVycG9zZTogVG8gZXZhbHVhdGUgcGh5dG9jaGVtaWNhbCBjb21wb3NpdGlvbiwgYW50aWJhY3RlcmlhbCBhbmQgYW50aW94aWRhbnQgcHJvcGVydGllcyBvZiBtZXRoYW5vbGljIGV4dHJhY3RzIG9mIGRpZmZlcmVudCBwYXJ0cyB2aXouLCBsZWF2ZXMsIGZvbGxpY2xlcyBhbmQgbGF0ZXggb2YgSW5kaWFuIGRldmlsIHRyZWUgKEFsc3RvbmlhIHNjaG9sYXJpcyBMaW5uLikgUi4gQnIuIE1ldGhvZHM6IEFudGliYWN0ZXJpYWwgYWN0aXZpdGllcyBvZiB0aGUgbWV0aGFub2wgZXh0cmFjdHMgYWdhaW5zdCBHcmFtICt2ZSAoQmFjaWxsdXMgc3VidGlsaXMgYW5kIFN0YXBoeWxvY29jY3VzIGF1cmV1cykgYW5kIEdyYW0gLXZlIChFc2NoZXJpY2hpYSBjb2xpLCBQc2V1ZG9tb25hcyBhZXJ1Z2lub3NhKSBiYWN0ZXJpYSB3ZXJlIGRldGVybWluZWQgYnkgd2VsbCBkaWZmdXNpb24gdGVjaG5pcXVlcy4gQWFudGlveGlkYW50IHByb2ZpbGVzIG9mIG1ldGhhbm9sIGV4dHJhY3RzIHdlcmUgZGV0ZXJtaW5lZCBieSAxLDEtZGlwaGVueWwtMi1waWNyeWwtaHlkcmF6aWwgKERQUEgpIGZyZWUgcmFkaWNhbCBzY2F2ZW5naW5nLCBzdXBlcm94aWRlIGFuaW9uIHJhZGlhbCBzY2F2ZW5naW5nIGFuZCBmZXJyaWMgdGhpb2N5YW5hdGUgcmVkdWNpbmcgYXNzYXlzLiBSZXN1bHRzOiBQaHl0b2NoZW1pY2FsIGNvbXBvc2l0aW9uIHJldmVhbGVkIGFidW5kYW5jZSBvZiBmbGF2b25vaWRzICg5Ny4zIG1nIFFFL2cgRFcpLCBwcm9hbnRob2N5bmlkaW5zICg5OS4zIG1nIENFL2cgRFcpIGFuZCBwaGVub2xpY3MgKDQ5LjcgbWdHQUUvZyBEVykgaW4gdGhlIGxlYWYgZXh0cmFjdC4gRXh0cmFjdHMgb2YgZm9sbGljbGVzIGFuZCBsYXRleCBoYWQgY29tcGFyYXRpdmVseSB2ZXJ5IGNvbnRlbnQgb2YgcGhlbm9saWNzLCBmbGF2b25vaWRzIGFuZCBwcm9hbnRob2N5YW5pZGlucy4gSG93ZXZlciwgaW4gZm9sbGljbGUgZXh0cmFjdCBsZXZlbCBvZiBwcm9hbnRob2N5YW5pZGlucyB3YXMgc2lnbmlmaWNhbnRseSBoaWdoZXIgKDQ2LjggbWcgQ0UvZ0RXKS4gTGF0ZXggZXh0cmFjdCBhbW9uZyBvdGhlcnMgZXhoaWJpdGVkIG1vc3QgcG90ZW50IGFudGliYWN0ZXJpYWwgYWN0aXZpdHkuIEFsbCB0aGUgZXh0cmFjdHMgZGlzcGxheWVkIHN0cm9uZyBEUFBIIGZyZWUgcmFkaWNhbCBhbmQgc3VwZXJveGlkZSBhbmlvbiBzY2F2ZW5naW5nIGFjdGl2aXRpZXMsIG9ubHkgbGVhZiBleHRyYWN0IGRpc3BsYXllZCBwb3dlcmZ1bCByZWR1Y2luZyBhbmQgZmVycm91cyBpb24gY2hlbGF0aW5nIGFjdGl2aXRpZXMuIENvbmNsdXNpb246IFN0dWR5IHJldmVhbGVkIHNpZ25pZmljYW50IGFudGlveGlkYW50IGFjdGl2aXRpZXMgb2YgQS4gc2Nob2xhcmlzIGxlYWYsIGZvbGxpY2xlcyBhbmQgbGF0ZXggZXh0cmFjdHMgYW5kIHBvdGVudGlhbCBhbnRpYmFjdGVyaWFsIGFjdGl2aXR5IG9mIGxhdGV4IGV4dHJhY3QuPC9kZXNjcmlwdGlvbj4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IlNlcmllc0luZm9ybWF0aW9uIj5BZHZhbmNlZCBQaGFybWFjZXV0aWNhbCBCdWxsZXRpbjsgZUlTU04gMjI1MS03MzA4PC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4K"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "zbmed.tabriz",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "zbmed",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.17169/refubium-2219",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17169/refubium-2219",
+        "identifier": "https://doi.org/10.17169/refubium-2219",
+        "url": "https://refubium.fu-berlin.de/handle/fub188/24448",
+        "author": [
+            {
+                "given": "G\u00fcnther",
+                "family": "Sch\u00f6nrich"
+            },
+            {
+                "given": "Martin J.",
+                "family": "Raftery"
+            }
+        ],
+        "title": "CD1-Restricted T Cells During Persistent Virus Infections: \"Sympathy for the Devil\"",
+        "container-title": "Freie Universit\u00e4t Berlin",
+        "description": "Some of the clinically most important viruses persist in the human host after acute infection. In this situation, the host immune system and the viral pathogen attempt to establish an equilibrium. At best, overt disease is avoided. This attempt may fail, however, resulting in eventual loss of viral control or inadequate immune regulation. Consequently, direct virus-induced tissue damage or immunopathology may occur. The cluster of differentiation 1 (CD1) family of non-classical major histocompatibility complex class I molecules are known to present hydrophobic, primarily lipid antigens. There is ample evidence that both CD1-dependent and CD1-independent mechanisms activate CD1-restricted T cells during persistent virus infections. Sophisticated viral mechanisms subvert these immune responses and help the pathogens to avoid clearance from the host organism. CD1-restricted T cells are not only crucial for the antiviral host defense but may also contribute to tissue damage. This review highlights the two edged role of CD1-restricted T cells in persistent virus infections and summarizes the viral immune evasion mechanisms that target these fascinating immune cells.",
+        "resource-type-subtype": "Wissenschaftlicher Artikel",
+        "data-center-id": "tib.fuub",
+        "member-id": "tib",
+        "resource-type-id": "other",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "3",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2019-09-09T11:47:51.000Z",
+        "checked": null,
+        "updated": "2019-09-09T14:50:50.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTcxNjkvUkVGVUJJVU0tMjIxOTwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlNjaMO2bnJpY2gsIEfDvG50aGVyPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+UmFmdGVyeSwgTWFydGluIEouPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+Q0QxLVJlc3RyaWN0ZWQgVCBDZWxscyBEdXJpbmcgUGVyc2lzdGVudCBWaXJ1cyBJbmZlY3Rpb25zOiAiU3ltcGF0aHkgZm9yIHRoZSBEZXZpbCI8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+RnJlaWUgVW5pdmVyc2l0w6R0IEJlcmxpbjwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxODwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0Pmh1bWFuIENEMSBtb2xlY3VsZXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5hbnRpZ2VuIHByZXNlbnRhdGlvbjwvc3ViamVjdD4KICAgIDxzdWJqZWN0PnBlcnNpc3RpbmcgdmlydXNlczwvc3ViamVjdD4KICAgIDxzdWJqZWN0PnZpcmFsIGltbXVuZSBldmFzaW9uPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+TktUIGNlbGxzPC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc3ViamVjdFNjaGVtZT0iZGRjIj42MDAgVGVjaG5paywgTWVkaXppbiwgYW5nZXdhbmR0ZSBXaXNzZW5zY2hhZnRlbjo6NjEwIE1lZGl6aW4gdW5kIEdlc3VuZGhlaXQ6OjYxMCBNZWRpemluIHVuZCBHZXN1bmRoZWl0PC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGNvbnRyaWJ1dG9ycz4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IkRhdGFNYW5hZ2VyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5Vbml2ZXJzaXTDpHRzYmlibGlvdGhlayBkZXIgRlUgQmVybGluPC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iSG9zdGluZ0luc3RpdHV0aW9uIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5Vbml2ZXJzaXTDpHRzYmlibGlvdGhlayBkZXIgRlUgQmVybGluPC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogIDwvY29udHJpYnV0b3JzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJBY2NlcHRlZCI+MjAxOS0wNC0xNzwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJBdmFpbGFibGUiPjIwMTktMDQtMTc8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE4PC9kYXRlPgogIDwvZGF0ZXM+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJPdGhlciI+V2lzc2Vuc2NoYWZ0bGljaGVyIEFydGlrZWw8L3Jlc291cmNlVHlwZT4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iaXNzbiI+MTY2NC0zMjI0PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVyaSI+aHR0cHM6Ly9yZWZ1Yml1bS5mdS1iZXJsaW4uZGUvaGFuZGxlL2Z1YjE4OC8yNDQ0ODwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvIi8+CiAgPC9yaWdodHNMaXN0PgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+U29tZSBvZiB0aGUgY2xpbmljYWxseSBtb3N0IGltcG9ydGFudCB2aXJ1c2VzIHBlcnNpc3QgaW4gdGhlIGh1bWFuIGhvc3QgYWZ0ZXIgYWN1dGUgaW5mZWN0aW9uLiBJbiB0aGlzIHNpdHVhdGlvbiwgdGhlIGhvc3QgaW1tdW5lIHN5c3RlbSBhbmQgdGhlIHZpcmFsIHBhdGhvZ2VuIGF0dGVtcHQgdG8gZXN0YWJsaXNoIGFuIGVxdWlsaWJyaXVtLiBBdCBiZXN0LCBvdmVydCBkaXNlYXNlIGlzIGF2b2lkZWQuIFRoaXMgYXR0ZW1wdCBtYXkgZmFpbCwgaG93ZXZlciwgcmVzdWx0aW5nIGluIGV2ZW50dWFsIGxvc3Mgb2YgdmlyYWwgY29udHJvbCBvciBpbmFkZXF1YXRlIGltbXVuZSByZWd1bGF0aW9uLiBDb25zZXF1ZW50bHksIGRpcmVjdCB2aXJ1cy1pbmR1Y2VkIHRpc3N1ZSBkYW1hZ2Ugb3IgaW1tdW5vcGF0aG9sb2d5IG1heSBvY2N1ci4gVGhlIGNsdXN0ZXIgb2YgZGlmZmVyZW50aWF0aW9uIDEgKENEMSkgZmFtaWx5IG9mIG5vbi1jbGFzc2ljYWwgbWFqb3IgaGlzdG9jb21wYXRpYmlsaXR5IGNvbXBsZXggY2xhc3MgSSBtb2xlY3VsZXMgYXJlIGtub3duIHRvIHByZXNlbnQgaHlkcm9waG9iaWMsIHByaW1hcmlseSBsaXBpZCBhbnRpZ2Vucy4gVGhlcmUgaXMgYW1wbGUgZXZpZGVuY2UgdGhhdCBib3RoIENEMS1kZXBlbmRlbnQgYW5kIENEMS1pbmRlcGVuZGVudCBtZWNoYW5pc21zIGFjdGl2YXRlIENEMS1yZXN0cmljdGVkIFQgY2VsbHMgZHVyaW5nIHBlcnNpc3RlbnQgdmlydXMgaW5mZWN0aW9ucy4gU29waGlzdGljYXRlZCB2aXJhbCBtZWNoYW5pc21zIHN1YnZlcnQgdGhlc2UgaW1tdW5lIHJlc3BvbnNlcyBhbmQgaGVscCB0aGUgcGF0aG9nZW5zIHRvIGF2b2lkIGNsZWFyYW5jZSBmcm9tIHRoZSBob3N0IG9yZ2FuaXNtLiBDRDEtcmVzdHJpY3RlZCBUIGNlbGxzIGFyZSBub3Qgb25seSBjcnVjaWFsIGZvciB0aGUgYW50aXZpcmFsIGhvc3QgZGVmZW5zZSBidXQgbWF5IGFsc28gY29udHJpYnV0ZSB0byB0aXNzdWUgZGFtYWdlLiBUaGlzIHJldmlldyBoaWdobGlnaHRzIHRoZSB0d28gZWRnZWQgcm9sZSBvZiBDRDEtcmVzdHJpY3RlZCBUIGNlbGxzIGluIHBlcnNpc3RlbnQgdmlydXMgaW5mZWN0aW9ucyBhbmQgc3VtbWFyaXplcyB0aGUgdmlyYWwgaW1tdW5lIGV2YXNpb24gbWVjaGFuaXNtcyB0aGF0IHRhcmdldCB0aGVzZSBmYXNjaW5hdGluZyBpbW11bmUgY2VsbHMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tib.fuub",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tib",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "other",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "id": "https://doi.org/10.6084/m9.figshare.c.4376618.v1",
+    "type": "works",
+    "attributes": {
+        "doi": "10.6084/m9.figshare.c.4376618.v1",
+        "identifier": "https://doi.org/10.6084/m9.figshare.c.4376618.v1",
+        "url": "https://springernature.figshare.com/collections/From_tumors_to_species_a_SCANDAL_hypothesis/4376618/1",
+        "author": [
+            {
+                "literal": "A. Panchin"
+            },
+            {
+                "literal": "V. Aleoshin"
+            },
+            {
+                "literal": "Y. Panchin"
+            }
+        ],
+        "title": "From tumors to species: a SCANDAL hypothesis",
+        "container-title": "figshare",
+        "description": "Abstract Some tumor cells can evolve into transmissible parasites. Notable examples include the Tasmanian devil facial tumor disease, the canine transmissible venereal tumor and transmissible cancers of mollusks. We present a hypothesis that such transmissible tumors existed in the past and that some modern animal taxa are descendants of these tumors. We expect potential candidates for SCANDALs (speciated by cancer development animals) to be simplified relatives of more complex metazoans and have genomic alterations typical for cancer progression (such as deletions of universal apoptosis genes). We considered several taxa of simplified animals for our hypothesis: dicyemida, orthonectida, myxosporea and trichoplax. Based on genomic analysis we conclude that Myxosporea appear to be the most suitable candidates for a tumor ancestry. They are simplified parasitic cnidarians that universally lack major genes implicated in cancer progression including all genes with Caspase and BCL2 domains as well as any p53 and apoptotic protease activating factor \u00e2 1 (Apaf-1) homologs, suggesting the disruption of main apoptotic pathways in their early evolutionary history. Further comparative genomics and single-cell transcriptomic studies may be helpful to test our hypothesis of speciation via a cancerous stage. Reviewers This article was reviewed by Eugene Koonin, Mikhail Gelfand and Gregory M Woods.",
+        "resource-type-subtype": "Collection",
+        "data-center-id": "figshare.ars",
+        "member-id": "figshare",
+        "resource-type-id": "collection",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-01-24T04:49:42.000Z",
+        "checked": null,
+        "updated": "2019-10-03T04:53:01.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC42MDg0L005LkZJR1NIQVJFLkMuNDM3NjYxOC5WMTwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkEuIFBhbmNoaW48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5WLiBBbGVvc2hpbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlkuIFBhbmNoaW48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5Gcm9tIHR1bW9ycyB0byBzcGVjaWVzOiBhIFNDQU5EQUwgaHlwb3RoZXNpczwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5BYnN0cmFjdCBTb21lIHR1bW9yIGNlbGxzIGNhbiBldm9sdmUgaW50byB0cmFuc21pc3NpYmxlIHBhcmFzaXRlcy4gTm90YWJsZSBleGFtcGxlcyBpbmNsdWRlIHRoZSBUYXNtYW5pYW4gZGV2aWwgZmFjaWFsIHR1bW9yIGRpc2Vhc2UsIHRoZSBjYW5pbmUgdHJhbnNtaXNzaWJsZSB2ZW5lcmVhbCB0dW1vciBhbmQgdHJhbnNtaXNzaWJsZSBjYW5jZXJzIG9mIG1vbGx1c2tzLiBXZSBwcmVzZW50IGEgaHlwb3RoZXNpcyB0aGF0IHN1Y2ggdHJhbnNtaXNzaWJsZSB0dW1vcnMgZXhpc3RlZCBpbiB0aGUgcGFzdCBhbmQgdGhhdCBzb21lIG1vZGVybiBhbmltYWwgdGF4YSBhcmUgZGVzY2VuZGFudHMgb2YgdGhlc2UgdHVtb3JzLiBXZSBleHBlY3QgcG90ZW50aWFsIGNhbmRpZGF0ZXMgZm9yIFNDQU5EQUxzIChzcGVjaWF0ZWQgYnkgY2FuY2VyIGRldmVsb3BtZW50IGFuaW1hbHMpIHRvIGJlIHNpbXBsaWZpZWQgcmVsYXRpdmVzIG9mIG1vcmUgY29tcGxleCBtZXRhem9hbnMgYW5kIGhhdmUgZ2Vub21pYyBhbHRlcmF0aW9ucyB0eXBpY2FsIGZvciBjYW5jZXIgcHJvZ3Jlc3Npb24gKHN1Y2ggYXMgZGVsZXRpb25zIG9mIHVuaXZlcnNhbCBhcG9wdG9zaXMgZ2VuZXMpLiBXZSBjb25zaWRlcmVkIHNldmVyYWwgdGF4YSBvZiBzaW1wbGlmaWVkIGFuaW1hbHMgZm9yIG91ciBoeXBvdGhlc2lzOiBkaWN5ZW1pZGEsIG9ydGhvbmVjdGlkYSwgbXl4b3Nwb3JlYSBhbmQgdHJpY2hvcGxheC4gQmFzZWQgb24gZ2Vub21pYyBhbmFseXNpcyB3ZSBjb25jbHVkZSB0aGF0IE15eG9zcG9yZWEgYXBwZWFyIHRvIGJlIHRoZSBtb3N0IHN1aXRhYmxlIGNhbmRpZGF0ZXMgZm9yIGEgdHVtb3IgYW5jZXN0cnkuIFRoZXkgYXJlIHNpbXBsaWZpZWQgcGFyYXNpdGljIGNuaWRhcmlhbnMgdGhhdCB1bml2ZXJzYWxseSBsYWNrIG1ham9yIGdlbmVzIGltcGxpY2F0ZWQgaW4gY2FuY2VyIHByb2dyZXNzaW9uIGluY2x1ZGluZyBhbGwgZ2VuZXMgd2l0aCBDYXNwYXNlIGFuZCBCQ0wyIGRvbWFpbnMgYXMgd2VsbCBhcyBhbnkgcDUzIGFuZCBhcG9wdG90aWMgcHJvdGVhc2UgYWN0aXZhdGluZyBmYWN0b3Igw6IgICAxIChBcGFmLTEpIGhvbW9sb2dzLCBzdWdnZXN0aW5nIHRoZSBkaXNydXB0aW9uIG9mIG1haW4gYXBvcHRvdGljIHBhdGh3YXlzIGluIHRoZWlyIGVhcmx5IGV2b2x1dGlvbmFyeSBoaXN0b3J5LiBGdXJ0aGVyIGNvbXBhcmF0aXZlIGdlbm9taWNzIGFuZCBzaW5nbGUtY2VsbCB0cmFuc2NyaXB0b21pYyBzdHVkaWVzIG1heSBiZSBoZWxwZnVsIHRvIHRlc3Qgb3VyIGh5cG90aGVzaXMgb2Ygc3BlY2lhdGlvbiB2aWEgYSBjYW5jZXJvdXMgc3RhZ2UuIFJldmlld2VycyBUaGlzIGFydGljbGUgd2FzIHJldmlld2VkIGJ5IEV1Z2VuZSBLb29uaW4sIE1pa2hhaWwgR2VsZmFuZCBhbmQgR3JlZ29yeSBNIFdvb2RzLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+R2VuZXRpY3M8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5Fdm9sdXRpb25hcnkgQmlvbG9neTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkNhbmNlcjwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlN0YXRpc3RpY3M8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8cHVibGlzaGVyPmZpZ3NoYXJlPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkNyZWF0ZWQiPjIwMTktMDEtMjQ8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOS0xMC0wMzwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iQ29sbGVjdGlvbiI+Q29sbGVjdGlvbjwvcmVzb3VyY2VUeXBlPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNTdXBwbGVtZW50VG8iPjEwLjExODYvczEzMDYyLTAxOS0wMjMzLTE8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzSWRlbnRpY2FsVG8iPjEwLjYwODQvbTkuZmlnc2hhcmUuYy40Mzc2NjE4PC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLyI+Q0MgQlkgNC4wPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.ars",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "collection",
+                "type": "resource-types"
+            }
+        }
+    }
+}

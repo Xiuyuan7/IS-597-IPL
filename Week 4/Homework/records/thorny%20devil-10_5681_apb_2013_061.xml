@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-2.2 http://schema.datacite.org/meta/kernel-2.2/metadata.xsd">
+  <identifier identifierType="DOI">10.5681/apb.2013.061</identifier>
+  <creators>
+    <creator>
+      <creatorName>Ganjewala, Deepak</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Gupta, Ashish Kumar</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Study on Phytochemical Composition, Antibacterial and Antioxidant Properties of Different Parts of Alstonia scholaris Linn.</title>
+  </titles>
+  <publisher>Tabriz University of Medical Sciences</publisher>
+  <publicationYear>2013</publicationYear>
+  <subjects>
+    <subject subjectScheme="DDC">610 Medical sciences; Medicine</subject>
+  </subjects>
+  <dates>
+    <date dateType="Available">2013-08-20</date>
+  </dates>
+  <language>eng</language>
+  <resourceType resourceTypeGeneral="Text">JournalArticle</resourceType>
+  <formats>
+    <format>text/html</format>
+  </formats>
+  <rights>Creative Commons License [CC BY-NC-ND] http://creativecommons.org/licenses/by-nc-nd/3.0/de/</rights>
+  <descriptions>
+    <description descriptionType="Abstract">Purpose: To evaluate phytochemical composition, antibacterial and antioxidant properties of methanolic extracts of different parts viz., leaves, follicles and latex of Indian devil tree (Alstonia scholaris Linn.) R. Br. Methods: Antibacterial activities of the methanol extracts against Gram +ve (Bacillus subtilis and Staphylococcus aureus) and Gram -ve (Escherichia coli, Pseudomonas aeruginosa) bacteria were determined by well diffusion techniques. Aantioxidant profiles of methanol extracts were determined by 1,1-diphenyl-2-picryl-hydrazil (DPPH) free radical scavenging, superoxide anion radial scavenging and ferric thiocyanate reducing assays. Results: Phytochemical composition revealed abundance of flavonoids (97.3 mg QE/g DW), proanthocynidins (99.3 mg CE/g DW) and phenolics (49.7 mgGAE/g DW) in the leaf extract. Extracts of follicles and latex had comparatively very content of phenolics, flavonoids and proanthocyanidins. However, in follicle extract level of proanthocyanidins was significantly higher (46.8 mg CE/gDW). Latex extract among others exhibited most potent antibacterial activity. All the extracts displayed strong DPPH free radical and superoxide anion scavenging activities, only leaf extract displayed powerful reducing and ferrous ion chelating activities. Conclusion: Study revealed significant antioxidant activities of A. scholaris leaf, follicles and latex extracts and potential antibacterial activity of latex extract.</description>
+    <description descriptionType="SeriesInformation">Advanced Pharmaceutical Bulletin; eISSN 2251-7308</description>
+  </descriptions>
+</resource>

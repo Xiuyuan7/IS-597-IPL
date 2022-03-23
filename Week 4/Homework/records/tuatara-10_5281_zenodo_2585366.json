@@ -1,0 +1,85 @@
+{
+    "id": "https://doi.org/10.5281/zenodo.2585366",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5281/zenodo.2585366",
+        "identifier": "https://doi.org/10.5281/zenodo.2585366",
+        "url": "https://zenodo.org/record/2585366",
+        "author": [
+            {
+                "given": "Lu",
+                "family": "Zeng"
+            },
+            {
+                "given": "Valentina",
+                "family": "Peona"
+            },
+            {
+                "given": "Claire",
+                "family": "Peart"
+            },
+            {
+                "given": "Vera",
+                "family": "Warmuth"
+            },
+            {
+                "given": "Jose H",
+                "family": "Grau"
+            },
+            {
+                "given": "R Daniel",
+                "family": "Korschak"
+            },
+            {
+                "given": "Terry",
+                "family": "Bertozzi"
+            },
+            {
+                "given": "Alexander",
+                "family": "Suh"
+            },
+            {
+                "given": "David L",
+                "family": "Adelson"
+            }
+        ],
+        "title": "Tuatara (Sphenodon punctatus) ab initio interspersed repeat consensus sequences from the Tuatara genome assembly.",
+        "container-title": "Zenodo",
+        "description": "These repeat consensus sequences are part of the genome analysis of the Tuatara genome.",
+        "resource-type-subtype": null,
+        "data-center-id": "cern.zenodo",
+        "member-id": "cern",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-03-06T05:50:48.000Z",
+        "checked": null,
+        "updated": "2019-08-02T21:52:25.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41MjgxL1pFTk9ETy4yNTg1MzY2PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+WmVuZywgTHU8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkx1PC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlplbmc8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZy8iPjAwMDAtMDAwMS05MzgxLTc2OTA8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24+VW5pdmVyc2l0eSBvZiBBZGVsYWlkZTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlBlb25hLCBWYWxlbnRpbmE8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPlZhbGVudGluYTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5QZW9uYTwvZmFtaWx5TmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCIgc2NoZW1lVVJJPSJodHRwOi8vb3JjaWQub3JnLyI+MDAwMC0wMDAxLTUxMTktMTgzNzwvbmFtZUlkZW50aWZpZXI+CiAgICAgIDxhZmZpbGlhdGlvbj5VcHBzYWxhIFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5QZWFydCwgQ2xhaXJlPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5DbGFpcmU8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+UGVhcnQ8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZy8iPjAwMDAtMDAwMi0wNDMzLTAyOTk8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24+VXBwc2FsYSBVbml2ZXJzaXR5PC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+V2FybXV0aCwgVmVyYTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+VmVyYTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5XYXJtdXRoPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDItMDMwNS01MTI1PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPlVwcHNhbGEgVW5pdmVyc2l0eTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkdyYXUsIEpvc2UgSDwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+Sm9zZSBIPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkdyYXU8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZy8iPjAwMDAtMDAwMy00NTk1LTk1MTc8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24+TXVzZXVtIGbDvHIgTmF0dXJrdW5kZSBCZXJsaW48L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Lb3JzY2hhaywgUiBEYW5pZWw8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPlIgRGFuaWVsPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPktvcnNjaGFrPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDEtODI5NS0yMzAxPC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPkFkZWxhaWRlIFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5CZXJ0b3p6aSwgVGVycnk8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPlRlcnJ5PC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPkJlcnRvenppPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDEtNjY2NS0zMzk1PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPlNvdXRoIEF1c3RyYWxpYW4gTXVzZXVtPC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U3VoLCBBbGV4YW5kZXI8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkFsZXhhbmRlcjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5TdWg8L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZy8iPjAwMDAtMDAwMi04OTc5LTk5OTI8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24+VXBwc2FsYSBVbml2ZXJzaXR5PC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+QWRlbHNvbiwgRGF2aWQgTDwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+RGF2aWQgTDwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5BZGVsc29uPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDMtMjQwNC01NjM2PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPlVuaXZlcnNpdHkgb2YgQWRlbGFpZGU8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5UdWF0YXJhIChTcGhlbm9kb24gcHVuY3RhdHVzKSBhYiBpbml0aW8gaW50ZXJzcGVyc2VkIHJlcGVhdCBjb25zZW5zdXMgc2VxdWVuY2VzIGZyb20gdGhlIFR1YXRhcmEgZ2Vub21lIGFzc2VtYmx5LjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5aZW5vZG88L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5UdWF0YXJhPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+TElORTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlNJTkU8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5FUlY8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5yZXBlYXQ8L3N1YmplY3Q+CiAgICA8c3ViamVjdD50cmFuc3Bvc29uPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+VEU8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE5LTAzLTA2PC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiLz4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0idXJsIj5odHRwczovL3plbm9kby5vcmcvcmVjb3JkLzI1ODUzNjc8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9Ikhhc1ZlcnNpb24iPjEwLjUyODEvemVub2RvLjI1ODUzNjc8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzQuMC9sZWdhbGNvZGUiPkNyZWF0aXZlIENvbW1vbnMgQXR0cmlidXRpb24gNC4wIEludGVybmF0aW9uYWw8L3JpZ2h0cz4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJpbmZvOmV1LXJlcG8vc2VtYW50aWNzL29wZW5BY2Nlc3MiPk9wZW4gQWNjZXNzPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0PgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+Jmx0O3AmZ3Q7VGhlc2UgcmVwZWF0IGNvbnNlbnN1cyBzZXF1ZW5jZXMgYXJlIHBhcnQgb2YgdGhlIGdlbm9tZSBhbmFseXNpcyBvZiB0aGUgVHVhdGFyYSBnZW5vbWUuJmFtcDtuYnNwOyZsdDsvcCZndDs8L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPkdlbm9tZSBzZXF1ZW5jZS9hc3NlbWJseSBpcyBzdXBwb3J0ZWQgYnkgTmdhdGl3YWkgaXdpLCBBbGxhbiBXaWxzb24gQ2VudHJlLCBVbml2ZXJzaXR5IG9mIE90YWdvLCBOZXcgWmVhbGFuZCBHZW5vbWljcyBMaW1pdGVkLCBJbGx1bWluYSwgTmF0aW9uYWwgZVNjaWVuY2UgSW5mcmFzdHJ1Y3R1cmUgKE5lU0kgTlopLiBSZXBlYXQgd29yayBzdXBwb3J0ZWQgYnkgVW5pdmVyc2l0eSBvZiBBZGVsYWlkZSwgVXBwc2FsYSBVbml2ZXJzaXR5LCBTb3V0aCBBdXN0cmFsaWFuIE11c2V1bSBhbmQgTXVzZXVtIGbDvHIgTmF0dXJrdW5kZSBCZXJsaW4uPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cern.zenodo",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cern",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

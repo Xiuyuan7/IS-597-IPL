@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+ <identifier identifierType="DOI">10.15166/2499-8249/109</identifier>
+ <alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="URI">http://www.europeanpapers.eu/en/e-journal/regulatory-trust-eu-free-movement-law-adopting-the-level-of-protection-of-the-other</alternateIdentifier>
+ </alternateIdentifiers>
+ <creators>
+  <creator>
+   <creatorName>Groussot, Xavier</creatorName>
+  </creator>
+  <creator>
+   <creatorName>Thor Petursson, Gunnar</creatorName>
+  </creator>
+  <creator>
+   <creatorName>Wenander, Henrik</creatorName>
+  </creator>
+ </creators>
+ <titles>
+  <title>Regulatory Trust in EU Free Movement Law: Adopting the Level of Protection of the Other?</title>
+ </titles>
+ <publisher>European Papers (www.europeanpapers.eu)</publisher>
+ <publicationYear>2016</publicationYear>
+ <subjects>
+  <subject>mutual recognition</subject>
+  <subject>mutual trust</subject>
+  <subject>level of protection</subject>
+  <subject>regulation</subject>
+  <subject>free movement</subject>
+  <subject>internal market</subject>
+  <subject>Habermas</subject>
+ </subjects>
+ <contributors>
+  <contributor contributorType="HostingInstitution">
+   <contributorName>Research Centre for European Law, &quot;Unitelma Sapienza&quot; - University of Rome</contributorName>
+  </contributor>
+ </contributors>
+ <language>eng</language>
+ <resourceType resourceTypeGeneral="Text">Article</resourceType>
+ <formats>
+  <format>text/html</format>
+  <format>pdf</format>
+ </formats>
+ <rightsList>
+  <rights rightsURI="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</rights>
+ </rightsList>
+ <descriptions>
+  <description descriptionType="SeriesInformation">European Papers; Vol. 1, 2016, No 3; www.europeanpapers.eu; p. 865-892; ISSN 2499-8249</description>
+  <description descriptionType="Abstract">The principles of mutual trust and mutual recognition are well established features of EU law. On a technical level, it is clear that the principles may require adoption of foreign levels of protection in individual cases as well as in legislation. At a closer look, however, the principles through “the rule of reason” also may imply quite the opposite: the imposing of domestic requirements on foreign goods, services etc. The CJEU case law following the Cassis judgement may be seen as striking a balance between cooperation and Member State self-determination, or between trust and distrust, in different fields. This contribution aims at looking into the regulatory function of the legal principle of trust in EU law. Taking this wider regulatory perspective, the mutual recognition regimes of EU must be seen from a holistic perspective. Rather than dwelling upon harmonized and non-harmonized fields separately, we will approach mutual trust as one, albeit multifaceted, concept, where harmonization, proportionality assessments and Member State actions in various fields of law form part of the same wider picture. In this regulatory perspective, the law on mutual trust and mutual recognition may be seen as a balancing between the regulatory interests of the EU (promoting free movement and cooperation) and the various Member States (promoting their interests of – alleged – protection of safety of various kinds). Through this perspective, we will be able to address the tension between regulation and deregulation, between integration and disintegration, and between unity and diversity present in EU law on a very general level. The first sec-tion of this contribution will look at the constitutional life of mutual trust within the CJEU case law: looking at its origins and main logic. The second section will attempt to clarify why the principle of mutual trust is mostly invisible in the free movement jurisprudence. This section also argues for understanding mutual recognition in terms of Regulatory Trust. The last section focuses on the thorny issue of the levels of protection and attempts to understand which are the key factors used by the CJEU in reviewing the (host) States measures that restrict free movement law and thus may constitute a break to the application of the principles of mutual trust and mutual recognition.</description>
+  <description descriptionType="TableOfContents">I. Introduction. – II. The constitutional life of mutual trust. – III. Of regulatory trust and mutual recognition. – III.1. Clarifying the invisibility of mutual trust. – III.2. The normativity of regulatory trust. – IV. Adopting or rejecting the level of protection of the other. – IV.1. Mutual recognition and the conundrum of the level of protection. – IV.2. Which are the prevailing factors when reviewing restrictive measures? – V. Concluding remarks: mutual trust as a regulatory principle.</description>
+ </descriptions>
+</resource>

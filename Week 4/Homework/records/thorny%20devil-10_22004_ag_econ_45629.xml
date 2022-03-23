@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.22004/AG.ECON.45629</identifier>
+  <creators>
+    <creator>
+      <creatorName>Hobbs, Jill E.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Plunkett, Marni D.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Hobbs, Jill E.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Plunkett, Marni D.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>GMOs: The Economics of Consumer Food Safety Issues</title>
+  </titles>
+  <publisher>Unknown</publisher>
+  <publicationYear>2000</publicationYear>
+  <subjects>
+    <subject>Agricultural and Food Policy</subject>
+    <subject>Food Consumption/Nutrition/Food Safety</subject>
+  </subjects>
+  <dates>
+    <date dateType="Updated">2019-08-25T01:30:37.0-05:00</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">The controversy over genetically modified (GM) foods has swept across Europe and is beginning to make inroads into the North American consumer market. It is set to become a thorny trade issue between the European Union (EU) and the United States. The issue is important, not least because of the potential scale of the problem. There has been a rapid adoption of GM crops by U.S. corn and soybean and Canadian canola producers. Approximately 57 percent of the U.S. soybean harvested acreage in 1999 was in herbicide-tolerant GM varieties (ERS). Soya is a staple in food processing, with approximately 60 percent of processed foods containing soya or soya derivatives. Canola is an important crop on the Canadian prairies. Although estimates vary, the percentage of canola seeded to GM varieties may have been 60 percent in 1999 (Western Producer, 1999). The entire canola industry has lost its access to the EU market because GM canola is not approved for entry to that market. This paper explores the nature and origins of the GM food safety concerns of consumers, assesses the problem within a theoretical frame work and discusses some public policy solutions.</description>
+  </descriptions>
+</resource>

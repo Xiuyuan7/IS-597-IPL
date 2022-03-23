@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.5281/zenodo.3364358",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5281/zenodo.3364358",
+        "identifier": "https://doi.org/10.5281/zenodo.3364358",
+        "url": "https://zenodo.org/record/3364358",
+        "author": [
+            {
+                "given": "Olesea",
+                "family": "G\u00e2rlea"
+            }
+        ],
+        "title": "Rostul lui Dumnezeu \u0219i implica\u021bia diavolului \u00een aforismele lui Grigore Vieru",
+        "container-title": "Zenodo",
+        "description": "The Good and the Evil as factors of evolution and the development of inter-human relations, progress and regression, were concretized by two archetypal images, by two concrete metonymized or personified representations. The God, as the positive energy representative and the devil as opposed to it. The article has as an axis of analysis the aphorisms of Grigore Vieru, in which appears the divine and the worldly experiences. The massive presence of aphorisms in which the name of God appears denotes the profoundly Christian education of the poet, the omnipresence of God by the status of universe creator, there are visible attempts to define God by recognizing and valuing the Romanian values, by invoking the divinity, the stereotype and the Romanians output of patterns, the unfavorable historical conjuncture, etc.<br> Several dionisyac hypostases are reflected by the woman\u2019s image, the physical and the metaphysical aspect of devil, a representative spirit of maximum vigilance, with multiple faces and temptations. We have identified different relationships between God and devil in Grigore Vieru\u2019 aphorisms, especially the co-operation, interdependence and adversity.",
+        "resource-type-subtype": "Journal article",
+        "data-center-id": "cern.zenodo",
+        "member-id": "cern",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-08-22T19:36:17.000Z",
+        "checked": null,
+        "updated": "2019-08-22T19:36:17.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41MjgxL1pFTk9ETy4zMzY0MzU4PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+R8OicmxlYSwgT2xlc2VhPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5PbGVzZWE8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+R8OicmxlYTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+Um9zdHVsIGx1aSBEdW1uZXpldSDImWkgaW1wbGljYcibaWEgZGlhdm9sdWx1aSDDrm4gYWZvcmlzbWVsZSBsdWkgR3JpZ29yZSBWaWVydTwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5aZW5vZG88L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5BcG9sbG9uaWFuPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+RGlvbnlzaWFjPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+aWRlbnRpdHk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5kZW1vbml6YXRpb248L3N1YmplY3Q+CiAgICA8c3ViamVjdD5tYXNrPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+Z29vZDwvc3ViamVjdD4KICAgIDxzdWJqZWN0PmV2aWw8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE5LTA4LTA5PC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPnJvPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPkpvdXJuYWwgYXJ0aWNsZTwvcmVzb3VyY2VUeXBlPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJ1cmwiPmh0dHBzOi8vemVub2RvLm9yZy9yZWNvcmQvMzM2NDM1OTwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSGFzVmVyc2lvbiI+MTAuNTI4MS96ZW5vZG8uMzM2NDM1OTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJVUkwiIHJlbGF0aW9uVHlwZT0iSXNQYXJ0T2YiPmh0dHBzOi8vemVub2RvLm9yZy9jb21tdW5pdGllcy9ha2FkZW1vczwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wL2xlZ2FsY29kZSI+Q3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbDwvcmlnaHRzPgogICAgPHJpZ2h0cyByaWdodHNVUkk9ImluZm86ZXUtcmVwby9zZW1hbnRpY3Mvb3BlbkFjY2VzcyI+T3BlbiBBY2Nlc3M8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij4mbHQ7cCZndDtUaGUgR29vZCBhbmQgdGhlIEV2aWwgYXMgZmFjdG9ycyBvZiBldm9sdXRpb24gYW5kIHRoZSBkZXZlbG9wbWVudCBvZiBpbnRlci1odW1hbiByZWxhdGlvbnMsIHByb2dyZXNzJmFtcDtuYnNwO2FuZCByZWdyZXNzaW9uLCB3ZXJlIGNvbmNyZXRpemVkIGJ5IHR3byBhcmNoZXR5cGFsIGltYWdlcywgYnkgdHdvIGNvbmNyZXRlIG1ldG9ueW1pemVkIG9yIHBlcnNvbmlmaWVkIHJlcHJlc2VudGF0aW9ucy4mYW1wO25ic3A7VGhlIEdvZCwgYXMgdGhlIHBvc2l0aXZlIGVuZXJneSByZXByZXNlbnRhdGl2ZSBhbmQgdGhlIGRldmlsIGFzIG9wcG9zZWQgdG8gaXQuIFRoZSBhcnRpY2xlIGhhcyBhcyBhbiBheGlzIG9mIGFuYWx5c2lzJmFtcDtuYnNwO3RoZSBhcGhvcmlzbXMgb2YgR3JpZ29yZSBWaWVydSwgaW4gd2hpY2ggYXBwZWFycyB0aGUgZGl2aW5lIGFuZCB0aGUgd29ybGRseSBleHBlcmllbmNlcy4gVGhlIG1hc3NpdmUgcHJlc2VuY2Ugb2YgYXBob3Jpc21zJmFtcDtuYnNwO2luIHdoaWNoIHRoZSBuYW1lIG9mIEdvZCBhcHBlYXJzIGRlbm90ZXMgdGhlIHByb2ZvdW5kbHkgQ2hyaXN0aWFuIGVkdWNhdGlvbiBvZiB0aGUgcG9ldCwgdGhlIG9tbmlwcmVzZW5jZSBvZiZhbXA7bmJzcDtHb2QgYnkgdGhlIHN0YXR1cyBvZiB1bml2ZXJzZSBjcmVhdG9yLCB0aGVyZSBhcmUgdmlzaWJsZSBhdHRlbXB0cyB0byBkZWZpbmUgR29kIGJ5IHJlY29nbml6aW5nIGFuZCB2YWx1aW5nIHRoZSBSb21hbmlhbiZhbXA7bmJzcDt2YWx1ZXMsIGJ5IGludm9raW5nIHRoZSBkaXZpbml0eSwgdGhlIHN0ZXJlb3R5cGUgYW5kIHRoZSBSb21hbmlhbnMgb3V0cHV0IG9mIHBhdHRlcm5zLCB0aGUgdW5mYXZvcmFibGUgaGlzdG9yaWNhbCBjb25qdW5jdHVyZSwmYW1wO25ic3A7ZXRjLiZsdDticiZndDsKU2V2ZXJhbCBkaW9uaXN5YWMgaHlwb3N0YXNlcyBhcmUgcmVmbGVjdGVkIGJ5IHRoZSB3b21hbiZhbXA7cnNxdW87cyBpbWFnZSwgdGhlIHBoeXNpY2FsIGFuZCB0aGUgbWV0YXBoeXNpY2FsIGFzcGVjdCBvZiBkZXZpbCwmYW1wO25ic3A7YSByZXByZXNlbnRhdGl2ZSBzcGlyaXQgb2YgbWF4aW11bSB2aWdpbGFuY2UsIHdpdGggbXVsdGlwbGUgZmFjZXMgYW5kIHRlbXB0YXRpb25zLiBXZSBoYXZlIGlkZW50aWZpZWQgZGlmZmVyZW50IHJlbGF0aW9uc2hpcHMmYW1wO25ic3A7YmV0d2VlbiBHb2QgYW5kIGRldmlsIGluIEdyaWdvcmUgVmllcnUmYW1wO3JzcXVvOyBhcGhvcmlzbXMsIGVzcGVjaWFsbHkgdGhlIGNvLW9wZXJhdGlvbiwgaW50ZXJkZXBlbmRlbmNlIGFuZCBhZHZlcnNpdHkuJmx0Oy9wJmd0OzwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cern.zenodo",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cern",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

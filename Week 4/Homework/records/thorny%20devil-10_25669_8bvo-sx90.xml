@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25669/8BVO-SX90</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">White, Tommi Louise</creatorName>
+      <givenName>Tommi Louise</givenName>
+      <familyName>White</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>"Holy dwarves" and "devil babies":  An anthropological world-survey of stigmatization of the disabled</title>
+  </titles>
+  <publisher>University of Nevada, Las Vegas</publisher>
+  <publicationYear>2001</publicationYear>
+  <resourceType resourceTypeGeneral="Text">thesis</resourceType>
+  <version/>
+</resource>

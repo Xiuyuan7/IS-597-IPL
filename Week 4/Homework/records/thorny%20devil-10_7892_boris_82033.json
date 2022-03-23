@@ -1,0 +1,97 @@
+{
+    "id": "https://doi.org/10.7892/boris.82033",
+    "type": "works",
+    "attributes": {
+        "doi": "10.7892/boris.82033",
+        "identifier": "https://doi.org/10.7892/boris.82033",
+        "url": "https://boris.unibe.ch/82033/",
+        "author": [
+            {
+                "given": "Willy",
+                "family": "Tinner"
+            },
+            {
+                "given": "Elisa",
+                "family": "Vescovi"
+            },
+            {
+                "given": "Jacqueline F. N.",
+                "family": "Van Leeuwen"
+            },
+            {
+                "given": "Daniele",
+                "family": "Colombaroli"
+            },
+            {
+                "given": "Paul Daniel",
+                "family": "Henne"
+            },
+            {
+                "given": "Petra",
+                "family": "Boltshauser-Kaltenrieder"
+            },
+            {
+                "given": "C\u00e9sar",
+                "family": "Morales Del Molino"
+            },
+            {
+                "given": "Giorgia Zoe",
+                "family": "Beffa"
+            },
+            {
+                "given": "Bettina",
+                "family": "Gnaegi"
+            },
+            {
+                "given": "Willem Oscar",
+                "family": "Van Der Knaap"
+            },
+            {
+                "given": "Tommaso",
+                "family": "La Mantia"
+            },
+            {
+                "given": "Salvatore",
+                "family": "Pasta"
+            }
+        ],
+        "title": "Holocene vegetation and fire history of the mountains of Northern Sicily (Italy)",
+        "container-title": "Springer",
+        "description": "Knowledge about vegetation and fire history of the mountains of Northern Sicily is scanty. We analysed five sites to fill this gap and used terrestrial plant macrofossils to establish robust radiocarbon chronologies. Palynological records from Gorgo Tondo, Gorgo Lungo, Marcato Cix\u00e9, Urgo Pietra Giordano and Gorgo Pollicino show that under natural or near natural conditions, deciduous forests (Quercus pubescens, Q. cerris, Fraxinus ornus, Ulmus), that included a substantial portion of evergreen broadleaved species (Q. suber, Q. ilex, Hedera helix), prevailed in the upper meso-mediterranean belt. Mesophilous deciduous and evergreen broadleaved trees (Fagus sylvatica, Ilex aquifolium) dominated in the natural or quasi-natural forests of the oro-mediterranean belt. Forests were repeatedly opened for agricultural purposes. Fire activity was closely associated with farming, providing evidence that burning was a primary land use tool since Neolithic times. Land use and fire activity intensified during the Early Neolithic at 5000 bc, at the onset of the Bronze Age at 2500 bc and at the onset of the Iron Age at 800 bc. Our data and previous studies suggest that the large majority of open land communities in Sicily, from the coastal lowlands to the mountain areas below the thorny-cushion Astragalus belt (ca. 1,800 m a.s.l.), would rapidly develop into forests if land use ceased. Mesophilous Fagus-Ilex forests developed under warm mid Holocene conditions and were resilient to the combined impacts of humans and climate. The past ecology suggests a resilience of these summer-drought adapted communities to climate warming of about 2 \u00b0C. Hence, they may be particularly suited to provide heat and drought-adapted Fagus sylvatica ecotypes for maintaining drought-sensitive Central European beech forests under global warming conditions.",
+        "resource-type-subtype": null,
+        "data-center-id": "ethz.boris",
+        "member-id": "ethz",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2016",
+        "registered": "2016-05-20T04:00:10.000Z",
+        "checked": null,
+        "updated": "2019-08-27T04:00:44.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC43ODkyL0JPUklTLjgyMDMzPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VGlubmVyLCBXaWxseTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlZlc2NvdmksIEVsaXNhPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+dmFuIExlZXV3ZW4sIEphY3F1ZWxpbmUgRi4gTi48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Db2xvbWJhcm9saSwgRGFuaWVsZTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkhlbm5lLCBQYXVsIERhbmllbDwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkJvbHRzaGF1c2VyLUthbHRlbnJpZWRlciwgUGV0cmE8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Nb3JhbGVzIGRlbCBNb2xpbm8sIEPDqXNhcjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkJlZmZhLCBHaW9yZ2lhIFpvZTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkduYWVnaSwgQmV0dGluYTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPnZhbiBkZXIgS25hYXAsIFdpbGxlbSBPc2NhcjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkxhIE1hbnRpYSwgVG9tbWFzbzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlBhc3RhLCBTYWx2YXRvcmU8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5Ib2xvY2VuZSB2ZWdldGF0aW9uIGFuZCBmaXJlIGhpc3Rvcnkgb2YgdGhlIG1vdW50YWlucyBvZiBOb3J0aGVybiBTaWNpbHkgKEl0YWx5KTwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5TcHJpbmdlcjwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxNjwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0PjU4MCBQbGFudHMgKEJvdGFueSk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD41NzAgTGlmZSBzY2llbmNlczsgYmlvbG9neTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJBdmFpbGFibGUiPjIwMTYtMDk8L2RhdGU+CiAgPC9kYXRlcz4KICA8bGFuZ3VhZ2U+ZW5nPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiLz4KICA8Zm9ybWF0cz4KICAgIDxmb3JtYXQ+YXBwbGljYXRpb24vcGRmPC9mb3JtYXQ+CiAgPC9mb3JtYXRzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cz5pbmZvOmV1LXJlcG8vc2VtYW50aWNzL3Jlc3RyaWN0ZWRBY2Nlc3M8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9Ik90aGVyIj5Lbm93bGVkZ2UgYWJvdXQgdmVnZXRhdGlvbiBhbmQgZmlyZSBoaXN0b3J5IG9mIHRoZSBtb3VudGFpbnMgb2YgTm9ydGhlcm4gU2ljaWx5IGlzIHNjYW50eS4gV2UgYW5hbHlzZWQgZml2ZSBzaXRlcyB0byBmaWxsIHRoaXMgZ2FwIGFuZCB1c2VkIHRlcnJlc3RyaWFsIHBsYW50IG1hY3JvZm9zc2lscyB0byBlc3RhYmxpc2ggcm9idXN0IHJhZGlvY2FyYm9uIGNocm9ub2xvZ2llcy4gUGFseW5vbG9naWNhbCByZWNvcmRzIGZyb20gR29yZ28gVG9uZG8sIEdvcmdvIEx1bmdvLCBNYXJjYXRvIENpeMOpLCBVcmdvIFBpZXRyYSBHaW9yZGFubyBhbmQgR29yZ28gUG9sbGljaW5vIHNob3cgdGhhdCB1bmRlciBuYXR1cmFsIG9yIG5lYXIgbmF0dXJhbCBjb25kaXRpb25zLCBkZWNpZHVvdXMgZm9yZXN0cyAoUXVlcmN1cyBwdWJlc2NlbnMsIFEuIGNlcnJpcywgRnJheGludXMgb3JudXMsIFVsbXVzKSwgdGhhdCBpbmNsdWRlZCBhIHN1YnN0YW50aWFsIHBvcnRpb24gb2YgZXZlcmdyZWVuIGJyb2FkbGVhdmVkIHNwZWNpZXMgKFEuIHN1YmVyLCBRLiBpbGV4LCBIZWRlcmEgaGVsaXgpLCBwcmV2YWlsZWQgaW4gdGhlIHVwcGVyIG1lc28tbWVkaXRlcnJhbmVhbiBiZWx0LiBNZXNvcGhpbG91cyBkZWNpZHVvdXMgYW5kIGV2ZXJncmVlbiBicm9hZGxlYXZlZCB0cmVlcyAoRmFndXMgc3lsdmF0aWNhLCBJbGV4IGFxdWlmb2xpdW0pIGRvbWluYXRlZCBpbiB0aGUgbmF0dXJhbCBvciBxdWFzaS1uYXR1cmFsIGZvcmVzdHMgb2YgdGhlIG9yby1tZWRpdGVycmFuZWFuIGJlbHQuIEZvcmVzdHMgd2VyZSByZXBlYXRlZGx5IG9wZW5lZCBmb3IgYWdyaWN1bHR1cmFsIHB1cnBvc2VzLiBGaXJlIGFjdGl2aXR5IHdhcyBjbG9zZWx5IGFzc29jaWF0ZWQgd2l0aCBmYXJtaW5nLCBwcm92aWRpbmcgZXZpZGVuY2UgdGhhdCBidXJuaW5nIHdhcyBhIHByaW1hcnkgbGFuZCB1c2UgdG9vbCBzaW5jZSBOZW9saXRoaWMgdGltZXMuIExhbmQgdXNlIGFuZCBmaXJlIGFjdGl2aXR5IGludGVuc2lmaWVkIGR1cmluZyB0aGUgRWFybHkgTmVvbGl0aGljIGF0IDUwMDAgYmMsIGF0IHRoZSBvbnNldCBvZiB0aGUgQnJvbnplIEFnZSBhdCAyNTAwIGJjIGFuZCBhdCB0aGUgb25zZXQgb2YgdGhlIElyb24gQWdlIGF0IDgwMCBiYy4gT3VyIGRhdGEgYW5kIHByZXZpb3VzIHN0dWRpZXMgc3VnZ2VzdCB0aGF0IHRoZSBsYXJnZSBtYWpvcml0eSBvZiBvcGVuIGxhbmQgY29tbXVuaXRpZXMgaW4gU2ljaWx5LCBmcm9tIHRoZSBjb2FzdGFsIGxvd2xhbmRzIHRvIHRoZSBtb3VudGFpbiBhcmVhcyBiZWxvdyB0aGUgdGhvcm55LWN1c2hpb24gQXN0cmFnYWx1cyBiZWx0IChjYS4gMSw4MDAgbSBhLnMubC4pLCB3b3VsZCByYXBpZGx5IGRldmVsb3AgaW50byBmb3Jlc3RzIGlmIGxhbmQgdXNlIGNlYXNlZC4gTWVzb3BoaWxvdXMgRmFndXMtSWxleCBmb3Jlc3RzIGRldmVsb3BlZCB1bmRlciB3YXJtIG1pZCBIb2xvY2VuZSBjb25kaXRpb25zIGFuZCB3ZXJlIHJlc2lsaWVudCB0byB0aGUgY29tYmluZWQgaW1wYWN0cyBvZiBodW1hbnMgYW5kIGNsaW1hdGUuIFRoZSBwYXN0IGVjb2xvZ3kgc3VnZ2VzdHMgYSByZXNpbGllbmNlIG9mIHRoZXNlIHN1bW1lci1kcm91Z2h0IGFkYXB0ZWQgY29tbXVuaXRpZXMgdG8gY2xpbWF0ZSB3YXJtaW5nIG9mIGFib3V0IDIgwrBDLiBIZW5jZSwgdGhleSBtYXkgYmUgcGFydGljdWxhcmx5IHN1aXRlZCB0byBwcm92aWRlIGhlYXQgYW5kIGRyb3VnaHQtYWRhcHRlZCBGYWd1cyBzeWx2YXRpY2EgZWNvdHlwZXMgZm9yIG1haW50YWluaW5nIGRyb3VnaHQtc2Vuc2l0aXZlIENlbnRyYWwgRXVyb3BlYW4gYmVlY2ggZm9yZXN0cyB1bmRlciBnbG9iYWwgd2FybWluZyBjb25kaXRpb25zLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ethz.boris",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ethz",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

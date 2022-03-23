@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25602/GOLD.V.V1I2.518.G636</identifier>
+  <creators>
+    <creator>
+      <creatorName>Condé, Alice</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Gossling, Jessica</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The Devil in the Detail: An Introduction to Decadent Occultism from the Editors</title>
+  </titles>
+  <publisher>Volupté</publisher>
+  <publicationYear>2018</publicationYear>
+  <dates>
+    <date dateType="Accepted">2018-12-21</date>
+    <date dateType="Updated">2018-12-21</date>
+    <date dateType="Issued">2018-12-21</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="publisherId">10-44-518-g636</alternateIdentifier>
+  </alternateIdentifiers>
+  <sizes>
+    <size>397KB</size>
+  </sizes>
+  <formats>
+    <format>application/pdf</format>
+  </formats>
+  <descriptions>
+    <description descriptionType="SeriesInformation">Volupté, Vol 1 No 2 (2018): Decadence, Magic(k), and the Occult</description>
+  </descriptions>
+</resource>

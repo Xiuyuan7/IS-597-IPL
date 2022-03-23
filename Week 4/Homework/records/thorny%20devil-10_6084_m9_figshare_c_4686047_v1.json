@@ -1,0 +1,77 @@
+{
+    "id": "https://doi.org/10.6084/m9.figshare.c.4686047.v1",
+    "type": "works",
+    "attributes": {
+        "doi": "10.6084/m9.figshare.c.4686047.v1",
+        "identifier": "https://doi.org/10.6084/m9.figshare.c.4686047.v1",
+        "url": "https://springernature.figshare.com/collections/Looking_like_the_locals_-_gut_microbiome_changes_post-release_in_an_endangered_species/4686047/1",
+        "author": [
+            {
+                "given": "Rowena",
+                "family": "Chong"
+            },
+            {
+                "given": "Catherine",
+                "family": "Grueber"
+            },
+            {
+                "given": "Samantha",
+                "family": "Fox"
+            },
+            {
+                "given": "Phil",
+                "family": "Wise"
+            },
+            {
+                "given": "Vanessa",
+                "family": "Barrs"
+            },
+            {
+                "given": "Carolyn",
+                "family": "Hogg"
+            },
+            {
+                "given": "Katherine",
+                "family": "Belov"
+            }
+        ],
+        "title": "Looking like the locals - gut microbiome changes post-release in an endangered species",
+        "container-title": "figshare",
+        "description": "Abstract Background Captivity presents extreme lifestyle changes relative to the wild, and evidence of microbiome dysbiosis in captive animals is growing. The gut microbiome plays a crucial role in host health. Whilst captive breeding and subsequent reintroduction to the wild is important for conservation, such efforts often have limited success. Post-release monitoring is essential for assessing translocation success, but changes to the microbiome of released individuals are poorly understood. The Tasmanian devil was previously shown to exhibit loss of microbiome diversity as a result of intense captive management. This current study examines changes in the devil gut microbiome in response to translocation and aims to determine if perturbations from captivity are permanent or reversible. Methods Using 16S rRNA amplicon sequencing, we conducted temporal monitoring of the gut microbiome of released devils during two translocation events, captive-to-wild and wild-to-wild. To investigate whether the microbiome of the released devils changed following translocation, we characterized their microbiome at multiple time points during the translocation process over the course of 6\u00e2 12\u00e2 months and compared them to the microbiome of wild incumbent devils (resident wild-born devils at the respective release sites). Results We showed that the pre-release microbiome was significantly different to the microbiome of wild incumbent animals, but that the microbiomes of animals post-release (as early as 3 to 4\u00e2 weeks post-release) were similar to wild incumbents. The gut microbiome of released animals showed significant compositional shifts toward the wild incumbent microbiome of both translocation events. Conclusion Our results suggest that the devil gut microbiome is dynamic and that loss of microbiome diversity in captivity can be restored following release to the wild. We recommend the broader application of microbiome monitoring in wildlife translocation programs to assess the impacts of translocation on animal microbiomes.",
+        "resource-type-subtype": "Collection",
+        "data-center-id": "figshare.ars",
+        "member-id": "figshare",
+        "resource-type-id": "collection",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-10-03T04:53:25.000Z",
+        "checked": null,
+        "updated": "2019-10-03T04:53:25.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC42MDg0L005LkZJR1NIQVJFLkMuNDY4NjA0Ny5WMTwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlJvd2VuYSBDaG9uZzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkNhdGhlcmluZSBHcnVlYmVyPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U2FtYW50aGEgRm94PC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+UGhpbCBXaXNlPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VmFuZXNzYSBCYXJyczwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkNhcm9seW4gSG9nZzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkthdGhlcmluZSBCZWxvdjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkxvb2tpbmcgbGlrZSB0aGUgbG9jYWxzIC0gZ3V0IG1pY3JvYmlvbWUgY2hhbmdlcyBwb3N0LXJlbGVhc2UgaW4gYW4gZW5kYW5nZXJlZCBzcGVjaWVzPC90aXRsZT4KICA8L3RpdGxlcz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkFic3RyYWN0IEJhY2tncm91bmQgQ2FwdGl2aXR5IHByZXNlbnRzIGV4dHJlbWUgbGlmZXN0eWxlIGNoYW5nZXMgcmVsYXRpdmUgdG8gdGhlIHdpbGQsIGFuZCBldmlkZW5jZSBvZiBtaWNyb2Jpb21lIGR5c2Jpb3NpcyBpbiBjYXB0aXZlIGFuaW1hbHMgaXMgZ3Jvd2luZy4gVGhlIGd1dCBtaWNyb2Jpb21lIHBsYXlzIGEgY3J1Y2lhbCByb2xlIGluIGhvc3QgaGVhbHRoLiBXaGlsc3QgY2FwdGl2ZSBicmVlZGluZyBhbmQgc3Vic2VxdWVudCByZWludHJvZHVjdGlvbiB0byB0aGUgd2lsZCBpcyBpbXBvcnRhbnQgZm9yIGNvbnNlcnZhdGlvbiwgc3VjaCBlZmZvcnRzIG9mdGVuIGhhdmUgbGltaXRlZCBzdWNjZXNzLiBQb3N0LXJlbGVhc2UgbW9uaXRvcmluZyBpcyBlc3NlbnRpYWwgZm9yIGFzc2Vzc2luZyB0cmFuc2xvY2F0aW9uIHN1Y2Nlc3MsIGJ1dCBjaGFuZ2VzIHRvIHRoZSBtaWNyb2Jpb21lIG9mIHJlbGVhc2VkIGluZGl2aWR1YWxzIGFyZSBwb29ybHkgdW5kZXJzdG9vZC4gVGhlIFRhc21hbmlhbiBkZXZpbCB3YXMgcHJldmlvdXNseSBzaG93biB0byBleGhpYml0IGxvc3Mgb2YgbWljcm9iaW9tZSBkaXZlcnNpdHkgYXMgYSByZXN1bHQgb2YgaW50ZW5zZSBjYXB0aXZlIG1hbmFnZW1lbnQuIFRoaXMgY3VycmVudCBzdHVkeSBleGFtaW5lcyBjaGFuZ2VzIGluIHRoZSBkZXZpbCBndXQgbWljcm9iaW9tZSBpbiByZXNwb25zZSB0byB0cmFuc2xvY2F0aW9uIGFuZCBhaW1zIHRvIGRldGVybWluZSBpZiBwZXJ0dXJiYXRpb25zIGZyb20gY2FwdGl2aXR5IGFyZSBwZXJtYW5lbnQgb3IgcmV2ZXJzaWJsZS4gTWV0aG9kcyBVc2luZyAxNlMgclJOQSBhbXBsaWNvbiBzZXF1ZW5jaW5nLCB3ZSBjb25kdWN0ZWQgdGVtcG9yYWwgbW9uaXRvcmluZyBvZiB0aGUgZ3V0IG1pY3JvYmlvbWUgb2YgcmVsZWFzZWQgZGV2aWxzIGR1cmluZyB0d28gdHJhbnNsb2NhdGlvbiBldmVudHMsIGNhcHRpdmUtdG8td2lsZCBhbmQgd2lsZC10by13aWxkLiBUbyBpbnZlc3RpZ2F0ZSB3aGV0aGVyIHRoZSBtaWNyb2Jpb21lIG9mIHRoZSByZWxlYXNlZCBkZXZpbHMgY2hhbmdlZCBmb2xsb3dpbmcgdHJhbnNsb2NhdGlvbiwgd2UgY2hhcmFjdGVyaXplZCB0aGVpciBtaWNyb2Jpb21lIGF0IG11bHRpcGxlIHRpbWUgcG9pbnRzIGR1cmluZyB0aGUgdHJhbnNsb2NhdGlvbiBwcm9jZXNzIG92ZXIgdGhlIGNvdXJzZSBvZiA2w6IgIDEyw6IgIG1vbnRocyBhbmQgY29tcGFyZWQgdGhlbSB0byB0aGUgbWljcm9iaW9tZSBvZiB3aWxkIGluY3VtYmVudCBkZXZpbHMgKHJlc2lkZW50IHdpbGQtYm9ybiBkZXZpbHMgYXQgdGhlIHJlc3BlY3RpdmUgcmVsZWFzZSBzaXRlcykuIFJlc3VsdHMgV2Ugc2hvd2VkIHRoYXQgdGhlIHByZS1yZWxlYXNlIG1pY3JvYmlvbWUgd2FzIHNpZ25pZmljYW50bHkgZGlmZmVyZW50IHRvIHRoZSBtaWNyb2Jpb21lIG9mIHdpbGQgaW5jdW1iZW50IGFuaW1hbHMsIGJ1dCB0aGF0IHRoZSBtaWNyb2Jpb21lcyBvZiBhbmltYWxzIHBvc3QtcmVsZWFzZSAoYXMgZWFybHkgYXMgMyB0byA0w6IgIHdlZWtzIHBvc3QtcmVsZWFzZSkgd2VyZSBzaW1pbGFyIHRvIHdpbGQgaW5jdW1iZW50cy4gVGhlIGd1dCBtaWNyb2Jpb21lIG9mIHJlbGVhc2VkIGFuaW1hbHMgc2hvd2VkIHNpZ25pZmljYW50IGNvbXBvc2l0aW9uYWwgc2hpZnRzIHRvd2FyZCB0aGUgd2lsZCBpbmN1bWJlbnQgbWljcm9iaW9tZSBvZiBib3RoIHRyYW5zbG9jYXRpb24gZXZlbnRzLiBDb25jbHVzaW9uIE91ciByZXN1bHRzIHN1Z2dlc3QgdGhhdCB0aGUgZGV2aWwgZ3V0IG1pY3JvYmlvbWUgaXMgZHluYW1pYyBhbmQgdGhhdCBsb3NzIG9mIG1pY3JvYmlvbWUgZGl2ZXJzaXR5IGluIGNhcHRpdml0eSBjYW4gYmUgcmVzdG9yZWQgZm9sbG93aW5nIHJlbGVhc2UgdG8gdGhlIHdpbGQuIFdlIHJlY29tbWVuZCB0aGUgYnJvYWRlciBhcHBsaWNhdGlvbiBvZiBtaWNyb2Jpb21lIG1vbml0b3JpbmcgaW4gd2lsZGxpZmUgdHJhbnNsb2NhdGlvbiBwcm9ncmFtcyB0byBhc3Nlc3MgdGhlIGltcGFjdHMgb2YgdHJhbnNsb2NhdGlvbiBvbiBhbmltYWwgbWljcm9iaW9tZXMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5CaW9jaGVtaXN0cnk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5NaWNyb2Jpb2xvZ3k8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5DZWxsIEJpb2xvZ3k8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5HZW5ldGljczwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlBoeXNpb2xvZ3k8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5FY29sb2d5PC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc2NoZW1lVVJJPSJodHRwOi8vd3d3LmFicy5nb3YuYXUvYXVzc3RhdHMvYWJzQC5uc2YvMC82QkI0MjdBQjk2OTZDMjI1Q0EyNTc0MTgwMDA0NDYzRSIgc3ViamVjdFNjaGVtZT0iRk9SIj42OTk5OSBCaW9sb2dpY2FsIFNjaWVuY2VzIG5vdCBlbHNld2hlcmUgY2xhc3NpZmllZDwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pklub3JnYW5pYyBDaGVtaXN0cnk8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8cHVibGlzaGVyPmZpZ3NoYXJlPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkNyZWF0ZWQiPjIwMTktMTAtMDM8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOS0xMC0wMzwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iQ29sbGVjdGlvbiI+Q29sbGVjdGlvbjwvcmVzb3VyY2VUeXBlPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNTdXBwbGVtZW50VG8iPjEwLjExODYvczQyNTIzLTAxOS0wMDEyLTQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzSWRlbnRpY2FsVG8iPjEwLjYwODQvbTkuZmlnc2hhcmUuYy40Njg2MDQ3PC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLyI+Q0MgQlkgNC4wPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.ars",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "collection",
+                "type": "resource-types"
+            }
+        }
+    }
+}

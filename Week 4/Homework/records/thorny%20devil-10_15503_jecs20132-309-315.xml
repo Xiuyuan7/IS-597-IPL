@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">  
+  <identifier identifierType="DOI">10.15503/jecs20132-309-315</identifier>  
+  <creators> 
+    <creator> 
+      <creatorName>ANNA BRZEZIŃSKA</creatorName> 
+    </creator> 
+  </creators>  
+  <titles> 
+    <title>Mystification in Czech cinematography and Czech culture</title> 
+  </titles>  
+  <publisher>Journal of Education Culture and Society</publisher>  
+  <publicationYear>2013</publicationYear>  
+  <subjects> 
+    <subject>hoax</subject>  
+    <subject>mystification</subject>  
+    <subject>mockumentary</subject>  
+    <subject>Czech culture</subject>  
+    <subject>Oil Gobblers</subject>  
+    <subject>Year of Devil</subject>  
+    <subject>Czech Dream</subject>  
+    <subject>Jara Cimrman Lying</subject>  
+    <subject>Sleeping</subject>  
+    <subject>Jára Cimrman</subject> 
+  </subjects>  
+  <language>en</language>  
+  <sizes> 
+    <size>7 pages</size> 
+  </sizes>  
+  <formats> 
+    <format>pdf</format> 
+  </formats>  
+  <rightsList> 
+    <rights>CC-BY-NC-ND</rights> 
+  </rightsList>  
+  <descriptions> 
+    <description descriptionType="Abstract">The article concerns the issue of mystification and hoax in Czech culture. It demon-strates historical aspects of this phenomenon and, basing on the example of various cul-tural texts, shows that the mystification as a means of artistic expression is deeply rooted in Czech culture. Surrealistic and illogical themes that are characteristic for Czech humour are used by artists, especially filmmakers, in creating successive mystifications. The article examines films such as Oil Gobblers (1988), Year of Devil (2002), Czech Dream (2004), Jara Cim-rman Lying, Sleeping (1983), in order to analyse the role of this phenomenon in both films that speak of mystification and the ones that are mystifications themselves.</description> 
+  </descriptions> 
+</resource>

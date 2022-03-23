@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.5065/d64q7rwt",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5065/d64q7rwt",
+        "identifier": "https://doi.org/10.5065/d64q7rwt",
+        "url": "http://opensky.ucar.edu/islandora/object/manuscripts:870",
+        "author": [
+            {
+                "given": "D",
+                "family": "Lilly"
+            }
+        ],
+        "title": "Tornado dynamics",
+        "container-title": "UCAR/NCAR",
+        "description": "Most previous theories of tornado dynamics have implied a balance in the angular momentum equation between mean inflow and turbulent outflow. Evidence is introduced from analysis of both real tornado and laboratory vortex data that the eddy radial angular momentum flux is inward, however, so that an important element of the balance is the surface frictional drag. An alternative theory is then proposed, based on inviscid dynamic equations which can be solved under the constraint of suitable lower frictional boundary conditions. The solutions are obtained numerically, and only for an unsaturated vortex similar to a dust devil, but the approach and some of the results are believed to be extendable to the more complex saturated case. The solution clarifies to some extent the meaning and validity of the cyclostrophic and hydrostatic approximations in tornado and other vortex conditions, and indicates that the central surface pressure can be equated, to a first approximation, with that calculated from the hydrostatic assumption. Such hydrostatic calculations from a real tornado proximity sounding suggest that the observed surface intensities are in large part produced by dry downdraft air in the vortex core. The genesis and evolutionary processes of tornadic circulations are discussed in connection with the angular momentum sources provided by the immediate environment.",
+        "resource-type-subtype": "Report",
+        "data-center-id": "ucar.ucar",
+        "member-id": "ucar",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "1969",
+        "registered": "2012-10-01T22:16:28.000Z",
+        "checked": null,
+        "updated": "2019-09-09T15:31:00.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMi4yIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly9kYXRhY2l0ZS5vcmcvc2NoZW1hL2tlcm5lbC0yLjIgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMi4yL21ldGFkYXRhLnhzZCI+CjxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjUwNjUvRDY0UTdSV1Q8L2lkZW50aWZpZXI+CjxjcmVhdG9ycz4KPGNyZWF0b3I+CjxjcmVhdG9yTmFtZT5MaWxseSwgRDwvY3JlYXRvck5hbWU+CjwvY3JlYXRvcj4KPC9jcmVhdG9ycz4KPHRpdGxlcz4KPHRpdGxlPlRvcm5hZG8gZHluYW1pY3M8L3RpdGxlPgo8L3RpdGxlcz4KPHB1Ymxpc2hlcj5VQ0FSL05DQVI8L3B1Ymxpc2hlcj4KPHB1YmxpY2F0aW9uWWVhcj4xOTY5PC9wdWJsaWNhdGlvblllYXI+Cjxjb250cmlidXRvcnM+Cjxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9Ikhvc3RpbmdJbnN0aXR1dGlvbiI+Cjxjb250cmlidXRvck5hbWU+VW5pdmVyc2l0eSBDb3Jwb3JhdGlvbiBGb3IgQXRtb3NwaGVyaWMgUmVzZWFyY2ggKFVDQVIpOk5hdGlvbmFsIENlbnRlciBmb3IgQXRtb3NwaGVyaWMgUmVzZWFyY2ggKE5DQVIpOk5DQVIgTGlicmFyeSAoTkNBUkxJQik8L2NvbnRyaWJ1dG9yTmFtZT4KPC9jb250cmlidXRvcj4KPC9jb250cmlidXRvcnM+CjxkYXRlcz4KPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MTk2OTwvZGF0ZT4KPGRhdGUgZGF0ZVR5cGU9IkF2YWlsYWJsZSI+MjAwNjwvZGF0ZT4KPC9kYXRlcz4KPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5SZXBvcnQ8L3Jlc291cmNlVHlwZT4KPGFsdGVybmF0ZUlkZW50aWZpZXJzPgo8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iUkVQT1JUIj42OS0xMTc8L2FsdGVybmF0ZUlkZW50aWZpZXI+CjxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJVUkwiPmh0dHA6Ly9ubGRyLmxpYnJhcnkudWNhci5lZHUvcmVwb3NpdG9yeS9jb2xsZWN0aW9ucy9NQU5VU0NSSVBULTAwMC0wMDAtMDAwLTgxODwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KPHNpemVzPgo8c2l6ZT4yOTk5IEtCPC9zaXplPgo8L3NpemVzPgo8Zm9ybWF0cz4KPGZvcm1hdD5hcHBsaWNhdGlvbi9wZGY8L2Zvcm1hdD4KPC9mb3JtYXRzPgo8cmlnaHRzPlRoZSByaWdodHMgaG9sZGVyIGlzOiBVQ0FSLiBUaGUgcmlnaHRzIG5vdGljZSBpczogQ29weXJpZ2h0IDE5NjkgVW5pdmVyc2l0eSBDb3Jwb3JhdGlvbiBmb3IgQXRtb3NwaGVyaWMgUmVzZWFyY2ggKFVDQVIpLiBBbGwgcmlnaHRzIHJlc2VydmVkLiBUaGUgdXNlciBpcyBncmFudGVkIHRoZSByaWdodCB0byB1c2UgdGhpcyByZXNvdXJjZSBmb3Igbm9uLWNvbW1lcmNpYWwsIG5vbi1wcm9maXQgcmVzZWFyY2gsIG9yIGVkdWNhdGlvbmFsIHB1cnBvc2VzIG9ubHksIGFzIGFyZSBtb3JlIGZ1bGx5IGRlc2NyaWJlZCBpbiB0aGUgVUNBUiBUZXJtcyBvZiBVc2UuIE1vcmUgaW5mb3JtYXRpb24gY2FuIGJlIGZvdW5kIGF0OiBodHRwOi8vd3d3LnVjYXIuZWR1L2xlZ2FsL3Rlcm1zX29mX3VzZS5zaHRtbC48L3JpZ2h0cz4KPGRlc2NyaXB0aW9ucz4KPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPk1vc3QgcHJldmlvdXMgdGhlb3JpZXMgb2YgdG9ybmFkbyBkeW5hbWljcyBoYXZlIGltcGxpZWQgYSBiYWxhbmNlIGluIHRoZSBhbmd1bGFyIG1vbWVudHVtIGVxdWF0aW9uIGJldHdlZW4gbWVhbiBpbmZsb3cgYW5kIHR1cmJ1bGVudCBvdXRmbG93LiBFdmlkZW5jZSBpcyBpbnRyb2R1Y2VkIGZyb20gYW5hbHlzaXMgb2YgYm90aCByZWFsIHRvcm5hZG8gYW5kIGxhYm9yYXRvcnkgdm9ydGV4IGRhdGEgdGhhdCB0aGUgZWRkeSByYWRpYWwgYW5ndWxhciBtb21lbnR1bSBmbHV4IGlzIGlud2FyZCwgaG93ZXZlciwgc28gdGhhdCBhbiBpbXBvcnRhbnQgZWxlbWVudCBvZiB0aGUgYmFsYW5jZSBpcyB0aGUgc3VyZmFjZSBmcmljdGlvbmFsIGRyYWcuIEFuIGFsdGVybmF0aXZlIHRoZW9yeSBpcyB0aGVuIHByb3Bvc2VkLCBiYXNlZCBvbiBpbnZpc2NpZCBkeW5hbWljIGVxdWF0aW9ucyB3aGljaCBjYW4gYmUgc29sdmVkIHVuZGVyIHRoZSBjb25zdHJhaW50IG9mIHN1aXRhYmxlIGxvd2VyIGZyaWN0aW9uYWwgYm91bmRhcnkgY29uZGl0aW9ucy4gVGhlIHNvbHV0aW9ucyBhcmUgb2J0YWluZWQgbnVtZXJpY2FsbHksIGFuZCBvbmx5IGZvciBhbiB1bnNhdHVyYXRlZCB2b3J0ZXggc2ltaWxhciB0byBhIGR1c3QgZGV2aWwsIGJ1dCB0aGUgYXBwcm9hY2ggYW5kIHNvbWUgb2YgdGhlIHJlc3VsdHMgYXJlIGJlbGlldmVkIHRvIGJlIGV4dGVuZGFibGUgdG8gdGhlIG1vcmUgY29tcGxleCBzYXR1cmF0ZWQgY2FzZS4gVGhlIHNvbHV0aW9uIGNsYXJpZmllcyB0byBzb21lIGV4dGVudCB0aGUgbWVhbmluZyBhbmQgdmFsaWRpdHkgb2YgdGhlIGN5Y2xvc3Ryb3BoaWMgYW5kIGh5ZHJvc3RhdGljIGFwcHJveGltYXRpb25zIGluIHRvcm5hZG8gYW5kIG90aGVyIHZvcnRleCBjb25kaXRpb25zLCBhbmQgaW5kaWNhdGVzIHRoYXQgdGhlIGNlbnRyYWwgc3VyZmFjZSBwcmVzc3VyZSBjYW4gYmUgZXF1YXRlZCwgdG8gYSBmaXJzdCBhcHByb3hpbWF0aW9uLCB3aXRoIHRoYXQgY2FsY3VsYXRlZCBmcm9tIHRoZSBoeWRyb3N0YXRpYyBhc3N1bXB0aW9uLiBTdWNoIGh5ZHJvc3RhdGljIGNhbGN1bGF0aW9ucyBmcm9tIGEgcmVhbCB0b3JuYWRvIHByb3hpbWl0eSBzb3VuZGluZyBzdWdnZXN0IHRoYXQgdGhlIG9ic2VydmVkIHN1cmZhY2UgaW50ZW5zaXRpZXMgYXJlIGluIGxhcmdlIHBhcnQgcHJvZHVjZWQgYnkgZHJ5IGRvd25kcmFmdCBhaXIgaW4gdGhlIHZvcnRleCBjb3JlLiBUaGUgZ2VuZXNpcyBhbmQgZXZvbHV0aW9uYXJ5IHByb2Nlc3NlcyBvZiB0b3JuYWRpYyBjaXJjdWxhdGlvbnMgYXJlIGRpc2N1c3NlZCBpbiBjb25uZWN0aW9uIHdpdGggdGhlIGFuZ3VsYXIgbW9tZW50dW0gc291cmNlcyBwcm92aWRlZCBieSB0aGUgaW1tZWRpYXRlIGVudmlyb25tZW50LjwvZGVzY3JpcHRpb24+CjwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ucar.ucar",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ucar",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

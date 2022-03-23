@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.17169/REFUBIUM-2219</identifier>
+  <creators>
+    <creator>
+      <creatorName>Schönrich, Günther</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Raftery, Martin J.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>CD1-Restricted T Cells During Persistent Virus Infections: "Sympathy for the Devil"</title>
+  </titles>
+  <publisher>Freie Universität Berlin</publisher>
+  <publicationYear>2018</publicationYear>
+  <subjects>
+    <subject>human CD1 molecules</subject>
+    <subject>antigen presentation</subject>
+    <subject>persisting viruses</subject>
+    <subject>viral immune evasion</subject>
+    <subject>NKT cells</subject>
+    <subject subjectScheme="ddc">600 Technik, Medizin, angewandte Wissenschaften::610 Medizin und Gesundheit::610 Medizin und Gesundheit</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Universitätsbibliothek der FU Berlin</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Universitätsbibliothek der FU Berlin</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2019-04-17</date>
+    <date dateType="Available">2019-04-17</date>
+    <date dateType="Issued">2018</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Other">Wissenschaftlicher Artikel</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="issn">1664-3224</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">https://refubium.fu-berlin.de/handle/fub188/24448</alternateIdentifier>
+  </alternateIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/"/>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Some of the clinically most important viruses persist in the human host after acute infection. In this situation, the host immune system and the viral pathogen attempt to establish an equilibrium. At best, overt disease is avoided. This attempt may fail, however, resulting in eventual loss of viral control or inadequate immune regulation. Consequently, direct virus-induced tissue damage or immunopathology may occur. The cluster of differentiation 1 (CD1) family of non-classical major histocompatibility complex class I molecules are known to present hydrophobic, primarily lipid antigens. There is ample evidence that both CD1-dependent and CD1-independent mechanisms activate CD1-restricted T cells during persistent virus infections. Sophisticated viral mechanisms subvert these immune responses and help the pathogens to avoid clearance from the host organism. CD1-restricted T cells are not only crucial for the antiviral host defense but may also contribute to tissue damage. This review highlights the two edged role of CD1-restricted T cells in persistent virus infections and summarizes the viral immune evasion mechanisms that target these fascinating immune cells.</description>
+  </descriptions>
+</resource>

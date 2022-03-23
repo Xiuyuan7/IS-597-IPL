@@ -1,0 +1,56 @@
+{
+    "id": "https://doi.org/10.4225/03/5921157ce11ab",
+    "type": "works",
+    "attributes": {
+        "doi": "10.4225/03/5921157ce11ab",
+        "identifier": "https://doi.org/10.4225/03/5921157ce11ab",
+        "url": "https://figshare.com/articles/Extract_from_Tod_und_Teufel_Death_and_the_Devil_/4977800",
+        "author": [
+            {
+                "literal": "Rhiannyn Geeson"
+            },
+            {
+                "given": "Frank",
+                "family": "Scha\u0308tzing"
+            }
+        ],
+        "title": "Extract from Tod und Teufel (Death and the Devil)",
+        "container-title": "Figshare",
+        "description": "Extract from Frank Scha\u0308tzing\u2019s <i>Tod und Teufel</i> (Death and the Devil)<br>Frank Scha\u0308tzing was born in Cologne, Germany. He is a Creative Director for advertising companies and co-founder of an advertising agency in Cologne. The best-seller, <i>Tod und Teufel</i> (Death and the Devil), an historical crime novel, is his first work, published in 1995. Since then, he has published six books, the most recent of which is <i>Der Schwarm</i> (The Swarm), published in 2004.<br><br><i>Tod und Teufel</i> is set in medieval Cologne, at the time of the construction of the Cologne Cathedral. The protagonist, Jacob \u2018the Fox,\u2019 petty thief and idle trickster, is the only \u2013 and unintentional \u2013 witness to the murder of the Cathedral\u2019s master builder, and is consequently hunted by the assassin, Urquhart \u2018the Wolf\u2019. Jacob is then drawn in to the intrigue and politics surrounding the death, and, with the help of newly-won friends, attempts to spoil the plot of some of the richest families in Medieval Cologne, and survive the hunt of the Wolf.<br>",
+        "resource-type-subtype": "Paper",
+        "data-center-id": "ands.centre-3",
+        "member-id": "ands",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://rightsstatements.org/page/InC/1.0?language=en",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-05-21T04:20:16.000Z",
+        "checked": null,
+        "updated": "2019-09-25T14:01:13.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxyZXNvdXJjZSB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMy9tZXRhZGF0YS54c2QiPjxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjQyMjUvMDMvNTkyMTE1N2NlMTFhYjwvaWRlbnRpZmllcj48Y3JlYXRvcnM+PGNyZWF0b3I+PGNyZWF0b3JOYW1lPlJoaWFubnluIEdlZXNvbjwvY3JlYXRvck5hbWU+PC9jcmVhdG9yPjxjcmVhdG9yPjxjcmVhdG9yTmFtZT5GcmFuayBTY2hhJiN4MzA4O3R6aW5nPC9jcmVhdG9yTmFtZT48L2NyZWF0b3I+PC9jcmVhdG9ycz48dGl0bGVzPjx0aXRsZT5FeHRyYWN0IGZyb20gVG9kIHVuZCBUZXVmZWwgKERlYXRoIGFuZCB0aGUgRGV2aWwpPC90aXRsZT48L3RpdGxlcz48ZGVzY3JpcHRpb25zPjxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5FeHRyYWN0IGZyb20gRnJhbmsgU2NoYSYjeDMwODt0emluZyYjeDIwMTk7cyAmbHQ7aSZndDtUb2QgdW5kIFRldWZlbCZsdDsvaSZndDsgKERlYXRoIGFuZCB0aGUgRGV2aWwpJmx0O2RpdiZndDsmbHQ7YnImZ3Q7Jmx0Oy9kaXYmZ3Q7Jmx0O2RpdiZndDtGcmFuayBTY2hhJiN4MzA4O3R6aW5nIHdhcyBib3JuIGluIENvbG9nbmUsIEdlcm1hbnkuIEhlIGlzIGEgQ3JlYXRpdmUgRGlyZWN0b3IgZm9yIGFkdmVydGlzaW5nIGNvbXBhbmllcyBhbmQgY28tZm91bmRlciBvZiBhbiBhZHZlcnRpc2luZyBhZ2VuY3kgaW4gQ29sb2duZS4gVGhlIGJlc3Qtc2VsbGVyLCAmbHQ7aSZndDtUb2QgdW5kIFRldWZlbCZsdDsvaSZndDsgKERlYXRoIGFuZCB0aGUgRGV2aWwpLCBhbiBoaXN0b3JpY2FsIGNyaW1lIG5vdmVsLCBpcyBoaXMgZmlyc3Qgd29yaywgcHVibGlzaGVkIGluIDE5OTUuIFNpbmNlIHRoZW4sIGhlIGhhcyBwdWJsaXNoZWQgc2l4IGJvb2tzLCB0aGUgbW9zdCByZWNlbnQgb2Ygd2hpY2ggaXMgJmx0O2kmZ3Q7RGVyIFNjaHdhcm0mbHQ7L2kmZ3Q7IChUaGUgU3dhcm0pLCBwdWJsaXNoZWQgaW4gMjAwNC4mbHQ7YnImZ3Q7Jmx0Oy9kaXYmZ3Q7Jmx0O2RpdiZndDsmbHQ7YnImZ3Q7Jmx0Oy9kaXYmZ3Q7Jmx0O2RpdiZndDsmbHQ7aSZndDtUb2QgdW5kIFRldWZlbCZsdDsvaSZndDsgaXMgc2V0IGluIG1lZGlldmFsIENvbG9nbmUsIGF0IHRoZSB0aW1lIG9mIHRoZSBjb25zdHJ1Y3Rpb24gb2YgdGhlIENvbG9nbmUgQ2F0aGVkcmFsLiBUaGUgcHJvdGFnb25pc3QsIEphY29iICYjeDIwMTg7dGhlIEZveCwmI3gyMDE5OyBwZXR0eSB0aGllZiBhbmQgaWRsZSB0cmlja3N0ZXIsIGlzIHRoZSBvbmx5ICYjeDIwMTM7IGFuZCB1bmludGVudGlvbmFsICYjeDIwMTM7IHdpdG5lc3MgdG8gdGhlIG11cmRlciBvZiB0aGUgQ2F0aGVkcmFsJiN4MjAxOTtzIG1hc3RlciBidWlsZGVyLCBhbmQgaXMgY29uc2VxdWVudGx5IGh1bnRlZCBieSB0aGUgYXNzYXNzaW4sIFVycXVoYXJ0ICYjeDIwMTg7dGhlIFdvbGYmI3gyMDE5Oy4gSmFjb2IgaXMgdGhlbiBkcmF3biBpbiB0byB0aGUgaW50cmlndWUgYW5kIHBvbGl0aWNzIHN1cnJvdW5kaW5nIHRoZSBkZWF0aCwgYW5kLCB3aXRoIHRoZSBoZWxwIG9mIG5ld2x5LXdvbiBmcmllbmRzLCBhdHRlbXB0cyB0byBzcG9pbCB0aGUgcGxvdCBvZiBzb21lIG9mIHRoZSByaWNoZXN0IGZhbWlsaWVzIGluIE1lZGlldmFsIENvbG9nbmUsIGFuZCBzdXJ2aXZlIHRoZSBodW50IG9mIHRoZSBXb2xmLiZsdDticiZndDsmbHQ7L2RpdiZndDs8L2Rlc2NyaXB0aW9uPjwvZGVzY3JpcHRpb25zPjxzdWJqZWN0cz48c3ViamVjdCBzY2hlbWVVUkk9Imh0dHA6Ly93d3cuYWJzLmdvdi5hdS9hdXNzdGF0cy9hYnNALm5zZi8wLzZCQjQyN0FCOTY5NkMyMjVDQTI1NzQxODAwMDQ0NjNFIiBzdWJqZWN0U2NoZW1lPSJGT1IiPjIwMDUxMiBMaXRlcmF0dXJlIGluIEdlcm1hbjwvc3ViamVjdD48L3N1YmplY3RzPjxwdWJsaXNoZXI+Rmlnc2hhcmU8L3B1Ymxpc2hlcj48cHVibGljYXRpb25ZZWFyPjIwMTc8L3B1YmxpY2F0aW9uWWVhcj48ZGF0ZXM+PGRhdGUgZGF0ZVR5cGU9IkNyZWF0ZWQiPjIwMTctMDUtMDU8L2RhdGU+PGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTctMDUtMjE8L2RhdGU+PC9kYXRlcz48cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPlBhcGVyPC9yZXNvdXJjZVR5cGU+PHNpemVzPjxzaXplPjExNTY2MSBCeXRlczwvc2l6ZT48L3NpemVzPjxyaWdodHNMaXN0PjxyaWdodHMgcmlnaHRzVVJJPSJodHRwOi8vcmlnaHRzc3RhdGVtZW50cy5vcmcvcGFnZS9JbkMvMS4wLz9sYW5ndWFnZT1lbiI+SW4gQ29weXJpZ2h0PC9yaWdodHM+PC9yaWdodHNMaXN0PjwvcmVzb3VyY2U+Cg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ands.centre-3",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ands",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

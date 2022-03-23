@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.6084/m9.figshare.4635133",
+    "type": "works",
+    "attributes": {
+        "doi": "10.6084/m9.figshare.4635133",
+        "identifier": "https://doi.org/10.6084/m9.figshare.4635133",
+        "url": "https://figshare.com/articles/Sesamoid_bones_in_tuatara_Sphenodon_punctatus_investigated_with_X-ray_microtomography_and_implications_for_sesamoid_evolution_in_Lepidosauria/4635133",
+        "author": [
+            {
+                "literal": "Animate Your Science"
+            }
+        ],
+        "title": "Sesamoid bones in tuatara (Sphenodon punctatus) investigated with X-ray microtomography, and implications for sesamoid evolution in Lepidosauria",
+        "container-title": "Figshare",
+        "description": "Sesamoids bones are small intra-tendinous (or ligamentous) ossifications found near joints and are often variable between individuals. Related bones, lunulae, are found within the menisci of certain joints. Several studies have described sesamoids and lunulae in lizards and their close relatives (Squamata) as potentially useful characters in phylogenetic analysis, but their status in the extant outgroup to Squamata, tuatara (<em>Sphenodon</em>), remains unclear. <em>Sphenodon</em> is the only living rhynchocephalian, but museum specimens are valuable and difficult to replace. Here, we use non-destructive X-ray microtomography to investigate the distribution of sesamoids and lunulae in 19 <em>Sphenodon</em> specimens and trace the evolution of these bones in Lepidosauria (Rhynchocephalia\u2009+\u2009Squamata). We find adult <em>Sphenodon</em> to possess a sesamoid and lunula complement different from any known squamate, but also some variation within <em>Sphenodon</em>specimens. The penultimate phalangeal sesamoids and tibial lunula appear to mineralize prior to skeletal maturity, followed by mineralization of a sesamoid between metatarsal I and the astragalocalcaneum (MTI-AC), the palmar sesamoids, and tibiofemoral lunulae around attainment of skeletal maturity. The tibial patella, ulnar, and plantar sesamoids mineralize late in maturity or variably. Ancestral state reconstruction indicates that the ulnar patella and tibiofemoral lunulae are synapomophies of Squamata, and the palmar sesamoid, tibial patella, tibial lunula, and MTI-AC may be synapomorphies of Lepidosauria.",
+        "resource-type-subtype": "Poster",
+        "data-center-id": "figshare.ars",
+        "member-id": "figshare",
+        "resource-type-id": "image",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "3",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-02-09T07:25:10.000Z",
+        "checked": null,
+        "updated": "2019-08-02T13:52:23.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxyZXNvdXJjZSB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMy9tZXRhZGF0YS54c2QiPgogIDxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjYwODQvbTkuZmlnc2hhcmUuNDYzNTEzMzwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkFuaW1hdGUgWW91ciBTY2llbmNlPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+U2VzYW1vaWQgYm9uZXMgaW4gdHVhdGFyYSAoU3BoZW5vZG9uIHB1bmN0YXR1cykgaW52ZXN0aWdhdGVkIHdpdGggWC1yYXkgbWljcm90b21vZ3JhcGh5LCBhbmQgaW1wbGljYXRpb25zIGZvciBzZXNhbW9pZCBldm9sdXRpb24gaW4gTGVwaWRvc2F1cmlhPC90aXRsZT4KICA8L3RpdGxlcz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlNlc2Ftb2lkcyBib25lcyBhcmUgc21hbGwgaW50cmEtdGVuZGlub3VzIChvciBsaWdhbWVudG91cykgb3NzaWZpY2F0aW9ucyBmb3VuZCBuZWFyIGpvaW50cyBhbmQgYXJlIG9mdGVuIHZhcmlhYmxlIGJldHdlZW4gaW5kaXZpZHVhbHMuIFJlbGF0ZWQgYm9uZXMsIGx1bnVsYWUsIGFyZSBmb3VuZCB3aXRoaW4gdGhlIG1lbmlzY2kgb2YgY2VydGFpbiBqb2ludHMuIFNldmVyYWwgc3R1ZGllcyBoYXZlIGRlc2NyaWJlZCBzZXNhbW9pZHMgYW5kIGx1bnVsYWUgaW4gbGl6YXJkcyBhbmQgdGhlaXIgY2xvc2UgcmVsYXRpdmVzIChTcXVhbWF0YSkgYXMgcG90ZW50aWFsbHkgdXNlZnVsIGNoYXJhY3RlcnMgaW4gcGh5bG9nZW5ldGljIGFuYWx5c2lzLCBidXQgdGhlaXIgc3RhdHVzIGluIHRoZSBleHRhbnQgb3V0Z3JvdXAgdG8gU3F1YW1hdGEsIHR1YXRhcmEgKCZsdDtlbSZndDtTcGhlbm9kb24mbHQ7L2VtJmd0OyksIHJlbWFpbnMgdW5jbGVhci4mI3hBMDsmbHQ7ZW0mZ3Q7U3BoZW5vZG9uJmx0Oy9lbSZndDsmI3hBMDtpcyB0aGUgb25seSBsaXZpbmcgcmh5bmNob2NlcGhhbGlhbiwgYnV0IG11c2V1bSBzcGVjaW1lbnMgYXJlIHZhbHVhYmxlIGFuZCBkaWZmaWN1bHQgdG8gcmVwbGFjZS4gSGVyZSwgd2UgdXNlIG5vbi1kZXN0cnVjdGl2ZSBYLXJheSBtaWNyb3RvbW9ncmFwaHkgdG8gaW52ZXN0aWdhdGUgdGhlIGRpc3RyaWJ1dGlvbiBvZiBzZXNhbW9pZHMgYW5kIGx1bnVsYWUgaW4gMTkmI3hBMDsmbHQ7ZW0mZ3Q7U3BoZW5vZG9uJmx0Oy9lbSZndDsmI3hBMDtzcGVjaW1lbnMgYW5kIHRyYWNlIHRoZSBldm9sdXRpb24gb2YgdGhlc2UgYm9uZXMgaW4gTGVwaWRvc2F1cmlhIChSaHluY2hvY2VwaGFsaWEmI3gyMDA5OysmI3gyMDA5O1NxdWFtYXRhKS4gV2UgZmluZCBhZHVsdCYjeEEwOyZsdDtlbSZndDtTcGhlbm9kb24mbHQ7L2VtJmd0OyYjeEEwO3RvIHBvc3Nlc3MgYSBzZXNhbW9pZCBhbmQgbHVudWxhIGNvbXBsZW1lbnQgZGlmZmVyZW50IGZyb20gYW55IGtub3duIHNxdWFtYXRlLCBidXQgYWxzbyBzb21lIHZhcmlhdGlvbiB3aXRoaW4mI3hBMDsmbHQ7ZW0mZ3Q7U3BoZW5vZG9uJmx0Oy9lbSZndDtzcGVjaW1lbnMuIFRoZSBwZW51bHRpbWF0ZSBwaGFsYW5nZWFsIHNlc2Ftb2lkcyBhbmQgdGliaWFsIGx1bnVsYSBhcHBlYXIgdG8gbWluZXJhbGl6ZSBwcmlvciB0byBza2VsZXRhbCBtYXR1cml0eSwgZm9sbG93ZWQgYnkgbWluZXJhbGl6YXRpb24gb2YgYSBzZXNhbW9pZCBiZXR3ZWVuIG1ldGF0YXJzYWwgSSBhbmQgdGhlIGFzdHJhZ2Fsb2NhbGNhbmV1bSAoTVRJLUFDKSwgdGhlIHBhbG1hciBzZXNhbW9pZHMsIGFuZCB0aWJpb2ZlbW9yYWwgbHVudWxhZSBhcm91bmQgYXR0YWlubWVudCBvZiBza2VsZXRhbCBtYXR1cml0eS4gVGhlIHRpYmlhbCBwYXRlbGxhLCB1bG5hciwgYW5kIHBsYW50YXIgc2VzYW1vaWRzIG1pbmVyYWxpemUgbGF0ZSBpbiBtYXR1cml0eSBvciB2YXJpYWJseS4gQW5jZXN0cmFsIHN0YXRlIHJlY29uc3RydWN0aW9uIGluZGljYXRlcyB0aGF0IHRoZSB1bG5hciBwYXRlbGxhIGFuZCB0aWJpb2ZlbW9yYWwgbHVudWxhZSBhcmUgc3luYXBvbW9waGllcyBvZiBTcXVhbWF0YSwgYW5kIHRoZSBwYWxtYXIgc2VzYW1vaWQsIHRpYmlhbCBwYXRlbGxhLCB0aWJpYWwgbHVudWxhLCBhbmQgTVRJLUFDIG1heSBiZSBzeW5hcG9tb3JwaGllcyBvZiBMZXBpZG9zYXVyaWEuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5BbmF0b215PC9zdWJqZWN0PgogICAgPHN1YmplY3Q+RXZvbHV0aW9uYXJ5IEJpb2xvZ3k8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8cHVibGlzaGVyPkZpZ3NoYXJlPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE3PC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkNyZWF0ZWQiPjIwMTctMDItMDk8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxNy0wMi0wOTwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iSW1hZ2UiPlBvc3RlcjwvcmVzb3VyY2VUeXBlPgogIDxzaXplcz4KICAgIDxzaXplPjU3ODUzNyBCeXRlczwvc2l6ZT4KICA8L3NpemVzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvIj5DQyBCWTwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KPC9yZXNvdXJjZT4K"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.ars",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "image",
+                "type": "resource-types"
+            }
+        }
+    }
+}

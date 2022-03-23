@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.26193/OHK1J7</identifier>
+  <creators>
+    <creator>
+      <creatorName>Kelley, Jonathan</creatorName>
+      <affiliation>Australian National University</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Bean, Clive</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org/" nameIdentifierScheme="ORCID">https://orcid.org/0000-0002-9413-272X</nameIdentifier>
+      <affiliation>Australian National University</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Evans, Mariah D. R.</creatorName>
+      <affiliation>Australian National University</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Zagorski, Krzysztof</creatorName>
+      <affiliation>University of Melbourne</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>National Social Science Survey, 1993</title>
+  </titles>
+  <publisher>ADA Dataverse</publisher>
+  <publicationYear>2019</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <descriptions>
+    <description descriptionType="Abstract">This file is the sixth in the National Social Science Survey (NSSS) series and is a panel of respondents from the National Social Science Survey 1989/90: Family and Changing Sex Roles and the National Social Science Survey 1990: Lifestyles, and repeats many of the questions asked in the previous rounds. The survey also includes questions asked as part of the International Social Survey Programme. Comparative data from all countries in the Programme are processed and distributed by the Zentralarchiv fur Empirische Sozialforschung (ZA) at the University of Cologne (ZA Study 2150, Religion, 1991, ZA Study 2310, Inequality II 1992). The data file contains a wide range of attitudinal questions. Sections cover attitudes to government policies; trade unionism; attitudes to political leaders, parties and election issues; voting and party identification; feeling thermometer ratings of political leaders, groups and institutions; experience of crime; church services; parents' participation in cultural activities when respondent was growing up, and respondents participation in those activities then and now; standard of living when growing up and now; freedom of the Press; leisure activities; courtship and marriage; abortion; attitudes to medical ethics and preventable diseases. The Inequality module covers perceived prerequisites for success; social mobility; importance of hierarchical pay structure; estimates of actual and ideal salaries for various work positions; appropriateness of tax levels; conflicts between social groups; deciding factors in pay rates; actual and ideal social structure, and respondents' position in the structure. The Religion module focuses on the impact of religious beliefs and behaviours on social, political and moral attitudes. Variables include government responsibility; sexual relations; working women; belief in God, the Devil, heaven, hell and life after death; the influence of religious leaders on voting and government decisions; church attendance and involvement in other religious activities; image of God and image of the world. Background variables include respondents' education and qualifications, income and standard of living, trade union membership, religion, and the education of the respondents' parents and the religion of the respondents' spouse.</description>
+  </descriptions>
+  <contributors>
+    <contributor contributorType="ContactPerson">
+      <contributorName>Australian Data Archive</contributorName>
+      <affiliation>Australian National University</affiliation>
+    </contributor>
+    <contributor contributorType="Producer">
+      <contributorName>Australian Data Archive</contributorName>
+      <affiliation>The Australian National University</affiliation>
+    </contributor>
+  </contributors>
+</resource>

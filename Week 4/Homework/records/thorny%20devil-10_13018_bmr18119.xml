@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.13018/BMR18119</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Kristiansen, Per Eugen</creatorName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Bie Andersen, Thorny Cesilie</creatorName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Huszenicza, Zsuzsi</creatorName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Andreotti, Amy H.</creatorName>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Spurkland, Anne</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>ITK-SH3</title>
+  </titles>
+  <publisher>Biological Magnetic Resonance Bank</publisher>
+  <publicationYear>2012</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <dates>
+    <date dateInformation="." dateType="Available">2012-12-04</date>
+  </dates>
+</resource>

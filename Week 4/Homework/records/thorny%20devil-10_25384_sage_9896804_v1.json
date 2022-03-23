@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.25384/sage.9896804.v1",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25384/sage.9896804.v1",
+        "identifier": "https://doi.org/10.25384/sage.9896804.v1",
+        "url": "https://sage.figshare.com/articles/ILRR_Lamare_Supplemental-Online-Appendix_Supplemental_material_for_The_Devil_Is_in_the_Details_Attorney_Effects_on_Employment_Arbitration_Outcomes/9896804/1",
+        "author": [
+            {
+                "literal": "J. Ryan Lamare"
+            }
+        ],
+        "title": "ILRR_Lamare_Supplemental-Online-Appendix \u2013 Supplemental material for The Devil Is in the Details: Attorney Effects on Employment Arbitration Outcomes",
+        "container-title": "SAGE Journals",
+        "description": "Supplemental material, ILRR_Lamare_Supplemental-Online-Appendix for The Devil Is in the Details: Attorney Effects on Employment Arbitration Outcomes by J. Ryan Lamare in ILR Review",
+        "resource-type-subtype": "Journal contribution",
+        "data-center-id": "figshare.sage",
+        "member-id": "figshare",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://rightsstatements.org/vocab/InC/1.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-09-24T12:09:34.000Z",
+        "checked": null,
+        "updated": "2019-09-24T12:09:34.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4yNTM4NC9TQUdFLjk4OTY4MDQuVjE8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5KLiBSeWFuIExhbWFyZTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPklMUlJfTGFtYXJlX1N1cHBsZW1lbnRhbC1PbmxpbmUtQXBwZW5kaXgg4oCTIFN1cHBsZW1lbnRhbCBtYXRlcmlhbCBmb3IgVGhlIERldmlsIElzIGluIHRoZSBEZXRhaWxzOiBBdHRvcm5leSBFZmZlY3RzIG9uIEVtcGxveW1lbnQgQXJiaXRyYXRpb24gT3V0Y29tZXM8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+Jmx0O3AmZ3Q7U3VwcGxlbWVudGFsIG1hdGVyaWFsLCBJTFJSX0xhbWFyZV9TdXBwbGVtZW50YWwtT25saW5lLUFwcGVuZGl4IGZvciBUaGUgRGV2aWwgSXMgaW4gdGhlIERldGFpbHM6IEF0dG9ybmV5IEVmZmVjdHMgb24gRW1wbG95bWVudCBBcmJpdHJhdGlvbiBPdXRjb21lcyBieSBKLiBSeWFuIExhbWFyZSBpbiBJTFIgUmV2aWV3Jmx0Oy9wJmd0OzwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+RWNvbm9taWNzPC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc2NoZW1lVVJJPSJodHRwOi8vd3d3LmFicy5nb3YuYXUvYXVzc3RhdHMvYWJzQC5uc2YvMC82QkI0MjdBQjk2OTZDMjI1Q0EyNTc0MTgwMDA0NDYzRSIgc3ViamVjdFNjaGVtZT0iRk9SIj4xNTAzMTAgT3JnYW5pc2F0aW9uIGFuZCBNYW5hZ2VtZW50IFRoZW9yeTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxwdWJsaXNoZXI+U0FHRSBKb3VybmFsczwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxOTwvcHVibGljYXRpb25ZZWFyPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJDcmVhdGVkIj4yMDE5LTA5LTI0PC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTktMDktMjQ8L2RhdGU+CiAgPC9kYXRlcz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPkpvdXJuYWwgY29udHJpYnV0aW9uPC9yZXNvdXJjZVR5cGU+CiAgPHNpemVzPgogICAgPHNpemU+MjY0MDU5IEJ5dGVzPC9zaXplPgogIDwvc2l6ZXM+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1N1cHBsZW1lbnRUbyI+MTAuMTE3Ny8wMDE5NzkzOTE5ODc3NDA0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0lkZW50aWNhbFRvIj4xMC4yNTM4NC9TQUdFLjk4OTY4MDQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHA6Ly9yaWdodHNzdGF0ZW1lbnRzLm9yZy92b2NhYi9JbkMvMS4wLyI+SW4gQ29weXJpZ2h0PC9yaWdodHM+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.sage",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17863/CAM.27020</identifier>
+  <creators>
+    <creator>
+      <creatorName>Balmford, Andrew</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Amano, Tatsuya</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0001-6576-3410</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Bartlett, Harriet</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-7389-8785</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Chadwick, Dave</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Collins, Adrian</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Edwards, David</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Field, Rob</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Garnsworthy, Philip</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Green, Rhys</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0001-8690-8914</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Smith, Pete</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Waters, Helen</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0003-2218-929X</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Whitmore, Andrew</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Broom, Donald</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Chara, Julian</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Finch, Tom</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Garnett, Emma</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-1664-9029</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Gathorne-Hardy, Alfred</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Hernandez-Medrano, Juan</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Herrero, Mario</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Hua, Fangyuan</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Latawiec, Agnieszka</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Misselbrook, Tom</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Phalan, Benjamin Timothy</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0001-7876-7226</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Simmons, Benno</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-2751-9430</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Takahashi, Taro</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Vause, James</creatorName>
+    </creator>
+    <creator>
+      <creatorName>zu Ermgassen, Erasmus</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-9168-6057</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Eisner, Rowan</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The environmental costs and benefits of high-yield farming</title>
+  </titles>
+  <publisher>Apollo - University of Cambridge Repository</publisher>
+  <publicationYear>2018</publicationYear>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2018-09-05</date>
+    <date dateType="Available">2018-09-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="issn">2398-9629</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">https://www.repository.cam.ac.uk/handle/1810/279652</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="eissn">2398-9629</alternateIdentifier>
+  </alternateIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">How we manage farming and food systems to meet rising demand is pivotal to the future of biodiversity. Extensive field data suggest impacts on wild populations would be greatly reduced through boosting yields on existing farmland so as to spare remaining natural habitats. High-yield farming raises other concerns because expressed per unit area it can generate high levels of externalities such as greenhouse gas (GHG) emissions and nutrient losses. However, such metrics underestimate the overall impacts of lower-yield systems, so here we develop a framework that instead compares externality and land costs per unit production. Applying this to diverse datasets describing the externalities of four major farm sectors reveals that, rather than involving trade-offs, the externality and land costs of alternative production systems can co-vary positively: per unit production, land-efficient systems often produce lower externalities. For GHG emissions these associations become more strongly positive once forgone sequestration is included. Our conclusions are limited: remarkably few studies report externalities alongside yields; many important externalities and farming systems are inadequately measured; and realising the environmental benefits of high-yield systems typically requires additional measures to limit farmland expansion. Yet our results nevertheless suggest that trade-offs among key cost metrics are not as ubiquitous as sometimes perceived. There is an author correction to this article. See: https://doi.org/10.1038/s41893-018-0138-5</description>
+    <description descriptionType="Other">We are grateful for funding from the Cambridge Conservation Initiative Collaborative Fund and Arcadia, the Grantham Foundation for the Protection of the Environment, the Kenneth Miller Trust the UK-China Virtual Joint Centre for Agricultural Nitrogen (CINAg, 780 BB/N013468/1, financed by the Newton Fund via BBSRC and NERC), BBSRC (BBS/E/C/000I0330), DEVIL (NE/M021327/1), U-GRASS (NE/M016900/1), Soils-R-GRREAT (NE/P019455/1), N-Circle (BB/N013484/1), BBSRC Soil to Nutrition (S2N) strategic programme (BBS/E/C/000I0330), UNAM-PAPIIT (IV200715), the Belmont Forum/FACEE-JPI (NE/M021327/1 ‘DEVIL’), and the Cambridge Earth System Science NERC DTP (NE/L002507/1); AB is supported by a Royal Society Wolfson Research Merit award.</description>
+  </descriptions>
+  <fundingReferences>
+    <fundingReference>
+      <funderName>Grantham Foundation for the Protection of the Environment</funderName>
+    </fundingReference>
+    <fundingReference>
+      <funderName>Kenneth Miller Trust</funderName>
+    </fundingReference>
+    <fundingReference>
+      <funderName>NERC</funderName>
+      <awardNumber>1653183</awardNumber>
+    </fundingReference>
+    <fundingReference>
+      <funderName>BBSRC</funderName>
+      <awardNumber>via University of Aberdeen) (BB/N013484/1</awardNumber>
+    </fundingReference>
+    <fundingReference>
+      <funderName>NERC</funderName>
+      <awardNumber>NE/L002507/1</awardNumber>
+    </fundingReference>
+    <fundingReference>
+      <funderName>NERC</funderName>
+      <awardNumber>1653183</awardNumber>
+    </fundingReference>
+  </fundingReferences>
+</resource>

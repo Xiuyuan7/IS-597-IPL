@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.5281/zenodo.2542571",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5281/zenodo.2542571",
+        "identifier": "https://doi.org/10.5281/zenodo.2542571",
+        "url": "https://zenodo.org/record/2542571",
+        "author": [
+            {
+                "given": "Mateus",
+                "family": "Patricio"
+            },
+            {
+                "given": "Matthieu",
+                "family": "Muffato"
+            },
+            {
+                "given": "Kim Matthew",
+                "family": "Rutherford"
+            },
+            {
+                "given": "Neil J.",
+                "family": "Gemmell"
+            }
+        ],
+        "title": "Ortholog data from the tuatara genome project",
+        "container-title": "Zenodo",
+        "description": "This record contains orthology predictions based on the Maker gene annotation<br>\nof the tuatara (Sphenodon punctatus) and a set of 25 other species, using the<br>\nEnsembl methodology.\n\nSee http://doi.org/10.5281/zenodo.1489354 for the Maker annotation in GFF<br>\nformat.\n\nThe files all_trees.emf.gz and all_homologies.tsv.gz contain the phylogenetic<br>\ntrees (all_trees.emf.gz, in the EMF alignment format) and the derived pairwise<br>\northologies and paralogies (all_homologies.tsv.gz, in tabular format).\n\nFrom the phylogenetic trees, sets of 1-to-1 orthologues across all 26 species<br>\nwere extracted (pure_one2one_orthologies.txt).  Sets of orthologues that span<br>\nall the species but include paralogues were reduced to 1 copy per species<br>\nusing gene order conservation and sequence similarity. This extra dataset is<br>\navailable in promoted_one2one_orthologies.txt\n\nThe main Ensembl entry point for tuatara is:<br>\n  http://www.ensembl.org/Sphenodon_punctatus/\n\nThis work is supported by Ngatiwai iwi, Allan Wilson Centre, University of<br>\nOtago, New Zealand Genomics Limited, Illumina, National eScience<br>\nInfrastructure (NeSI NZ).",
+        "resource-type-subtype": null,
+        "data-center-id": "cern.zenodo",
+        "member-id": "cern",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-01-23T22:23:22.000Z",
+        "checked": null,
+        "updated": "2019-08-02T21:48:40.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41MjgxL1pFTk9ETy4yNTQyNTcxPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+UGF0cmljaW8sIE1hdGV1czwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+TWF0ZXVzPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlBhdHJpY2lvPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDMtMjA1Ni0zOTQ2PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPkV1cm9wZWFuIEJpb2luZm9ybWF0aWNzIEluc3RpdHV0ZTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPk11ZmZhdG8sIE1hdHRoaWV1PC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5NYXR0aGlldTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5NdWZmYXRvPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDItNzg2MC0zNTYwPC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPkV1cm9wZWFuIEJpb2luZm9ybWF0aWNzIEluc3RpdHV0ZTwvYWZmaWxpYXRpb24+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlJ1dGhlcmZvcmQsIEtpbSBNYXR0aGV3PC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5LaW0gTWF0dGhldzwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5SdXRoZXJmb3JkPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDEtNjI3Ny03MjZYPC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPlVuaXZlcnNpdHkgb2YgQ2FtYnJpZGdlPC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+R2VtbWVsbCwgTmVpbCBKLjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+TmVpbCBKLjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5HZW1tZWxsPC9mYW1pbHlOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDMtMDY3MS0zNjM3PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPlVuaXZlcnNpdHkgb2YgT3RhZ288L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5PcnRob2xvZyBkYXRhIGZyb20gdGhlIHR1YXRhcmEgZ2Vub21lIHByb2plY3Q8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+WmVub2RvPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+dHVhdGFyYTwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pm9ydGhvbG9nczwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTktMDEtMjQ8L2RhdGU+CiAgPC9kYXRlcz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiLz4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0idXJsIj5odHRwczovL3plbm9kby5vcmcvcmVjb3JkLzI1NDI1NzE8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzVmVyc2lvbk9mIj4xMC41MjgxL3plbm9kby4yNTQyNTcwPC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvbGVnYWxjb2RlIj5DcmVhdGl2ZSBDb21tb25zIEF0dHJpYnV0aW9uIDQuMCBJbnRlcm5hdGlvbmFsPC9yaWdodHM+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaW5mbzpldS1yZXBvL3NlbWFudGljcy9vcGVuQWNjZXNzIj5PcGVuIEFjY2VzczwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPiZsdDtwJmd0O1RoaXMgcmVjb3JkIGNvbnRhaW5zIG9ydGhvbG9neSBwcmVkaWN0aW9ucyBiYXNlZCBvbiB0aGUgTWFrZXIgZ2VuZSBhbm5vdGF0aW9uJmx0O2JyJmd0OwpvZiB0aGUgdHVhdGFyYSAoU3BoZW5vZG9uIHB1bmN0YXR1cykgYW5kIGEgc2V0IG9mIDI1IG90aGVyIHNwZWNpZXMsIHVzaW5nIHRoZSZsdDticiZndDsKRW5zZW1ibCBtZXRob2RvbG9neS4mbHQ7L3AmZ3Q7CgombHQ7cCZndDtTZWUgaHR0cDovL2RvaS5vcmcvMTAuNTI4MS96ZW5vZG8uMTQ4OTM1NCBmb3IgdGhlIE1ha2VyIGFubm90YXRpb24gaW4gR0ZGJmx0O2JyJmd0Owpmb3JtYXQuJmx0Oy9wJmd0OwoKJmx0O3AmZ3Q7VGhlIGZpbGVzIGFsbF90cmVlcy5lbWYuZ3ogYW5kIGFsbF9ob21vbG9naWVzLnRzdi5neiBjb250YWluIHRoZSBwaHlsb2dlbmV0aWMmbHQ7YnImZ3Q7CnRyZWVzIChhbGxfdHJlZXMuZW1mLmd6LCBpbiB0aGUgRU1GIGFsaWdubWVudCBmb3JtYXQpIGFuZCB0aGUgZGVyaXZlZCBwYWlyd2lzZSZsdDticiZndDsKb3J0aG9sb2dpZXMgYW5kIHBhcmFsb2dpZXMgKGFsbF9ob21vbG9naWVzLnRzdi5neiwgaW4gdGFidWxhciBmb3JtYXQpLiZsdDsvcCZndDsKCiZsdDtwJmd0O0Zyb20gdGhlIHBoeWxvZ2VuZXRpYyB0cmVlcywgc2V0cyBvZiAxLXRvLTEgb3J0aG9sb2d1ZXMgYWNyb3NzIGFsbCAyNiBzcGVjaWVzJmx0O2JyJmd0Owp3ZXJlIGV4dHJhY3RlZCAocHVyZV9vbmUyb25lX29ydGhvbG9naWVzLnR4dCkuJmFtcDtuYnNwOyBTZXRzIG9mIG9ydGhvbG9ndWVzIHRoYXQgc3BhbiZsdDticiZndDsKYWxsIHRoZSBzcGVjaWVzIGJ1dCBpbmNsdWRlIHBhcmFsb2d1ZXMgd2VyZSByZWR1Y2VkIHRvIDEgY29weSBwZXIgc3BlY2llcyZsdDticiZndDsKdXNpbmcgZ2VuZSBvcmRlciBjb25zZXJ2YXRpb24gYW5kIHNlcXVlbmNlIHNpbWlsYXJpdHkuIFRoaXMgZXh0cmEgZGF0YXNldCBpcyZsdDticiZndDsKYXZhaWxhYmxlIGluIHByb21vdGVkX29uZTJvbmVfb3J0aG9sb2dpZXMudHh0Jmx0Oy9wJmd0OwoKJmx0O3AmZ3Q7VGhlIG1haW4gRW5zZW1ibCBlbnRyeSBwb2ludCBmb3IgdHVhdGFyYSBpczombHQ7YnImZ3Q7CiZhbXA7bmJzcDsgaHR0cDovL3d3dy5lbnNlbWJsLm9yZy9TcGhlbm9kb25fcHVuY3RhdHVzLyZsdDsvcCZndDsKCiZsdDtwJmd0O1RoaXMgd29yayBpcyBzdXBwb3J0ZWQgYnkgTmdhdGl3YWkgaXdpLCBBbGxhbiBXaWxzb24gQ2VudHJlLCBVbml2ZXJzaXR5IG9mJmx0O2JyJmd0OwpPdGFnbywgTmV3IFplYWxhbmQgR2Vub21pY3MgTGltaXRlZCwgSWxsdW1pbmEsIE5hdGlvbmFsIGVTY2llbmNlJmx0O2JyJmd0OwpJbmZyYXN0cnVjdHVyZSAoTmVTSSBOWikuJmx0Oy9wJmd0OzwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cern.zenodo",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cern",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

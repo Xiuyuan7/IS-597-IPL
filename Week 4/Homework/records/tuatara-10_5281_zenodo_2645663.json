@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.5281/zenodo.2645663",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5281/zenodo.2645663",
+        "identifier": "https://doi.org/10.5281/zenodo.2645663",
+        "url": "https://zenodo.org/record/2645663",
+        "author": [
+            {
+                "given": "Wolfgang",
+                "family": "Sterrer"
+            }
+        ],
+        "title": "FIGURE 6 in Gnathostomulida from the Otago Peninsula, southern New Zealand",
+        "container-title": "Zenodo",
+        "description": "FIGURE 6. Pterognathia tuatara nov. spec. Basal plates and jaws of three specimens (in 6.1 the basal plate is below the jaws, and upside\u00addown). Phase contrast micrographs of live specimens.",
+        "resource-type-subtype": "Figure",
+        "data-center-id": "cern.zenodo",
+        "member-id": "cern",
+        "resource-type-id": "image",
+        "version": null,
+        "license": "info:eu-repo/semantics/openAccess",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2006",
+        "registered": "2019-04-18T12:46:11.000Z",
+        "checked": null,
+        "updated": "2019-09-20T09:33:06.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41MjgxL1pFTk9ETy4yNjQ1NjYzPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U3RlcnJlciwgV29sZmdhbmc8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPldvbGZnYW5nPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlN0ZXJyZXI8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkZJR1VSRSA2IGluIEduYXRob3N0b211bGlkYSBmcm9tIHRoZSBPdGFnbyBQZW5pbnN1bGEsIHNvdXRoZXJuIE5ldyBaZWFsYW5kPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlplbm9kbzwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAwNjwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0PkJpb2RpdmVyc2l0eTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlRheG9ub215PC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAwNi0wNC0xMzwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iSW1hZ2UiPkZpZ3VyZTwvcmVzb3VyY2VUeXBlPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJ1cmwiPmh0dHBzOi8vemVub2RvLm9yZy9yZWNvcmQvMjY0NTY2MzwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNQYXJ0T2YiPjEwLjUyODEvemVub2RvLjI2NDU2NDc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iTFNJRCIgcmVsYXRpb25UeXBlPSJJc1BhcnRPZiI+dXJuOmxzaWQ6cGxhemkub3JnOnB1YjpGRkE5RkZBNzkyNzYyQjc2RjEwOEZGQTNGRkNCQ0E3RTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJVUkwiIHJlbGF0aW9uVHlwZT0iSXNQYXJ0T2YiPmh0dHBzOi8vemVub2RvLm9yZy9yZWNvcmQvMjY0NTY0NzwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJVUkwiIHJlbGF0aW9uVHlwZT0iSXNQYXJ0T2YiPmh0dHA6Ly9wdWJsaWNhdGlvbi5wbGF6aS5vcmcvaWQvRkZBOUZGQTc5Mjc2MkI3NkYxMDhGRkEzRkZDQkNBN0U8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzVmVyc2lvbk9mIj4xMC41MjgxL3plbm9kby4yNjQ1NjYyPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IlVSTCIgcmVsYXRpb25UeXBlPSJJc1BhcnRPZiI+aHR0cHM6Ly96ZW5vZG8ub3JnL2NvbW11bml0aWVzL2Jpb3N5c2xpdDwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaW5mbzpldS1yZXBvL3NlbWFudGljcy9vcGVuQWNjZXNzIj5PcGVuIEFjY2VzczwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkZJR1VSRSA2LiBQdGVyb2duYXRoaWEgdHVhdGFyYSBub3YuIHNwZWMuIEJhc2FsIHBsYXRlcyBhbmQgamF3cyBvZiB0aHJlZSBzcGVjaW1lbnMgKGluIDYuMSB0aGUgYmFzYWwgcGxhdGUgaXMgYmVsb3cgdGhlIGphd3MsIGFuZCB1cHNpZGXCrWRvd24pLiBQaGFzZSBjb250cmFzdCBtaWNyb2dyYXBocyBvZiBsaXZlIHNwZWNpbWVucy48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cern.zenodo",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cern",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "image",
+                "type": "resource-types"
+            }
+        }
+    }
+}

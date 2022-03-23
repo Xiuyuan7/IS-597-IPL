@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.6084/M9.FIGSHARE.7306430.V1</identifier>
+  <creators>
+    <creator>
+      <creatorName>Ricardo de Sá Rocha Mello</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Scott Jarvie</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Lindsay Hazley</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Alison Cree</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Comparison among three body parts and three software packages to optimise photographic identification of a reptile (tuatara, Sphenodon punctatus): supplementary material</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">Individually identifying animals is key to ecological research. Natural
+marks and patterns of animals that remain stable through time may be used to
+identify individuals, either manually or with the aid of software. Here we
+compare the performance of three body parts (chest, right side and right eye)
+for individual identification of tuatara (&lt;i&gt;Sphenodon
+punctatus&lt;/i&gt;) using three software packages (Wild-ID, I&lt;sup&gt;3&lt;/sup&gt;S and
+StripeSpotter). We also explored pattern stability over time for the chest and
+right side, and whether the identification rate differed between life-history
+stages (adults and juveniles) for this long-lived reptile. We used photos of
+196 tuatara, including captive and free-roaming individuals. In an initial
+analysis with a subset of individuals, chest and right side gave better
+identification rates than the eye when analysed using Wild-ID (the
+best-performing software). In a further analysis using all photos and Wild-ID,
+the false rejection rate was lower for chest (0.6%) than right side (2.4%).
+Although the effect of time on matching scores for chest (up to 3.5 y) and
+right-side (up to 1.8 y) was significant, it was not large enough to reduce the
+matching rate; furthermore, no difference in identification rate between adults
+and juveniles was detected. Overall, chest was the best-performing body part
+and Wild-ID the best-performing software. Thus, appropriate choice of body
+pattern for analysis may significantly increase the matching rate, and, as
+previously shown, software packages vary in performance.</description>
+  </descriptions>
+  <subjects>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">60299 Ecology not elsewhere classified</subject>
+  </subjects>
+  <publisher>Figshare</publisher>
+  <publicationYear>2018</publicationYear>
+  <dates>
+    <date dateType="Created">2018-12-05</date>
+    <date dateType="Updated">2018-12-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Paper</resourceType>
+  <sizes>
+    <size>859595 Bytes</size>
+  </sizes>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1163/15685381-20181059</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsIdenticalTo">10.6084/m9.figshare.7306430</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</rights>
+  </rightsList>
+</resource>

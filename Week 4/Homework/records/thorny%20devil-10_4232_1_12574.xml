@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.4232/1.12574</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Organizational">GESIS - Leibniz-Institut für Sozialwissenschaften</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="de">German General Social Survey (ALLBUS) - Cumulation 1980-2014</title>
+    <title xml:lang="en">German General Social Survey (ALLBUS) - Cumulation 1980-2014</title>
+  </titles>
+  <publisher>GESIS Data Archive</publisher>
+  <publicationYear>2016</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <subjects>
+    <subject xml:lang="en" subjectScheme="ZA">KAT15 Political Attitudes and Behavior</subject>
+    <subject xml:lang="en" subjectScheme="ZA">KAT31 Economic Policy, National Economic Situation</subject>
+    <subject xml:lang="en" subjectScheme="ZA">KAT32 Social Policy</subject>
+    <subject xml:lang="en" subjectScheme="ZA">KAT50 Society, Culture</subject>
+    <subject xml:lang="en" subjectScheme="ZA">KAT53 Family</subject>
+    <subject xml:lang="en" subjectScheme="ZA">KAT57 Religion and "Weltanschauung"</subject>
+    <subject xml:lang="en" subjectScheme="ZA">KAT59 Medicine</subject>
+    <subject xml:lang="en" subjectScheme="ZA">KAT62 Communication, Public Opinion, Media</subject>
+    <subject xml:lang="en" subjectScheme="ZA">KAT54 Person, Personality, Role</subject>
+    <subject xml:lang="en" subjectScheme="ZA">KAT65 Natural Environment, Nature</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Freizeit, Tourismus und Sport</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Kulturelle und nationale Identität</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Religion und Werte</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Soziale Lage und Indikatoren</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Kriminalität</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Gesundheitsfürsorge und medizinische Betreuung</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Schwangerschaft, Familienplanung und Abtreibung</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Spezifische Krankheiten und Gesundheitszustand</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Massenmedien</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Politische Verhaltensweisen und Einstellungen / Meinungen</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Regierung, politische Systeme, Parteien und Verbände</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Familie und Ehe</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Gleichheit und Ungleichheit</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Minderheiten</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Soziale Ausgrenzung</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Umwelt und Natur</subject>
+    <subject xml:lang="de" subjectScheme="CESSDA Topic Classification">Wirtschaftliche Lage und Indikatoren</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Leisure, tourism and sport</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Cultural and national identity</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Religion and values</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Social conditions and indicators</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Crime</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Health care and medical treatment</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Childbearing, family planning and abortion</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Specific diseases and medical conditions</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Mass media</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Mass political behaviour, attitudes / opinion</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Government, political systems and organisation</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Family life and marriage</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Equality and inequality</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Minorities</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Social exclusion</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Natural environment</subject>
+    <subject xml:lang="en" subjectScheme="CESSDA Topic Classification">Economic conditions and indicators</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Klaus Allerbeck,  </contributorName>
+      <affiliation>University of Frankfurt</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Jutta Allmendinger,  </contributorName>
+      <affiliation>University of Munich;</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Hans-Jürgen Andreß,  </contributorName>
+      <affiliation>University of Cologne</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Wilhelm Bürklin,  </contributorName>
+      <affiliation>University of Potsdam</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Andreas Diekmann,  </contributorName>
+      <affiliation>ETH Zurich</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Hubert Feger,  </contributorName>
+      <affiliation>Free University of Berlin</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Detlef Fetchenhauer,  </contributorName>
+      <affiliation>University of Cologne</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Johannes Huinink,  </contributorName>
+      <affiliation>University of Bremen</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Marie Luise Kiefer,  </contributorName>
+      <affiliation>University of Vienna</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Frauke Kreuter,  </contributorName>
+      <affiliation>University of Munich</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Steffen Kühnel,  </contributorName>
+      <affiliation>University of Göttingen</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Karin Kurz,  </contributorName>
+      <affiliation>University of Göttingen</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">M. Rainer Lepsius,  </contributorName>
+      <affiliation>University of Heidelberg</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Stefan Liebig,  </contributorName>
+      <affiliation>University of Bielefeld</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Karl Ulrich Mayer,  </contributorName>
+      <affiliation>Max Planck Institute for Human Development, Berlin</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Heiner Meulemann,  </contributorName>
+      <affiliation>University of Cologne</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Walter Müller,  </contributorName>
+      <affiliation>University of Mannheim</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Karl Dieter Opp,  </contributorName>
+      <affiliation>University of Leipzig</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Franz Urban Pappi,  </contributorName>
+      <affiliation>University of Mannheim</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Erwin K. Scheuch,  </contributorName>
+      <affiliation>University of Cologne</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Rüdiger Schmitt-Beck,  </contributorName>
+      <affiliation>University of Mannheim</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Heike Solga,  </contributorName>
+      <affiliation>University of Göttingen</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Heike Trappe,  </contributorName>
+      <affiliation>University of Rostock</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Michael Wagner,  </contributorName>
+      <affiliation>University of Cologne</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Bettina Westle,  </contributorName>
+      <affiliation>University of Marburg</affiliation>
+    </contributor>
+    <contributor contributorType="Researcher">
+      <contributorName nameType="Personal">Rolf Ziegler,  </contributorName>
+      <affiliation>University of Munich</affiliation>
+    </contributor>
+    <contributor contributorType="DataCollector">
+      <contributorName nameType="Organizational">GETAS, Bremen (1980-84) GFM-GETAS (IPSOS), Hamburg (1988, 1998) INFAS, Bonn (1990, 2002) Infratest, Munich (1986, 1991, 1992, 1994, 1996, 2000) TNS Infratest, Munich (2004, 2006, 2008, 2010, 2012, 2014)</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Collected">1980-01</date>
+    <date dateType="Collected">1980-01/1980-02</date>
+    <date dateType="Collected">1982-02</date>
+    <date dateType="Collected">1982-02/1982-05</date>
+    <date dateType="Collected">1984-03</date>
+    <date dateType="Collected">1984-03/1984-06</date>
+    <date dateType="Collected">1986-03</date>
+    <date dateType="Collected">1986-03/1986-05</date>
+    <date dateType="Collected">1988-04</date>
+    <date dateType="Collected">1988-04/1988-07</date>
+    <date dateType="Collected">1990-03</date>
+    <date dateType="Collected">1990-03/1990-05</date>
+    <date dateType="Collected">1991-05</date>
+    <date dateType="Collected">1991-05/1991-07</date>
+    <date dateType="Collected">1992-05</date>
+    <date dateType="Collected">1992-05/1992-06</date>
+    <date dateType="Collected">1994-02</date>
+    <date dateType="Collected">1994-02/1994-05</date>
+    <date dateType="Collected">1996-03</date>
+    <date dateType="Collected">1996-03/1996-06</date>
+    <date dateType="Collected">1998-03</date>
+    <date dateType="Collected">1998-03/1998-07</date>
+    <date dateType="Collected">2000-01</date>
+    <date dateType="Collected">2000-01/2000-07</date>
+    <date dateType="Collected">2002-02</date>
+    <date dateType="Collected">2002-02/2002-08</date>
+    <date dateType="Collected">2004-03</date>
+    <date dateType="Collected">2004-03/2004-07</date>
+    <date dateType="Collected">2006-03</date>
+    <date dateType="Collected">2006-03/2006-08</date>
+    <date dateType="Collected">2008-03</date>
+    <date dateType="Collected">2008-03/2008-08</date>
+    <date dateType="Collected">2010-05</date>
+    <date dateType="Collected">2010-05/2010-11</date>
+    <date dateType="Collected">2012-04</date>
+    <date dateType="Collected">2012-04/2012-09</date>
+    <date dateType="Collected">2014-03</date>
+    <date dateType="Collected">2014-03/2014-09</date>
+  </dates>
+  <language>deu</language>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="ZA-No.">ZA4584</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="FDZ">ALLBUS</alternateIdentifier>
+  </alternateIdentifiers>
+  <version>1.0.0</version>
+  <rightsList>
+    <rights xml:lang="de">Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d</rights>
+    <rights xml:lang="en">All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp</rights>
+  </rightsList>
+  <descriptions>
+    <description xml:lang="de" descriptionType="Abstract">Trenderhebung zur gesellschaftlichen Dauerbeobachtung von Einstellungen, Verhalten und sozialem Wandel in Deutschland. Die Schwerpunkte der kumulierten Untersuchungen sind:
+
+1.) Wirtschaft
+2.) Politische Einstellungen und Partizipation
+3.) Deutsche Vereinigung
+4.) Soziale Ungleichheit und Wohlfahrtsstaat
+5.) Vertrauen in öffentliche Einrichtungen und Organisationen
+6.) Nationalstolz
+7.) Ethnozentrismus und Minoritäten
+8.) Nationale und regionale Verbundenheit
+9.) Einstellungen zu Ehe, Familie und Partnerschaft
+10.) Abtreibung
+11.) Fragen zum Thema AIDS (HIV)
+12.) Wichtigkeit von verschiedenen Lebensbereichen und ausgewählten Berufsaspekten
+13.) Freizeitaktivitäten
+14.) Mediennutzung
+15.) Gesundheit
+16.) Religion und Weltanschauung
+17.) Umwelt
+18.) Einstellungen zu und Kontakte mit Behörden
+19.) Anomia und Kriminalitätsfurcht
+20.) Individuelle und kollektive Werteorientierungen
+21.) ALLBUS-Demographie
+22.) Daten zum Interview (Paradaten)
+23.) Ergänzungen und abgeleitete Variablen
+
+
+Themen:
+
+1.) Wirtschaft: Beurteilung der eigenen Wirtschaftslage und der aktuellen und zukünftigen Wirtschaftslage in der Bundesrepublik und im eigenen Bundesland.
+
+2.) Politische Einstellungen und Partizipation: Zufriedenheit mit der Bundesregierung, der Landesre-gierung, der deutschen Demokratie und mit dem Funktionieren des politischen Systems (politische Unterstützung); Selbsteinstufung auf einem Links-Rechts-Kontinuum; politisches Interesse; Parteinei-gung; Wahlabsicht (Sonntagsfrage); Wahlbeteiligung bei der letzten Bundestagswahl; Wahlrückerin-nerungsfrage; Sympathie-Skalometer für die CDU, CSU, SPD, FDP, Republikaner, NPD, PDS, DKP sowie Bündnis 90 / Die Grünen; Wahrscheinlichkeiten, diverse Parteien zu wählen; politische Partizipation; ehrenamtliche Tätigkeiten; Einstellung zur Kernenergie, zur Todesstrafe für Terroristen, zur Privatisie¬rung öffentlicher Betriebe, zur Freigabe von Abtreibung; Demokratie-Skala; Wahrnehmung von Ein-flussmöglichkeiten auf die Politik (political efficacy, political alienation): bürgerferne Politiker, Selbst-vertrauen in Bezug auf politische Gruppenarbeit, zu viel Komplexität in der Politik, Bürgerorientierung der Politiker; politische Kenntnisse des Befragten und des Durchschnittsbürgers; Befähigung der Mehrheit zu politischer Arbeit; Wahlbeteiligung ist Bürgerpflicht; Postmaterialismus (Wichtigkeit von Ruhe und Ordnung, von Bürgereinfluss, von Inflationsbekämpfung und von freier Meinungsäußerung).
+
+3.) Deutsche Vereinigung: Einstellung zur Forderung nach mehr Opferbereitschaft im Westen und mehr Geduld im Osten; Wiedervereinigung ist vorteilhaft für Westen bzw. Osten; Zukunft im Osten hängt von Leistungsbereitschaft der Ostdeutschen ab; wechselseitige Fremdheit der Bürger; Leistungs¬druck in den neuen Bundesländern; Einstellung zum Umgang mit individueller Stasi-Vergangenheit; Einschätzung des Sozialismus als Idee.
+
+4.) Soziale Ungleichheit und Wohlfahrtsstaat: Gerechter Anteil am Lebensstandard; Selbstein¬schätzung der sozialen Schichtzugehörigkeit und Einstufung auf einer Oben-Unten-Skala; Beurteilung des bisherigen Berufserfolgs, Vergleich mit Berufsposition des Vaters und berufliche Erwartung für die Zukunft; perzipierte Stärke von Konflikten zwischen gesellschaftlichen Gruppen; Einstellungen zum deutschen Wirtschaftssystem und Beurteilungen von wohlfahrtsstaatlichen Maßnahmen; Einschätzung gleicher Ausbildungschancen für alle; Voraussetzungen für Erfolg in der Gesellschaft; Einkommensun-terschiede als Leistungsanreiz; Akzeptanz von sozialen Unterschieden; Bewertung der eigenen sozialen Sicherung; Haltung zur Ausweitung oder Kürzung von Sozialleistungen, Einstellung zu einer Kürzung des Verteidigungsetats und perzipierte Haltung der Bundesregierung in solchen Fragen.
+
+5.) Vertrauen in öffentliche Einrichtungen und Organisationen: Gesundheitswesen, Bundesverfas-sungsgericht, Bundestag, Gemeindeverwaltung, Bundeswehr, Kirche, Justiz, Fernsehen, Zeitungswesen, Hochschulen, Bundesregierung, Gewerkschaften, Polizei, Parteien, Arbeitsämter, Rentenversicherung, Arbeitgeberverbände, Kommission der Europäischen Union, Europäisches Parlament, Europäischer Gerichtshof.
+
+6.) Nationalstolz: Stolz auf deutsche Einrichtungen und deutsche Leistungen; Stolz, Deutscher zu sein.
+
+7.) Ethnozentrismus und Minoritäten: Haltungen zum Zuzug von Aussiedlern aus Osteuropa, Asylsu-chenden, EU-Arbeitnehmern und Nicht-EU-Arbeitnehmern; Wahrgenommene Konsequenzen der Anwe-senheit von Ausländern in Deutschland; Ausländerbehandlung durch Behörden; Wichtigkeitseinstufung verschiedener Einbürgerungsvoraussetzungen; Einstellungsskala und Kontakte zu Ausländern (Split: Gast¬arbeiter) in der Familie, am Arbeitsplatz und in der Nachbarschaft oder im Freundeskreis; Einstellung zur doppelten Staatsbürgerschaft und zur Rechtsangleichung von Ausländern; perzipierte Stärke des Kon¬flikts zwischen Gastarbeitern und Deutschen; Befürwortung von Islamunterricht an Schulen; Ausländeranteilsschätzung für Ost- und Westdeutschland sowie für die eigene Wohnumgebung; perzipierte Lebensstildifferenzen; Indikatoren für soziale Distanz zu ethischen Minderheiten und Ausländern; Items zum Antisemitismus; Wahrnehmung und Bewertung von diskriminierendem Verhalten gegenüber Aus¬ländern.
+
+8.) Nationale und regionale Verbundenheit: Verbundenheit mit der eigenen Gemeinde, mit dem Bundesland, mit der alten Bundesrepublik bzw. mit der DDR, mit Gesamtdeutschland sowie mit der EU.
+
+9.) Einstellungen zu Ehe, Familie und Partnerschaft: Familie als Glücksvoraussetzung; Heirat bei dauernder Partnerschaft oder bei Schwangerschaft; ideale Kinderzahl; Einstellung zur Berufstätigkeit von Frauen und Müttern; Einstellungen zur Rolle von Mann und Frau in der Familie; Wichtigkeit von Erziehungszielen; wichtigste Erziehungsziele der Schule; Einstufung der Wichtigkeit ausgewählter Lernziele für ein Kind; gewünschte Eigenschaften von Kin¬dern; Autoritarismus; Wichtigkeit der Familie.
+
+10.) Abtreibung: Schwangerschaftsabbruch bei gesundheitlichen Gefährdungen von Mutter oder Kind, Abtreibung nach Vergewaltigung, bei sozialer Notlage oder bei ledigen Frauen ohne Heiratswunsch, völlige Freigabe von Abtreibung; Meinung zum Abtreibungszeitpunkt: bei ernsthafter Schädigung des Babys, wenn die Frau kein weiteres Kind will, bei ernsthafter Gesundheitsgefährdung der Mutter, wenn das Kind eine zu hohe finanzielle Belastung darstellt, wenn die Mutter alleinerziehend ist, wenn Abtreibung gegen den Willen des Vaters geschehen soll, bei fehlendem Kinderwunsch, bei Wunsch der Mutter ohne Angabe von Gründen.
+
+11.) Fragen zum Thema AIDS (HIV): Kenntnis der Krankheit AIDS; wahrgenommene Berichte in den Medien; Einstellung zu höheren Krankenversicherungsbeiträgen für HIV-Infizierte; Einstellung zur Entlassung infizierter Arbeitnehmer und zu einem Einreiseverbot für HIV-infizierte Ausländer; Einstel¬lung zu einer zentralen Meldepflicht; Sorge um eine eigene HIV-Infektion; eigene Schutzmaßnahmen und Verhaltensänderungen; HIV-Infizierte im Bekanntenkreis.
+
+12.) Wichtigkeit von verschiedenen Lebensbereichen und ausgewählten Berufsaspekten: Familie und Kinder, Beschäftigung und Arbeit, Freizeit und Erholung, Freunde und Bekannte, Verwandte, Religion und Kirche, Politik und öffentliches Leben, Nachbarschaft; Präferenzen bei einer beruflichen Tätigkeit (Sicherheit, Einkommen, Verantwortung etc.).
+
+13.) Freizeitaktivitäten: Bücher lesen; Zeitschriften lesen; Schallplatten, CDs, Kassetten hören; Videos anschauen; Computer nutzen; im Internet surfen; private Weiterbildung; nichts tun, faulenzen; spazieren gehen, wandern; Yoga, Meditation; Restaurants; Besuche im Freundeskreis; Besuche im Verwandtenkreis; Gesellschaftsspiele; kurze Reisen; politische Beteiligung; ehrenamtliche Tätigkeiten; religiöse Veranstaltungen; Kunst und musische Betätigung; do it yourself; aktiver Sport; Film-, Sport-, Pop-, Jazz-, Tanzveranstaltungen besuchen; klassische Kultur (Oper, Konzerte, Theater, Ausstellungen);  Musik hören; das Internet nutzen; chatten, soziale Netzwerke; Computer spielen; Musik machen; andere künstlerische Tätigkeiten; Besuch von Museen, Ausstellungen; Besuch von Volksfesten, Stadtfesten.
+
+14.) Mediennutzung: Musik hören: Volksmusik, Schlager, klassische Musik, Jazz, Volksmusik anderer Kulturen, Pop-Musik oder Charts, Rock, Heavy Metal, Elektronische Musik (House, Techno), Hip Hop, Soul, Reggae, Oper, Musical; Häufigkeit von Fernsehen pro Woche, Interesse an Fernsehsendungen: Shows und Quizsendungen, Sportsendungen, Spielfilme, Nachrichten, politische Magazine, Kunst und Kultur, Heimatfilme, Kriminalfilme, Actionfilme, Unterhaltungsserien; Häufigkeit der Lektüre von Tageszeitungen pro Woche.
+
+15.) Gesundheit: allgemeiner Gesundheitszustand; körperlicher und seelischer Zustand in den letzten vier Wochen; Beeinträchtigung bei körperlicher Belastung; chronische Krankheiten und Beschwerden; im letzten Monat krank gewesen; Grund für Arztbesuche in den letzten 3 Monaten; Häufigkeit der Arztbesuche in den letzten 3 Monaten; Krankenhausaufenthalt in den letzten 12 Monaten; Dauer des Krankenhausaufenthaltes; amtlicher Behinderungsgrad; Rauchgewohnheiten; allgemeine Lebenszufriedenheit; Körpergröße; Körpergewicht; Konsumhäufigkeit von verschiedenen Lebensmittelgruppen und Genussmitteln; Belastungen durch Arbeitsbedingungen; Mobbing; Belastung durch Lärm in Wohnumgebung tagsüber; Belastung durch Lärm in Wohnumgebung nachts; Belastung der Wohnumgebung durch Emissionen.
+
+16.) Religion und Weltanschauung: Gottesglaube und Lebenssinn; Selbsteinstufung der Religiosität und Spiritualität; Häufigkeit von Meditation; Einstellungen zu Religiosität; religiöse Indifferenz; Nachdenken über metaphysische Fragen; Erfahrungen mit und Meinung zu verschiedenen Formen von Glauben, Paraglauben oder Aberglauben; Religion vs. Wissenschaft; Einstellungen zur Rolle von Religion in der Gesellschaft und der Welt; religiöse Toleranz; Kirchenmitgliedschaft; frühere Konfession; kirchliche Beerdigung; kirchliche Trauung; Taufe der Kinder; Kirchgangs- und Gebetshäufigkeit; Interesse an kirchlichen Sendungen in den Medien; Einstellung zur Heirat mit Angehörigen verschiedener Konfessionen; Glaube an ein Leben nach dem Tod; Glaube an den Himmel, die Hölle und an Wunder; Glaube an Wiedergeburt; Glaube an Geister, Engel und Teufel; Wichtigkeit von Religion im Elternhaus.
+
+17.) Umwelt: Perzeption allgemeiner Umweltbelastungen und persönlich empfundene Umweltbelastungen.
+
+18.) Einstellung zu und Kontakte mit Behörden: Beurteilung der Leistungen von Behörden und deren Verhalten gegenüber Bürgern.
+
+19.) Anomia und Kriminalitätsfurcht: Allgemeines Vertrauen zu Mitmenschen und zu Politikern; sozialer Pessimismus und Zukunftsorientierung (Anomia); Kriminalitätsfurcht; Furcht vor Verlust des Arbeitsplatzes bzw. der betrieblichen Existenz.
+
+20.) Individuelle und kollektive Werteorientierungen: Lebensziele (Gesetz und Ordnung respektieren, hoher Lebensstandard, Macht und Einfluss, Phantasie und Kreativität entwickeln, Sicherheit, Randgruppen helfen, eigene Bedürfnisse durchsetzen, Fleiß und Ehrgeiz, Toleranz, politisches Engagement, Hedonismus, Gottesglaube, Leistung im Beruf, Selbstverwirklichung); Meinung zu ausgewählten Delikten und Vergehen bezüglich ihrer Verwerflichkeit und ihrer Sanktionswürdigkeit; Gesetzestreue; Wahrscheinlichkeit, genannte Gesetzesübertretungen in Zukunft zu begehen; selbstberichtetes abweichendes Verhalten; Einschätzung der Wahrscheinlichkeit, bei verschiedenen Delikten entdeckt zu werden; Senkung der Kriminalität durch härtere Strafen; eigene Viktimisierung.
+
+21.) ALLBUS-Demographie: Angaben zur befragten Person: Geburtsmonat, Geburtsjahr, Alter, Geschlecht, Staatsbürgerschaft (Nationalität), Anzahl der Staatsbürgerschaften und Angaben zur ursprünglichen Staatsbürgerschaft, Wohnort (Bundesland, politische Gemeindegröße, BIK Stadtregion, Bousted-Gemeindetyp, Ausländeranteil auf Kreisebene) und Wohndauer, Herkunft, Konfession bzw. Religionszugehörigkeit, Kirchgangshäufigkeit, Häufigkeit des Besuchs eines anderen Gotteshauses, Schulbesuch, allgemeiner Schulabschluss, berufliche Ausbildung, Führerscheinbesitz, Erwerbsstatus, Angaben zum gegenwärtigen bzw. früheren Beruf, Angaben zum ersten Beruf,  Befristung des Arbeitsvertrages, Branche, Furcht vor Verlust des Arbeitsplatzes, Zugehörigkeit zum öffentlichen Dienst, Arbeitswegdauer, berufliche Aufsichtsfunktion, Zeitpunkt der Aufgabe hauptberuflicher Erwerbstätigkeit, Stellungsdauer, Nebenerwerbstätigkeit, wöchentliche Arbeitsdauer (Haupt- und Nebenerwerb), Betriebsgröße, Dauer von Arbeitslosigkeit, Unterbrechung der Erwerbstätigkeit, Wunsch nach Arbeit, vorwiegender Lebensunterhalt, Befragteneinkommen, Alter beim Verlassen der Eltern, Selbstbeschreibung des Wohnortes, Übersiedlung nach Ost- oder Westdeutschland, Interesse an einer Übersiedlung in den Ost- bzw. Westteil oder in ein anderes Land der Europäischen Gemeinschaft, Aufenthaltsdauer (in der Bundesrepublik, im Bundesland, am Wohnort), Land in dem Befragter in seiner Jugend lebte, Wohnungstyp, Telefonanschluss, kFamilienstand, Ehebiographie, Kinderwunsch.
+Angaben zum gegenwärtigen Ehepartner: Erste, zweite und dritte Staatsbürgerschaft, Anzahl der Staatsbürgerschaften und Angaben zur ursprünglichen Staatsbürgerschaft, Alter, Konfession, allgemeiner Schulabschluss, berufliche Ausbildung, Hochschulabschluss, Erwerbsstatus, Angaben zum gegenwärtigen bzw. früheren Beruf, Zugehörigkeit zum öffentlichen Dienst, Zeitpunkt der Aufgabe hauptberuflicher Erwerbstätigkeit, Dauer von Arbeitslosigkeit, Furcht vor Verlust des Arbeitsplatzes.
+Angaben zum ehemaligen Ehepartner: Alter, Konfession, allgemeiner Schulabschluss, berufliche Ausbildung, Angaben zum gegenwärtigen bzw. früheren Beruf.
+Angaben zu nichtehelichen Lebenspartnern: Erste, zweite und dritte Staatsbürgerschaft, Anzahl der Staatsbürgerschaften und Angaben zur ursprünglichen Staatsbürgerschaft, Alter, gemeinsamer Haushalt mit Lebenspartner, Aufgabenteilung im Haushalt, allgemeiner Schulabschluss, berufliche Ausbildung, Hochschulabschluss, Erwerbsstatus, Angaben zum gegenwärtigen bzw. früheren Beruf, Zugehörigkeit zum öffentlichen Dienst, Furcht vor Verlust des Arbeitsplatzes, Zeitpunkt der Aufgabe hauptberuflicher Erwerbstätigkeit.
+Angaben zu den Eltern und Großeltern des Befragten: Herkunftsland der Eltern und Großeltern, Allgemeiner Schulabschluss von Mutter und Vater, Universitätsbesuch von Mutter und Vater, berufliche Ausbildung von Mutter und Vater, Angaben zum Beruf des Vaters und der Mutter, Konfession bzw. Religionszugehörigkeit von Vater und Mutter.
+Haushaltsbeschreibung: Haushaltsgröße, Haushaltseinkommen, Einkommensarten im Haushalt, Haupteinkommensquelle, Anzahl von über 17-jährigen Haushaltspersonen (reduzierte Haushaltsgröße), Zahl der Kinder, Größe der Wohnung, Haltung von Hund oder Katze.
+Angaben zu den einzelnen Haushaltspersonen (Haushaltsliste): Verwandtschaft der Haushaltspersonen zum Befragten, Geschlecht der Personen, ihr Geburtsmonat, Geburtsjahr, Alter, Familienstand, Einkommen, deutsche Staatsbürgerschaft, Taufe, Konfession bzw. Religionszugehörigkeit; für Kinder außerdem: besuchte Schulform, allgemeiner Schulabschluss, Hochschulabschluss.
+Angaben zu Kindern außerhalb des Haushalts: Zahl der Kinder außer Haus, Geschlecht, Alter, Taufe, Konfession bzw. Religionszugehörigkeit, allgemeiner Schulabschluss, Hochschulabschluss.
+Gegenwärtige Mitgliedschaften des Befragten (Deutscher Gewerkschaftsbund (DGB), Deutsche Angestelltengewerkschaft (DAG), Christlicher Gewerkschaftsbund (CGB), andere Gewerkschaft, Union Leitender Angestellter (ULA), Deutscher Beamtenbund (DBB), Bauernverband, Gewerbeverband, Bundesverband der Deutschen Industrie (BDI), sonstiger Berufsverband; Gesangverein, Sportverein, Hobby-Vereinigung, Heimat- oder Bürgerverein, sonstige gesellige Vereinigung, Vertriebenen- oder Flüchtlingsverband, Wohlfahrtsverband, kirchlicher oder religiöser Verein, Jugend- oder Studentenorganisation, politische Partei, Bürgerinitiative, andere Vereine oder Verbände); Mitgliedsstatus des Befragten bei diversen Vereinen und Organisationen; Mitgliedschaft in informellen Gruppen; frühere Gewerkschaftsmitgliedschaft.
+Freunde und vertraute Personen (egozentrierte Netzwerke) mit Angaben über: Geschlecht, Alter, Verwandtschaft und Beziehung zum Befragten, Schulabschluss, Erwerbstätigkeit, berufliche Stellung und Berufsgruppe, Wahlverhalten, Herkunft und Staatsbürgerschaft, Wohndistanz, verglichene Wirtschaftslage, Qualität und Quantität der Kontakte sowie gegenseitige Bekanntschaft.
+
+22.) Daten zum Interview (Paradaten): Interviewdatum; Interviewbeginn und -ende; Interviewdauer; eingeschätzte Attraktivität der Befragten; an wie vielen Befragungen teilgenommen; Bereitschaft zu einer Panelteilnahme; Erreichbarkeit des Befragten; Anwesenheit des Befragten zu Hause während der letzten Wochentage; Auskunftsbereitschaft des Befragten; Anwesenheit Dritter beim Interview; Anwesenheit des Ehepartners, Partners oder von Kindern beim Interview; Anwesenheit weiterer Familienangehöriger beim Interview; Eingriffe Dritter in den Interviewverlauf; Kooperationsbereitschaft und Zuverlässigkeit der Angaben des Befragten; Mitverfolgen des Interviews am Bildschirm; Häufigkeit der Internetnutzung; Teilnahmebereitschaft bei Internetumfragen; Zahl der Kontaktversuche; Angaben zum Wohngebäude des Befragten und der Wohnumgebung.
+Angaben zum Interviewer: Geschlecht, Alter, Schulabschluss, Identifikationsnummer, Dauer der Interviewertätigkeit.
+
+23.) Ergänzungen und abgeleitete Variablen: Body-Mass-Index; Postmaterialismus-Index (nach Inglehart); Familientypologie, Haushaltsklassifikationen (nach Porst und Funk); Berufsvercodung gemäß ISCO (International Standard Classification of Occupations) 1968, 1988 und 2008; Berufsprestige (nach Treiman); SIOPS (nach Ganzeboom); ISEI (nach Ganzeboom); Magnitudeprestige (nach Wegener); Einordnungsberufe (nach Pappi und Terwey); ISCED (International Standard Classification of Education) 1997 und 2011; Klassenlagen (nach Goldthorpe); Pro-Kopf-Einkommen; Äquivalenzeinkommen (modifizierte OECD-Skala); Transformationsgewichte für Auswertungen auf Haushalts- oder Personenebene; Ost-West-Gewichte für gesamtdeutsche Auswertungen.</description>
+    <description xml:lang="en" descriptionType="Abstract">The original surveys have been designed to monitor trends in attitudes, behavior, and societal change in the Federal Republic of Germany. The main topics of this cumulative study are:
+
+1.) Economy
+2.) Political attitudes and participation
+3.) Attitudes relating to the process of German unification
+4.) Social inequality and the welfare state
+5.) Confidence in public institutions and organizations
+6.) National pride
+7.) Ethnocentrism and Minorities
+8.) Identification with various political entities
+9.) Attitudes towards marriage, family and partnership
+10.) Attitudes towards abortion
+11.) Questions on AIDS (HIV)
+12.) Importance of life aspects and job characteristics
+13.) Free time activities
+14.) Use of media 
+15.) Health
+16.) Religion and world view
+17.) Environment
+18.) Attitudes towards and contacts with the administration
+19.) Anomia and fear of crime
+20.) Personal and collective values
+21.) ALLBUS-Demography
+22.) Data on the interview (paradata) 
+23.) Added value
+
+Topics:
+
+1.) Economy: assessment of the present and future economic situation in Germany and in one´s own federal state; assessment of present and future personal economic situation.
+2.) Political attitudes and participation: satisfaction with federal government, state government, German democracy, and with the performance of the German political system (political support); self-placement on left-right continuum; political interest; party inclination; voting intention (Sonntagsfrage); participation in last federal elections; recall of vote in last federal elections; party-sympathy-scales for the CDU, CSU, SPD, FDP, Republicans (Republikaner), NPD, PDS, DKP as well as the Greens (Bündnis 90 / Die Grünen); likelihood of voting for different political parties; political participation; voluntary activities or honorary offices; attitudes towards nuclear energy, the death penalty for terrorists, towards the privatization of publicly owned companies, and towards abortion; democracy scale; perception of individual influence on politics (political efficacy, political alienation); gap between politicians and citizens; self-assuredness with regard to political group work; too much complexity in politics; the politicians´ closeness to constituents; personal and average citizen´s level of political knowledge; majority capable of working in a political group; participation in the vote as a civic duty; postmaterialism (importance of law and order, fighting rising prices, free expression of opinions, and influence on governmental decisions).
+
+3.) Attitudes relating to the process of German unification: attitude towards the demand for increased willingness to make sacrifices in the West and more patience in the East; unification is advantageous, for East and West respectively; future of the East depends on the willingness of eastern Germans to make an effort; strangeness of citizens in the other part of Germany; performance pressure in the new states; attitude towards dealing with the Stasi-past of individuals; evaluation of socialism as an idea.
+
+4.) Social inequality and the welfare state: fair share in standard of living; self-assessment of social class and classification on a top-bottom-scale; evaluation of personal occupational success, comparison with father´s position and personal occupational expectations for the future; perceived strength of conflicts between social groups; attitudes towards the German economic system and evaluation of policies supporting the welfare state; assessment of access to education; perceived prerequisites for success in society; income differences as incentive to achieve; acceptance of social differences; evaluation of personal social security; attitudes towards expansion or cuts in social services; attitudes towards cuts in the defense budget; perceived stance of the federal government in these matters.
+
+5.) Confidence in public institutions and organizations: health service, federal constitutional court, federal parliament, local government, German armed forces, churches, judiciary, television, newspapers, universities, federal government, trade unions, police, political parties, employment offices, retirement insurance, employers´ association, the European Commission, the European Parliament, the European Court of Justice.
+
+6.) National pride: pride in German institutions and German achievements; pride in being a German.
+
+7.) Ethnocentrism and minorities: attitude towards the influx of eastern European ethnic Germans, asylum seekers, labor from EU or non-EU countries; perceived consequences of presence of foreigners in Germany; treatment of foreigners by the administration; ranking in terms of importance of different citizenship requirements; scale of attitudes towards foreigners and contacts with foreigners (split: guest-workers) within the family, at work, in the neighborhood, or among friends; opinion on dual citizenship and on equal rights for foreigners; perceived strength of conflict between guest workers and German citizens; support for the teaching of Islam in public schools; estimation of proportion of foreigners in East and West Germany and in the neighborhood where respondent lives; perceived differences in lifestyle; indicators for social distance to ethnic minorities and foreigners; items on anti-Semitism; perception and evaluation of discriminatory behavior towards foreigners.
+
+8.) Identification with various political entities: identification with own municipality, the federal state, the old Federal Republic or the GDR, unified Germany and the EU.
+
+9.) Attitudes towards marriage, family and partnership: family as a prerequisite for happiness; marriage in case of steady partnership or if child was born; ideal number of children; attitude towards employment of women and mothers; attitude towards the role of men and women in the family; importance of educational goals; most important educational goals in school; classification of the importance of certain educational aspirations for a child; desired characteristics of children; authoritarianism; importance of the family.
+
+10.) Attitudes towards abortion: abortion because of health risks for mother or child; abortion after rape, due to financial situation or by single women not wanting to marry; permitting abortion without restriction; until when to allow an abortion if baby will be severely handicapped, if mother does not want more children, if there is a serious health risk for the mother, if there is not enough money, if the mother does not want to raise the child alone, if the father is against an abortion, if children are not part of lifeplan, if the mother does not give a specific reason.
+
+11.) Questions on AIDS (HIV): knowledge of the disease AIDS; perceived reports in the media; attitudes towards higher health insurance fees for AIDS-infected people; attitudes towards dismissal of AIDS-infected employees and towards entry refusal for AIDS-infected foreigners; attitude towards mandatory registration of HIV-infected individuals; worry about personal AIDS infection; personal protective measures and behavioral changes; AIDS-infected people in one´s own circle of friends.
+
+12.) Importance of life aspects and job characteristics: family and children, occupation and work, free time and recreation, friends and acquaintances, kinship, religion and church, politics and public life, neighborhood; preferred job characteristics (security, income, responsibility, etc.).
+
+13.) Free time activities: reading books; reading magazines; listening to records, CD´s, cassettes; watching videos; using the computer; surfing the internet; private further education; relaxing, being lazy; walking or hiking; yoga, meditation; going to restaurants; visiting friends; visiting relatives; playing games; taking short trips; participating in politics; voluntary activities or honorary offices; attending church or religious events; indulging in art and music; do it yourself; active sport; attending sports events, going to the cinema, to pop concerts, jazz or dance events; classic culture (i.e. opera, classical concerts, theater, exhibitions); listening to music; using the internet; online chats and social networks; playing computer games; making music; doing other artistic activities; visiting museums or exhibitions; attending public festivals or fairs. 
+
+14.) Use of media: musical preferences: folk music (German or other cultures), German pop music (‘Schlager’), jazz, pop or what is in the charts, rock, heavy metal, electronic music (house, techno etc.), hip hop / soul / reggae, classical music, opera, musicals; frequency of watching television over the week; taste in television programs: shows and quiz shows, sports, movies, news broadcasts, political magazines, art and culture programs, traditional German "Heimat"-films, detective films, action films, sitcom or entertainment series; frequency of reading a daily newspaper per week.
+
+15.) Health: overall health; physical and psychological shape during the last four weeks; health problems’ impact on everyday life; chronic illnesses; been sick in the last four weeks; reason for and frequency of seeing a doctor in the last three months; time spent in hospital during the last 12 months; officially recognized disability level; smoking habits; overall life satisfaction; height and weight; consumption of various foodstuffs and beverages; affectedness by unhealthy working conditions and by mobbing; impact of noise and air pollution on living conditions.
+
+16.) Religion and world view: belief in God, cosmology, and the meaning of life; self-assessment of religiousness and spirituality; frequency of meditation; attitude towards religiousness; religious indifference; thinking about metaphysical questions; experience with and attitude towards different forms of belief, parabelief and superstition; religion vs. science; attitudes towards the role of religion in society and the world; religious tolerance; membership in a church; present and former denominational membership; funeral by church; marriage in church; baptism of children; frequency of church attendance and prayer; interest in Christian programs in the media; attitude towards person with different faiths marrying into the family; belief in a life after death; belief in heaven, hell, and miracles; belief in reincarnation; belief in the devil, angels and spirits; importance of religion in parental home.
+
+17.) Environment: perception of general environmental pollution and personally experienced environmental pollution.
+
+18.) Attitudes towards and contacts with the administration: evaluation of administration services and assessment of treatment by the administration.
+
+19.) Anomia and fear of crime: interpersonal trust and trust in politicians; social pessimism and orientation towards the future (anomia); fear of crime; fear of unemployment or loss of business.
+
+20.) Personal and collective values: basic personal goals (law and order, standard of living, power and influence, fantasy and creativity, security, help marginalized social groups, ability to assert oneself, industry and ambition, tolerance, political engagement, hedonism, faith in God, occupational achievement, self-realization); opinion on various deviant acts with reference to their reprehensibility and the degree to which they deserve prosecution; respect of the law; probability of engaging in various deviant acts in the future; self-reported deviant behavior; assessment of probability of being caught committing various crimes; lowering the crime rate through severer punishment; own victimization.
+
+21.) ALLBUS-Demography: Details about the respondent: month and year of birth, age, gender, citizenship(s) (nationality), number of citizenships; original citizenship, place of residence (federal state, size of municipality, BIK-type of municipality, Boustedt-type of municipality) and length of residence; geographical origin; religious denomination, frequency of church attendance, frequency of attending other place of worship; currently at school or university, school education, vocational training, possession of driver´s license, employment status, details about current and former occupation respectively, details about first occupation, fixed-term or permanent employment contract, industrial sector, fear of unemployment or loss of business, affiliation to public service, length of commute, supervisory functions, date of termination of full- or part-time employment,  working hours per week (primary and secondary job), size of workplace, length of unemployment, gaps in occupational biography, desire for work, principal source of livelihood, respondent´s income, age when leaving parental home, migration to East or West Germany, interest in migrating to East or West Germany or to another EC country, length of residence (in the FRG, in this federal state, current place of residence), country respondent lived in when young, type of dwelling, self-description of place of residence, telephone, height and weight, marital status, marital biography, desire to have children. 
+Details about respondent´s current spouse: citizenship(s), number of citizenships, original citizenship, age, religious denomination, school education, vocational training, university degree, employment status, details about current and former occupation respectively, affiliation to public service, date of termination of full- or part-time employment, length of unemployment, fear of unemployment or loss of business. 	
+Details about respondent´s former spouse: age, religious denomination, school education, vocational training, details about current and former occupation respectively. 	
+Details about respondent´s steady partner: citizenship(s), number of citizenships, original citizenship, age, common household, distribution of household chores, school education, vocational training, university degree, employment status, details about current and former occupation respectively, affiliation to public service, fear of unemployment or loss of business, date of termination of full- or part-time employment.	
+Details about respondent´s parents and grandparents: country of origin, school education of father and mother, university education of father and mother, vocational training of father and mother, details about parents´ occupation, religious affiliation.	
+Description of household: size of household, household income, types of income in household, principal source of income, number of persons older than 17 in household (reduced size of household), number of children size of dwelling place, cat or dog in the household.	
+Details about household members: family relation to respondent, gender, month and year of birth, age, marital status, income, German citizenship, baptism, religious affiliation, type of school currently attended by children, children´s school education, children´s university degree.	
+Details about children not living in the household: number of children not living in the household, sex, age, baptism, religious affiliation, school education, university degree.	
+Respondent´s current memberships (Deutscher Gewerkschaftsbund (DGB) , Deutsche Angestelltengewerkschaft (DAG) , Christlicher Gewerkschaftsbund (CGB) , Union Leitender Angestellter (ULA) , Deutscher Beamtenbund (DBB) , Deutscher Bauernverband , trade association, Bundesverband der Deutschen Industrie (BDI) , association of a liberal profession, other occupational association; choral society, sports club, leisure activity club, local citizens club or community club, other social association, association of German expellees or refugees, charitable association, religious/church organization, youth or student organization, political party, citizens´ initiative, other club or association); membership status of respondent in various clubs and organizations; membership in informal groups; previous membership in a trade union.	
+Friends and acquaintances (ego-centered networks), including information on: gender, age, kinship or type of relationship, school education, employment, occupational position, occupational group, voting behavior, current citizenship and country of origin, spatial distance between alter and ego, comparative economic situation; quality and quantity of contacts, mutual familiarity between friends or acquaintances.
+
+22.) Data on the interview (paradata): Date of interview; beginning and end of interview; length of interview; perceived attractiveness of respondent at beginning and end of interview; taken part in how many interviews; willingness to join panel; reachability of respondent; presence of respondent at home during the last few weekdays; willingness to participate; presence of other persons during interview; presence of spouse, partner or children during interview; presence of other relatives during interview; interference of other persons in the course of the interview; willingness to cooperate and reliability of information from respondent; respondent followed interview on screen; frequency of private Internet use; willingness to participate in an on-line survey; number of attempts to contact the respondent; details about respondent´s residential building and assessment of respondent´s neighborhood.	
+Details about the interviewer: gender, age, school education of interviewer; identification number, length of experience as an interviewer.
+
+23.) Added value: Body-Mass-Index; Inglehart-Index; family typology, classification of private households (according to Porst and Funk); International Standard Classification of Occupations (ISCO 1968, 1988 and 2008); occupational prestige (according to Treiman); Standard International Occupational Prestige Scale (SIOPS, according to Ganzeboom), International Socio-economic Index of Occupational Status (ISEI, according to Ganzeboom); magnitude prestige (according to Wegener); occupational metaclassification (according to Pappi and Terwey); International Standard Classification of Education (ISCED) 1997 and 2011; class position (according to Goldthorpe); per capita income; equivalised income (OECD-modified scale); weights.</description>
+    <description xml:lang="de" descriptionType="Methods">Mündliche Befragungen mit standardisiertem Fragebogen (PAPI - Paper and Pencil Interviewing), ab Haupterhebung 2000 als CAPI - Computer Assisted Personal Interviewing, mit Ergänzungen aus schriftlichen Zusatzbefragungen (drop off).</description>
+    <description xml:lang="en" descriptionType="Methods">Personal interview with standardized questionnaire (PAPI – Paper and Pencil Interviewing; since 2000: CAPI – Computer Assisted Personal Interviewing), supplementary data from accompanying ISSP surveys (self-completion questionnaires, drop off).</description>
+    <description xml:lang="de" descriptionType="Methods">In der Bundesrepublik Deutschland in Privathaushalten lebende Personen, die zum Befragungszeitpunkt das 18. Lebensjahr vollendet haben. Ab 1991 wurden auch ausländische Zielpersonen in die ALLBUS-Stichproben aufgenommen. Falls keine hinreichend guten Deutschkenntnisse vorlagen, zählen diese Zielpersonen zu den systematischen Ausfällen.</description>
+    <description xml:lang="en" descriptionType="Methods">Universe sampled: Resident population of the Federal Republic of Germany (until 1990: West Germany including West Berlin).
+
+As of 1991 the ALLBUS sample also includes foreigners living in Germany. Targeted individuals who did not have adequate knowledge of German to conduct the interview were treated as systematic unit non-responses.</description>
+    <description xml:lang="de" descriptionType="Methods">1980 bis 1992 und 1998 mehrstufig geschichtete Zufallsauswahl aus allen Privathaushalten mit Personen, die zum Befragungszeitpunkt das 18. Lebensjahr vollendet hatten (ADM-Stichprobendesign).
+In den Erhebungsjahren 1994, 1996 und ab 2000 fand eine zweistufige, disproportional geschichtete Zufallsauswahl in Westdeutschland (incl. West-Berlin) und Ostdeutschland (incl. Ost-Berlin) aus allen in der Bundesrepublik Deutschland lebenden Personen statt, die zum Befragungszeitpunkt in Privathaushalten lebten und zu Beginn des Erhebungsjahres das 18. Lebensjahr vollendet hatten. In der ersten Auswahlstufe wurden Gemeinden in Westdeutschland und in Ostdeutschland mit einer Wahrscheinlichkeit proportional zur Zahl ihrer erwachsenen Einwohner ausgewählt, in der zweiten Auswahlstufe wurden Personen aus den Einwohnermeldekarteien zufällig gezogen.
+Ab 1991 wurden auch ausländische Zielpersonen in die ALLBUS-Stichproben aufgenommen. Falls keine hinreichend guten Deutschkenntnisse vorlagen, zählen diese Zielpersonen zu den systematischen Ausfällen.</description>
+  </descriptions>
+  <geoLocations>
+    <geoLocation>
+      <geoLocationPlace xml:lang="en">Germany - Germany</geoLocationPlace>
+    </geoLocation>
+  </geoLocations>
+</resource>

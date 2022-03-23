@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.6084/M9.FIGSHARE.C.4686047.V1</identifier>
+  <creators>
+    <creator>
+      <creatorName>Rowena Chong</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Catherine Grueber</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Samantha Fox</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Phil Wise</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Vanessa Barrs</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Carolyn Hogg</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Katherine Belov</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Looking like the locals - gut microbiome changes post-release in an endangered species</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">Abstract Background Captivity presents extreme lifestyle changes relative to the wild, and evidence of microbiome dysbiosis in captive animals is growing. The gut microbiome plays a crucial role in host health. Whilst captive breeding and subsequent reintroduction to the wild is important for conservation, such efforts often have limited success. Post-release monitoring is essential for assessing translocation success, but changes to the microbiome of released individuals are poorly understood. The Tasmanian devil was previously shown to exhibit loss of microbiome diversity as a result of intense captive management. This current study examines changes in the devil gut microbiome in response to translocation and aims to determine if perturbations from captivity are permanent or reversible. Methods Using 16S rRNA amplicon sequencing, we conducted temporal monitoring of the gut microbiome of released devils during two translocation events, captive-to-wild and wild-to-wild. To investigate whether the microbiome of the released devils changed following translocation, we characterized their microbiome at multiple time points during the translocation process over the course of 6â  12â  months and compared them to the microbiome of wild incumbent devils (resident wild-born devils at the respective release sites). Results We showed that the pre-release microbiome was significantly different to the microbiome of wild incumbent animals, but that the microbiomes of animals post-release (as early as 3 to 4â  weeks post-release) were similar to wild incumbents. The gut microbiome of released animals showed significant compositional shifts toward the wild incumbent microbiome of both translocation events. Conclusion Our results suggest that the devil gut microbiome is dynamic and that loss of microbiome diversity in captivity can be restored following release to the wild. We recommend the broader application of microbiome monitoring in wildlife translocation programs to assess the impacts of translocation on animal microbiomes.</description>
+  </descriptions>
+  <subjects>
+    <subject>Biochemistry</subject>
+    <subject>Microbiology</subject>
+    <subject>Cell Biology</subject>
+    <subject>Genetics</subject>
+    <subject>Physiology</subject>
+    <subject>Ecology</subject>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">69999 Biological Sciences not elsewhere classified</subject>
+    <subject>Inorganic Chemistry</subject>
+  </subjects>
+  <publisher>figshare</publisher>
+  <publicationYear>2019</publicationYear>
+  <dates>
+    <date dateType="Created">2019-10-03</date>
+    <date dateType="Updated">2019-10-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1186/s42523-019-0012-4</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsIdenticalTo">10.6084/m9.figshare.c.4686047</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</rights>
+  </rightsList>
+</resource>

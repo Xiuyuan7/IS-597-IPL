@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.22004/AG.ECON.266675</identifier>
+  <creators>
+    <creator>
+      <creatorName>Pavlik, Jamie Bologna</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Williams, Ryan Blake</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Pavlik, Jamie Bologna</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Williams, Ryan Blake</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Is the Devil in the Shadow?  A Reexamination of the Relationship between Institutions and Income</title>
+  </titles>
+  <publisher>Unknown</publisher>
+  <publicationYear>2018</publicationYear>
+  <subjects>
+    <subject>Political Economy</subject>
+    <subject>Public Economics</subject>
+    <subject subjectScheme="keyword">Informal sector</subject>
+    <subject subjectScheme="keyword">shadow economy</subject>
+    <subject subjectScheme="keyword">institutions</subject>
+    <subject subjectScheme="keyword">development</subject>
+  </subjects>
+  <dates>
+    <date dateType="Updated">2019-08-24T22:24:04.0-05:00</date>
+  </dates>
+  <language>eng</language>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">The positive relationship between institution quality and “official” income is well-documented. It is unclear, however, if this relationship holds once the “unofficial” economy is accounted for. An improvement in institutional quality tends to shift production out of the shadow and into the official sector. This can result in an increase in official income, at the expense of the shadow economy. This paper uses data from 4,954 Brazilian municipalities to explore the effects of institutional quality on formal, informal, and total income per-worker. The results indicate that an improvement in institutional quality leads to a positive change in total income per-worker. Importantly, the effect of improved institutional quality on income per-worker in the informal sector is neutral to positive, contradicting the findings of previous models. It seems that while positive institutional change does reallocate production from the shadows to the official sector, the reallocation increases overall productivity in the economy.</description>
+  </descriptions>
+</resource>

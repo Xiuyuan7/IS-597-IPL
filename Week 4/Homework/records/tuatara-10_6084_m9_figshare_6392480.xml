@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.6084/m9.figshare.6392480</identifier>
+  <creators>
+    <creator>
+      <creatorName>Marc E. H. Jones</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Peter W. Lucas</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Abigail S. Tucker</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Amy P. Watson</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Joseph J. W. Sertich</creatorName>
+    </creator>
+    <creator>
+      <creatorName>John R. Foster</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Ruth Williams</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Ulf Garbe</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Joseph J. Bevitt</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Floriana Salvemini</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>SI Table 5 from Neutron scanning reveals unexpected complexity in the enamel thickness of an herbivorous Jurassic reptile</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">Eilenodontines are one of the oldest radiation of herbivorous lepidosaurs (snakes, lizards and tuatara) characterized by batteries of wide teeth with thick enamel that bear mammal-like wear facets. Unlike most reptiles, eilenodontines have limited tooth replacement making dental longevity particularly important to them. We use both X-ray and neutron computed tomography to examine a fossil tooth from the eilenodontine &lt;i&gt;Eilenodon&lt;/i&gt; (Late Jurassic, USA). Of the two approaches, neutron tomography was more successful and facilitated measurements of enamel thickness and distribution. We find the enamel thickness to be regionally variable, thin near the cusp tip (0.10&#x2005;mm) but thicker around the base (0.15&#x2013;0.30&#x2005;mm) and notably greater than that of other rhynchocephalians such as the extant &lt;i&gt;Sphenodon&lt;/i&gt; (0.08&#x2013;0.14&#x2005;mm). The thick enamel in &lt;i&gt;Eilenodon&lt;/i&gt; would permit greater loading, extend tooth lifespan and facilitate the establishment of wear facets that have sharp edges for orally processing plant material such as horsetails (&lt;i&gt;Equisetum&lt;/i&gt;). The shape of the enamel dentine junction indicates that tooth development in &lt;i&gt;Eilenodon&lt;/i&gt; and &lt;i&gt;Sphenodon&lt;/i&gt; involved similar folding of the epithelium but different ameloblast activity.</description>
+  </descriptions>
+  <subjects>
+    <subject>Environmental Science</subject>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">110601 Biomechanics</subject>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">90301 Biomaterials</subject>
+  </subjects>
+  <publisher>Figshare</publisher>
+  <publicationYear>2018</publicationYear>
+  <dates>
+    <date dateType="Created">2018-05-30</date>
+    <date dateType="Updated">2018-05-30</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Paper</resourceType>
+  <sizes>
+    <size>33248 Bytes</size>
+  </sizes>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</rights>
+  </rightsList>
+</resource>

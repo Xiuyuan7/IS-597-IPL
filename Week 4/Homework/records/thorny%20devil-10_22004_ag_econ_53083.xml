@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.22004/AG.ECON.53083</identifier>
+  <creators>
+    <creator>
+      <creatorName>Irwin, Scott H.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Sanders, Dwight R.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Merrin, Robert P.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Irwin, Scott H.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Sanders, Dwight R.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Merrin, Robert P.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Devil or Angel? The Role of Speculation in the Recent Commodity Price Boom (and Bust)</title>
+  </titles>
+  <publisher>Unknown</publisher>
+  <publicationYear>2009</publicationYear>
+  <subjects>
+    <subject>Agribusiness</subject>
+    <subject>Demand and Price Analysis</subject>
+    <subject>Financial Economics</subject>
+    <subject>Marketing</subject>
+    <subject subjectScheme="keyword">commodity</subject>
+    <subject subjectScheme="keyword">futures</subject>
+    <subject subjectScheme="keyword">index fund</subject>
+    <subject subjectScheme="keyword">market</subject>
+    <subject subjectScheme="keyword">speculation</subject>
+  </subjects>
+  <dates>
+    <date dateType="Updated">2019-08-25T01:56:49.0-05:00</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">It is commonly asserted that speculative buying by index funds in commodity futures and
+over–the–counter derivatives markets created a ‘‘bubble’’ in commodity prices, with the result
+that prices, and crude oil prices, in particular, far exceeded fundamental values at the peak.
+The purpose of this paper is to show that the bubble argument simply does not withstand close
+scrutiny. Four main points are explored. First, the arguments of bubble proponents are
+conceptually flawed and reflect fundamental and basic misunderstandings of how commodity
+futures markets actually work. Second, a number of facts about the situation in commodity
+markets are inconsistent with the existence of a substantial bubble in commodity prices.
+Third, available statistical evidence does not indicate that positions for any group in commodity
+futures markets, including long–only index funds, consistently lead futures price
+changes. Fourth, there is a historical pattern of attacks upon speculation during periods of
+extreme market volatility.</description>
+  </descriptions>
+</resource>

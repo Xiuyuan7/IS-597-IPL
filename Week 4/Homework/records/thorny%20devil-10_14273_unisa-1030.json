@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.14273/unisa-1030",
+    "type": "works",
+    "attributes": {
+        "doi": "10.14273/unisa-1030",
+        "identifier": "https://doi.org/10.14273/unisa-1030",
+        "url": "http://elea.unisa.it/xmlui/handle/10556/2677",
+        "author": [
+            {
+                "given": "Angela Federica",
+                "family": "D'Ercole"
+            }
+        ],
+        "title": "Il Peccato dell\u2019Angelo. I dibattiti scolastici tra la fine del XIII e gli inizi del XIV secolo",
+        "container-title": "Universita' degli studi di Salerno",
+        "description": "2015 - 2016",
+        "resource-type-subtype": "Doctoral Thesis",
+        "data-center-id": "crui.unisa",
+        "member-id": "crui",
+        "resource-type-id": "collection",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2018-03-12T17:03:31.000Z",
+        "checked": null,
+        "updated": "2019-09-27T16:15:35.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxyZXNvdXJjZSB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTIuMiIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMi4yIGh0dHA6Ly9zY2hlbWEuZGF0YWNpdGUub3JnL21ldGEva2VybmVsLTIuMi9tZXRhZGF0YS54c2QiPjxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjE0MjczL3VuaXNhLTEwMzA8L2lkZW50aWZpZXI+PGNyZWF0b3JzPjxjcmVhdG9yPjxjcmVhdG9yTmFtZT5EJ0VyY29sZSwgQW5nZWxhIEZlZGVyaWNhPC9jcmVhdG9yTmFtZT48L2NyZWF0b3I+PC9jcmVhdG9ycz48dGl0bGVzPjx0aXRsZT5JbCBQZWNjYXRvIGRlbGzigJlBbmdlbG8uIEkgZGliYXR0aXRpIHNjb2xhc3RpY2kgdHJhIGxhIGZpbmUgZGVsIFhJSUkgZSBnbGkgaW5pemkgZGVsIFhJViBzZWNvbG88L3RpdGxlPjwvdGl0bGVzPjxwdWJsaXNoZXI+VW5pdmVyc2l0YScgZGVnbGkgc3R1ZGkgZGkgU2FsZXJubzwvcHVibGlzaGVyPjxwdWJsaWNhdGlvblllYXI+MjAxNzwvcHVibGljYXRpb25ZZWFyPjxzdWJqZWN0cz48c3ViamVjdD5QZWNjYXRvIGFuZ2VsaWNvPC9zdWJqZWN0PjxzdWJqZWN0Pkx1Y2lmZXJvPC9zdWJqZWN0PjxzdWJqZWN0PkRlbW9ub2xvZ2lhPC9zdWJqZWN0PjxzdWJqZWN0PlNjb2xhc3RpY2EgbWVkaWV2YWxlPC9zdWJqZWN0PjxzdWJqZWN0PkFuZ2VsaWMgc2luPC9zdWJqZWN0PjxzdWJqZWN0Pkx1Y3lmZXIsIEx1Y3lmZXLigJlzIGZhbGw8L3N1YmplY3Q+PHN1YmplY3Q+QW5nZWxpYyByZWdyZXQ8L3N1YmplY3Q+PHN1YmplY3Q+VGhlIG1vbWVudCBvZiB0aGUgYW5nZWxpYyBmYWxsPC9zdWJqZWN0PjxzdWJqZWN0PkludGVsbGVjdHVhbGlzdDwvc3ViamVjdD48c3ViamVjdD5Wb2x1bnRhcmlzdDwvc3ViamVjdD48c3ViamVjdD5UaG9tYXMgb2YgQXF1aW5hczwvc3ViamVjdD48c3ViamVjdD5SaWNoYXJkIG9mIE1pZGRsZXRvbjwvc3ViamVjdD48c3ViamVjdD5QZXRlciBKb2huIE9saXZpPC9zdWJqZWN0PjxzdWJqZWN0PlNjaG9sYXN0aWMgZGVtb25vbG9neTwvc3ViamVjdD48c3ViamVjdD5EZW1vbm9sb2d5PC9zdWJqZWN0PjxzdWJqZWN0PlNjaG9sYXN0aWMgcGhpbG9zb3BoeTwvc3ViamVjdD48c3ViamVjdCBzdWJqZWN0U2NoZW1lPSJtaXVyIj5NLUZJTC8wOCBTVE9SSUEgREVMTEEgRklMT1NPRklBIE1FRElFVkFMRTwvc3ViamVjdD48L3N1YmplY3RzPjxjb250cmlidXRvcnM+PGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iRGF0YU1hbmFnZXIiPjxjb250cmlidXRvck5hbWU+VW5pdmVyc2l0YScgZGVnbGkgc3R1ZGkgZGkgU2FsZXJubzwvY29udHJpYnV0b3JOYW1lPjwvY29udHJpYnV0b3I+PGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iSG9zdGluZ0luc3RpdHV0aW9uIj48Y29udHJpYnV0b3JOYW1lPlVuaXZlcnNpdGEnIGRlZ2xpIHN0dWRpIGRpIFNhbGVybm88L2NvbnRyaWJ1dG9yTmFtZT48L2NvbnRyaWJ1dG9yPjwvY29udHJpYnV0b3JzPjxkYXRlcz48ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE4LTAzLTEyPC9kYXRlPjxkYXRlIGRhdGVUeXBlPSJBdmFpbGFibGUiPjIwMTgtMDMtMTI8L2RhdGU+PGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAxNy0wNy0wNDwvZGF0ZT48L2RhdGVzPjxsYW5ndWFnZT5pdDwvbGFuZ3VhZ2U+PHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJDb2xsZWN0aW9uIj5Eb2N0b3JhbCBUaGVzaXM8L3Jlc291cmNlVHlwZT48YWx0ZXJuYXRlSWRlbnRpZmllcnM+PGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVyaSI+aHR0cDovL2hkbC5oYW5kbGUubmV0LzEwNTU2LzI2Nzc8L2FsdGVybmF0ZUlkZW50aWZpZXI+PGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9IkRpcGFydGltZW50byI+U2NpZW56ZSBkZWwgUGF0cmltb25pbyBDdWx0dXJhbGU8L2FsdGVybmF0ZUlkZW50aWZpZXI+PC9hbHRlcm5hdGVJZGVudGlmaWVycz48ZGVzY3JpcHRpb25zPjxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9Ik90aGVyIj4yMDE1IC0gMjAxNjwvZGVzY3JpcHRpb24+PGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkluIHRoZSBicm9hZCBzZXR0aW5nIG9mIHRoZSBtZWRpb2V2YWwgU2Nob2xhc3RpY2lzbSwgYmV0d2VlbiB0aGUgMTN0aCBhbmQgdGhlIGJlZ2lubmluZyBvZiB0aGUgMTR0aCBjZW50dXJpZXMsIGZldyB0aGVvbG9naWFucyBwdXQgdGhlIGZvY3VzIG9uIG9uZSBxdWVzdGlvbjogdGhlIGFuZ2VsaWMgc2luLiBUaGF0IGlzOiBob3cgaXMgaXQgcG9zc2libGUgdGhhdCwgYWNjb3JkaW5nIHRvIEFyaXN0b3RsZSwgYSBwZXJmZWN0bHkgaW50ZWxsZWN0dWFsIGNyZWF0dXJlIGNhbiBtYWtlIGFuIGVycm9yIG9mIGp1ZGdlbWVudCBhbmQgc28gdG8gZmFsbCBpbiBzaW4/IFRoaXMgaXMgdGhlIG1vc3QgcmVsZXZhbnQgYXNwZWN0IGZvciB0aGUgYXV0aG9ycyB3ZSBoYXZlIHBpY2tlZCBpbiBleGFtLCB3aWNoLCByYXRoZXIgdGhhbiBpbnZlc3RpZ2F0ZSB0aGUgcm9sZSBhbmQgdGhlIHBhcnRpY2lwYXRpb24gb2YgTHVjeWZlciBpbiBodW1hbiBtYXR0ZXJzLCB0aGV5IGhhdmUgYW4gb2JzZXNzaW9uIHdpdGggdGhlIHBvc3NpYmlsaXR5IGl0c2VsZiBpbiB0aGUgYW5nZWxpYyBzaW4uIFRoZXkgY29uc2lkZXIgdGhlIG1hdHRlciBhIHJlYWwgZW5pZ21hIHRvIGJlIHNvbHZlZC4gSW4gZmFjdCwgTHVjeWZlciBpcyBhIHJlYWwgZXhjZXB0aW9uIChhbG1vc3QgaW1wb3NzaWJsZSB0byBiZSBkZW1vbnN0cmF0ZWQpIGluIGEgdW5pdmVyc2Ugd2hlcmUgdGhlIHJlbGF0aW9uc2hpcCBiZXR3ZWVuIHRoZSByZXRpb25hbCBhbmQgdGhlIGdvb2Qgc2VlbXMgdG8gYmUgdW5kZW5pYWJsZS4gRnVydGhlcm1vcmUsIHRoZSBmYWN0IHRoZSBhbiBpbnRlbGxlY3R1YWxseSBwZXJmZWN0IGNyZWF0dXJlIGNhbiBtYWtlIGEgbWlzdGFrZSBhbmQgY2hvc2UgdGhlIGV2aWwgY29tZSB0byBiZSBpbXBvc3NpYmxlLiBVbHRpbWF0ZWx5LCB0aGUgcXVlc3Rpb24gaXM6IGhvdyBpcyBpdCBwb3NzaWJsZSB0byBhbiBhbmdlbCB0byB0dXJuIGludG8gYSBkZW1vbj8gVGhhdCBpcywgaG93IGlzIGl0IHBvc3NpYmxlIGZvciB0aGUgRGV2aWwgdG8gcmlzZT8gVGhpcyBpcyB0aGUgdGhvcm55IHF1ZXN0aW9uIHRoYXQgdGhlIHNjaG9sYXN0aWMgdGhlb2xvZ2lhbnMgYXJlIHRyeWluZyB0byBhbnN3ZXIgYW5kIGluIHRoaXMgd29yayB3ZSB0cmllZCB0byByZWNvbnN0cnVjdCB0aGUgZGViYXRlIHVwb24gdGhlIG1hdHRlciBieSBhIGhpc3RvcnljYWwtcGh5bG9zb3BoaWNhbCB2aWV3LiBUaGUgcXVlc3Rpb24gaXMgcGFydGljdWxhcmx5IGludGVyc3RpbmcgaW4gcmVsYXRpb24gd2l0aCB0aGUg4oCcUHN5Y2hvbG9neSBvZiBhY3Rpb27igJ0gb2YgYXJpc3RvdGhlbGljIG1vdWxkIGFuZCBpdCBpcyBsaW5rZWQgd2l0aCB0aGUgZGViYXRlIGJldHdlZW4g4oCcaW50ZWxsZWN0dWFsaXN0c+KAnSBhbmQg4oCcdm9sdW50YXJpc3Rz4oCdLCB3aGljaCBmb3VuZCBpdCBvdXRidXJzdCBiZXR3ZWVuIHRoZSBlbmQgb2YgdGhlIDEzdGggYW5kIHRoZSBiZWdpbm5pbmcgb2YgdGhlIDE0dGggY2VudHVyaWVzLiBUaGlzIHdvcmsgaXMgYmFzZWQgcGFydGljdWxhcmx5IG9uIHRoZSBhbmFseXNpcyBvZiB0aHJlZSBkb2N0cmluYWwgb3BpbmlvbnM6IG9uIG9uZSBoYW5kIHRoZSBUaG9tYXMgb2YgQXF1aW5hc+KAmSBvbmUsIG9uIHRoZSBvdGhlciBoYW5kIFJpY2hhcmQgb2YgTWlkZGxldG9uIGFuZCBQZXRlciBKb2huIE9saXZp4oCZcyBvbmVzLiBOZXZlcnRoZWxlc3MsIHRoZXJlIGFyZSBtYW55IHJlYXNvbnMgZm9yIHRoaXMgY2hvaXNlLCBidXQgdGhlcmUgaXMgb25lIG9mIHRoZW0gcGFydGljdWxhcmx5IHdvcnRoIG9mIG5vdGljZTogaW4gdGhlIHBsYXkgb2YgdGhlIHRocmVlIG1lbnRpb25lZCBhdXRob3JzIHdlIGNhbiByZXRyYWNlIHRocmVlIHRocmVhdGllcyBvciwgaXQgd291bGQgYmUgYmV0dGVyIHRvIHNheSB0aHJlZSBzZWN0aW9ucyBvZiB2YXN0ZXIgcGxheXMsIHdoaWNoIHNlZW0gdG8gYmUgdGhlIG9ubHkgb25lcyB0aGF0IGNvdWxkIGJlIGRlZmluZWQgYXMg4oCcdGhyZWF0aWVzIG9mIGRlbW9ub2xvZ3nigJ0gaW4gdGhlIHBlcmlvZCBiZXR3ZWVuIHRoZSBlbmQgb2YgdGhlIDEzdGggYW5kIHRoZSBiZWdpbm5pbmcgb2YgdGhlIDE0dGggY2VudHVyaWVzLiBJbiB0aGVzZSB0ZXh0cyB0aGUgcXVlc3Rpb24gb2YgdGhlIGFuZ2VsaWMgc2luIGlzIGRpcmVjdGx5IGZhY2VkOiB3ZSBhcmUgcmVmZXJyaW5nIHRvIHEuIDE2IG9mIHRoZSBRdWFlc3Rpb25lcyBkaXNwdXRhdGFlIGRlIG1hbG8gb2YgVGhvbWFzIG9mIEFxdWluYXMsIHRvIHFxLiAyMy0zMSBvZiB0aGUgUXVhZXN0aW9uZXMgZGlzcHV0YXRhZSBvZiBSaWNoYXJkIG9mIE1pZGRsZXRvbiAoMTI5MC0xMzMwKSBhbmQgdG8gcXEuIDQwLTQ4IG9mIHRoZSBTdW1tYSBvZiBQZXRlciBKb2huIE9saXZpICgxMjg4LTEyOTUpLiBUaGUgYXR0ZW1wdCB3YXMgdG8gYW5hbHlzZSBpbiBkZXRhaWwsIHN0YXJ0aW5nIGZyb20gYSBjYXJlZnVsIHN0dWR5IG9mIHRoZSB0ZXh0cywgdGhlIHRoZW9yaWVzIG9mIHRoZXNlIGF1dGhvcnMsIG9wcG9ydHVuZWx5IGNvbXBhcmluZyB0aGVtIHdpdGggdGhlIHRoZW9yaWVzIG9mIHRoZSBvdGhlciBpbnRlcmxvY3V0b3JzIG9mIHRoZSBkZWJhdGUgdXBvbiB0aGUgYW5nZWxpYyBzaW4gYW5kIHBsYWNpbmcgdGhlbSBpbiB0aGVpciB2ZXJ5IGludGVsbGVjdHVhbCBjb250ZXh0LiBbZWRpdGVkIGJ5IEF1dGhvcl08L2Rlc2NyaXB0aW9uPjxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9Ik90aGVyIj5YWElYIG4ucy48L2Rlc2NyaXB0aW9uPjwvZGVzY3JpcHRpb25zPjwvcmVzb3VyY2U+DQo="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "crui.unisa",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "crui",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "collection",
+                "type": "resource-types"
+            }
+        }
+    }
+}

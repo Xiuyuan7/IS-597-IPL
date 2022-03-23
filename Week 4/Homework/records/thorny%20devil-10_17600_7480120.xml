@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.17600/7480120</identifier>
+  <creators>
+    <creator>
+      <creatorName>LAZURE Pascal</creatorName>
+      <affiliation>DataCite</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>DEVIL 1 cruise,Côtes De La Manche R/V</title>
+  </titles>
+  <publisher>Sismer</publisher>
+  <publicationYear>2007</publicationYear>
+  <resourceType resourceTypeGeneral="Other">oceanographic cruise</resourceType>
+  <relatedIdentifiers/>
+  <descriptions>
+    <description descriptionType="Abstract">Les campagnes DEVIL ont pour objectif de décrire la présence de l'algue toxique Dinophysis en sud Bretagne et de décrire les conditions hydrodynamiques propices à leur croissance. Parallèlement à cette étude des prélèvements de zooplancton visant à identifier la présence de larves de pectinaires ont été effectués.<br/>Deux campagnes ont été effectuées en Avril 2007. Une troisième campagne prévue a été stoppée prématurément suite à une panne du Côtes de la Manche. Le projet de rattachement est le projet Ifremer GET (Gestion des Efflorescence toxiques).</description>
+  </descriptions>
+  <geoLocations>
+    <geoLocation>
+      <geoLocationBox>47.0 -3.3 47.8 -2.1</geoLocationBox>
+    </geoLocation>
+  </geoLocations>
+</resource>

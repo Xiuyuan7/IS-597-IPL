@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.17169/REFUBIUM-14116</identifier>
+  <creators>
+    <creator>
+      <creatorName>Kutz, Martin</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The Angel Problem, Positional Games, and Digraph Roots</title>
+    <title titleType="Subtitle">Strategies and Complexity</title>
+    <title titleType="TranslatedTitle">Das Engel-Problem, Positionelle Spiele und Wurzeln von Digraphen</title>
+    <title>Strategien und Komplexität</title>
+  </titles>
+  <publisher>Freie Universität Berlin</publisher>
+  <publicationYear>2004</publicationYear>
+  <subjects>
+    <subject>combinatorial games</subject>
+    <subject>graphs</subject>
+    <subject>complexity</subject>
+    <subject subjectScheme="ddc">500 Naturwissenschaften und Mathematik::510 Mathematik::510 Mathematik</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Universitätsbibliothek der FU Berlin</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Universitätsbibliothek der FU Berlin</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2018-06-07</date>
+    <date dateType="Available">2004-09-29</date>
+    <date dateType="Issued">2004</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Other">Dissertation</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="uri">https://refubium.fu-berlin.de/handle/fub188/9918</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="urn">urn:nbn:de:kobv:188-2004002509</alternateIdentifier>
+  </alternateIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://www.fu-berlin.de/sites/refubium/rechtliches/Nutzungsbedingungen"/>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Other">Prologue Cover Preface iii Table of Contents v 1 The Angel Problem 1 1.1 Angels, Kings, and Fools 1 1.2 From Finite to Infinite Games 5 1.3 The Need for Speed 6 1.4 Catching a (2-ε)-King 12 1.5 An Escape into Space 19 2 Weak Positional Games 29 2.1 Tic-Tac-Toe 29 2.2 Winning Ways 33 2.3 Decomposing Hypergraphs 37 2.4 Between the Docks 42 2.5 Playing for Breaker 54 2.6 Almost-Disjointness 62 2.7 Comparing Games 64 3 Digraph Roots 71 3.1 Matrices and Digraphs, Powers and Roots 71 3.2 NP-Completeness 74 3.3 Roots and Isomorphism 77 Bibliography 89 Zusammenfassung 91</description>
+    <description descriptionType="Abstract">This thesis is about combinatorial games -- mostly. It is also about graphs, directed graphs and hypergraphs, to a large extent; and it deals with the complexity of certain computational problems from these two areas. We study three different problems that share several of the above aspects, yet, they form three individual subjects and so we treat them independently in three self-contained chapters: The angel-devil game On an infinite chess board, the angel, a chess person who jumps from square to square, tries to escape his opponent, the devil, who intends to strand him by placing obstacles on the board. The open question is, whether some angel who is allowed to make sufficiently large but bounded steps in each move, will be able to escape forever. We attack this problem from the devil's perspective, trying to improve upon the known result that the ordinary chess king cannot escape. A reformulation of the game which focuses on the angel's speed as the crucial quantity, allows us to show that certain faster "chess kings" can still be trapped. A second part of this chapter deals with angels on a three dimensional board. We show that the new dimension grants the angel enough freedom to escape forever. Weak positional games on hypergraphs The games in the second chapter are very general versions of the well-known game of Tic-Tac-Toe. Two players alternately claim vertices of a hypergraph, the first player trying to get all vertices within some edge, his opponent striving to prevent this from happening. Such weak positional games are known to be PSPACE-complete, but the respective hardness result utilizes edges of size up to 11. We analyze the restricted class of hypergraphs whose edges contain no more than three vertices each, trying to find optimal strategies for both players. We almost succeed. Under the further restriction that any two edges may intersect in at most one vertex, we obtain a classification of such hypergraphs into those that yield a first player win and those who don't, which immediately leads to efficiently computable optimal strategies for either player. The complexity of digraph root computation Multiplication of square Boolean matrices, if interpreted as adjacency matrices of directed graphs, induces a notion of powers for digraphs. We show that computing roots of Boolean matrices or, equivalently, of directed graphs is NP-hard. Moreover, we discover a relation between digraph roots and graph isomorphism which materializes in form of an isomorphism-completeness result: For a special class of digraphs defined through arc subdivisions, root finding is of the same complexity as deciding whether two digraphs are isomorphic.</description>
+    <description descriptionType="Abstract">In dieser Dissertation betrachten wir neue Strategien für ein unendliches kombinatorisches Spiel, untersuchen die Komplexität einer Klasse von Spielen auf Hypergraphen und beantworten eine offene Frage zu einem Berechnungsproblem auf gerichteten Graphen. Obwohl gewisse Verbindungen zwischen den behandelten Gebieten bzw. den prinzipiellen Fragestellungen bestehen, handelt es sich um drei unabhängige Themen. Das Engel-Problem Auf einem unendlichen Schachbrett versucht der Engel, eine "Schachfigur" mit beschränkter Schrittweite, seinem Gegner, dem Teufel, unendlich lange davonzulaufen. Der Teufel blockiert Zug um Zug Felder des Brettes mit der Absicht, den Engel einzukreisen. Es ist ein offenes Problem, ob ein Engel mit hinreichend großer Schrittweite gewinnen kann. Wir verbessern eine bekannte Teufel-Strategie und zeigen außerdem, dass der Engel auf einem dreidimensionalen Brett entkommt. Positionelle Spiele auf Hypergraphen Zwei Spieler wählen abwechselnd Ecken eines Hypergraphen bis alle Ecken vergeben sind. Der Anziehende gewinnt, wenn es ihm gelingt, eine Kante des Hypergraphen zu vervollständigen, andernfalls siegt sein Gegner. Diese asymmetrische Verallgemeinerung des bekannten Spiels Tic-Tac-Toe wird als schwaches positionelles Spiel bezeichnet und ist PSPACE-vollständig. Der entsprechende Härtebeweis verwendet Kanten mit bis zu 11 Ecken. Wir versuchen Spiele auf Hypergraphen mit nicht mehr als drei Ecken pro Kante vollständig zu lösen. Dies gelingt uns fast, mit der zusätzlichen Einschränkung, dass sich je zwei Kanten in höchstens einer Ecke treffen dürfen. Mittels einer vollständigen Klassifizierung in Gewinner und Verlierer erhalten wir einen Polynomialzeit-Algorithmus, der solche Spiele optimal spielt. Wurzeln gerichteter Graphen Interpretiert man eine quadratische Boolesche 0/1-Matrix als Adjazenzmatrix eines gerichteten Graphen, so induziert die Matrixmultiplikation auf natürliche Weise eine Potenzoperation auf gerichteten Graphen. Wir zeigen, dass in diesem Sinne das Berechnen von Wurzeln gerichteter Graphen NP- vollständig ist. In einem zweiten Teil stellen wir eine Beziehung zwischen solchen Wurzeln und Graphisomorphie her und zeigen, dass für eine spezielle Klasse von gerichteten Graphen das Wurzelproblem von derselben Komplexität ist wie das Isomorphie-Problem für Graphen.</description>
+  </descriptions>
+</resource>

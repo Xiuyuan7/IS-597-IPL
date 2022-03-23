@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.15460/aethiopica.8.1.328",
+    "type": "works",
+    "attributes": {
+        "doi": "10.15460/aethiopica.8.1.328",
+        "identifier": "https://doi.org/10.15460/aethiopica.8.1.328",
+        "url": "https://journals.sub.uni-hamburg.de/aethiopica/article/view/328",
+        "author": [
+            {
+                "given": "Paolo",
+                "family": "Marrassini"
+            }
+        ],
+        "title": "The \u201cEgyptian Saints\u201d of the Abyssinian Hagiography",
+        "container-title": "Universit\u00e4t Hamburg, Hiob Ludolf Centre for Ethiopian Studies",
+        "description": "It seems possible to isolate a group of saints born in Egypt (or living there for a long time), different from the traditional saints of that country mainly because they were not martyrs, and substituted the martyrdom by penances and absolute asceticism; the presence of the desert is much more pronounced than in the rest of Abyssinian hagiography, and nearly absolute; the activity of the devil is also very heavily marked; almost all of them are of \u201cRoman\u201d birth or connection. They are Bula/Abib, Gabra Krestos/Alexius, Lat\u1e63un, Nob, Gabra Manfas Qeddus, John the Oriental, maybe Tad\u0113wos of Dabra Bartarwa, Yo\u1e25anni of D\u00e4br\u00e4 \u02bfA\u015ba, and some others, to which the \u201cAksumite\u201d saints must be added. The relationship of these saints among themselves is also demonstrated by the codices, in which the \u201cLife\u201d or the hymnography pertaining to one or more of them occur together with those of some of the others, in different combinations.",
+        "resource-type-subtype": "Article",
+        "data-center-id": "zbw.subhh",
+        "member-id": "zbw",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2012",
+        "registered": "2016-10-19T06:32:47.000Z",
+        "checked": null,
+        "updated": "2019-09-11T16:02:05.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6amF0cz0iaHR0cDovL3d3dy5uY2JpLm5sbS5uaWguZ292L0pBVFMxIiB4bWxuczphaT0iaHR0cDovL3d3dy5jcm9zc3JlZi5vcmcvQWNjZXNzSW5kaWNhdG9ycy54c2QiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMy9tZXRhZGF0YS54c2QiPjxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjE1NDYwL2FldGhpb3BpY2EuOC4xLjMyODwvaWRlbnRpZmllcj48Y3JlYXRvcnM+PGNyZWF0b3I+PGNyZWF0b3JOYW1lPk1hcnJhc3NpbmksIFBhb2xvPC9jcmVhdG9yTmFtZT48L2NyZWF0b3I+PC9jcmVhdG9ycz48dGl0bGVzPjx0aXRsZT5UaGUg4oCcRWd5cHRpYW4gU2FpbnRz4oCdIG9mIHRoZSBBYnlzc2luaWFuIEhhZ2lvZ3JhcGh5PC90aXRsZT48L3RpdGxlcz48cHVibGlzaGVyPlVuaXZlcnNpdMOkdCBIYW1idXJnLCBIaW9iIEx1ZG9sZiBDZW50cmUgZm9yIEV0aGlvcGlhbiBTdHVkaWVzPC9wdWJsaXNoZXI+PHB1YmxpY2F0aW9uWWVhcj4yMDEyPC9wdWJsaWNhdGlvblllYXI+PHN1YmplY3RzPjxzdWJqZWN0PkhhZ2lvZ3JhcGh5OyBDaHJpc3RpYW5pdHk7IEVneXB0aWFuIFNhaW50czsgUmVsaWdpb247IEhpc3Rvcnk7PC9zdWJqZWN0PjxzdWJqZWN0IHN1YmplY3RTY2hlbWU9Imh0dHA6Ly9zdWIudW5pLWhhbWJ1cmcuZGUiPmRkYzowMTA7IGRkYzowOTA7IGRkYzoyMzA7IGRkYzo4OTA7IGRkYzo5MDA7IGRkYzo5MjA7IGRkYzo5NjA8L3N1YmplY3Q+PC9zdWJqZWN0cz48ZGF0ZXM+PGRhdGUgZGF0ZVR5cGU9IlN1Ym1pdHRlZCI+MjAxMi0xMS0xNzwvZGF0ZT48ZGF0ZSBkYXRlVHlwZT0iQWNjZXB0ZWQiPjIwMTItMTEtMTc8L2RhdGU+PGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAxMi0xMS0xOTwvZGF0ZT48ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxMy0wMS0zMTwvZGF0ZT48L2RhdGVzPjxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+PHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5BcnRpY2xlPC9yZXNvdXJjZVR5cGU+PGFsdGVybmF0ZUlkZW50aWZpZXJzPjxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJwdWJsaXNoZXJJZCI+NS0yMS0zMjg8L2FsdGVybmF0ZUlkZW50aWZpZXI+PC9hbHRlcm5hdGVJZGVudGlmaWVycz48cmVsYXRlZElkZW50aWZpZXJzPjxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1BhcnRPZiI+MTAuMTU0NjAvYWV0aGlvcGljYS44LjE8L3JlbGF0ZWRJZGVudGlmaWVyPjwvcmVsYXRlZElkZW50aWZpZXJzPjxzaXplcz48c2l6ZT4xMTItMTI5IFBhZ2VzPC9zaXplPjwvc2l6ZXM+PHJpZ2h0c0xpc3Q+PHJpZ2h0cyByaWdodHNVUkk9IiI+PC9yaWdodHM+PC9yaWdodHNMaXN0PjxkZXNjcmlwdGlvbnM+PGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkl0IHNlZW1zIHBvc3NpYmxlIHRvIGlzb2xhdGUgYSBncm91cCBvZiBzYWludHMgYm9ybiBpbiBFZ3lwdCAob3IgbGl2aW5nIHRoZXJlIGZvciBhIGxvbmcgdGltZSksIGRpZmZlcmVudCBmcm9tIHRoZSB0cmFkaXRpb25hbCBzYWludHMgb2YgdGhhdCBjb3VudHJ5IG1haW5seSBiZWNhdXNlIHRoZXkgd2VyZSBub3QgbWFydHlycywgYW5kIHN1YnN0aXR1dGVkIHRoZSBtYXJ0eXJkb20gYnkgcGVuYW5jZXMgYW5kIGFic29sdXRlIGFzY2V0aWNpc207IHRoZSBwcmVzZW5jZSBvZiB0aGUgZGVzZXJ0IGlzIG11Y2ggbW9yZSBwcm9ub3VuY2VkIHRoYW4gaW4gdGhlIHJlc3Qgb2YgQWJ5c3NpbmlhbiBoYWdpb2dyYXBoeSwgYW5kIG5lYXJseSBhYnNvbHV0ZTsgdGhlIGFjdGl2aXR5IG9mIHRoZSBkZXZpbCBpcyBhbHNvIHZlcnkgaGVhdmlseSBtYXJrZWQ7IGFsbW9zdCBhbGwgb2YgdGhlbSBhcmUgb2Yg4oCcUm9tYW7igJ0gYmlydGggb3IgY29ubmVjdGlvbi4gVGhleSBhcmUgQnVsYS9BYmliLCBHYWJyYSBLcmVzdG9zL0FsZXhpdXMsIExhdOG5o3VuLCBOb2IsIEdhYnJhIE1hbmZhcyBRZWRkdXMsIEpvaG4gdGhlIE9yaWVudGFsLCBtYXliZSBUYWTEk3dvcyBvZiBEYWJyYSBCYXJ0YXJ3YSwgWW/huKVhbm5pIG9mIETDpGJyw6Qgyr9BxZthLCBhbmQgc29tZSBvdGhlcnMsIHRvIHdoaWNoIHRoZSDigJxBa3N1bWl0ZeKAnSBzYWludHMgbXVzdCBiZSBhZGRlZC4gVGhlIHJlbGF0aW9uc2hpcCBvZiB0aGVzZSBzYWludHMgYW1vbmcgdGhlbXNlbHZlcyBpcyBhbHNvIGRlbW9uc3RyYXRlZCBieSB0aGUgY29kaWNlcywgaW4gd2hpY2ggdGhlIOKAnExpZmXigJ0gb3IgdGhlIGh5bW5vZ3JhcGh5IHBlcnRhaW5pbmcgdG8gb25lIG9yIG1vcmUgb2YgdGhlbSBvY2N1ciB0b2dldGhlciB3aXRoIHRob3NlIG9mIHNvbWUgb2YgdGhlIG90aGVycywgaW4gZGlmZmVyZW50IGNvbWJpbmF0aW9ucy48L2Rlc2NyaXB0aW9uPjxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IlNlcmllc0luZm9ybWF0aW9uIj5BZXRoaW9waWNhLCBWb2wgOCAoMjAwNSk8L2Rlc2NyaXB0aW9uPjwvZGVzY3JpcHRpb25zPjwvcmVzb3VyY2U+Cg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "zbw.subhh",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "zbw",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

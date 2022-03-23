@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.17605/osf.io/aguzs",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17605/osf.io/aguzs",
+        "identifier": "https://doi.org/10.17605/osf.io/aguzs",
+        "url": "https://osf.io/aguzs/",
+        "author": [
+            {
+                "given": "Tiffany",
+                "family": "Stachnik"
+            }
+        ],
+        "title": "Syncretism or Superimposition: An Analysis of the Devil in \"The Original Folk and Fairy Tales of the Brothers Grimm\"",
+        "container-title": "Open Science Framework",
+        "description": "Since their first full publication in 1815, the folk and fairy tales of the Brothers Grimm have provided a means of studying the rich oral traditions of Germany. The Grimm brothers indicated time and time again in their personal notes that the oral traditions found in their folk and fairy tales included symbols, characters, and themes belonging to pre-Christian Germanic culture, as well as to the firmly Christian German states from which they collected their folk and fairy tales. The blending of pre-Christian Germanic culture with Christian, German traditions is particularly salient in the figure of the devil, despite the fact that the devil is arguably one of the most popular Christian figures to date. Through an exploration of the phylogenetic analyses of the Grimm\u2019s tales featuring the devil, connections between the devil in the Grimm\u2019s tales and other German or Germanic tales, and Christian and Germanic symbolism, this study demonstrates that the devil in the Grimm\u2019s tales is an embodiment of syncretism between Christian and pre-Christian traditions. This syncretic devil is not only consistent with the history of religious transformation in Germany, which involved the slow blending of elements of Germanic paganism and Christianity, but also points to a greater theme of syncretism between the cultural traditions of Germany and other nations worldwide.",
+        "resource-type-subtype": "Project",
+        "data-center-id": "cos.osf",
+        "member-id": "cos",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0/legalcode",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-09-25T15:55:43.000Z",
+        "checked": null,
+        "updated": "2019-09-25T15:55:43.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc2MDUvT1NGLklPL0FHVVpTPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VGlmZmFueSBNLiBTdGFjaG5pazwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+VGlmZmFueTwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5TdGFjaG5pazwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+U3luY3JldGlzbSBvciBTdXBlcmltcG9zaXRpb246IEFuIEFuYWx5c2lzIG9mIHRoZSBEZXZpbCBpbiAiVGhlIE9yaWdpbmFsIEZvbGsgYW5kIEZhaXJ5IFRhbGVzIG9mIHRoZSBCcm90aGVycyBHcmltbSI8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+T3BlbiBTY2llbmNlIEZyYW1ld29yazwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxOTwvcHVibGljYXRpb25ZZWFyPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+UHJvamVjdDwvcmVzb3VyY2VUeXBlPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvbGVnYWxjb2RlIj5DQy1CeSBBdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbDwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlNpbmNlIHRoZWlyIGZpcnN0IGZ1bGwgcHVibGljYXRpb24gaW4gMTgxNSwgdGhlIGZvbGsgYW5kIGZhaXJ5IHRhbGVzIG9mIHRoZSBCcm90aGVycyBHcmltbSBoYXZlIHByb3ZpZGVkIGEgbWVhbnMgb2Ygc3R1ZHlpbmcgdGhlIHJpY2ggb3JhbCB0cmFkaXRpb25zIG9mIEdlcm1hbnkuICBUaGUgR3JpbW0gYnJvdGhlcnMgaW5kaWNhdGVkIHRpbWUgYW5kIHRpbWUgYWdhaW4gaW4gdGhlaXIgcGVyc29uYWwgbm90ZXMgdGhhdCB0aGUgb3JhbCB0cmFkaXRpb25zIGZvdW5kIGluIHRoZWlyIGZvbGsgYW5kIGZhaXJ5IHRhbGVzIGluY2x1ZGVkIHN5bWJvbHMsIGNoYXJhY3RlcnMsIGFuZCB0aGVtZXMgYmVsb25naW5nIHRvIHByZS1DaHJpc3RpYW4gR2VybWFuaWMgY3VsdHVyZSwgYXMgd2VsbCBhcyB0byB0aGUgZmlybWx5IENocmlzdGlhbiBHZXJtYW4gc3RhdGVzIGZyb20gd2hpY2ggdGhleSBjb2xsZWN0ZWQgdGhlaXIgZm9sayBhbmQgZmFpcnkgdGFsZXMuICBUaGUgYmxlbmRpbmcgb2YgcHJlLUNocmlzdGlhbiBHZXJtYW5pYyBjdWx0dXJlIHdpdGggQ2hyaXN0aWFuLCBHZXJtYW4gdHJhZGl0aW9ucyBpcyBwYXJ0aWN1bGFybHkgc2FsaWVudCBpbiB0aGUgZmlndXJlIG9mIHRoZSBkZXZpbCwgZGVzcGl0ZSB0aGUgZmFjdCB0aGF0IHRoZSBkZXZpbCBpcyBhcmd1YWJseSBvbmUgb2YgdGhlIG1vc3QgcG9wdWxhciBDaHJpc3RpYW4gZmlndXJlcyB0byBkYXRlLiAgVGhyb3VnaCBhbiBleHBsb3JhdGlvbiBvZiB0aGUgcGh5bG9nZW5ldGljIGFuYWx5c2VzIG9mIHRoZSBHcmltbeKAmXMgdGFsZXMgZmVhdHVyaW5nIHRoZSBkZXZpbCwgY29ubmVjdGlvbnMgYmV0d2VlbiB0aGUgZGV2aWwgaW4gdGhlIEdyaW1t4oCZcyB0YWxlcyBhbmQgb3RoZXIgR2VybWFuIG9yIEdlcm1hbmljIHRhbGVzLCBhbmQgQ2hyaXN0aWFuIGFuZCBHZXJtYW5pYyBzeW1ib2xpc20sIHRoaXMgc3R1ZHkgZGVtb25zdHJhdGVzIHRoYXQgdGhlIGRldmlsIGluIHRoZSBHcmltbeKAmXMgdGFsZXMgaXMgYW4gZW1ib2RpbWVudCBvZiBzeW5jcmV0aXNtIGJldHdlZW4gQ2hyaXN0aWFuIGFuZCBwcmUtQ2hyaXN0aWFuIHRyYWRpdGlvbnMuICBUaGlzIHN5bmNyZXRpYyBkZXZpbCBpcyBub3Qgb25seSBjb25zaXN0ZW50IHdpdGggdGhlIGhpc3Rvcnkgb2YgcmVsaWdpb3VzIHRyYW5zZm9ybWF0aW9uIGluIEdlcm1hbnksIHdoaWNoIGludm9sdmVkIHRoZSBzbG93IGJsZW5kaW5nIG9mIGVsZW1lbnRzIG9mIEdlcm1hbmljIHBhZ2FuaXNtIGFuZCBDaHJpc3RpYW5pdHksIGJ1dCBhbHNvIHBvaW50cyB0byBhIGdyZWF0ZXIgdGhlbWUgb2Ygc3luY3JldGlzbSBiZXR3ZWVuIHRoZSBjdWx0dXJhbCB0cmFkaXRpb25zIG9mIEdlcm1hbnkgYW5kIG90aGVyIG5hdGlvbnMgd29ybGR3aWRlLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cos.osf",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cos",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

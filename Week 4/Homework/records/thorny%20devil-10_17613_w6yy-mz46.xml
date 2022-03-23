@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17613/W6YY-MZ46</identifier>
+  <titles>
+    <title>Caring for the Carers</title>
+  </titles>
+  <publisher>Humanities Commons</publisher>
+  <publicationYear>2019</publicationYear>
+  <dates>
+    <date dateType="Created">2019-06-15T11:06:46Z</date>
+    <date dateType="Updated">2019-06-15T11:06:46Z</date>
+  </dates>
+  <creators>
+    <creator>
+      <creatorName>Graziano, Valeria</creatorName>
+      <givenName>Valeria</givenName>
+      <familyName>Graziano</familyName>
+      <affiliation>Centre for Postdigital Cultures, Coventry University</affiliation>
+    </creator>
+  </creators>
+  <contributors/>
+  <subjects>
+    <subject>Digital humanities</subject>
+    <subject>Medical humanities</subject>
+    <subject>Ethics of care</subject>
+    <subject>Technology studies</subject>
+    <subject>Labour</subject>
+    <subject>Feminism</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Text">Online publication</resourceType>
+  <language>en</language>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">The rapid development and adoption of technological care equipment for remote monitoring, self-diagnosis and other forms of telemedicine risks splitting care work: on the one hand, well-paid professionals developing or operating new technologies; on the other, much poorer and much less qualified assistants to take care of the operations that are not easily automatable, such as dressing, lifting or washing patients. We note a tendency to avoid tackling the thorny questions connected with care work head on, including the central issue of its remuneration. Through two examples, the self-managed nursing organization Buurtzorg and Frank's Hospital Workshop website for repairers, we described two ways care labour could be beneficially reorganised in the postdigital era. (Versione Italiano inclusa)</description>
+  </descriptions>
+</resource>

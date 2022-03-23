@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.6084/M9.FIGSHARE.C.4376618.V1</identifier>
+  <creators>
+    <creator>
+      <creatorName>A. Panchin</creatorName>
+    </creator>
+    <creator>
+      <creatorName>V. Aleoshin</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Y. Panchin</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>From tumors to species: a SCANDAL hypothesis</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">Abstract Some tumor cells can evolve into transmissible parasites. Notable examples include the Tasmanian devil facial tumor disease, the canine transmissible venereal tumor and transmissible cancers of mollusks. We present a hypothesis that such transmissible tumors existed in the past and that some modern animal taxa are descendants of these tumors. We expect potential candidates for SCANDALs (speciated by cancer development animals) to be simplified relatives of more complex metazoans and have genomic alterations typical for cancer progression (such as deletions of universal apoptosis genes). We considered several taxa of simplified animals for our hypothesis: dicyemida, orthonectida, myxosporea and trichoplax. Based on genomic analysis we conclude that Myxosporea appear to be the most suitable candidates for a tumor ancestry. They are simplified parasitic cnidarians that universally lack major genes implicated in cancer progression including all genes with Caspase and BCL2 domains as well as any p53 and apoptotic protease activating factor â   1 (Apaf-1) homologs, suggesting the disruption of main apoptotic pathways in their early evolutionary history. Further comparative genomics and single-cell transcriptomic studies may be helpful to test our hypothesis of speciation via a cancerous stage. Reviewers This article was reviewed by Eugene Koonin, Mikhail Gelfand and Gregory M Woods.</description>
+  </descriptions>
+  <subjects>
+    <subject>Genetics</subject>
+    <subject>Evolutionary Biology</subject>
+    <subject>Cancer</subject>
+    <subject>Statistics</subject>
+  </subjects>
+  <publisher>figshare</publisher>
+  <publicationYear>2019</publicationYear>
+  <dates>
+    <date dateType="Created">2019-01-24</date>
+    <date dateType="Updated">2019-10-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1186/s13062-019-0233-1</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsIdenticalTo">10.6084/m9.figshare.c.4376618</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</rights>
+  </rightsList>
+</resource>

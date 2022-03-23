@@ -1,0 +1,89 @@
+{
+    "id": "https://doi.org/10.6084/m9.figshare.6392480",
+    "type": "works",
+    "attributes": {
+        "doi": "10.6084/m9.figshare.6392480",
+        "identifier": "https://doi.org/10.6084/m9.figshare.6392480",
+        "url": "https://figshare.com/articles/SI_Table_5_from_Neutron_scanning_reveals_unexpected_complexity_in_the_enamel_thickness_of_an_herbivorous_Jurassic_reptile/6392480",
+        "author": [
+            {
+                "given": "Marc E. H.",
+                "family": "Jones"
+            },
+            {
+                "given": "Peter W.",
+                "family": "Lucas"
+            },
+            {
+                "given": "Abigail S.",
+                "family": "Tucker"
+            },
+            {
+                "given": "Amy P.",
+                "family": "Watson"
+            },
+            {
+                "given": "Joseph J. W.",
+                "family": "Sertich"
+            },
+            {
+                "given": "John R.",
+                "family": "Foster"
+            },
+            {
+                "given": "Ruth",
+                "family": "Williams"
+            },
+            {
+                "given": "Ulf",
+                "family": "Garbe"
+            },
+            {
+                "given": "Joseph J.",
+                "family": "Bevitt"
+            },
+            {
+                "given": "Floriana",
+                "family": "Salvemini"
+            }
+        ],
+        "title": "SI Table 5 from Neutron scanning reveals unexpected complexity in the enamel thickness of an herbivorous Jurassic reptile",
+        "container-title": "Figshare",
+        "description": "Eilenodontines are one of the oldest radiation of herbivorous lepidosaurs (snakes, lizards and tuatara) characterized by batteries of wide teeth with thick enamel that bear mammal-like wear facets. Unlike most reptiles, eilenodontines have limited tooth replacement making dental longevity particularly important to them. We use both X-ray and neutron computed tomography to examine a fossil tooth from the eilenodontine <i>Eilenodon</i> (Late Jurassic, USA). Of the two approaches, neutron tomography was more successful and facilitated measurements of enamel thickness and distribution. We find the enamel thickness to be regionally variable, thin near the cusp tip (0.10\u2005mm) but thicker around the base (0.15\u20130.30\u2005mm) and notably greater than that of other rhynchocephalians such as the extant <i>Sphenodon</i> (0.08\u20130.14\u2005mm). The thick enamel in <i>Eilenodon</i> would permit greater loading, extend tooth lifespan and facilitate the establishment of wear facets that have sharp edges for orally processing plant material such as horsetails (<i>Equisetum</i>). The shape of the enamel dentine junction indicates that tooth development in <i>Eilenodon</i> and <i>Sphenodon</i> involved similar folding of the epithelium but different ameloblast activity.",
+        "resource-type-subtype": "Paper",
+        "data-center-id": "figshare.ars",
+        "member-id": "figshare",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "3",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-05-30T17:21:10.000Z",
+        "checked": null,
+        "updated": "2019-08-02T18:56:25.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxyZXNvdXJjZSB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMy9tZXRhZGF0YS54c2QiPgogIDxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjYwODQvbTkuZmlnc2hhcmUuNjM5MjQ4MDwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPk1hcmMgRS4gSC4gSm9uZXM8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5QZXRlciBXLiBMdWNhczwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkFiaWdhaWwgUy4gVHVja2VyPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+QW15IFAuIFdhdHNvbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkpvc2VwaCBKLiBXLiBTZXJ0aWNoPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Sm9obiBSLiBGb3N0ZXI8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5SdXRoIFdpbGxpYW1zPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VWxmIEdhcmJlPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Sm9zZXBoIEouIEJldml0dDwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkZsb3JpYW5hIFNhbHZlbWluaTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPlNJIFRhYmxlIDUgZnJvbSBOZXV0cm9uIHNjYW5uaW5nIHJldmVhbHMgdW5leHBlY3RlZCBjb21wbGV4aXR5IGluIHRoZSBlbmFtZWwgdGhpY2tuZXNzIG9mIGFuIGhlcmJpdm9yb3VzIEp1cmFzc2ljIHJlcHRpbGU8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+RWlsZW5vZG9udGluZXMgYXJlIG9uZSBvZiB0aGUgb2xkZXN0IHJhZGlhdGlvbiBvZiBoZXJiaXZvcm91cyBsZXBpZG9zYXVycyAoc25ha2VzLCBsaXphcmRzIGFuZCB0dWF0YXJhKSBjaGFyYWN0ZXJpemVkIGJ5IGJhdHRlcmllcyBvZiB3aWRlIHRlZXRoIHdpdGggdGhpY2sgZW5hbWVsIHRoYXQgYmVhciBtYW1tYWwtbGlrZSB3ZWFyIGZhY2V0cy4gVW5saWtlIG1vc3QgcmVwdGlsZXMsIGVpbGVub2RvbnRpbmVzIGhhdmUgbGltaXRlZCB0b290aCByZXBsYWNlbWVudCBtYWtpbmcgZGVudGFsIGxvbmdldml0eSBwYXJ0aWN1bGFybHkgaW1wb3J0YW50IHRvIHRoZW0uIFdlIHVzZSBib3RoIFgtcmF5IGFuZCBuZXV0cm9uIGNvbXB1dGVkIHRvbW9ncmFwaHkgdG8gZXhhbWluZSBhIGZvc3NpbCB0b290aCBmcm9tIHRoZSBlaWxlbm9kb250aW5lICZsdDtpJmd0O0VpbGVub2RvbiZsdDsvaSZndDsgKExhdGUgSnVyYXNzaWMsIFVTQSkuIE9mIHRoZSB0d28gYXBwcm9hY2hlcywgbmV1dHJvbiB0b21vZ3JhcGh5IHdhcyBtb3JlIHN1Y2Nlc3NmdWwgYW5kIGZhY2lsaXRhdGVkIG1lYXN1cmVtZW50cyBvZiBlbmFtZWwgdGhpY2tuZXNzIGFuZCBkaXN0cmlidXRpb24uIFdlIGZpbmQgdGhlIGVuYW1lbCB0aGlja25lc3MgdG8gYmUgcmVnaW9uYWxseSB2YXJpYWJsZSwgdGhpbiBuZWFyIHRoZSBjdXNwIHRpcCAoMC4xMCYjeDIwMDU7bW0pIGJ1dCB0aGlja2VyIGFyb3VuZCB0aGUgYmFzZSAoMC4xNSYjeDIwMTM7MC4zMCYjeDIwMDU7bW0pIGFuZCBub3RhYmx5IGdyZWF0ZXIgdGhhbiB0aGF0IG9mIG90aGVyIHJoeW5jaG9jZXBoYWxpYW5zIHN1Y2ggYXMgdGhlIGV4dGFudCAmbHQ7aSZndDtTcGhlbm9kb24mbHQ7L2kmZ3Q7ICgwLjA4JiN4MjAxMzswLjE0JiN4MjAwNTttbSkuIFRoZSB0aGljayBlbmFtZWwgaW4gJmx0O2kmZ3Q7RWlsZW5vZG9uJmx0Oy9pJmd0OyB3b3VsZCBwZXJtaXQgZ3JlYXRlciBsb2FkaW5nLCBleHRlbmQgdG9vdGggbGlmZXNwYW4gYW5kIGZhY2lsaXRhdGUgdGhlIGVzdGFibGlzaG1lbnQgb2Ygd2VhciBmYWNldHMgdGhhdCBoYXZlIHNoYXJwIGVkZ2VzIGZvciBvcmFsbHkgcHJvY2Vzc2luZyBwbGFudCBtYXRlcmlhbCBzdWNoIGFzIGhvcnNldGFpbHMgKCZsdDtpJmd0O0VxdWlzZXR1bSZsdDsvaSZndDspLiBUaGUgc2hhcGUgb2YgdGhlIGVuYW1lbCBkZW50aW5lIGp1bmN0aW9uIGluZGljYXRlcyB0aGF0IHRvb3RoIGRldmVsb3BtZW50IGluICZsdDtpJmd0O0VpbGVub2RvbiZsdDsvaSZndDsgYW5kICZsdDtpJmd0O1NwaGVub2RvbiZsdDsvaSZndDsgaW52b2x2ZWQgc2ltaWxhciBmb2xkaW5nIG9mIHRoZSBlcGl0aGVsaXVtIGJ1dCBkaWZmZXJlbnQgYW1lbG9ibGFzdCBhY3Rpdml0eS48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0PkVudmlyb25tZW50YWwgU2NpZW5jZTwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHNjaGVtZVVSST0iaHR0cDovL3d3dy5hYnMuZ292LmF1L2F1c3N0YXRzL2Fic0AubnNmLzAvNkJCNDI3QUI5Njk2QzIyNUNBMjU3NDE4MDAwNDQ2M0UiIHN1YmplY3RTY2hlbWU9IkZPUiI+MTEwNjAxIEJpb21lY2hhbmljczwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHNjaGVtZVVSST0iaHR0cDovL3d3dy5hYnMuZ292LmF1L2F1c3N0YXRzL2Fic0AubnNmLzAvNkJCNDI3QUI5Njk2QzIyNUNBMjU3NDE4MDAwNDQ2M0UiIHN1YmplY3RTY2hlbWU9IkZPUiI+OTAzMDEgQmlvbWF0ZXJpYWxzPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPHB1Ymxpc2hlcj5GaWdzaGFyZTwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxODwvcHVibGljYXRpb25ZZWFyPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJDcmVhdGVkIj4yMDE4LTA1LTMwPC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTgtMDUtMzA8L2RhdGU+CiAgPC9kYXRlcz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPlBhcGVyPC9yZXNvdXJjZVR5cGU+CiAgPHNpemVzPgogICAgPHNpemU+MzMyNDggQnl0ZXM8L3NpemU+CiAgPC9zaXplcz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLyI+Q0MgQlkgNC4wPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPgo="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.ars",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

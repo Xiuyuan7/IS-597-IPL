@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.25334/q4fx12",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25334/q4fx12",
+        "identifier": "https://doi.org/10.25334/q4fx12",
+        "url": "https://qubeshub.org/publications/405/1",
+        "author": [
+            {
+                "given": "Data",
+                "family": "Nuggets"
+            }
+        ],
+        "title": "When a species can't stand the heat",
+        "container-title": "QUBES",
+        "description": "Data Nuggets resource on the changing sex ratio in tuatara populations.",
+        "resource-type-subtype": "Teaching Materials",
+        "data-center-id": "pitt.qubes",
+        "member-id": "pitt",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": "2.2",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-03-13T15:59:03.000Z",
+        "checked": null,
+        "updated": "2019-08-02T18:32:47.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPG5zMDpyZXNvdXJjZSB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4bWxuczpuczA9Imh0dHA6Ly9kYXRhY2l0ZS5vcmcvc2NoZW1hL2tlcm5lbC0yLjIiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTIuMiBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0yLjIvbWV0YWRhdGEueHNkIj48bnMwOmlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjUzMzQvUTRGWDEyPC9uczA6aWRlbnRpZmllcj48bnMwOmNyZWF0b3JzPjxuczA6Y3JlYXRvcj4JPG5zMDpjcmVhdG9yTmFtZT5OdWdnZXRzLCBEYXRhPC9uczA6Y3JlYXRvck5hbWU+PC9uczA6Y3JlYXRvcj48L25zMDpjcmVhdG9ycz48bnMwOnRpdGxlcz4KCQkJPG5zMDp0aXRsZT5XaGVuIGEgc3BlY2llcyBjYW4ndCBzdGFuZCB0aGUgaGVhdDwvbnMwOnRpdGxlPgoJCTwvbnMwOnRpdGxlcz4KCQk8bnMwOnB1Ymxpc2hlcj5RVUJFUzwvbnMwOnB1Ymxpc2hlcj4KCQk8bnMwOnB1YmxpY2F0aW9uWWVhcj4yMDE4PC9uczA6cHVibGljYXRpb25ZZWFyPjxuczA6Y29udHJpYnV0b3JzPgk8bnMwOmNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iUHJvamVjdExlYWRlciI+CQk8bnMwOmNvbnRyaWJ1dG9yTmFtZT5Pcm5kb3JmLCBIYXlsZXk8L25zMDpjb250cmlidXRvck5hbWU+CTwvbnMwOmNvbnRyaWJ1dG9yPjwvbnMwOmNvbnRyaWJ1dG9ycz48bnMwOmRhdGVzPgoJCQk8bnMwOmRhdGUgZGF0ZVR5cGU9IlZhbGlkIj4yMDE4LTAzLTEzPC9uczA6ZGF0ZT4KCQkJPG5zMDpkYXRlIGRhdGVUeXBlPSJBY2NlcHRlZCI+MjAxOC0wMy0xMzwvbnMwOmRhdGU+CgkJPC9uczA6ZGF0ZXM+CgkJPG5zMDpsYW5ndWFnZT5lbjwvbnMwOmxhbmd1YWdlPgoJCTxuczA6cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPlRlYWNoaW5nIE1hdGVyaWFsczwvbnMwOnJlc291cmNlVHlwZT48bnMwOnZlcnNpb24+MS4wPC9uczA6dmVyc2lvbj48bnMwOnJpZ2h0cz5DQyBBdHRyaWJ1dGlvbi1Ob25Db21tZXJjaWFsLVNoYXJlQWxpa2UgNC4wIEludGVybmF0aW9uYWw8L25zMDpyaWdodHM+PG5zMDpkZXNjcmlwdGlvbnM+CgkJCTxuczA6ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+RGF0YSBOdWdnZXRzIHJlc291cmNlIG9uIHRoZSBjaGFuZ2luZyBzZXggcmF0aW8gaW4gdHVhdGFyYSBwb3B1bGF0aW9ucy48L25zMDpkZXNjcmlwdGlvbj4KCQkJPC9uczA6ZGVzY3JpcHRpb25zPgoJCTwvbnMwOnJlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "pitt.qubes",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "pitt",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

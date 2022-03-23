@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.4225/03/58b77e453643b",
+    "type": "works",
+    "attributes": {
+        "doi": "10.4225/03/58b77e453643b",
+        "identifier": "https://doi.org/10.4225/03/58b77e453643b",
+        "url": "https://monash.figshare.com/articles/Behavioural_and_morphological_variation_in_Neotropical_cichlid_fishes/4711999",
+        "author": [
+            {
+                "given": "William Geoffrey",
+                "family": "Sowersby"
+            }
+        ],
+        "title": "Behavioural and morphological variation in Neotropical cichlid fishes",
+        "container-title": "Monash University",
+        "description": "Intraspecific variation provides the raw materials for natural selection to act upon and, is thus, a key focus for understanding how and why organisms diversify. However, intraspecific variation also represents a puzzle for evolutionary biologists, since natural selection has been hypothesised to favour optimal phenotypes and eliminate all others from the population. One taxonomic group, cichlid fishes (Cichlidae), is proving to be an unparalleled system for the study of intraspecific variation, biological diversification and speciation. In particular, cichlids have shown a propensity to radiate rapidly, specialise ecologically, be phenotypically plastic and display convergent evolution across habitats. Indeed, many closely related species frequently occur in sympatry, often only varying conspicuously in regard to body colour or trophic characteristics, with similar levels of variation even occurring within species. Accordingly, using Neotropical cichlids as a model, my PhD thesis explores the mechanisms underpinning intraspecific variation, and how this variation is generated and maintained. My thesis is organized into two sections, comprising four data chapters. In section 1, I investigated how morphological variation may be generated and maintained in the polymorphic red devil cichlid, Amphilophus labiatus. In section 2, using red devils and another Neotropical species, the poor man\u2019s tropheus, Hypsophrys nematopus, I investigated key behavioural differences between the sexes in the context of parental investment in offspring defence. Using a multi-disciplinary approach \u2013 combining behavioural experiments, genomic analysis and ecological data \u2013 I found that within cichlid populations, individuals differ in regard to their trophic morphology, body colour and parental investment and that these differences are directly associated with differences in diet, background matching ability and sex. Specifically, I found significant variation in the phenotypic response of cichlid individuals introduced to a novel environment, clear behavioural and morphological variation between distinct colour morphs, and significant sex differences in the level and timing of parental investment. Together, these results highlight the high level of variation within Neotropical cichlid populations and provide insights into both the generation and maintenance of intraspecific variation.",
+        "resource-type-subtype": "Thesis",
+        "data-center-id": "ands.centre-3",
+        "member-id": "ands",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://rightsstatements.org/vocab/InC/1.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-03-02T02:07:05.000Z",
+        "checked": null,
+        "updated": "2019-09-11T01:55:43.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC40MjI1LzAzLzU4Qjc3RTQ1MzY0M0I8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Tb3dlcnNieSwgV2lsbGlhbSBHZW9mZnJleTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkJlaGF2aW91cmFsIGFuZCBtb3JwaG9sb2dpY2FsIHZhcmlhdGlvbiBpbiBOZW90cm9waWNhbCBjaWNobGlkIGZpc2hlczwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5JbnRyYXNwZWNpZmljIHZhcmlhdGlvbiBwcm92aWRlcyB0aGUgcmF3IG1hdGVyaWFscyBmb3IgbmF0dXJhbCBzZWxlY3Rpb24gdG8gYWN0IHVwb24gYW5kLCBpcyB0aHVzLCBhIGtleSBmb2N1cyBmb3IgdW5kZXJzdGFuZGluZyBob3cgYW5kIHdoeSBvcmdhbmlzbXMgZGl2ZXJzaWZ5LiBIb3dldmVyLCBpbnRyYXNwZWNpZmljIHZhcmlhdGlvbiBhbHNvIHJlcHJlc2VudHMgYSBwdXp6bGUgZm9yIGV2b2x1dGlvbmFyeSBiaW9sb2dpc3RzLCBzaW5jZSBuYXR1cmFsIHNlbGVjdGlvbiBoYXMgYmVlbiBoeXBvdGhlc2lzZWQgdG8gZmF2b3VyIG9wdGltYWwgcGhlbm90eXBlcyBhbmQgZWxpbWluYXRlIGFsbCBvdGhlcnMgZnJvbSB0aGUgcG9wdWxhdGlvbi4gT25lIHRheG9ub21pYyBncm91cCwgY2ljaGxpZCBmaXNoZXMgKENpY2hsaWRhZSksIGlzIHByb3ZpbmcgdG8gYmUgYW4gdW5wYXJhbGxlbGVkIHN5c3RlbSBmb3IgdGhlIHN0dWR5IG9mIGludHJhc3BlY2lmaWMgdmFyaWF0aW9uLCBiaW9sb2dpY2FsIGRpdmVyc2lmaWNhdGlvbiBhbmQgc3BlY2lhdGlvbi4gSW4gcGFydGljdWxhciwgY2ljaGxpZHMgaGF2ZSBzaG93biBhIHByb3BlbnNpdHkgdG8gcmFkaWF0ZSByYXBpZGx5LCBzcGVjaWFsaXNlIGVjb2xvZ2ljYWxseSwgYmUgcGhlbm90eXBpY2FsbHkgcGxhc3RpYyBhbmQgZGlzcGxheSBjb252ZXJnZW50IGV2b2x1dGlvbiBhY3Jvc3MgaGFiaXRhdHMuIEluZGVlZCwgbWFueSBjbG9zZWx5IHJlbGF0ZWQgc3BlY2llcyBmcmVxdWVudGx5IG9jY3VyIGluIHN5bXBhdHJ5LCBvZnRlbiBvbmx5IHZhcnlpbmcgY29uc3BpY3VvdXNseSBpbiByZWdhcmQgdG8gYm9keSBjb2xvdXIgb3IgdHJvcGhpYyBjaGFyYWN0ZXJpc3RpY3MsIHdpdGggc2ltaWxhciBsZXZlbHMgb2YgdmFyaWF0aW9uIGV2ZW4gb2NjdXJyaW5nIHdpdGhpbiBzcGVjaWVzLiBBY2NvcmRpbmdseSwgdXNpbmcgTmVvdHJvcGljYWwgY2ljaGxpZHMgYXMgYSBtb2RlbCwgbXkgUGhEIHRoZXNpcyBleHBsb3JlcyB0aGUgbWVjaGFuaXNtcyB1bmRlcnBpbm5pbmcgaW50cmFzcGVjaWZpYyB2YXJpYXRpb24sIGFuZCBob3cgdGhpcyB2YXJpYXRpb24gaXMgZ2VuZXJhdGVkIGFuZCBtYWludGFpbmVkLiBNeSB0aGVzaXMgaXMgb3JnYW5pemVkIGludG8gdHdvIHNlY3Rpb25zLCBjb21wcmlzaW5nIGZvdXIgZGF0YSBjaGFwdGVycy4gSW4gc2VjdGlvbiAxLCBJIGludmVzdGlnYXRlZCBob3cgbW9ycGhvbG9naWNhbCB2YXJpYXRpb24gbWF5IGJlIGdlbmVyYXRlZCBhbmQgbWFpbnRhaW5lZCBpbiB0aGUgcG9seW1vcnBoaWMgcmVkIGRldmlsIGNpY2hsaWQsIEFtcGhpbG9waHVzIGxhYmlhdHVzLiBJbiBzZWN0aW9uIDIsIHVzaW5nIHJlZCBkZXZpbHMgYW5kIGFub3RoZXIgTmVvdHJvcGljYWwgc3BlY2llcywgdGhlIHBvb3IgbWFu4oCZcyB0cm9waGV1cywgSHlwc29waHJ5cyBuZW1hdG9wdXMsIEkgaW52ZXN0aWdhdGVkIGtleSBiZWhhdmlvdXJhbCBkaWZmZXJlbmNlcyBiZXR3ZWVuIHRoZSBzZXhlcyBpbiB0aGUgY29udGV4dCBvZiBwYXJlbnRhbCBpbnZlc3RtZW50IGluIG9mZnNwcmluZyBkZWZlbmNlLiBVc2luZyBhIG11bHRpLWRpc2NpcGxpbmFyeSBhcHByb2FjaCDigJMgY29tYmluaW5nIGJlaGF2aW91cmFsIGV4cGVyaW1lbnRzLCBnZW5vbWljIGFuYWx5c2lzIGFuZCBlY29sb2dpY2FsIGRhdGEg4oCTIEkgZm91bmQgdGhhdCB3aXRoaW4gY2ljaGxpZCBwb3B1bGF0aW9ucywgaW5kaXZpZHVhbHMgZGlmZmVyIGluIHJlZ2FyZCB0byB0aGVpciB0cm9waGljIG1vcnBob2xvZ3ksIGJvZHkgY29sb3VyIGFuZCBwYXJlbnRhbCBpbnZlc3RtZW50IGFuZCB0aGF0IHRoZXNlIGRpZmZlcmVuY2VzIGFyZSBkaXJlY3RseSBhc3NvY2lhdGVkIHdpdGggZGlmZmVyZW5jZXMgaW4gZGlldCwgYmFja2dyb3VuZCBtYXRjaGluZyBhYmlsaXR5IGFuZCBzZXguIFNwZWNpZmljYWxseSwgSSBmb3VuZCBzaWduaWZpY2FudCB2YXJpYXRpb24gaW4gdGhlIHBoZW5vdHlwaWMgcmVzcG9uc2Ugb2YgY2ljaGxpZCBpbmRpdmlkdWFscyBpbnRyb2R1Y2VkIHRvIGEgbm92ZWwgZW52aXJvbm1lbnQsIGNsZWFyIGJlaGF2aW91cmFsIGFuZCBtb3JwaG9sb2dpY2FsIHZhcmlhdGlvbiBiZXR3ZWVuIGRpc3RpbmN0IGNvbG91ciBtb3JwaHMsIGFuZCBzaWduaWZpY2FudCBzZXggZGlmZmVyZW5jZXMgaW4gdGhlIGxldmVsIGFuZCB0aW1pbmcgb2YgcGFyZW50YWwgaW52ZXN0bWVudC4gVG9nZXRoZXIsIHRoZXNlIHJlc3VsdHMgaGlnaGxpZ2h0IHRoZSBoaWdoIGxldmVsIG9mIHZhcmlhdGlvbiB3aXRoaW4gTmVvdHJvcGljYWwgY2ljaGxpZCBwb3B1bGF0aW9ucyBhbmQgcHJvdmlkZSBpbnNpZ2h0cyBpbnRvIGJvdGggdGhlIGdlbmVyYXRpb24gYW5kIG1haW50ZW5hbmNlIG9mIGludHJhc3BlY2lmaWMgdmFyaWF0aW9uLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+VW5jYXRlZ29yaXplZDwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxwdWJsaXNoZXI+TW9uYXNoIFVuaXZlcnNpdHk8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTc8L3B1YmxpY2F0aW9uWWVhcj4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQ3JlYXRlZCI+MjAxNy0wMy0wMjwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJVcGRhdGVkIj4yMDE5LTA5LTExPC9kYXRlPgogIDwvZGF0ZXM+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5UaGVzaXM8L3Jlc291cmNlVHlwZT4KICA8c2l6ZXM+CiAgICA8c2l6ZT42MTk0MjIzNSBCeXRlczwvc2l6ZT4KICA8L3NpemVzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHA6Ly9yaWdodHNzdGF0ZW1lbnRzLm9yZy92b2NhYi9JbkMvMS4wLyI+SW4gQ29weXJpZ2h0PC9yaWdodHM+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ands.centre-3",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ands",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17863/CAM.27882</identifier>
+  <creators>
+    <creator>
+      <creatorName>Forouhi, Nita</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-5041-248X</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Krauss, Ronald M</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Taubes, Gary</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Willett, Walter</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Dietary fat and cardiometabolic health: evidence, controversies, and consensus for guidance.</title>
+  </titles>
+  <publisher>Apollo - University of Cambridge Repository</publisher>
+  <publicationYear>2018</publicationYear>
+  <subjects>
+    <subject>Humans</subject>
+    <subject>Cardiovascular Diseases</subject>
+    <subject>Metabolic Diseases</subject>
+    <subject>Dietary Fats</subject>
+    <subject>Dietary Fats, Unsaturated</subject>
+    <subject>Nutrition Surveys</subject>
+    <subject>Risk Factors</subject>
+    <subject>Consensus</subject>
+    <subject>Primary Prevention</subject>
+    <subject>Nutrition Policy</subject>
+    <subject>Guidelines as Topic</subject>
+    <subject>Healthy Diet</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2018-09-20</date>
+    <date dateType="Available">2018-09-20</date>
+    <date dateType="Issued">2018-06-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="issn">0959-8146</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">https://www.repository.cam.ac.uk/handle/1810/280512</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="eissn">1756-1833</alternateIdentifier>
+  </alternateIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by-nc/4.0/">Attribution-NonCommercial 4.0 International</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">In past decades, dietary guidance has almost universally advocated reducing the intake of total and saturated fat, with the emphasis shifting more recently from total fat to the replacement of saturated fat with polyunsaturated fats and the elimination of trans fat. These recommendations and the link between fat consumption and the risk of cardiovascular disease have been among the most vexed issues in public health: are dietary fats “villains,” are they benign, or are they even “heroes” that could help us consume better overall diets and promote health? And, which dietary fats fit into which category? The medical literature is still full of articles arguing opposing positions. For example, in 2017, after a review of the evidence, the American heart Association Presidential Advisory strongly endorsed that “lowering intake of saturated fat and replacing it with unsaturated fats, especially polyunsaturated fats, will lower the incidence of CVD”. Three months later, the 18-country observational Prospective Rural Urban Epidemiology (PURE) Study concluded much the opposite: “Total fat and types of fat were not associated with cardiovascular disease, myocardial infarction, or cardiovascular disease mortality”. The devil, as always, is in the detail, including the inherent complexity of human diets, methodological considerations, and the role of bias and confounding. This article takes a critical look at the evolution of scientific understanding about dietary fats and health, the difficulties of establishing public health dietary guidelines, and what the current advice should be for dietary fat consumption. Although the focus is on cardiovascular disease, we also consider other outcomes, including weight gain and obesity, type 2 diabetes, and cancer.</description>
+  </descriptions>
+  <fundingReferences>
+    <fundingReference>
+      <funderName>MRC</funderName>
+      <awardNumber>MC_UU_12015/5</awardNumber>
+    </fundingReference>
+  </fundingReferences>
+</resource>

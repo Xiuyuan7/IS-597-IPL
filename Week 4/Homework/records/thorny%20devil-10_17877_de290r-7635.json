@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.17877/de290r-7635",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17877/de290r-7635",
+        "identifier": "https://doi.org/10.17877/de290r-7635",
+        "url": "http://eldorado.tu-dortmund.de/handle/2003/23279",
+        "author": [
+            {
+                "given": "Heiko",
+                "family": "Falk"
+            },
+            {
+                "given": "Robert",
+                "family": "Pyka"
+            }
+        ],
+        "title": "R3D3 Real Robo Rally Dare Devil Druids",
+        "container-title": "Technische Universit\u00e4t Dortmund",
+        "description": null,
+        "resource-type-subtype": "study thesis",
+        "data-center-id": "tib.tudo",
+        "member-id": "tib",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2007",
+        "registered": "2015-08-12T20:17:59.000Z",
+        "checked": null,
+        "updated": "2019-09-21T07:30:39.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxyZXNvdXJjZSB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTQiIHhtbG5zOmRzcGFjZT0iaHR0cDovL3d3dy5kc3BhY2Uub3JnL3htbG5zL2RzcGFjZS9kaW0iIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTQgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtNC4xL21ldGFkYXRhLnhzZCI+PGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc4NzcvREUyOTBSLTc2MzU8L2lkZW50aWZpZXI+PGNyZWF0b3JzPjxjcmVhdG9yPjxjcmVhdG9yTmFtZT5GYWxrLCBIZWlrbzwvY3JlYXRvck5hbWU+PC9jcmVhdG9yPjxjcmVhdG9yPjxjcmVhdG9yTmFtZT5QeWthLCBSb2JlcnQ8L2NyZWF0b3JOYW1lPjwvY3JlYXRvcj48L2NyZWF0b3JzPjx0aXRsZXM+PHRpdGxlPlIzRDMgUmVhbCBSb2JvIFJhbGx5IERhcmUgRGV2aWwgRHJ1aWRzPC90aXRsZT48dGl0bGUgdGl0bGVUeXBlPSJBbHRlcm5hdGl2ZVRpdGxlIj5FbmRiZXJpY2h0PC90aXRsZT48L3RpdGxlcz48cHVibGlzaGVyPlRlY2huaXNjaGUgVW5pdmVyc2l0w6R0IERvcnRtdW5kPC9wdWJsaXNoZXI+PHB1YmxpY2F0aW9uWWVhcj4yMDA3PC9wdWJsaWNhdGlvblllYXI+PHN1YmplY3RzPjxzdWJqZWN0IHN1YmplY3RTY2hlbWU9ImRkYyI+MDA0PC9zdWJqZWN0Pjwvc3ViamVjdHM+PGNvbnRyaWJ1dG9ycz48Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJEYXRhTWFuYWdlciI+PGNvbnRyaWJ1dG9yTmFtZT5UZWNobmlzY2hlIFVuaXZlcnNpdMOkdCBEb3J0bXVuZDwvY29udHJpYnV0b3JOYW1lPjwvY29udHJpYnV0b3I+PGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iSG9zdGluZ0luc3RpdHV0aW9uIj48Y29udHJpYnV0b3JOYW1lPlRlY2huaXNjaGUgVW5pdmVyc2l0w6R0IERvcnRtdW5kPC9jb250cmlidXRvck5hbWU+PC9jb250cmlidXRvcj48L2NvbnRyaWJ1dG9ycz48ZGF0ZXM+PGRhdGUgZGF0ZVR5cGU9IkFjY2VwdGVkIj4yMDA3LTAyLTE2PC9kYXRlPjxkYXRlIGRhdGVUeXBlPSJBdmFpbGFibGUiPjIwMDctMDItMTY8L2RhdGU+PGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAwNy0wMi0xNjwvZGF0ZT48L2RhdGVzPjxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+PHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5zdHVkeSB0aGVzaXM8L3Jlc291cmNlVHlwZT48YWx0ZXJuYXRlSWRlbnRpZmllcnM+PGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVyaSI+aHR0cDovL2hkbC5oYW5kbGUubmV0LzIwMDMvMjMyNzk8L2FsdGVybmF0ZUlkZW50aWZpZXI+PC9hbHRlcm5hdGVJZGVudGlmaWVycz48cmlnaHRzTGlzdD48cmlnaHRzPm9wZW4gYWNjZXNzPC9yaWdodHM+PC9yaWdodHNMaXN0PjwvcmVzb3VyY2U+DQo="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tib.tudo",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tib",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

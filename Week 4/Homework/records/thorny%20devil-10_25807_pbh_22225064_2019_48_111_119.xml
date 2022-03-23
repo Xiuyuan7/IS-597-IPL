@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25807/PBH.22225064.2019.48.111.119</identifier>
+  <creators>
+    <creator>
+      <creatorName>Викторино, Л.</creatorName>
+      <affiliation>СанктПетербургский государственный институт культуры</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>Карнавал Риосусио, или Карнавал дьявола</title>
+    <title titleType="TranslatedTitle">Riosucio Carnival, or Carnival of the Devil</title>
+  </titles>
+  <publisher>Университетский научный журнал</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>метисация</subject>
+    <subject>карнавал</subject>
+    <subject>маска</subject>
+    <subject>аборигены</subject>
+    <subject>африканцы</subject>
+    <subject>испанские
+колонисты</subject>
+    <subject>война за независимость</subject>
+    <subject>романтизм</subject>
+    <subject>miscegenation</subject>
+    <subject>carnival</subject>
+    <subject>mask</subject>
+    <subject>aborigines</subject>
+    <subject>Africans</subject>
+    <subject>Spanish colonist</subject>
+    <subject>War of Independence</subject>
+    <subject>romanticism</subject>
+  </subjects>
+  <language>ru</language>
+  <dates>
+    <date dateType="Issued">2019-09-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Journal Article</resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsCitedBy">http://publish.bookhouse.ru/articles/universitetskiy-nauchnyy-zhurnal/universitetskiy-nauchnyy-zhurnal-48-filologicheskie-i-istoricheskie-nauki-arkheologiya-i-iskusstvove/60709/</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="ISSN" relationType="IsPartOf">2222-5064</relatedIdentifier>
+  </relatedIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">Карнавал Риосусио, известный также как Карнавал дьявола,происходит в городе Риосусио, кофейном регионе Колумбии. Покровителем этого карнавала является дьявол, однако этотпраздник не имеет ничего общего с сатанинскими ритуалами или чемто подобным. Этот дьявол имеет крайне малую связь собразом дьявола в католической церкви, но значительно связан с индейскими существами. Он символизирует метиcацию (расовое кровосмешение), соответственно в его образе сочетаютсяиндейские, испанские и африканские черты. Дьявол и карнавал, центральной фигурой которого он является,  символы примирения двух деревень, которые прежде враждовали. В этой статье анализируется история этого карнавала, его своеобразиеи важность в поисках мира и идентичности народа.</description>
+    <description descriptionType="Abstract">The Carnival of Riosucio, also known as the Carnival of the Devil, takesplace in the city of Riosucio, Colombian region of coffee. The patron of this carnival is the devil. However, this devil is not connected withsatanic rituals or anything of the kind. This devil is very little related to the devil of the Catholic Church, but mostly to mythological indigenouscreatures. It symbolizes miscegenation, so its image combines Indigenous, Spanish and African features. The devil and the carnival thatit presides are the symbols of reconciliation of two villages that were in conflict before. This article analyzes the history of this carnival, itspeculiarity and importance in search of peace and identity of the nation.</description>
+    <description descriptionType="SeriesInformation">№48 (2019)</description>
+  </descriptions>
+</resource>

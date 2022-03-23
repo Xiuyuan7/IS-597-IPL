@@ -1,0 +1,55 @@
+{
+    "id": "https://doi.org/10.25549/chs-m18273",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25549/chs-m18273",
+        "identifier": "https://doi.org/10.25549/chs-m18273",
+        "url": "http://digitallibrary.usc.edu/cdm/ref/collection/p15799coll65/id/654",
+        "author": [
+            {
+                "literal": "Pierce, C.C. (Charles C.), 1861-1946"
+            },
+            {
+                "literal": "Pierce, C.C. (Charles C.), 1861-1946"
+            }
+        ],
+        "title": "The painting \"Saint Michael\" by Reni, depicting an archangel triumphant over a devil, [s.d.]",
+        "container-title": "University of Southern California Digital Library (USC.DL)",
+        "description": "Photograph of the painting \"Saint Michael\" by Reni, depicting an archangel triumphant over a devil, [s.d.]. An angel stands the length of the image, dressed in lightly-colored armor, whose breastplate resembles a male torso. The angel raises a sword to the left, as if in preparation to thrust it into the much more darkly colored devil held beneath his foot to the right. The devil appears to be wearing no armor at all. A chain is grasped in the angel's other hand.",
+        "resource-type-subtype": "Dataset",
+        "data-center-id": "usc.dl",
+        "member-id": "usc",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2015",
+        "registered": "2018-04-26T12:41:16.000Z",
+        "checked": null,
+        "updated": "2019-09-18T02:02:05.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+PGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjU1NDkvY2hzLW0xODI3MzwvaWRlbnRpZmllcj48Y3JlYXRvcnM+PGNyZWF0b3I+PGNyZWF0b3JOYW1lPlBpZXJjZSwgQy5DLiAoQ2hhcmxlcyBDLiksIDE4NjEtMTk0NjwvY3JlYXRvck5hbWU+PC9jcmVhdG9yPjxjcmVhdG9yPjxjcmVhdG9yTmFtZT5QaWVyY2UsIEMuQy4gKENoYXJsZXMgQy4pLCAxODYxLTE5NDY8L2NyZWF0b3JOYW1lPjwvY3JlYXRvcj48L2NyZWF0b3JzPjx0aXRsZXM+PHRpdGxlPlRoZSBwYWludGluZyAiU2FpbnQgTWljaGFlbCIgYnkgUmVuaSwgZGVwaWN0aW5nIGFuIGFyY2hhbmdlbCB0cml1bXBoYW50IG92ZXIgYSBkZXZpbCwgW3MuZC5dPC90aXRsZT48L3RpdGxlcz48cHVibGlzaGVyPlVuaXZlcnNpdHkgb2YgU291dGhlcm4gQ2FsaWZvcm5pYSBEaWdpdGFsIExpYnJhcnkgKFVTQy5ETCk8L3B1Ymxpc2hlcj48cHVibGljYXRpb25ZZWFyPjIwMTU8L3B1YmxpY2F0aW9uWWVhcj48c3ViamVjdHM+PHN1YmplY3Q+QXJ0IC0tIFJlbmksIEd1aWRvPC9zdWJqZWN0PjxzdWJqZWN0PkFydDwvc3ViamVjdD48L3N1YmplY3RzPjxsYW5ndWFnZT5lbmc8L2xhbmd1YWdlPjxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCI+RGF0YXNldDwvcmVzb3VyY2VUeXBlPjxkZXNjcmlwdGlvbnM+PGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlBob3RvZ3JhcGggb2YgdGhlIHBhaW50aW5nICJTYWludCBNaWNoYWVsIiBieSBSZW5pLCBkZXBpY3RpbmcgYW4gYXJjaGFuZ2VsIHRyaXVtcGhhbnQgb3ZlciBhIGRldmlsLCBbcy5kLl0uIEFuIGFuZ2VsIHN0YW5kcyB0aGUgbGVuZ3RoIG9mIHRoZSBpbWFnZSwgZHJlc3NlZCBpbiBsaWdodGx5LWNvbG9yZWQgYXJtb3IsIHdob3NlIGJyZWFzdHBsYXRlIHJlc2VtYmxlcyBhIG1hbGUgdG9yc28uIFRoZSBhbmdlbCByYWlzZXMgYSBzd29yZCB0byB0aGUgbGVmdCwgYXMgaWYgaW4gcHJlcGFyYXRpb24gdG8gdGhydXN0IGl0IGludG8gdGhlIG11Y2ggbW9yZSBkYXJrbHkgY29sb3JlZCBkZXZpbCBoZWxkIGJlbmVhdGggaGlzIGZvb3QgdG8gdGhlIHJpZ2h0LiBUaGUgZGV2aWwgYXBwZWFycyB0byBiZSB3ZWFyaW5nIG5vIGFybW9yIGF0IGFsbC4gQSBjaGFpbiBpcyBncmFzcGVkIGluIHRoZSBhbmdlbCdzIG90aGVyIGhhbmQuPC9kZXNjcmlwdGlvbj48L2Rlc2NyaXB0aW9ucz48L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "usc.dl",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "usc",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

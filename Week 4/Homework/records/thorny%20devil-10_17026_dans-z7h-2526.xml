@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.17026/dans-z7h-2526</identifier>
+  <creators>
+    <creator>
+      <creatorName>Hellwig, J.C.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Anansi Masters - Curacao G07 - Sling, Rose Marie, Nana Rosa - How Nanzi tricked the Devil</title>
+  </titles>
+  <publisher>Data Archiving and Networked Services (DANS)</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+    <subject>Language and literature studies</subject>
+    <subject>Dramaturgy</subject>
+    <subject>Modern history</subject>
+    <subject>Language and literature studies of other language groups</subject>
+    <subject>Cultural anthropology</subject>
+    <subject>Leisure and recreation studies</subject>
+    <subject>Arts</subject>
+    <subject>Social sciences</subject>
+    <subject>Socio-cultural sciences</subject>
+    <subject>Anansi Masters</subject>
+    <subject>Anansi</subject>
+    <subject>storytelling</subject>
+    <subject>immaterial cultural heritage</subject>
+    <subject>slave trade</subject>
+    <subject>trickster</subject>
+    <subject>oral culture</subject>
+    <subject>visual anthropology</subject>
+    <subject>Africa</subject>
+    <subject>African diaspora</subject>
+    <subject>Carribbean</subject>
+    <subject>Curacao</subject>
+    <subject>Kweku Ananse</subject>
+    <subject>Nanzi</subject>
+    <subject>slavery</subject>
+    <subject>flute</subject>
+    <subject>devil</subject>
+    <subject>pact</subject>
+    <subject>donkey</subject>
+    <subject>Curacao, Willemstad, Otrobanda, Brionsquare</subject>
+    <subject>Temporal coverage: 2012</subject>
+  </subjects>
+  <contributors/>
+  <dates>
+    <date dateType="Submitted">2012-12-12</date>
+    <date dateType="Created">2012-12</date>
+    <date dateType="Available">2012-12-02</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="URN">urn:nbn:nl:ui:13-brsc-tv</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="Unknown">Anansi Masters G07</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="DMO_ID">easy-dataset:52409</alternateIdentifier>
+  </alternateIdentifiers>
+  <formats>
+    <format>MPEG-4 H264</format>
+  </formats>
+  <rightsList>
+    <rights>info:eu-repo/semantics/openAccess</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Other">How Nanzi tricked the Devil told by Rose Marie Sling (Nana Rosa), recorded on video for the Anansi Masters project in Curacao.
+
+Subject: How Nanzi tricked the Devil
+
+Description: Nanzi gets an impossible mission but his wit helps him to accomplish it.
+
+Content: Nanzi does not want to give up his life of luxury, but his money is running out. Then the Devil strikes a deal with him. Nanzi can keep a flute that fulfills all his wishes on the condition that within fourteen days Nanzi knows for how long the Devil has been on earth. Nanzi enjoys the benefits of the flute and manages to keep it by tricking the Devil. 
+
+About Anansi Masters: The Anansi Masters project is developed by Vista Far Reaching Visuals (Mr. Jean Hellwig) and partners. It is designed as a public digital platform at http://www.anansimasters.net and opened in 2007. At the website one can find information about the story character of Nanzi (or Anansi or Kweku Ananse), with English and Dutch subtitled video recordings of storytelling in several countries in different languages, educational modules about storytelling for use at schools and academies, and digital issues of the Anansi Masters Journal published since the beginning of the project. All storytelling videos are also published on Youtube. 
+The stories of the Anansi tradition originate in Africa and were exported to other parts of the world through slave trade and migration. In Anansi Masters, the similarities and differences between the stories and storytellers, who tell in their own language, can be found. Anansi Masters initiates different activities all over the world where stories from this oral tradition can be found. The founder has the ambition to film as many stories from this tradition as possible in as many countries as possible. Anansi Masters collaborates with writers, theatre makers, filmmakers, researchers, schools and of course with many many storytellers.
+
+This dataset refers to:
+- the video recording of the storytelling with English subtitles
+- the video recording of the storytelling with Dutch subtitles
+- the video recording of the short interview with the storyteller with English subtitles
+- the video recording of the short interview with the storyteller with Dutch subtitles
+- a text datasheet with information about the stortyteller and story in English and Dutch</description>
+  </descriptions>
+</resource>

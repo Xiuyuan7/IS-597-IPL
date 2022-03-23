@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.5061/dryad.ms7q2q4/1",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5061/dryad.ms7q2q4/1",
+        "identifier": "https://doi.org/10.5061/dryad.ms7q2q4/1",
+        "url": "https://datadryad.org/resource/doi:10.5061/dryad.ms7q2q4/1",
+        "author": [
+            {
+                "given": "Felix",
+                "family": "Vaux"
+            },
+            {
+                "given": "Mary",
+                "family": "Morgan-Richards"
+            },
+            {
+                "given": "Elizabeth E.",
+                "family": "Daly"
+            },
+            {
+                "given": "Steven A.",
+                "family": "Trewick"
+            }
+        ],
+        "title": "Tutara sampling",
+        "container-title": "Dryad Digital Repository",
+        "description": "Photographic and digitisation sampling of tuatara dentary bones for this study. File includes provenance and museum collection information.",
+        "resource-type-subtype": "DataFile",
+        "data-center-id": "dryad.dryad",
+        "member-id": "dryad",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": "http://creativecommons.org/publicdomain/zero/1.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-10-15T18:23:26.000Z",
+        "checked": null,
+        "updated": "2019-08-02T20:39:24.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHJ5YWQ9Imh0dHA6Ly9wdXJsLm9yZy9kcnlhZC90ZXJtcy8iIHhtbG5zOmRpbT0iaHR0cDovL3d3dy5kc3BhY2Uub3JnL3htbG5zL2RzcGFjZS9kaW0iIHhtbG5zOmRzcGFjZT0iaHR0cDovL3d3dy5kc3BhY2Uub3JnL3htbG5zL2RzcGFjZS9kaW0iIHhtbG5zOm1ldHM9Imh0dHA6Ly93d3cubG9jLmdvdi9NRVRTLyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTA2MS9EUllBRC5NUzdRMlE0LzE8L2lkZW50aWZpZXI+CiAgPHZlcnNpb24+MTwvdmVyc2lvbj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlZhdXgsIEZlbGl4PC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+TW9yZ2FuLVJpY2hhcmRzLCBNYXJ5PC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+RGFseSwgRWxpemFiZXRoIEUuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VHJld2ljaywgU3RldmVuIEEuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+VHV0YXJhIHNhbXBsaW5nPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPkRyeWFkIERpZ2l0YWwgUmVwb3NpdG9yeTwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxODwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0Pmdlb21ldHJpYyBtb3JwaG9tZXRyaWM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5saXZpbmcgZm9zc2lsPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+bW9ycGhvbG9naWNhbCBzdGFzaXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5tb3JwaG9sb2dpY2FsIGNvbnNlcnZhdGlzbTwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pk5ldyBaZWFsYW5kPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+SG9sb2NlbmU8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5TcGhlbm9kb24gcHVuY3RhdHVzPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkFjY2VwdGVkIj4yMDE4LTExLTAyPC9kYXRlPgogIDwvZGF0ZXM+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJEYXRhc2V0Ij5EYXRhRmlsZTwvcmVzb3VyY2VUeXBlPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRpb25UeXBlPSJJc1BhcnRPZiIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiPjEwLjUwNjEvRFJZQUQuTVM3UTJRNDwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHNpemVzPgogICAgPHNpemU+MTc2OTAgYnl0ZXM8L3NpemU+CiAgPC9zaXplcz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9wdWJsaWNkb21haW4vemVyby8xLjAvIi8+CiAgPC9yaWdodHNMaXN0PgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJPdGhlciI+UGhvdG9ncmFwaGljIGFuZCBkaWdpdGlzYXRpb24gc2FtcGxpbmcgb2YgdHVhdGFyYSBkZW50YXJ5IGJvbmVzIGZvciB0aGlzIHN0dWR5LiBGaWxlIGluY2x1ZGVzIHByb3ZlbmFuY2UgYW5kIG11c2V1bSBjb2xsZWN0aW9uIGluZm9ybWF0aW9uLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "dryad.dryad",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "dryad",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

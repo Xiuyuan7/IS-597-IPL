@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resource xmlns='http://datacite.org/schema/kernel-4' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation='http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd'>
+  <identifier identifierType='DOI'>10.14280/08241.20</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType='Personal'>Kounine, Laura</creatorName>
+      <affiliation>Max Planck Institute for Human Development, Center for the History of Emotions, Lentzeallee 94, 14195 Berlin, Germany</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang='de'>"The Devil Used Her Sins": Despair, Confession and Salvation in a Seventeenth-Century Witch-Trial</title>
+    <title xml:lang='en'>"The Devil Used Her Sins": Despair, Confession and Salvation in a Seventeenth-Century Witch-Trial</title>
+  </titles>
+  <publisher>MPIB - Max Planck Institute for Human Development</publisher>
+  <publicationYear>2014</publicationYear>
+  <resourceType resourceTypeGeneral='Text'></resourceType>
+  <language>eng</language>
+  <version>1</version>
+  <descriptions>
+    <description xml:lang='de' descriptionType='SeriesInformation'>History of Emotions - Insights into Research</description>
+    <description xml:lang='en' descriptionType='SeriesInformation'>History of Emotions - Insights into Research</description>
+  </descriptions>
+</resource>

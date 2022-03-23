@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.22004/AG.ECON.11620</identifier>
+  <creators>
+    <creator>
+      <creatorName>Wessen, Paul D.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Oehmke, James F.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Wessen, Paul D.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Oehmke, James F.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>PRIVATIZING MARKETS FOR HETEROGENOUS, EXPERIENCE GOODS: COFFEE IN NORTHWEST CAMEROON</title>
+  </titles>
+  <publisher>Unknown</publisher>
+  <publicationYear>2001</publicationYear>
+  <subjects>
+    <subject>Marketing</subject>
+  </subjects>
+  <dates>
+    <date dateType="Updated">2019-08-24T23:00:56.0-05:00</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">Reform and privatization of administratively controlled marketing parastatals is always a thorny issue.  Reform of public coffee parastatals is one of the most fascinating and trickiest exercises in free-market development.  Coffee, a heterogenous, experience good, undergoes several processing stages with imperfect quality control, leading to agency problems.  Successful privatization must address these problems.
+
+This paper analyzes the reform and partial privatization of the North West Cooperative Association (NWCA) parastatal in Cameroon.  A conceptual, principal-agent framework informs the analysis.  In an interesting twist, the reforms structured the marketing chain so that farmers are the residual claimants to profits from international sales, in effect making them the principals.  As is suggested by the conceptual framework, empirical work confirms that farmers as principals have reinvested in coffee quality.  However, the evidence also shows that agency problems still exist at later stages of the marketing chain.  This is consistent with the principal-agent framework, since incentive-compatible contracts are not used in this marketing chain.  The paper concludes by drawing more general lessons about how incomplete information and incentive structure issues arising from imperfect markets might be handled within the context of market liberalization.</description>
+  </descriptions>
+</resource>

@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.13016/m24b2x68t",
+    "type": "works",
+    "attributes": {
+        "doi": "10.13016/m24b2x68t",
+        "identifier": "https://doi.org/10.13016/m24b2x68t",
+        "url": "https://www.datacite.org/invalid.html",
+        "author": [
+            {
+                "given": "Albert Mugambi",
+                "family": "Rutere"
+            }
+        ],
+        "title": "Women And Patriarchal Power In The Selected Novels Of Ngugi Wa Thiong'o",
+        "container-title": "My University",
+        "description": "This is study attempts to examine women's reaction to patriarchal power in the selected novels of Ngugi Wa Thiong'o. Specifically, the study analyses Ngugi's Weep Not, Child, The River Between, A Grain of Wheat, Petals of Blood, Devil on the Cross, and Wizard of the Crow while paying attention to various strategies which women use to respond to patriarchy. First and foremost, this study establishes a universal canvas of patriarchy, in order to show how this problem is an historical stumbling block to women's progress in most cultures, while justifying the war which women wage against this menace. Moreover, the study exposes the patriarchal challenges and constraints which women face in deconstructing patriarchy in the aforementioned works. However, this study argues that the success of women's struggle against patriarchy will be possible if women take the initiative and explore specific strategies to empower themselves socially, politically, and economically. Some of these strategies include good education, hard work, solidarity, pragmatic or temporary cooperation, tactical silence, and subversion. To examine women's struggle against patriarchal power in Ngugi's novels, this study employs theories of feminists like Virginia Woolf, Simone de Beauvoir, and Betty Freidan who advocate total liberation and empowerment of a woman. Equally, the ideas of power and struggle from writers such as Max Weber and Michel Foucault are explored in order to provide the paradigm for women's struggle in the society. Ultimately, Ngugi's novels argue that patriarchy is both oppressive and retrogressive to women and the society, and therefore it should be discontinued. As Ngugi suggests, the recognition of gender empowerment, equity, and partnership is the only fair and effective method of ensuring distribution of resources in the society. Indeed, for the progress of the society, this principle should be guarded at all cost by both men and women.",
+        "resource-type-subtype": "Text",
+        "data-center-id": "umd.lib",
+        "member-id": "umd",
+        "resource-type-id": "collection",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2009",
+        "registered": "2018-04-11T12:41:02.000Z",
+        "checked": null,
+        "updated": "2019-09-09T01:32:30.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTMwMTYvTTI0QjJYNjhUPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+UnV0ZXJlLCBBbGJlcnQgTXVnYW1iaTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPldvbWVuIEFuZCBQYXRyaWFyY2hhbCBQb3dlciBJbiBUaGUgU2VsZWN0ZWQgTm92ZWxzIE9mIE5ndWdpIFdhIFRoaW9uZydvPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPk15IFVuaXZlcnNpdHk8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMDk8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5Xb21lbjwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkFmcmljYW48L3N1YmplY3Q+CiAgICA8c3ViamVjdD5BZnJpY2FuIExpdGVyYXR1cmU8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5OZ3VnaTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkdlbmRlcjwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlBhdHJpYXJjaHk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5MaXRlcmF0dXJlPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+R2VuZGVyIFN0dWRpZXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5Xb21lbidzIFN0dWRpZXM8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8Y29udHJpYnV0b3JzPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iRGF0YU1hbmFnZXIiPgogICAgICA8Y29udHJpYnV0b3JOYW1lPk15IFVuaXZlcnNpdHk8L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJIb3N0aW5nSW5zdGl0dXRpb24iPgogICAgICA8Y29udHJpYnV0b3JOYW1lPk15IFVuaXZlcnNpdHk8L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJSZWxhdGVkUGVyc29uIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5NZXp1LCBSb3NlIFU8L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgPC9jb250cmlidXRvcnM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAwOTwvZGF0ZT4KICA8L2RhdGVzPgogIDxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJDb2xsZWN0aW9uIj5UZXh0PC9yZXNvdXJjZVR5cGU+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVyaSI+aHR0cDovL2hkbC5oYW5kbGUubmV0LzExNjAzLzgzMTA8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHM+VGhpcyBpdGVtIGlzIG1hZGUgYXZhaWxhYmxlIGJ5IE1vcmdhbiBTdGF0ZSBVbml2ZXJzaXR5IGZvciBwZXJzb25hbCwgZWR1Y2F0aW9uYWwsIGFuZCByZXNlYXJjaCBwdXJwb3NlcyBpbiBhY2NvcmRhbmNlIHdpdGggVGl0bGUgMTcgb2YgdGhlIFUuUy4gQ29weXJpZ2h0IExhdy4gT3RoZXIgdXNlcyBtYXkgcmVxdWlyZSBwZXJtaXNzaW9uIGZyb20gdGhlIGNvcHlyaWdodCBvd25lci48L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5UaGlzIGlzIHN0dWR5IGF0dGVtcHRzIHRvIGV4YW1pbmUgd29tZW4ncyByZWFjdGlvbiB0byBwYXRyaWFyY2hhbCBwb3dlciBpbiB0aGUgc2VsZWN0ZWQgbm92ZWxzIG9mIE5ndWdpIFdhIFRoaW9uZydvLiBTcGVjaWZpY2FsbHksIHRoZSBzdHVkeSBhbmFseXNlcyBOZ3VnaSdzIFdlZXAgTm90LCBDaGlsZCwgVGhlIFJpdmVyIEJldHdlZW4sIEEgR3JhaW4gb2YgV2hlYXQsIFBldGFscyBvZiBCbG9vZCwgRGV2aWwgb24gdGhlIENyb3NzLCBhbmQgV2l6YXJkIG9mIHRoZSBDcm93IHdoaWxlIHBheWluZyBhdHRlbnRpb24gdG8gdmFyaW91cyBzdHJhdGVnaWVzIHdoaWNoIHdvbWVuIHVzZSB0byByZXNwb25kIHRvIHBhdHJpYXJjaHkuIEZpcnN0IGFuZCBmb3JlbW9zdCwgdGhpcyBzdHVkeSBlc3RhYmxpc2hlcyBhIHVuaXZlcnNhbCBjYW52YXMgb2YgcGF0cmlhcmNoeSwgaW4gb3JkZXIgdG8gc2hvdyBob3cgdGhpcyBwcm9ibGVtIGlzIGFuIGhpc3RvcmljYWwgc3R1bWJsaW5nIGJsb2NrIHRvIHdvbWVuJ3MgcHJvZ3Jlc3MgaW4gbW9zdCBjdWx0dXJlcywgd2hpbGUganVzdGlmeWluZyB0aGUgd2FyIHdoaWNoIHdvbWVuIHdhZ2UgYWdhaW5zdCB0aGlzIG1lbmFjZS4gTW9yZW92ZXIsIHRoZSBzdHVkeSBleHBvc2VzIHRoZSBwYXRyaWFyY2hhbCBjaGFsbGVuZ2VzIGFuZCBjb25zdHJhaW50cyB3aGljaCB3b21lbiBmYWNlIGluIGRlY29uc3RydWN0aW5nIHBhdHJpYXJjaHkgaW4gdGhlIGFmb3JlbWVudGlvbmVkIHdvcmtzLiBIb3dldmVyLCB0aGlzIHN0dWR5IGFyZ3VlcyB0aGF0IHRoZSBzdWNjZXNzIG9mIHdvbWVuJ3Mgc3RydWdnbGUgYWdhaW5zdCBwYXRyaWFyY2h5IHdpbGwgYmUgcG9zc2libGUgaWYgd29tZW4gdGFrZSB0aGUgaW5pdGlhdGl2ZSBhbmQgZXhwbG9yZSBzcGVjaWZpYyBzdHJhdGVnaWVzIHRvIGVtcG93ZXIgdGhlbXNlbHZlcyBzb2NpYWxseSwgcG9saXRpY2FsbHksIGFuZCBlY29ub21pY2FsbHkuIFNvbWUgb2YgdGhlc2Ugc3RyYXRlZ2llcyBpbmNsdWRlIGdvb2QgZWR1Y2F0aW9uLCBoYXJkIHdvcmssIHNvbGlkYXJpdHksIHByYWdtYXRpYyBvciB0ZW1wb3JhcnkgY29vcGVyYXRpb24sIHRhY3RpY2FsIHNpbGVuY2UsIGFuZCBzdWJ2ZXJzaW9uLiBUbyBleGFtaW5lIHdvbWVuJ3Mgc3RydWdnbGUgYWdhaW5zdCBwYXRyaWFyY2hhbCBwb3dlciBpbiBOZ3VnaSdzIG5vdmVscywgdGhpcyBzdHVkeSBlbXBsb3lzIHRoZW9yaWVzIG9mIGZlbWluaXN0cyBsaWtlIFZpcmdpbmlhIFdvb2xmLCBTaW1vbmUgZGUgQmVhdXZvaXIsIGFuZCBCZXR0eSBGcmVpZGFuIHdobyBhZHZvY2F0ZSB0b3RhbCBsaWJlcmF0aW9uIGFuZCBlbXBvd2VybWVudCBvZiBhIHdvbWFuLiBFcXVhbGx5LCB0aGUgaWRlYXMgb2YgcG93ZXIgYW5kIHN0cnVnZ2xlIGZyb20gd3JpdGVycyBzdWNoIGFzIE1heCBXZWJlciBhbmQgTWljaGVsIEZvdWNhdWx0IGFyZSBleHBsb3JlZCBpbiBvcmRlciB0byBwcm92aWRlIHRoZSBwYXJhZGlnbSBmb3Igd29tZW4ncyBzdHJ1Z2dsZSBpbiB0aGUgc29jaWV0eS4gVWx0aW1hdGVseSwgTmd1Z2kncyBub3ZlbHMgYXJndWUgdGhhdCBwYXRyaWFyY2h5IGlzIGJvdGggb3BwcmVzc2l2ZSBhbmQgcmV0cm9ncmVzc2l2ZSB0byB3b21lbiBhbmQgdGhlIHNvY2lldHksIGFuZCB0aGVyZWZvcmUgaXQgc2hvdWxkIGJlIGRpc2NvbnRpbnVlZC4gQXMgTmd1Z2kgc3VnZ2VzdHMsIHRoZSByZWNvZ25pdGlvbiBvZiBnZW5kZXIgZW1wb3dlcm1lbnQsIGVxdWl0eSwgYW5kIHBhcnRuZXJzaGlwIGlzIHRoZSBvbmx5IGZhaXIgYW5kIGVmZmVjdGl2ZSBtZXRob2Qgb2YgZW5zdXJpbmcgZGlzdHJpYnV0aW9uIG9mIHJlc291cmNlcyBpbiB0aGUgc29jaWV0eS4gSW5kZWVkLCBmb3IgdGhlIHByb2dyZXNzIG9mIHRoZSBzb2NpZXR5LCB0aGlzIHByaW5jaXBsZSBzaG91bGQgYmUgZ3VhcmRlZCBhdCBhbGwgY29zdCBieSBib3RoIG1lbiBhbmQgd29tZW4uPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "umd.lib",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "umd",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "collection",
+                "type": "resource-types"
+            }
+        }
+    }
+}

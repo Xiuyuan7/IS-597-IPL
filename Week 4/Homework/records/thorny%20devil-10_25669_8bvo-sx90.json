@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.25669/8bvo-sx90",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25669/8bvo-sx90",
+        "identifier": "https://doi.org/10.25669/8bvo-sx90",
+        "url": "https://digitalscholarship.unlv.edu/rtds/1265",
+        "author": [
+            {
+                "given": "Tommi Louise",
+                "family": "White"
+            }
+        ],
+        "title": "\"Holy dwarves\" and \"devil babies\":  An anthropological world-survey of stigmatization of the disabled",
+        "container-title": "University of Nevada, Las Vegas",
+        "description": null,
+        "resource-type-subtype": "thesis",
+        "data-center-id": "unlv.rtd",
+        "member-id": "unlv",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2001",
+        "registered": "2019-05-29T16:22:42.000Z",
+        "checked": null,
+        "updated": "2019-08-28T08:01:02.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjU2NjkvOEJWTy1TWDkwPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5XaGl0ZSwgVG9tbWkgTG91aXNlPC9jcmVhdG9yTmFtZT4KICAgICAgPGdpdmVuTmFtZT5Ub21taSBMb3Vpc2U8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWU+V2hpdGU8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPiJIb2x5IGR3YXJ2ZXMiIGFuZCAiZGV2aWwgYmFiaWVzIjogIEFuIGFudGhyb3BvbG9naWNhbCB3b3JsZC1zdXJ2ZXkgb2Ygc3RpZ21hdGl6YXRpb24gb2YgdGhlIGRpc2FibGVkPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlVuaXZlcnNpdHkgb2YgTmV2YWRhLCBMYXMgVmVnYXM8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMDE8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPnRoZXNpczwvcmVzb3VyY2VUeXBlPgogIDx2ZXJzaW9uLz4KPC9yZXNvdXJjZT4K"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "unlv.rtd",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "unlv",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

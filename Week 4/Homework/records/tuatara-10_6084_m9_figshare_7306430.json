@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.6084/m9.figshare.7306430",
+    "type": "works",
+    "attributes": {
+        "doi": "10.6084/m9.figshare.7306430",
+        "identifier": "https://doi.org/10.6084/m9.figshare.7306430",
+        "url": "https://figshare.com/articles/Comparison_among_three_body_parts_and_three_software_packages_to_optimise_photographic_identification_of_a_reptile_tuatara_Sphenodon_punctatus_supplementary_material/7306430",
+        "author": [
+            {
+                "given": "Ricardo De S\u00e1 Rocha",
+                "family": "Mello"
+            },
+            {
+                "given": "Scott",
+                "family": "Jarvie"
+            },
+            {
+                "given": "Lindsay",
+                "family": "Hazley"
+            },
+            {
+                "given": "Alison",
+                "family": "Cree"
+            }
+        ],
+        "title": "Comparison among three body parts and three software packages to optimise photographic identification of a reptile (tuatara, Sphenodon punctatus): supplementary material",
+        "container-title": "Figshare",
+        "description": "Individually identifying animals is key to ecological research. Natural\nmarks and patterns of animals that remain stable through time may be used to\nidentify individuals, either manually or with the aid of software. Here we\ncompare the performance of three body parts (chest, right side and right eye)\nfor individual identification of tuatara (<i>Sphenodon\npunctatus</i>) using three software packages (Wild-ID, I<sup>3</sup>S and\nStripeSpotter). We also explored pattern stability over time for the chest and\nright side, and whether the identification rate differed between life-history\nstages (adults and juveniles) for this long-lived reptile. We used photos of\n196 tuatara, including captive and free-roaming individuals. In an initial\nanalysis with a subset of individuals, chest and right side gave better\nidentification rates than the eye when analysed using Wild-ID (the\nbest-performing software). In a further analysis using all photos and Wild-ID,\nthe false rejection rate was lower for chest (0.6%) than right side (2.4%).\nAlthough the effect of time on matching scores for chest (up to 3.5 y) and\nright-side (up to 1.8 y) was significant, it was not large enough to reduce the\nmatching rate; furthermore, no difference in identification rate between adults\nand juveniles was detected. Overall, chest was the best-performing body part\nand Wild-ID the best-performing software. Thus, appropriate choice of body\npattern for analysis may significantly increase the matching rate, and, as\npreviously shown, software packages vary in performance.",
+        "resource-type-subtype": "Paper",
+        "data-center-id": "figshare.ars",
+        "member-id": "figshare",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-12-05T10:03:36.000Z",
+        "checked": null,
+        "updated": "2019-08-02T21:29:52.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC42MDg0L005LkZJR1NIQVJFLjczMDY0MzA8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5SaWNhcmRvIGRlIFPDoSBSb2NoYSBNZWxsbzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlNjb3R0IEphcnZpZTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkxpbmRzYXkgSGF6bGV5PC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+QWxpc29uIENyZWU8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5Db21wYXJpc29uIGFtb25nIHRocmVlIGJvZHkgcGFydHMgYW5kIHRocmVlIHNvZnR3YXJlIHBhY2thZ2VzIHRvIG9wdGltaXNlIHBob3RvZ3JhcGhpYyBpZGVudGlmaWNhdGlvbiBvZiBhIHJlcHRpbGUgKHR1YXRhcmEsIFNwaGVub2RvbiBwdW5jdGF0dXMpOiBzdXBwbGVtZW50YXJ5IG1hdGVyaWFsPC90aXRsZT4KICA8L3RpdGxlcz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkluZGl2aWR1YWxseSBpZGVudGlmeWluZyBhbmltYWxzIGlzIGtleSB0byBlY29sb2dpY2FsIHJlc2VhcmNoLiBOYXR1cmFsCm1hcmtzIGFuZCBwYXR0ZXJucyBvZiBhbmltYWxzIHRoYXQgcmVtYWluIHN0YWJsZSB0aHJvdWdoIHRpbWUgbWF5IGJlIHVzZWQgdG8KaWRlbnRpZnkgaW5kaXZpZHVhbHMsIGVpdGhlciBtYW51YWxseSBvciB3aXRoIHRoZSBhaWQgb2Ygc29mdHdhcmUuIEhlcmUgd2UKY29tcGFyZSB0aGUgcGVyZm9ybWFuY2Ugb2YgdGhyZWUgYm9keSBwYXJ0cyAoY2hlc3QsIHJpZ2h0IHNpZGUgYW5kIHJpZ2h0IGV5ZSkKZm9yIGluZGl2aWR1YWwgaWRlbnRpZmljYXRpb24gb2YgdHVhdGFyYSAoJmx0O2kmZ3Q7U3BoZW5vZG9uCnB1bmN0YXR1cyZsdDsvaSZndDspIHVzaW5nIHRocmVlIHNvZnR3YXJlIHBhY2thZ2VzIChXaWxkLUlELCBJJmx0O3N1cCZndDszJmx0Oy9zdXAmZ3Q7UyBhbmQKU3RyaXBlU3BvdHRlcikuIFdlIGFsc28gZXhwbG9yZWQgcGF0dGVybiBzdGFiaWxpdHkgb3ZlciB0aW1lIGZvciB0aGUgY2hlc3QgYW5kCnJpZ2h0IHNpZGUsIGFuZCB3aGV0aGVyIHRoZSBpZGVudGlmaWNhdGlvbiByYXRlIGRpZmZlcmVkIGJldHdlZW4gbGlmZS1oaXN0b3J5CnN0YWdlcyAoYWR1bHRzIGFuZCBqdXZlbmlsZXMpIGZvciB0aGlzIGxvbmctbGl2ZWQgcmVwdGlsZS4gV2UgdXNlZCBwaG90b3Mgb2YKMTk2IHR1YXRhcmEsIGluY2x1ZGluZyBjYXB0aXZlIGFuZCBmcmVlLXJvYW1pbmcgaW5kaXZpZHVhbHMuIEluIGFuIGluaXRpYWwKYW5hbHlzaXMgd2l0aCBhIHN1YnNldCBvZiBpbmRpdmlkdWFscywgY2hlc3QgYW5kIHJpZ2h0IHNpZGUgZ2F2ZSBiZXR0ZXIKaWRlbnRpZmljYXRpb24gcmF0ZXMgdGhhbiB0aGUgZXllIHdoZW4gYW5hbHlzZWQgdXNpbmcgV2lsZC1JRCAodGhlCmJlc3QtcGVyZm9ybWluZyBzb2Z0d2FyZSkuIEluIGEgZnVydGhlciBhbmFseXNpcyB1c2luZyBhbGwgcGhvdG9zIGFuZCBXaWxkLUlELAp0aGUgZmFsc2UgcmVqZWN0aW9uIHJhdGUgd2FzIGxvd2VyIGZvciBjaGVzdCAoMC42JSkgdGhhbiByaWdodCBzaWRlICgyLjQlKS4KQWx0aG91Z2ggdGhlIGVmZmVjdCBvZiB0aW1lIG9uIG1hdGNoaW5nIHNjb3JlcyBmb3IgY2hlc3QgKHVwIHRvIDMuNSB5KSBhbmQKcmlnaHQtc2lkZSAodXAgdG8gMS44IHkpIHdhcyBzaWduaWZpY2FudCwgaXQgd2FzIG5vdCBsYXJnZSBlbm91Z2ggdG8gcmVkdWNlIHRoZQptYXRjaGluZyByYXRlOyBmdXJ0aGVybW9yZSwgbm8gZGlmZmVyZW5jZSBpbiBpZGVudGlmaWNhdGlvbiByYXRlIGJldHdlZW4gYWR1bHRzCmFuZCBqdXZlbmlsZXMgd2FzIGRldGVjdGVkLiBPdmVyYWxsLCBjaGVzdCB3YXMgdGhlIGJlc3QtcGVyZm9ybWluZyBib2R5IHBhcnQKYW5kIFdpbGQtSUQgdGhlIGJlc3QtcGVyZm9ybWluZyBzb2Z0d2FyZS4gVGh1cywgYXBwcm9wcmlhdGUgY2hvaWNlIG9mIGJvZHkKcGF0dGVybiBmb3IgYW5hbHlzaXMgbWF5IHNpZ25pZmljYW50bHkgaW5jcmVhc2UgdGhlIG1hdGNoaW5nIHJhdGUsIGFuZCwgYXMKcHJldmlvdXNseSBzaG93biwgc29mdHdhcmUgcGFja2FnZXMgdmFyeSBpbiBwZXJmb3JtYW5jZS48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0IHNjaGVtZVVSST0iaHR0cDovL3d3dy5hYnMuZ292LmF1L2F1c3N0YXRzL2Fic0AubnNmLzAvNkJCNDI3QUI5Njk2QzIyNUNBMjU3NDE4MDAwNDQ2M0UiIHN1YmplY3RTY2hlbWU9IkZPUiI+NjAyOTkgRWNvbG9neSBub3QgZWxzZXdoZXJlIGNsYXNzaWZpZWQ8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8cHVibGlzaGVyPkZpZ3NoYXJlPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE4PC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkNyZWF0ZWQiPjIwMTgtMTEtMDc8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOC0xMi0wNTwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+UGFwZXI8L3Jlc291cmNlVHlwZT4KICA8c2l6ZXM+CiAgICA8c2l6ZT44NTk1OTUgQnl0ZXM8L3NpemU+CiAgPC9zaXplcz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzU3VwcGxlbWVudFRvIj4xMC4xMTYzLzE1Njg1MzgxLTIwMTgxMDU5PC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLyI+Q0MgQlkgNC4wPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.ars",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

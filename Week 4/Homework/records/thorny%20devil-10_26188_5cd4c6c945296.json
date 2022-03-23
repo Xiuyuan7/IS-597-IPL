@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.26188/5cd4c6c945296",
+    "type": "works",
+    "attributes": {
+        "doi": "10.26188/5cd4c6c945296",
+        "identifier": "https://doi.org/10.26188/5cd4c6c945296",
+        "url": "https://melbourne.figshare.com/articles/UniMelb_Thylacine_Refassem_1_fasta/8104967",
+        "author": [
+            {
+                "literal": "CHARLES FEIGIN"
+            }
+        ],
+        "title": "UniMelb_Thylacine_Refassem_1.fasta",
+        "container-title": "Figshare",
+        "description": "Reference-guided assembly of the Tasmanian tiger a.k.a. thylacine (Thylacinus cynocephalus) against the genome assembly of the Tasmanian devil (Sarcophilus harrisii; Assembly: GCA_000189315.1 Devil_ref v7.0). From publication PMID: 29230027.",
+        "resource-type-subtype": "Dataset",
+        "data-center-id": "ands.centre49",
+        "member-id": "ands",
+        "resource-type-id": "collection",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-05-10T00:33:16.000Z",
+        "checked": null,
+        "updated": "2019-09-18T17:31:44.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4yNjE4OC81Q0Q0QzZDOTQ1Mjk2PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Q0hBUkxFUyBGRUlHSU48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5VbmlNZWxiX1RoeWxhY2luZV9SZWZhc3NlbV8xLmZhc3RhPC90aXRsZT4KICA8L3RpdGxlcz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlJlZmVyZW5jZS1ndWlkZWQgYXNzZW1ibHkgb2YgdGhlIFRhc21hbmlhbiB0aWdlciBhLmsuYS4gdGh5bGFjaW5lIChUaHlsYWNpbnVzIGN5bm9jZXBoYWx1cykgYWdhaW5zdCB0aGUgZ2Vub21lIGFzc2VtYmx5IG9mIHRoZSBUYXNtYW5pYW4gZGV2aWwgKFNhcmNvcGhpbHVzIGhhcnJpc2lpOyBBc3NlbWJseTogR0NBXzAwMDE4OTMxNS4xIERldmlsX3JlZiB2Ny4wKS4gRnJvbSBwdWJsaWNhdGlvbiBQTUlEOiAyOTIzMDAyNy48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0IHNjaGVtZVVSST0iaHR0cDovL3d3dy5hYnMuZ292LmF1L2F1c3N0YXRzL2Fic0AubnNmLzAvNkJCNDI3QUI5Njk2QzIyNUNBMjU3NDE4MDAwNDQ2M0UiIHN1YmplY3RTY2hlbWU9IkZPUiI+NjA0MDggR2Vub21pY3M8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8cHVibGlzaGVyPkZpZ3NoYXJlPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkNyZWF0ZWQiPjIwMTktMDUtMDk8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOS0wNS0xMDwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iQ29sbGVjdGlvbiI+RGF0YXNldDwvcmVzb3VyY2VUeXBlPgogIDxzaXplcz4KICAgIDxzaXplPjMxNDc5MDY0NzQgQnl0ZXM8L3NpemU+CiAgPC9zaXplcz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLyI+Q0MgQlkgNC4wPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ands.centre49",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ands",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "collection",
+                "type": "resource-types"
+            }
+        }
+    }
+}

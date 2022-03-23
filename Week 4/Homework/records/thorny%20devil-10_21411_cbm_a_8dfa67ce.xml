@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.21411/CBM.A.8DFA67CE</identifier>
+  <creators>
+    <creator>
+      <creatorName>GIOVOS, Ioannis</creatorName>
+    </creator>
+    <creator>
+      <creatorName>KLEITOU, Periklis</creatorName>
+    </creator>
+    <creator>
+      <creatorName>PARAVAS, Vangelis</creatorName>
+    </creator>
+    <creator>
+      <creatorName>MARMARA, Dimitra</creatorName>
+    </creator>
+    <creator>
+      <creatorName>ROMANIDIS-KYRIAKIDIS, Georgios</creatorName>
+    </creator>
+    <creator>
+      <creatorName>POURSANIDIS, Dimitris</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Citizen scientists monitoring the establishment and expansion of Pterois miles (Bennett, 1828) in the Aegean Sea, Greece</title>
+  </titles>
+  <publisher>Station Biologique de Roscoff (SBR)</publisher>
+  <publicationYear>2018</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">The introduction of the lionfish in the western Atlantic has been considered as one of the world's most detrimental invasions. However, in the Mediterranean Sea, the devil firefish Pterois miles (Bennett, 1828) long after its first record in 1991, has only recently shown a rapid expansion. Citizen scientists have played a significant role in reporting the presence and monitoring the expansion of several invasive species around the world. In 2016 the environmental non- governmental Greek organisation "iSea", initiated the citizen science project "Is it alien to you&#x2026;Share it", for the monitoring of alien species in the Greek waters. Between May 2016-Septeber 2017, 37 records of the devil firefish have been reported, documenting the establishment and a northward expansion of the species in the Mediterranean. We discuss the importance of citizen scientists in the collection of information regarding invasive species and the potential of suggested conservation measures.</description>
+  </descriptions>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="ISSN" relationType="IsPartOf">2262-3094</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.21411/CBM.I.25AD91B1</relatedIdentifier>
+  </relatedIdentifiers>
+</resource>

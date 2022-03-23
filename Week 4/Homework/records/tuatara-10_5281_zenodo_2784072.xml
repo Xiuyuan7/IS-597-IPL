@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/ZENODO.2784072</identifier>
+  <creators>
+    <creator>
+      <creatorName>Osborn, Henry Fairfield</creatorName>
+      <givenName>Henry Fairfield</givenName>
+      <familyName>Osborn</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Crania of Tyrannosaurus and Allosaurus</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>1912</publicationYear>
+  <subjects>
+    <subject>Biodiversity</subject>
+    <subject>Taxonomy</subject>
+    <subject>Animalia</subject>
+    <subject>Chordata</subject>
+    <subject>Reptilia</subject>
+    <subject>Dinosauria</subject>
+    <subject>Tyrannosauridae</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">1912-12-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Journal article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="lsid">urn:lsid:plazi.org:pub:6016FFB3D531FFED1936FFD6FFA2FFE0</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/2784073</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/9C2F87CBD538FFCB1DC6FD00F5DAF90A</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/9C2F87CBD517FFC51DA6F89AFD02F2FB</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784075</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:3-537-3505-418-2654</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784075</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784077</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:4-862-2684-694-2018</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784077</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784079</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:11-776-2283-769-3258</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784079</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784081</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:12-1108-2192-1037-2384</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784081</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784083</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:16-683-2378-825-1744</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784083</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784085</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:16-1101-1996-2165-3114</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784085</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784087</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:17-748-2589-1851-3280</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784087</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784089</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:19-901-2188-1532-3496</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784089</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784091</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:21-647-2425-983-2730</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784091</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784093</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:22-834-2395-1173-2904</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784093</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784095</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:23-674-2394-664-3282</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784095</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784097</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:25-469-2715-649-3386</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784097</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784099</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:26-445-2711-604-3357</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784099</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784101</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:28-965-2205-646-1855</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784101</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784103</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:28-1074-2126-2180-3518</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784103</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784105</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:29-971-2131-665-1864</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784105</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784107</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:29-791-2352-2204-3314</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784107</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784109</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:30-527-2674-835-1580</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784109</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784111</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:30-1267-1960-2226-3016</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784111</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784113</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:31-579-2539-2045-3370</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784113</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784115</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:32-2078-2600-822-2690</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784115</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784117</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:33-673-2420-841-2022</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784117</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784119</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:33-1247-1903-2643-3249</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784119</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784121</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:34-905-2366-999-1667</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784121</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784123</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:34-1120-2147-2363-2944</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784123</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784125</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:36-934-2359-779-1865</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784125</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784127</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:36-914-2303-2223-3396</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784127</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784129</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:37-559-1049-1848-3315</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784129</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784131</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:39-624-2442-629-1907</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784131</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784133</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:39-856-2214-2086-2841</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784133</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.2784135</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:39-750-2327-3062-3640</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/2784135</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasVersion">10.5281/zenodo.2784073</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsPartOf">https://zenodo.org/communities/biosyslit</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International</rights>
+    <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Osborn, Henry Fairfield (1912): Crania of Tyrannosaurus and Allosaurus. Memoirs of the American museum of Natural History 1: 1-30, DOI: 10.5281/zenodo.2784073</description>
+    <description descriptionType="Other">{"references": ["DENDY, ARTHUR. 1911 . On the Structure, Development and Morphological Interpretation of the Pineal Organs and Adjacent Parts of the Brain in the Tuatara (Sphertodon punctatus). Philos. Trans. Roy. Soc. London, Ser. B, Vol. CCI, 1911 , pp. 227-331 .", "GAUPP, E . 1911 . Beitrage zur Kenntnis des Unterkiefers der Wirbeltiere. Anat. Anz., Bd. 39, pp. 97-135 .", "Hay, O. P. 1908. On Certain Genera and Species of Carnivorous Dinosaurs, with Special Reference to Ceratosaurus nasicornis Marsh. Proc. U. S. Nat. Mus., Vol. XXV, 1908, pp. 351-366.", "1909. On the Skull and the Brain of Triceratops, with Notes on the Brain-Cases of Iguanodon and Megalosaurus. Pres. U. S. Nat. M119 Vel. XXXVI, Feb. e, 1939, 95-103..", "VON HUENE, F. 1906 U Ueber eber das das I-Iinterhaupt l-linternaupt V von011 Ivlegalosaurus lvlegaiosaurus Bucklandi UUCKIBJIGI aus Stonesiield Stonesneld. . Neues Jahrb. f. Min., Geol. u. Pal., Jahrg. 1906, I. Bd, pp. 1-12.", "1907-'08. Die Dinosaurier der Europaischen Triasformation mit Berucksichtigung der Aussereuropaischen Vorkom- mnisse. Geolog. u. Pal. Abhandl., Suppl-Band I., Lief. 1 , 1907, pp. 3-64 ; Lief. 5_. 1908, pp. 273-344 ; Lief. 6, 1908, pp. 345-419, iii-xii.", "1910. Ein Ganzes Tylosaurus-Skelett. Geol. u. Pal. Abh. (E. Koken.) n. f. , Bd. VIII, Heft 6, pp. 14-15, 20-21", "LAMBE, LAWRENCE M. 1903 . The Lower Jaw of Dryptosaurus incraesatus (Cope) . The Ottawa Naturalist, Vol. XVII, 1903, pp. 133-139.", "1904. On Dryptosaurus incrassatus (Cope) , from the Edmonton Series of the North West Territory. Geol. Sure. Can., Comtr. to Canadian Paleontology, Vol. III (4to) , pt. 3, 1904, pp. 1 -27, pll. i-viii", "MCGREGOR, J. H. 1906. The Phytosauria, with Especial Reference to Mystriosuchus and Rhytidodon. Mem. Amer. Mus. Nat. Hist. , 'T I TV 1 I: 1 flflR 0fl__1flfl 'Il : : 01. n v V LA , pl.. u , xauu , pp. Av-iuu, pu. u_u .", "OSBORN, H. F. 1903 . The skull of Creosaurus . Bull. Amer. Mus. Nat. Hist., Vol. XIX, 1903, pp. 697-701", "1905. Tyrannosaurus and Other Cretaceous Carnivorous Dinosaurs. Bull. Amer. Mus. Nat. Hist. , Vol. XXI, 1905, pp. 259-265.", "1906. Tyrannosaurus, Upper Cretaceous Carnivorous Dinosaur (Second communication) . Bull. Amer. Mus. Nat. Hist., Vol. XXII, 1906, PP- 281-296, pl. xxxix.", "WILLISTON, S. W. 1903 . Some Osteological Terms. Science, n. s. , Vol. XVIII, 1903, pp. 829-830."]}</description>
+  </descriptions>
+</resource>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25911/5D89F11799239</identifier>
+  <creators>
+    <creator>
+      <creatorName>Johns, Sophie</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Modelling host evolutionary responses to infection</title>
+  </titles>
+  <publisher>The Australian National University</publisher>
+  <publicationYear>2019</publicationYear>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>The Australian National University</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>The Australian National University</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2019-09-15</date>
+    <date dateType="Available">2019-09-15</date>
+    <date dateType="Issued">2019</date>
+  </dates>
+  <language>en-AU</language>
+  <resourceType resourceTypeGeneral="Other">Thesis (MPhil)</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="uri">http://hdl.handle.net/1885/169649</alternateIdentifier>
+  </alternateIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">Infectious diseases are pervasive, producing strong evolutionary pressure on their hosts. Often epidemiological models focus on pathogen evolution because they have short lifespans relative to their hosts. However, pathogens also impose strong selective pressure on their hosts. With prolonged exposure to pathogens host populations adapt to pathogen's selection pressure. Host evolution could occur in a variety of ways - from minimising infection costs to disease avoidance. In this thesis I present two theoretical models that examine optimal host evolutionary responses to infectious diseases. Chapter 1 explores how sexually transmitted infections shape female reproductive investment and, in turn, alters selection on males for infection resistance. I discuss the conditions required for female terminal investment to be favorable, and in populations where females terminally invest, I then consider the ramifications for selection on male immune resistance, since infecting their mate has a reproductive advantage. In the second chapter I look at the effect of devil facial tumour disease on Tasmanian devils. Specifically, I explore the conditions required for devils to evolve passive behavior to avoid infection. I highlight that this evolution could occur on an ecological timescale, potentially preventing devil extinction.</description>
+  </descriptions>
+</resource>

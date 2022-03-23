@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.4225/49/5a08cd8d05224",
+    "type": "works",
+    "attributes": {
+        "doi": "10.4225/49/5a08cd8d05224",
+        "identifier": "https://doi.org/10.4225/49/5a08cd8d05224",
+        "url": "https://melbourne.figshare.com/articles/Supplementary_Table_9/5593558",
+        "author": [
+            {
+                "given": "Charles",
+                "family": "Feigin"
+            }
+        ],
+        "title": "Supplementary Table 9",
+        "container-title": "Figshare",
+        "description": "Ensemble gene IDs of Tasmanian devil reference genes and vertebrate orthologs",
+        "resource-type-subtype": "Dataset",
+        "data-center-id": "ands.centre49",
+        "member-id": "ands",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-11-12T22:39:13.000Z",
+        "checked": null,
+        "updated": "2019-09-09T06:32:11.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC40MjI1LzQ5LzVBMDhDRDhEMDUyMjQ8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5DaGFybGVzIEZlaWdpbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPlN1cHBsZW1lbnRhcnkgVGFibGUgOTwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5FbnNlbWJsZSBnZW5lIElEcyBvZiBUYXNtYW5pYW4gZGV2aWwgcmVmZXJlbmNlIGdlbmVzIGFuZCB2ZXJ0ZWJyYXRlIG9ydGhvbG9nczwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Qgc2NoZW1lVVJJPSJodHRwOi8vd3d3LmFicy5nb3YuYXUvYXVzc3RhdHMvYWJzQC5uc2YvMC82QkI0MjdBQjk2OTZDMjI1Q0EyNTc0MTgwMDA0NDYzRSIgc3ViamVjdFNjaGVtZT0iRk9SIj42MDMwNSBFdm9sdXRpb24gb2YgRGV2ZWxvcG1lbnRhbCBTeXN0ZW1zPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPHB1Ymxpc2hlcj5GaWdzaGFyZTwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxNzwvcHVibGljYXRpb25ZZWFyPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJDcmVhdGVkIj4yMDE3LTExLTEyPC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTctMTEtMTI8L2RhdGU+CiAgPC9kYXRlcz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiPkRhdGFzZXQ8L3Jlc291cmNlVHlwZT4KICA8c2l6ZXM+CiAgICA8c2l6ZT4yNzU0NjU1IEJ5dGVzPC9zaXplPgogIDwvc2l6ZXM+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzQuMC8iPkNDIEJZIDQuMDwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ands.centre49",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ands",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+ <identifier identifierType="DOI">10.15166/2499-8249/189</identifier>
+ <alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="URI">http://www.europeanpapers.eu/en/e-journal/comments-on-draft-treaty-on-democratization-of-governance-of-euro-area</alternateIdentifier>
+ </alternateIdentifiers>
+ <creators>
+  <creator>
+   <creatorName nameType="Personal">Joerges, Christian</creatorName>
+   <givenName>Christian</givenName>
+   <familyName>Joerges</familyName>
+   <affiliation>Hertie School of Governance Berlin</affiliation>
+   <affiliation>Centre for European Law and Politics, Bremen</affiliation>
+  </creator>
+ </creators>
+ <titles>
+  <title xml:lang="eng">Comments on the Draft Treaty on the Democratization of the Governance of the Euro Area</title>
+ </titles>
+ <publisher>European Papers (www.europeanpapers.eu)</publisher>
+ <publicationYear>2018</publicationYear>
+ <subjects>
+  <subject xml:lang="eng">conditionality</subject>
+  <subject xml:lang="eng">emergency</subject>
+  <subject xml:lang="eng">technocracy</subject>
+  <subject xml:lang="eng">economic cultures</subject>
+  <subject xml:lang="eng">social acquis</subject>
+  <subject xml:lang="eng">democratic politicisation</subject>
+ </subjects>
+ <contributors>
+  <contributor contributorType="HostingInstitution">
+   <contributorName>Research Centre for European Law, Unitelma Sapienza - University of Rome</contributorName>
+  </contributor>
+ </contributors>
+ <language>eng</language>
+ <resourceType resourceTypeGeneral="Text">Overview</resourceType>
+ <formats>
+  <format>text/html</format>
+  <format>PDF</format>
+ </formats>
+ <rightsList>
+  <rights rightsURI="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</rights>
+ </rightsList>
+ <descriptions>
+  <description descriptionType="SeriesInformation">European Papers, Vol. 3, 2018, No 1, www.europeanpapers.eu, pp. 75-81, ISSN 2499-8249</description>
+  <description descriptionType="TableOfContents">I. The main concerns of the T-Dem initiative. – II. Europe in troubled waters. More Europe the solution? – III. No alternative?.</description>
+  <description descriptionType="Abstract">With the benefit of hindsight, the multifaceted dimension and the since long creeping causes of Europe’s constitutional misery are ever better explored. A rhapsody of well-minded proposals from the many quarters of European studies is available, and economists are providing us with recipes out of their technocratic toolkit. It is not by chance that lawyers seem un-able to act likewise after the deep transformations of Europe’s constitutional constellation which European crisis politics has brought about and have been legalised by the Court of Justice in Pringle and Gauweiler. Even those among us who find these developments outrageous simply do not know how to defend the law’s integrity. Precisely because of this background, my initial intuition after becoming aware of the Draft Treaty on the Democratization of the Governance of the Euro was an irritated che furbizia: they operate beyond European legal frames. Are they casting out the devil by Beelzebub? They are doing something else. The plea for a Draft Treaty on Democratization is much more than an exercise in elegant craftiness. In the following, I will underline three aspects: (I) the very clear and well-founded rejection of the present state of the Union; (II) the validity of the critique of Europe’s supposed post-crisis “normalcy”; (III) the convergence of the multidisciplinary reasoning of the proposal with recent endeavours to re-write the political philosophy of the European Union; and (IV) the challenges of socio-economic divergence and the discrepancies of economic cultures within the Eurozone and the EU more generally.</description>
+ </descriptions>
+</resource>

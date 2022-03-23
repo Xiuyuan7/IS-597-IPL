@@ -1,0 +1,69 @@
+{
+    "id": "https://doi.org/10.5061/dryad.s77dk4v/3",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5061/dryad.s77dk4v/3",
+        "identifier": "https://doi.org/10.5061/dryad.s77dk4v/3",
+        "url": "https://datadryad.org/resource/doi:10.5061/dryad.s77dk4v/3",
+        "author": [
+            {
+                "given": "Calum",
+                "family": "Cunningham"
+            },
+            {
+                "given": "Vincent",
+                "family": "Scoleri"
+            },
+            {
+                "given": "Christopher",
+                "family": "Johnson"
+            },
+            {
+                "given": "Leon",
+                "family": "Barmuta"
+            },
+            {
+                "given": "Menna",
+                "family": "Jones"
+            }
+        ],
+        "title": "Changes in Tasmanian devil temporal activity following population decline",
+        "container-title": "Dryad Digital Repository",
+        "description": "Changes in Tasmanian devil temporal activity following severe population declines.Camera data was analysed using a GAM to produce Fig 3A of our paper in Ecography. Tasmanian devil records at each site were binned into the nearest hourly bin i.e. there was a total of 24 bins. We then calculated the proportion of total activity in each hour of the day for each site. See paper for details.",
+        "resource-type-subtype": "DataFile",
+        "data-center-id": "dryad.dryad",
+        "member-id": "dryad",
+        "resource-type-id": "dataset",
+        "version": "1",
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-09-06T15:00:55.000Z",
+        "checked": null,
+        "updated": "2019-09-06T15:01:01.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHJ5YWQ9Imh0dHA6Ly9wdXJsLm9yZy9kcnlhZC90ZXJtcy8iIHhtbG5zOmRpbT0iaHR0cDovL3d3dy5kc3BhY2Uub3JnL3htbG5zL2RzcGFjZS9kaW0iIHhtbG5zOmRzcGFjZT0iaHR0cDovL3d3dy5kc3BhY2Uub3JnL3htbG5zL2RzcGFjZS9kaW0iIHhtbG5zOm1ldHM9Imh0dHA6Ly93d3cubG9jLmdvdi9NRVRTLyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTA2MS9EUllBRC5TNzdESzRWLzM8L2lkZW50aWZpZXI+CiAgPHZlcnNpb24+MTwvdmVyc2lvbj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkN1bm5pbmdoYW0sIENhbHVtPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U2NvbGVyaSwgVmluY2VudDwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkpvaG5zb24sIENocmlzdG9waGVyPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+QmFybXV0YSwgTGVvbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkpvbmVzLCBNZW5uYTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkNoYW5nZXMgaW4gVGFzbWFuaWFuIGRldmlsIHRlbXBvcmFsIGFjdGl2aXR5IGZvbGxvd2luZyBwb3B1bGF0aW9uIGRlY2xpbmU8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+RHJ5YWQgRGlnaXRhbCBSZXBvc2l0b3J5PC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+bWVzb3ByZWRhdG9yIHJlbGVhc2U8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5wcmVkYXRvci1wcmV5PC9zdWJqZWN0PgogICAgPHN1YmplY3Q+dGVtcG9yYWwgcGFydGl0aW9uaW5nIG9mIGFjdGl2aXR5PC9zdWJqZWN0PgogICAgPHN1YmplY3Q+YXBleCBwcmVkYXRvcjwvc3ViamVjdD4KICAgIDxzdWJqZWN0PnRyb3BoaWMgY2FzY2FkZTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlRhc21hbmlhPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+QXVzdHJhbGlhPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+U2FyY29waGlsdXMgaGFycmlzaWk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5EYXN5dXJ1cyBtYWN1bGF0dXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5GZWxpcyBjYXR1czwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlRoeWxvZ2FsZSBiaWxsYXJkaWVyaWk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5NYWNyb3B1cyBydWZvZ3Jpc2V1czwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlZvbWJhdHVzIHVyc2ludXM8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQWNjZXB0ZWQiPjIwMTktMDktMDY8L2RhdGU+CiAgPC9kYXRlcz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiPkRhdGFGaWxlPC9yZXNvdXJjZVR5cGU+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGlvblR5cGU9IklzUGFydE9mIiByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTA2MS9EUllBRC5TNzdESzRWPC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8c2l6ZXM+CiAgICA8c2l6ZT41NjAxNyBieXRlczwvc2l6ZT4KICA8L3NpemVzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cz5BdCB0aGUgcmVxdWVzdCBvZiB0aGUgYXV0aG9yLCB0aGlzIGl0ZW0gaXMgZW1iYXJnb2VkIHVudGlsIHRoZSBhc3NvY2lhdGVkIGFydGljbGUgaXMgcHVibGlzaGVkLjwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPkNoYW5nZXMgaW4gVGFzbWFuaWFuIGRldmlsIHRlbXBvcmFsIGFjdGl2aXR5IGZvbGxvd2luZyBzZXZlcmUgcG9wdWxhdGlvbiBkZWNsaW5lcy5DYW1lcmEgZGF0YSB3YXMgYW5hbHlzZWQgdXNpbmcgYSBHQU0gdG8gcHJvZHVjZSBGaWcgM0Egb2Ygb3VyIHBhcGVyIGluIEVjb2dyYXBoeS4gVGFzbWFuaWFuIGRldmlsIHJlY29yZHMgYXQgZWFjaCBzaXRlIHdlcmUgYmlubmVkIGludG8gdGhlIG5lYXJlc3QgaG91cmx5IGJpbiBpLmUuIHRoZXJlIHdhcyBhIHRvdGFsIG9mIDI0IGJpbnMuIFdlIHRoZW4gY2FsY3VsYXRlZCB0aGUgcHJvcG9ydGlvbiBvZiB0b3RhbCBhY3Rpdml0eSBpbiBlYWNoIGhvdXIgb2YgdGhlIGRheSBmb3IgZWFjaCBzaXRlLiBTZWUgcGFwZXIgZm9yIGRldGFpbHMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "dryad.dryad",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "dryad",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

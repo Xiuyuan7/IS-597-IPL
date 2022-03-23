@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.14288/1.0381000</identifier>
+  <creators>
+    <creator>
+      <creatorName>Stooshnov, Kyle John</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The virtual renaissance : self-consciousness through literacy/technology</title>
+  </titles>
+  <publisher>University of British Columbia</publisher>
+  <publicationYear>2019</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+  <language>en</language>
+  <version>1</version>
+  <descriptions>
+    <description descriptionType="Abstract">A dialogue often consists of two opposing ideas, either spoken or written, that attempt to find a resolution in the exchange of ideas. The prefix ‘dia-’ has the dual meaning of separating and joining together with a sense of completeness. From Socratic philosophic treatises to superheroes outmaneuvering their archenemies in blockbuster movies, one speaker depends on the other to test their mettle and strengthen their point of view. Literacy practice within twenty-first century education requires a dialogue between two seemingly opposite viewpoints: the traditional print literacy and digital technology. Historically, print literacy was as disruptive to society as its digital counterpart, yet such literacy became normalized by the mid-sixteenth century, across Europe and beyond, creating a Renaissance that would become a model for education over the following centuries. Some voices on the side of traditional literacy see current technological development as a continuation of the disruptions caused by widespread dissemination of the printed word. Other voices cry out that smartphones need to be banned from classrooms, the Internet needs to be regulated, and children’s overdependence on digital tools has robbed them of creativity or higher cognitive functions.  This thesis creates a dialogue between print literacy and digital technology by inquiring into the English Renaissance and a proposed Virtual Renaissance. Through the arts-based methodologies of fiction-based research and research-based theatre, this thesis creates a dialogue between two characters, each representing an aspect of the time and place from where they belong. John Webster is an English playwright living in London during the Renaissance. Two of his most popular plays, The White Devil and The Duchess of Malfi, were staged by leading Jacobean actors in such playhouse as the Red Bull, the Globe and Blackfriars. His dialogue partner is a Canadian researcher from the mid-twenty-first century, Nathan Plettner, whose familiarity with digital devices and computer-generated avatars allows him to interact with historical figures such as John through a process called retroprojection. His inquiry into theatre practices and their relationship with a virtual stage seeks a synthesis between both practices, listening to both the voices of the past and hopes for the future.</description>
+  </descriptions>
+</resource>

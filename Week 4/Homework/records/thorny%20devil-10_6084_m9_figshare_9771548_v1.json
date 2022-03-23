@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.6084/m9.figshare.9771548.v1",
+    "type": "works",
+    "attributes": {
+        "doi": "10.6084/m9.figshare.9771548.v1",
+        "identifier": "https://doi.org/10.6084/m9.figshare.9771548.v1",
+        "url": "https://figshare.com/articles/Opportunities_for_Intra-institutional_Linked_Open_Data_-_Towards_a_Campus_Knowledge_Graph/9771548/1",
+        "author": [
+            {
+                "given": "Don",
+                "family": "Elsborg"
+            },
+            {
+                "given": "Alex",
+                "family": "Viggio"
+            }
+        ],
+        "title": "Opportunities for Intra-institutional Linked Open Data - Towards a Campus Knowledge Graph",
+        "container-title": "figshare",
+        "description": "While Linked Open Data promised automatic and obvious connections between structured data, interoperability remains a thorny social, not technical, issue. It is essentially an information model that relies on the removal of silos and requires interdepartmental collaboration. An intra-university knowledge graph operationalizes the network of relationships on which innovation is built. We are proposing to develop a Linked Open Data prototype that creates and surfaces relationships between the people, publications, and other high level metadata residing within the CU Experts semantic web application with departmental domain specific metadata sites which contain datasets, equipment, or observable phenomena? The problem space is very large and domains within campus currently have structured and unstructured metadata. In order to achieve a goal that demonstrates the value of having these cross departmental relationships, this project is scoped to work a specific institute within our University which already has domain specific metadata in space sciences. We want to demonstrate, using metadata, how CU Boulder was involved with sending a spacecraft to every planet in the solar system.",
+        "resource-type-subtype": "Poster",
+        "data-center-id": "figshare.ars",
+        "member-id": "figshare",
+        "resource-type-id": "image",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-09-05T07:48:01.000Z",
+        "checked": null,
+        "updated": "2019-09-05T07:48:01.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC42MDg0L005LkZJR1NIQVJFLjk3NzE1NDguVjE8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Eb24gRWxzYm9yZzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkFsZXggVmlnZ2lvPC9jcmVhdG9yTmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCIgc2NoZW1lVVJJPSJodHRwOi8vb3JjaWQub3JnIj4wMDAwLTAwMDItOTk4My0xMzI3PC9uYW1lSWRlbnRpZmllcj4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+T3Bwb3J0dW5pdGllcyBmb3IgSW50cmEtaW5zdGl0dXRpb25hbCBMaW5rZWQgT3BlbiBEYXRhIC0gVG93YXJkcyBhIENhbXB1cyBLbm93bGVkZ2UgR3JhcGg8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+V2hpbGUgTGlua2VkIE9wZW4gRGF0YSBwcm9taXNlZCBhdXRvbWF0aWMgYW5kIG9idmlvdXMgY29ubmVjdGlvbnMgYmV0d2VlbiBzdHJ1Y3R1cmVkIGRhdGEsIGludGVyb3BlcmFiaWxpdHkgcmVtYWlucyBhIHRob3JueSBzb2NpYWwsIG5vdCB0ZWNobmljYWwsIGlzc3VlLiBJdCBpcyBlc3NlbnRpYWxseSBhbiBpbmZvcm1hdGlvbiBtb2RlbCB0aGF0IHJlbGllcyBvbiB0aGUgcmVtb3ZhbCBvZiBzaWxvcyBhbmQgcmVxdWlyZXMgaW50ZXJkZXBhcnRtZW50YWwgY29sbGFib3JhdGlvbi4gQW4gaW50cmEtdW5pdmVyc2l0eSBrbm93bGVkZ2UgZ3JhcGggb3BlcmF0aW9uYWxpemVzIHRoZSBuZXR3b3JrIG9mIHJlbGF0aW9uc2hpcHMgb24gd2hpY2ggaW5ub3ZhdGlvbiBpcyBidWlsdC4gV2UgYXJlIHByb3Bvc2luZyB0byBkZXZlbG9wIGEgTGlua2VkIE9wZW4gRGF0YSBwcm90b3R5cGUgdGhhdCBjcmVhdGVzIGFuZCBzdXJmYWNlcyByZWxhdGlvbnNoaXBzIGJldHdlZW4gdGhlIHBlb3BsZSwgcHVibGljYXRpb25zLCBhbmQgb3RoZXIgaGlnaCBsZXZlbCBtZXRhZGF0YSByZXNpZGluZyB3aXRoaW4gdGhlIENVIEV4cGVydHMgc2VtYW50aWMgd2ViIGFwcGxpY2F0aW9uIHdpdGggZGVwYXJ0bWVudGFsIGRvbWFpbiBzcGVjaWZpYyBtZXRhZGF0YSBzaXRlcyB3aGljaCBjb250YWluIGRhdGFzZXRzLCBlcXVpcG1lbnQsIG9yIG9ic2VydmFibGUgcGhlbm9tZW5hPyBUaGUgcHJvYmxlbSBzcGFjZSBpcyB2ZXJ5IGxhcmdlIGFuZCBkb21haW5zIHdpdGhpbiBjYW1wdXMgY3VycmVudGx5IGhhdmUgc3RydWN0dXJlZCBhbmQgdW5zdHJ1Y3R1cmVkIG1ldGFkYXRhLiBJbiBvcmRlciB0byBhY2hpZXZlIGEgZ29hbCB0aGF0IGRlbW9uc3RyYXRlcyB0aGUgdmFsdWUgb2YgaGF2aW5nIHRoZXNlIGNyb3NzIGRlcGFydG1lbnRhbCByZWxhdGlvbnNoaXBzLCB0aGlzIHByb2plY3QgaXMgc2NvcGVkIHRvIHdvcmsgYSBzcGVjaWZpYyBpbnN0aXR1dGUgd2l0aGluIG91ciBVbml2ZXJzaXR5IHdoaWNoIGFscmVhZHkgaGFzIGRvbWFpbiBzcGVjaWZpYyBtZXRhZGF0YSBpbiBzcGFjZSBzY2llbmNlcy4gV2Ugd2FudCB0byBkZW1vbnN0cmF0ZSwgdXNpbmcgbWV0YWRhdGEsIGhvdyBDVSBCb3VsZGVyIHdhcyBpbnZvbHZlZCB3aXRoIHNlbmRpbmcgYSBzcGFjZWNyYWZ0IHRvIGV2ZXJ5IHBsYW5ldCBpbiB0aGUgc29sYXIgc3lzdGVtLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Qgc2NoZW1lVVJJPSJodHRwOi8vd3d3LmFicy5nb3YuYXUvYXVzc3RhdHMvYWJzQC5uc2YvMC82QkI0MjdBQjk2OTZDMjI1Q0EyNTc0MTgwMDA0NDYzRSIgc3ViamVjdFNjaGVtZT0iRk9SIj4xNTAzMDEgQnVzaW5lc3MgSW5mb3JtYXRpb24gTWFuYWdlbWVudCAoaW5jbC4gUmVjb3JkcywgS25vd2xlZGdlIGFuZCBJbmZvcm1hdGlvbiBNYW5hZ2VtZW50LCBhbmQgSW50ZWxsaWdlbmNlKTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxwdWJsaXNoZXI+Zmlnc2hhcmU8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQ3JlYXRlZCI+MjAxOS0wOS0wNTwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJVcGRhdGVkIj4yMDE5LTA5LTA1PC9kYXRlPgogIDwvZGF0ZXM+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJJbWFnZSI+UG9zdGVyPC9yZXNvdXJjZVR5cGU+CiAgPHNpemVzPgogICAgPHNpemU+ODQyNjI1NSBCeXRlczwvc2l6ZT4KICA8L3NpemVzPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNJZGVudGljYWxUbyI+MTAuNjA4NC9tOS5maWdzaGFyZS45NzcxNTQ4PC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLyI+Q0MgQlkgNC4wPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.ars",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "image",
+                "type": "resource-types"
+            }
+        }
+    }
+}

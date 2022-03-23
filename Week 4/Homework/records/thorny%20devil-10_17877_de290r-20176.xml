@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.17877/DE290R-20176</identifier>
+  <creators>
+    <creator>
+      <creatorName>Li, Zhao</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Towards resilience</title>
+    <title titleType="AlternativeTitle">Adopting local knowledge in rural landscape planning</title>
+  </titles>
+  <publisher>Technische Universität Dortmund</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>Local knowledge</subject>
+    <subject>Resilience</subject>
+    <subject>Natural hazard</subject>
+    <subject subjectScheme="ddc">710</subject>
+    <subject subjectScheme="rswk">Klimatologie</subject>
+    <subject subjectScheme="rswk">Klimaänderung</subject>
+    <subject subjectScheme="rswk">Resilienz</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Technische Universität Dortmund</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Technische Universität Dortmund</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2019-09-02</date>
+    <date dateType="Available">2019-09-02</date>
+    <date dateType="Issued">2019</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">doctoral thesis</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="uri">http://hdl.handle.net/2003/38197</alternateIdentifier>
+  </alternateIdentifiers>
+  <rightsList>
+    <rights>open access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">The frequency of extreme weather events increases as climate change. Rural settlements are affected by various natural hazards induced by climate abnormality. As a system, rural settlements have the capability to resist, response, and recover from the external changes. This capability is regarded as system resilience. Enhancing rural system resilience is one orientation of rural planning work. One thorny problem in conducting rural planning is the lack of scientifically recorded data. From the other side, rural residents boast local knowledge which has been inherited through generations. This research collects local knowledge related to land management and disaster prevention, elucidates the preservation status of local knowledge, testifies the correctness of local knowledge, and analyses how local knowledge influences settlement system resilience. Through literature research, fieldwork and on site survey, this research collected local knowledge and traced its evolution. The local residents in Chongqing rural region practice terraced rice field cultivation facilitated with a gravity irrigation system of Yantang. There are also Fengshui forests preserved from exploitation. The local knowledge about land management changes with time. Local knowledge about natural hazard prevention is compared with SWAT model simulation results and official records to testify the correctness. Since the accuracy of simulation is hindered by the insufficient data, local knowledge is superior to simulation results in the research region. The accuracy of local knowledge about the date when natural hazards happened is higher than that of the simulation result, so as the accuracy of the maximum water level during the previous floods. Local knowledge still contains the keen observation of the natural setting changes, and is applicable for predicting natural hazards and making contingency plans. Instructed by local knowledge, settlements apply different land use strategies and result in the divergence of system resilience. Since local knowledge has evolved in different directions, settlement resilience change accordingly in good way or bad way. The dissemination of local knowledge mainly depends on the social network of neighbors, relatives and local governors. But because of the disintegration of such social relationships caused by village hollowing and urbanization, the dissemination of local knowledge is hampered. The possessors of local knowledge are easily affected by foreign and new information. As a result, in some extreme cases, local knowledge is gradually forgotten and replaced by modern science and knowledge. This research suggests that the rural planning towards resilience to learn from local knowledge through its trails and fails, and urge the development of local knowledge alongside with modern science and technology.</description>
+  </descriptions>
+</resource>

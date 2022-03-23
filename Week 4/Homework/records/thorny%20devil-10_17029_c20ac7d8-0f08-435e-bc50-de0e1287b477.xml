@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17029/C20AC7D8-0F08-435E-BC50-DE0E1287B477</identifier>
+  <creators>
+    <creator>
+      <creatorName>Hudson, Charlotte Adele</creatorName>
+      <givenName xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Charlotte Adele</givenName>
+      <familyName xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Hudson</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://www.orcid.org">0000-0002-3957-6141</nameIdentifier>
+      <affiliation xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">University of Portsmouth</affiliation>
+      <affiliation xmlns:xs="http://www.w3.org/2001/XMLSchema" xsi:type="xs:string">Department of Psychology</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en">Dataset for 'The devil is in the detail: deception and consistency over repeated interviews'.</title>
+  </titles>
+  <publisher>University of Portsmouth</publisher>
+  <publicationYear>2019</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <dates>
+    <date dateType="Available">2019-02-11</date>
+  </dates>
+  <sizes>
+    <size>23KB</size>
+    <size>51KB</size>
+  </sizes>
+  <formats>
+    <format>application/octet-stream</format>
+    <format>application/x-rtf</format>
+  </formats>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/licenses/by/4.0/">CC BY</rights>
+    <rights rightsURI="http://creativecommons.org/licenses/by/4.0/">CC BY</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract" xml:lang="en"/>
+  </descriptions>
+</resource>

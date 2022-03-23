@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.23661/BP17.2018</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Dombrowsky, Ines</creatorName>
+      <affiliation>Deutsches Institut für Entwicklungspolitik / German Development Institute (DIE)</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Rodríguez de Francisco, Jean Carlo</creatorName>
+      <affiliation>Deutsches Institut für Entwicklungspolitik / German Development Institute (DIE)</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Schoderer, Mirja</creatorName>
+      <affiliation>Deutsches Institut für Entwicklungspolitik / German Development Institute (DIE)</affiliation>
+    </creator>
+    <creator>
+      <creatorName nameType="Personal">Lkhagvadorj, Ariunaa</creatorName>
+      <affiliation>Mongolian Academy of Governance Ulaanbaatar</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en">The devil is in the detail: administrative and fiscal challenges in implementing River Basin Management in Mongolia</title>
+  </titles>
+  <publisher>German Development Institute / Deutsches Institut für Entwicklungspolitik (DIE)</publisher>
+  <publicationYear>2018</publicationYear>
+  <resourceType resourceTypeGeneral="Text"/>
+  <language>eng</language>
+  <version>1.0</version>
+  <descriptions>
+    <description xml:lang="en" descriptionType="Abstract">&lt;p&gt;The concept of river basin management calls for managing water resources at the river basin level in order to promote the sustainable use of water resources. Often this goes along with the introduction of river basin organisations (RBOs) as special purpose organisations. However, particularly in developing countries, RBOs often suffer from insufficient funds. Fiscal decentralisation involves shifting certain fiscal responsibilities to lower levels of government. Decentralisation could thus provide a source of funding for RBOs, depending on how tasks and funds are allocated among RBOs and general-purpose jurisdictions. This briefing paper examines administrative and fiscal aspects of river basin management and analyses whether fiscal decentralisation supports or counteracts the funding of river basin management. We present the example of Mongolia, where in recent years the processes of RBO institutionalisation and fiscal decentralisation have occurred in parallel. More specifically, we analyse i) how competencies for various water governance functions between RBOs and other bodies at the sub-national level are formally allocated, ii) which de jure and de facto funding arrangements are in place, and iii) what this implies for the coordination and sustainability of water resource use.&lt;br /&gt;We find that despite a broad division of labour among administrative units, a high level of overlap exists, for instance in the areas of data management, water law enforcement and implementation of water protection measures.&lt;br /&gt;In terms of financing water governance, River Basin Authorities (RBAs) are primarily financed through the national budget and aimag (province-level) environmental authorities (AEAs) through sub-national province budgets. However, uncertainties exist regarding the allocation of water-use fees. In practice, funds available to RBAs only cover fixed costs. AEAs have somewhat higher budgets, but do not necessarily use these funds for water-related projects nor do they earmark water-use fees. Inconsistent legal provisions on water-use fees have led to competition between AEAs and RBAs, but also to initial collaborative arrangements. We conclude that in Mongolia, fiscal decentralisation and river basin management are, so far, hardly mutually supportive and we recommend a number of legal and financial adjustments. In particular, we recommend that&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;responsibilities be distributed more clearly to reduce overlap and uncertainty;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;legal inconsistencies regarding water-use fees be clarified;&lt;/li&gt;
+&lt;li&gt;funding be arranged according to tasks; and&lt;/li&gt;
+&lt;li&gt;funding for RBAs be increased and minimum state-funding be provided to river basin councils (RBCs), so they can fulfil their mandates.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    <description xml:lang="en" descriptionType="SeriesInformation">Briefing Paper</description>
+  </descriptions>
+</resource>

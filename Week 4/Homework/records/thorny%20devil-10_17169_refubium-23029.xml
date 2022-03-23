@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.17169/REFUBIUM-23029</identifier>
+  <creators>
+    <creator>
+      <creatorName>Mathur, Vikrom</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Mohanr, Aniruddh</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Searching for middle ground</title>
+    <title titleType="Subtitle">National Contributions in a Global Agreement</title>
+  </titles>
+  <publisher>Freie Universität Berlin</publisher>
+  <publicationYear>2016</publicationYear>
+  <subjects>
+    <subject subjectScheme="ddc">300 Sozialwissenschaften::320 Politikwissenschaft</subject>
+    <subject subjectScheme="ddc">300 Sozialwissenschaften::330 Wirtschaft::333 Boden- und Energiewirtschaft</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Universitätsbibliothek der FU Berlin</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Universitätsbibliothek der FU Berlin</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2018-06-08</date>
+    <date dateType="Available">2016-06-22</date>
+    <date dateType="Issued">2016</date>
+  </dates>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="uri">https://refubium.fu-berlin.de/handle/fub188/19373</alternateIdentifier>
+  </alternateIdentifiers>
+  <sizes>
+    <size>14 S.</size>
+  </sizes>
+  <rightsList>
+    <rights rightsURI="http://www.fu-berlin.de/sites/refubium/rechtliches/Nutzungsbedingungen"/>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">After two weeks of intense negotiations at the 21st Conference of the Parties (COP 21) in December 2015 in Paris - the 196 Parties to the United Nations Framework Convention on Climate Change (UNFCCC) agreed on the COP Decisions and Paris Agreement. The UN Secretary General, Ban Ki-Moon, described the Paris Agreement as a ‘monumental triumph for people and our planet1’. The Paris agreement is a return to the ‘pledge and review’ approach of the early days of global climate policy – middle ground between national pledges for climate action within a global architecture of review and collaboration. For the last twenty years, international climate change policy has been focused on the search for a centrally negotiated multilateral climate treaty with all countries as signatories. Yet since its inception, adapting the top-down multilateral treaty model to the challenge of climate change has been a Sisyphean task. The new approach has broken a deadlock and created a sense of optimism – but trust and legitimacy in the regime still needs to be built to ensure performance. The devil is the detail – right balance between top-down measures and bottom-up flexibility are needed for specific challenges related to ensuring equity, mobilizing finance, driving technological change and ensuring climate resilient development. In this paper we enroll theoretical insights from the work of Elinor Ostrom on polycentric governance, to see how a durable, hybrid climate regime could emerge out of the Paris Agreement and facilitate equitable and ambitious climate outcomes. The paper is divided into four sections: we first examine the road to Paris –the lessons from the last thirty years of climate policy for the future regime; next we review theory – what are the theoretical insights from the work of Elinor Ostrom on polycentric governance; we examine how the ‘hybrid’ architecture of the new regime might play out in dealing with specific issues: setting ambition, ensuring differentiation, legal form, mitigation and adaptation; and lastly weanalyze the way forward – building trust and legitimacy and encouraging the ‘ground swell’ of actors.</description>
+  </descriptions>
+</resource>

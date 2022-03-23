@@ -1,0 +1,69 @@
+{
+    "id": "https://doi.org/10.5061/dryad.s77dk4v/1",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5061/dryad.s77dk4v/1",
+        "identifier": "https://doi.org/10.5061/dryad.s77dk4v/1",
+        "url": "https://datadryad.org/resource/doi:10.5061/dryad.s77dk4v/1",
+        "author": [
+            {
+                "given": "Calum",
+                "family": "Cunningham"
+            },
+            {
+                "given": "Vincent",
+                "family": "Scoleri"
+            },
+            {
+                "given": "Christopher",
+                "family": "Johnson"
+            },
+            {
+                "given": "Leon",
+                "family": "Barmuta"
+            },
+            {
+                "given": "Menna",
+                "family": "Jones"
+            }
+        ],
+        "title": "Temporal overlap: top-predator decline",
+        "container-title": "Dryad Digital Repository",
+        "description": "Camera data used to analyse changes in temporal activity on the Tasmanian mainland in response to Tasmanian devil population declines. This data file was used in the analysis of circular overlap, and was used to produce the left column of Figure 2 from our paper in Ecography. See README for details about variables.",
+        "resource-type-subtype": "DataFile",
+        "data-center-id": "dryad.dryad",
+        "member-id": "dryad",
+        "resource-type-id": "dataset",
+        "version": "1",
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-09-06T15:00:54.000Z",
+        "checked": null,
+        "updated": "2019-09-06T15:01:00.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHJ5YWQ9Imh0dHA6Ly9wdXJsLm9yZy9kcnlhZC90ZXJtcy8iIHhtbG5zOmRpbT0iaHR0cDovL3d3dy5kc3BhY2Uub3JnL3htbG5zL2RzcGFjZS9kaW0iIHhtbG5zOmRzcGFjZT0iaHR0cDovL3d3dy5kc3BhY2Uub3JnL3htbG5zL2RzcGFjZS9kaW0iIHhtbG5zOm1ldHM9Imh0dHA6Ly93d3cubG9jLmdvdi9NRVRTLyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTA2MS9EUllBRC5TNzdESzRWLzE8L2lkZW50aWZpZXI+CiAgPHZlcnNpb24+MTwvdmVyc2lvbj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkN1bm5pbmdoYW0sIENhbHVtPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U2NvbGVyaSwgVmluY2VudDwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkpvaG5zb24sIENocmlzdG9waGVyPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+QmFybXV0YSwgTGVvbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkpvbmVzLCBNZW5uYTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPlRlbXBvcmFsIG92ZXJsYXA6IHRvcC1wcmVkYXRvciBkZWNsaW5lPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPkRyeWFkIERpZ2l0YWwgUmVwb3NpdG9yeTwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxOTwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0Pm1lc29wcmVkYXRvciByZWxlYXNlPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+cHJlZGF0b3ItcHJleTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PnRlbXBvcmFsIHBhcnRpdGlvbmluZyBvZiBhY3Rpdml0eTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PmFwZXggcHJlZGF0b3I8L3N1YmplY3Q+CiAgICA8c3ViamVjdD50cm9waGljIGNhc2NhZGU8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5UYXNtYW5pYTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkF1c3RyYWxpYTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlNhcmNvcGhpbHVzIGhhcnJpc2lpPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+RGFzeXVydXMgbWFjdWxhdHVzPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+RmVsaXMgY2F0dXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5UaHlsb2dhbGUgYmlsbGFyZGllcmlpPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+TWFjcm9wdXMgcnVmb2dyaXNldXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5Wb21iYXR1cyB1cnNpbnVzPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkFjY2VwdGVkIj4yMDE5LTA5LTA2PC9kYXRlPgogIDwvZGF0ZXM+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJEYXRhc2V0Ij5EYXRhRmlsZTwvcmVzb3VyY2VUeXBlPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRpb25UeXBlPSJJc1BhcnRPZiIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiPjEwLjUwNjEvRFJZQUQuUzc3REs0VjwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHNpemVzPgogICAgPHNpemU+MjM2NTQ4OSBieXRlczwvc2l6ZT4KICAgIDxzaXplPjc0NiBieXRlczwvc2l6ZT4KICA8L3NpemVzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cz5BdCB0aGUgcmVxdWVzdCBvZiB0aGUgYXV0aG9yLCB0aGlzIGl0ZW0gaXMgZW1iYXJnb2VkIHVudGlsIHRoZSBhc3NvY2lhdGVkIGFydGljbGUgaXMgcHVibGlzaGVkLjwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPkNhbWVyYSBkYXRhIHVzZWQgdG8gYW5hbHlzZSBjaGFuZ2VzIGluIHRlbXBvcmFsIGFjdGl2aXR5IG9uIHRoZSBUYXNtYW5pYW4gbWFpbmxhbmQgaW4gcmVzcG9uc2UgdG8gVGFzbWFuaWFuIGRldmlsIHBvcHVsYXRpb24gZGVjbGluZXMuIFRoaXMgZGF0YSBmaWxlIHdhcyB1c2VkIGluIHRoZSBhbmFseXNpcyBvZiBjaXJjdWxhciBvdmVybGFwLCBhbmQgd2FzIHVzZWQgdG8gcHJvZHVjZSB0aGUgbGVmdCBjb2x1bW4gb2YgRmlndXJlIDIgZnJvbSBvdXIgcGFwZXIgaW4gRWNvZ3JhcGh5LiBTZWUgUkVBRE1FIGZvciBkZXRhaWxzIGFib3V0IHZhcmlhYmxlcy48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "dryad.dryad",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "dryad",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

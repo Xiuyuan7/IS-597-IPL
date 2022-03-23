@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.24397/pangloss-0000586",
+    "type": "works",
+    "attributes": {
+        "doi": "10.24397/pangloss-0000586",
+        "identifier": "https://doi.org/10.24397/pangloss-0000586",
+        "url": "http://lacito.vjf.cnrs.fr/pangloss/corpus/show_text.php?id=cocoon-4ca91b70-fbf6-3db4-b532-0a74c98744d1",
+        "author": [
+            {
+                "given": "Aim\u00e9e",
+                "family": "Lahaussois"
+            }
+        ],
+        "title": "Miyakma",
+        "container-title": "Pangloss",
+        "description": "This is the story of the first human, Miyakma, and how she gave birth to a thorny plant, a tiger, a bear, a monkey and a boy and a girl. Because there are no other humans around, the sister and brother eventually mate, bringing upon themselves the wrath of Khomda, the god who is their father. As a punishment, he sends them down into the bowels of the earth, and after many generations, they attempt to return above ground. They manage to escape by performing a human sacrifice, and realize that they need to dispose of the body of the victim. This leads them to create a \"death culture\", dealing with corpses differently according to whether the person died by accident or of old age. This \"death culture\" survives to this day.",
+        "resource-type-subtype": "narrative",
+        "data-center-id": "inist.lacito",
+        "member-id": "inist",
+        "resource-type-id": "sound",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2010",
+        "registered": "2019-01-25T14:34:24.000Z",
+        "checked": null,
+        "updated": "2019-09-23T20:31:39.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4yNDM5Ny9QQU5HTE9TUy0wMDAwNTg2PC9pZGVudGlmaWVyPgogIDx0aXRsZXM+CiAgICA8dGl0bGUgeG1sOmxhbmc9ImVuIj5NaXlha21hPC90aXRsZT4KICA8L3RpdGxlcz4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+TGFoYXVzc29pcywgQWltw6llPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDxjb250cmlidXRvcnM+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJSZXNlYXJjaGVyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkxhaGF1c3NvaXMsIEFpbcOpZTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IkNvbnRhY3RQZXJzb24iPgogICAgICA8Y29udHJpYnV0b3JOYW1lPkxhaGF1c3NvaXMsIEFpbcOpZTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9Ik90aGVyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlRodWx1bmcsIExha3BhPC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iUHJvZHVjZXIiPgogICAgICA8Y29udHJpYnV0b3JOYW1lIG5hbWVUeXBlPSJPcmdhbml6YXRpb25hbCI+TGFib3JhdG9pcmUgZGUgbGFuZ3VlcyBldCBjaXZpbGlzYXRpb25zIMOgIHRyYWRpdGlvbiBvcmFsZTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9Ikhvc3RpbmdJbnN0aXR1dGlvbiI+CiAgICAgIDxjb250cmlidXRvck5hbWUgbmFtZVR5cGU9Ik9yZ2FuaXphdGlvbmFsIj5DT2xsZWN0aW9ucyBkZSBDT3JwdXMgT3JhdXggTnVtw6lyaXF1ZXM8L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJIb3N0aW5nSW5zdGl0dXRpb24iPgogICAgICA8Y29udHJpYnV0b3JOYW1lIG5hbWVUeXBlPSJPcmdhbml6YXRpb25hbCI+SHVtYS1OdW08L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJIb3N0aW5nSW5zdGl0dXRpb24iPgogICAgICA8Y29udHJpYnV0b3JOYW1lIG5hbWVUeXBlPSJPcmdhbml6YXRpb25hbCI+TGFuZ3VlcyBldCBDaXZpbGlzYXRpb25zIMOgIFRyYWRpdGlvbiBPcmFsZTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9Ikhvc3RpbmdJbnN0aXR1dGlvbiI+CiAgICAgIDxjb250cmlidXRvck5hbWUgbmFtZVR5cGU9Ik9yZ2FuaXphdGlvbmFsIj5DZW50cmUgSW5mb3JtYXRpcXVlIE5hdGlvbmFsIGRlIGwnRW5zZWlnbmVtZW50IFN1cMOpcmlldXI8L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJSaWdodHNIb2xkZXIiPgogICAgICA8Y29udHJpYnV0b3JOYW1lPkxhaGF1c3NvaXMsIEFpbcOpZTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICA8L2NvbnRyaWJ1dG9ycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHM+RnJlZWx5IGF2YWlsYWJsZSBmb3Igbm9uLWNvbW1lcmNpYWwgdXNlPC9yaWdodHM+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktbmMtbmQvMi41LyI+Q3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbi1Ob25Db21tZXJjaWFsIDIuNSBHZW5lcmljPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0PgogIDxwdWJsaXNoZXI+UGFuZ2xvc3M8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTA8L3B1YmxpY2F0aW9uWWVhcj4KICA8bGFuZ3VhZ2U+dGRoPC9sYW5ndWFnZT4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5MaW5ndWlzdGlxdWU8L3N1YmplY3Q+CiAgICA8c3ViamVjdCBzY2hlbWVVUkk9Imh0dHA6Ly9zZWFyY2gubGFuZ3VhZ2UtYXJjaGl2ZXMub3JnL2luZGV4Lmh0bWwiIHN1YmplY3RTY2hlbWU9Ik9MQUMiIHhtbDpsYW5nPSJmciI+VGh1bHVuZyBSYWk8L3N1YmplY3Q+CiAgICA8c3ViamVjdCBzY2hlbWVVUkk9Imh0dHA6Ly9zZWFyY2gubGFuZ3VhZ2UtYXJjaGl2ZXMub3JnL2luZGV4Lmh0bWwiIHN1YmplY3RTY2hlbWU9Ik9MQUMiIHhtbDpsYW5nPSJmciI+RGV1c2E8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlNvdW5kIj5uYXJyYXRpdmU8L3Jlc291cmNlVHlwZT4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQXZhaWxhYmxlIj4yMDEwLTA3LTA3PC9kYXRlPgogIDwvZGF0ZXM+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9ImludGVybmFsIElEIj5vYWk6Y3Jkby52amYuY25ycy5mcjpjb2Nvb24tNGNhOTFiNzAtZmJmNi0zZGI0LWI1MzItMGE3NGM5ODc0NGQxPC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9IlBVUkwiPmh0dHA6Ly9wdXJsLm9yZy9wb2kvY3Jkby52amYuY25ycy5mci9jb2Nvb24tNGNhOTFiNzAtZmJmNi0zZGI0LWI1MzItMGE3NGM5ODc0NGQxPC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9IkFSSyI+aHR0cDovL2NvY29vbi5odW1hLW51bS5mci9leGlzdC9jcmRvL2FyazovODc4OTUvMS41LTEyNTgwOTwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJIYW5kbGUiPmh0dHA6Ly9oZGwuaGFuZGxlLm5ldC8xMDY3MC8xLm5nMXNlazwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJQVVJMIiByZWxhdGlvblR5cGU9IklzUmVxdWlyZWRCeSI+aHR0cDovL3B1cmwub3JnL3BvaS9jcmRvLnZqZi5jbnJzLmZyL2NvY29vbi03ZGE2MTUyNy0zYzg5LTM2MGMtOWE5OC01MTY3N2RhMTY4Njc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzUGFydE9mIj4xMC4yNDM5Ny9QYW5nbG9zczwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPGZvcm1hdHM+CiAgICA8Zm9ybWF0PmF1ZGlvPC9mb3JtYXQ+CiAgICA8Zm9ybWF0Pngtd2F2PC9mb3JtYXQ+CiAgPC9mb3JtYXRzPgogIDxzaXplcz4KICAgIDxzaXplPlBUMTRNMzJTPC9zaXplPgogIDwvc2l6ZXM+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0IiB4bWw6bGFuZz0iZW4iPlRoaXMgaXMgdGhlIHN0b3J5IG9mIHRoZSBmaXJzdCBodW1hbiwgTWl5YWttYSwgYW5kIGhvdyBzaGUgZ2F2ZSBiaXJ0aCB0byBhIHRob3JueSBwbGFudCwgYSB0aWdlciwgYSBiZWFyLCBhIG1vbmtleSBhbmQgYSBib3kgYW5kIGEgZ2lybC4gQmVjYXVzZSB0aGVyZSBhcmUgbm8gb3RoZXIgaHVtYW5zIGFyb3VuZCwgdGhlIHNpc3RlciBhbmQgYnJvdGhlciBldmVudHVhbGx5IG1hdGUsIGJyaW5naW5nIHVwb24gdGhlbXNlbHZlcyB0aGUgd3JhdGggb2YgS2hvbWRhLCB0aGUgZ29kIHdobyBpcyB0aGVpciBmYXRoZXIuIEFzIGEgcHVuaXNobWVudCwgaGUgc2VuZHMgdGhlbSBkb3duIGludG8gdGhlIGJvd2VscyBvZiB0aGUgZWFydGgsIGFuZCBhZnRlciBtYW55IGdlbmVyYXRpb25zLCB0aGV5IGF0dGVtcHQgdG8gcmV0dXJuIGFib3ZlIGdyb3VuZC4gVGhleSBtYW5hZ2UgdG8gZXNjYXBlIGJ5IHBlcmZvcm1pbmcgYSBodW1hbiBzYWNyaWZpY2UsIGFuZCByZWFsaXplIHRoYXQgdGhleSBuZWVkIHRvIGRpc3Bvc2Ugb2YgdGhlIGJvZHkgb2YgdGhlIHZpY3RpbS4gVGhpcyBsZWFkcyB0aGVtIHRvIGNyZWF0ZSBhICJkZWF0aCBjdWx0dXJlIiwgZGVhbGluZyB3aXRoIGNvcnBzZXMgZGlmZmVyZW50bHkgYWNjb3JkaW5nIHRvIHdoZXRoZXIgdGhlIHBlcnNvbiBkaWVkIGJ5IGFjY2lkZW50IG9yIG9mIG9sZCBhZ2UuIFRoaXMgImRlYXRoIGN1bHR1cmUiIHN1cnZpdmVzIHRvIHRoaXMgZGF5LjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPGdlb0xvY2F0aW9ucz4KICAgIDxnZW9Mb2NhdGlvbj4KICAgICAgPGdlb0xvY2F0aW9uUGxhY2U+TmVwYWw8L2dlb0xvY2F0aW9uUGxhY2U+CiAgICA8L2dlb0xvY2F0aW9uPgogIDwvZ2VvTG9jYXRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "inist.lacito",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "inist",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "sound",
+                "type": "resource-types"
+            }
+        }
+    }
+}

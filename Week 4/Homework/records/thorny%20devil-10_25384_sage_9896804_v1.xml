@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.25384/SAGE.9896804.V1</identifier>
+  <creators>
+    <creator>
+      <creatorName>J. Ryan Lamare</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>ILRR_Lamare_Supplemental-Online-Appendix – Supplemental material for The Devil Is in the Details: Attorney Effects on Employment Arbitration Outcomes</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">&lt;p&gt;Supplemental material, ILRR_Lamare_Supplemental-Online-Appendix for The Devil Is in the Details: Attorney Effects on Employment Arbitration Outcomes by J. Ryan Lamare in ILR Review&lt;/p&gt;</description>
+  </descriptions>
+  <subjects>
+    <subject>Economics</subject>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">150310 Organisation and Management Theory</subject>
+  </subjects>
+  <publisher>SAGE Journals</publisher>
+  <publicationYear>2019</publicationYear>
+  <dates>
+    <date dateType="Created">2019-09-24</date>
+    <date dateType="Updated">2019-09-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Journal contribution</resourceType>
+  <sizes>
+    <size>264059 Bytes</size>
+  </sizes>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1177/0019793919877404</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsIdenticalTo">10.25384/SAGE.9896804</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</rights>
+  </rightsList>
+</resource>

@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.25911/5d78db79e068c",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25911/5d78db79e068c",
+        "identifier": "https://doi.org/10.25911/5d78db79e068c",
+        "url": "https://openresearch-repository.anu.edu.au/handle/1885/9328",
+        "author": [
+            {
+                "given": "Christine Frances",
+                "family": "Hansen"
+            }
+        ],
+        "title": "Telling Absence: Aboriginal social history and the National Museum of Australia",
+        "container-title": "The Australian National University",
+        "description": "The ordinary stories of ordinary Aboriginal people are a necessary part of Australian history. Yet museums throughout Australia, and in particular the National Museum of Australia, which are charged with the task of telling these stories, struggle to find appropriate material means to do so: the history which shaped Australian museum collections and the history which shaped contemporary Aboriginal communities do not neatly converge. This research reflects on both. The structure of this thesis is fashioned around three distinct voices. The first of these is my own where I give an account of my engagement with the Ngarigo community from the Snowy Mountains region of New South Wales into whose contemporary reality and history I am drawn. This reflexive narrative also provides the means for consideration of the complex and sometimes confronting research process as it unfolds in the field. Stories rather than objects were central to the interests of the community participants and it was a story, or rather a series of stories, which I felt would best serve the thorny conjunction of politics, history and representation at the core of this project. Story is also the central method in the second voice of this work, that of the historical narrative. Here the plot centres not so much on reflection as on reconstruction of a Ngarigo family history. It is this voice that provides a powerful juxtaposition between the reality of lived lives and the constructions of Aboriginality emanating from both the academy and from within institutions of popular culture such as museums. The third voice of the thesis offers an analytical examination of the ideas underpinning the conceptual and historical elements out of which a museum is constructed. In this way I explore how the processes which have constituted the museum might be re-configured to accommodate the particularities of Aboriginal social history.",
+        "resource-type-subtype": "Thesis (PhD)",
+        "data-center-id": "ands.centre13",
+        "member-id": "ands",
+        "resource-type-id": "other",
+        "version": null,
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2012",
+        "registered": "2019-09-11T11:33:16.000Z",
+        "checked": null,
+        "updated": "2019-09-25T10:42:28.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjU5MTEvNUQ3OERCNzlFMDY4QzwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkhhbnNlbiwgQ2hyaXN0aW5lIEZyYW5jZXM8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5UZWxsaW5nIEFic2VuY2U6IEFib3JpZ2luYWwgc29jaWFsIGhpc3RvcnkgYW5kIHRoZSBOYXRpb25hbCBNdXNldW0gb2YgQXVzdHJhbGlhPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlRoZSBBdXN0cmFsaWFuIE5hdGlvbmFsIFVuaXZlcnNpdHk8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTI8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5BYm9yaWdpbmFsIGhpc3Rvcnk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5JbmRpZ2Vub3VzIGhpc3Rvcnk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5tdXNldW1zPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+bWF0ZXJpYWwgY3VsdHVyZTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkFib3JpZ2luYWwgaGlzdG9yeSBvZiB0aGUgU25vd3kgTW91bnRhaW5zPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+dGhlIE5hdGlvbmFsIE11c2V1bSBvZiBBdXN0cmFsaWE8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5OZ2FyaWdvPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+QWJvcmlnaW5hbCBvYmplY3RzPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGNvbnRyaWJ1dG9ycz4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IkRhdGFNYW5hZ2VyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5UaGUgQXVzdHJhbGlhbiBOYXRpb25hbCBVbml2ZXJzaXR5PC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iSG9zdGluZ0luc3RpdHV0aW9uIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5UaGUgQXVzdHJhbGlhbiBOYXRpb25hbCBVbml2ZXJzaXR5PC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogIDwvY29udHJpYnV0b3JzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJBY2NlcHRlZCI+MjAxMi0wOS0xMzwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJBdmFpbGFibGUiPjIwMTItMDktMTM8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQ3JlYXRlZCI+MjAwOS0xMjwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTItMDktMTM8L2RhdGU+CiAgPC9kYXRlcz4KICA8bGFuZ3VhZ2U+ZW4tQVU8L2xhbmd1YWdlPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iT3RoZXIiPlRoZXNpcyAoUGhEKTwvcmVzb3VyY2VUeXBlPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJvdGhlciI+YjI0NDQ1ODQ4PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVyaSI+aHR0cDovL2hkbC5oYW5kbGUubmV0LzE4ODUvOTMyODwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+VGhlIG9yZGluYXJ5IHN0b3JpZXMgb2Ygb3JkaW5hcnkgQWJvcmlnaW5hbCBwZW9wbGUgYXJlIGEgbmVjZXNzYXJ5IHBhcnQgb2YgQXVzdHJhbGlhbiBoaXN0b3J5LiBZZXQgbXVzZXVtcyB0aHJvdWdob3V0IEF1c3RyYWxpYSwgYW5kIGluIHBhcnRpY3VsYXIgdGhlIE5hdGlvbmFsIE11c2V1bSBvZiBBdXN0cmFsaWEsIHdoaWNoIGFyZSBjaGFyZ2VkIHdpdGggdGhlIHRhc2sgb2YgdGVsbGluZyB0aGVzZSBzdG9yaWVzLCBzdHJ1Z2dsZSB0byBmaW5kIGFwcHJvcHJpYXRlIG1hdGVyaWFsIG1lYW5zIHRvIGRvIHNvOiB0aGUgaGlzdG9yeSB3aGljaCBzaGFwZWQgQXVzdHJhbGlhbiBtdXNldW0gY29sbGVjdGlvbnMgYW5kIHRoZSBoaXN0b3J5IHdoaWNoIHNoYXBlZCBjb250ZW1wb3JhcnkgQWJvcmlnaW5hbCBjb21tdW5pdGllcyBkbyBub3QgbmVhdGx5IGNvbnZlcmdlLiBUaGlzIHJlc2VhcmNoIHJlZmxlY3RzIG9uIGJvdGguIFRoZSBzdHJ1Y3R1cmUgb2YgdGhpcyB0aGVzaXMgaXMgZmFzaGlvbmVkIGFyb3VuZCB0aHJlZSBkaXN0aW5jdCB2b2ljZXMuIFRoZSBmaXJzdCBvZiB0aGVzZSBpcyBteSBvd24gd2hlcmUgSSBnaXZlIGFuIGFjY291bnQgb2YgbXkgZW5nYWdlbWVudCB3aXRoIHRoZSBOZ2FyaWdvIGNvbW11bml0eSBmcm9tIHRoZSBTbm93eSBNb3VudGFpbnMgcmVnaW9uIG9mIE5ldyBTb3V0aCBXYWxlcyBpbnRvIHdob3NlIGNvbnRlbXBvcmFyeSByZWFsaXR5IGFuZCBoaXN0b3J5IEkgYW0gZHJhd24uIFRoaXMgcmVmbGV4aXZlIG5hcnJhdGl2ZSBhbHNvIHByb3ZpZGVzIHRoZSBtZWFucyBmb3IgY29uc2lkZXJhdGlvbiBvZiB0aGUgY29tcGxleCBhbmQgc29tZXRpbWVzIGNvbmZyb250aW5nIHJlc2VhcmNoIHByb2Nlc3MgYXMgaXQgdW5mb2xkcyBpbiB0aGUgZmllbGQuIFN0b3JpZXMgcmF0aGVyIHRoYW4gb2JqZWN0cyB3ZXJlIGNlbnRyYWwgdG8gdGhlIGludGVyZXN0cyBvZiB0aGUgY29tbXVuaXR5IHBhcnRpY2lwYW50cyBhbmQgaXQgd2FzIGEgc3RvcnksIG9yIHJhdGhlciBhIHNlcmllcyBvZiBzdG9yaWVzLCB3aGljaCBJIGZlbHQgd291bGQgYmVzdCBzZXJ2ZSB0aGUgdGhvcm55IGNvbmp1bmN0aW9uIG9mIHBvbGl0aWNzLCBoaXN0b3J5IGFuZCByZXByZXNlbnRhdGlvbiBhdCB0aGUgY29yZSBvZiB0aGlzIHByb2plY3QuIFN0b3J5IGlzIGFsc28gdGhlIGNlbnRyYWwgbWV0aG9kIGluIHRoZSBzZWNvbmQgdm9pY2Ugb2YgdGhpcyB3b3JrLCB0aGF0IG9mIHRoZSBoaXN0b3JpY2FsIG5hcnJhdGl2ZS4gSGVyZSB0aGUgcGxvdCBjZW50cmVzIG5vdCBzbyBtdWNoIG9uIHJlZmxlY3Rpb24gYXMgb24gcmVjb25zdHJ1Y3Rpb24gb2YgYSBOZ2FyaWdvIGZhbWlseSBoaXN0b3J5LiBJdCBpcyB0aGlzIHZvaWNlIHRoYXQgcHJvdmlkZXMgYSBwb3dlcmZ1bCBqdXh0YXBvc2l0aW9uIGJldHdlZW4gdGhlIHJlYWxpdHkgb2YgbGl2ZWQgbGl2ZXMgYW5kIHRoZSBjb25zdHJ1Y3Rpb25zIG9mIEFib3JpZ2luYWxpdHkgZW1hbmF0aW5nIGZyb20gYm90aCB0aGUgYWNhZGVteSBhbmQgZnJvbSB3aXRoaW4gaW5zdGl0dXRpb25zIG9mIHBvcHVsYXIgY3VsdHVyZSBzdWNoIGFzIG11c2V1bXMuIFRoZSB0aGlyZCB2b2ljZSBvZiB0aGUgdGhlc2lzIG9mZmVycyBhbiBhbmFseXRpY2FsIGV4YW1pbmF0aW9uIG9mIHRoZSBpZGVhcyB1bmRlcnBpbm5pbmcgdGhlIGNvbmNlcHR1YWwgYW5kIGhpc3RvcmljYWwgZWxlbWVudHMgb3V0IG9mIHdoaWNoIGEgbXVzZXVtIGlzIGNvbnN0cnVjdGVkLiBJbiB0aGlzIHdheSBJIGV4cGxvcmUgaG93IHRoZSBwcm9jZXNzZXMgd2hpY2ggaGF2ZSBjb25zdGl0dXRlZCB0aGUgbXVzZXVtIG1pZ2h0IGJlIHJlLWNvbmZpZ3VyZWQgdG8gYWNjb21tb2RhdGUgdGhlIHBhcnRpY3VsYXJpdGllcyBvZiBBYm9yaWdpbmFsIHNvY2lhbCBoaXN0b3J5LjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ands.centre13",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ands",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "other",
+                "type": "resource-types"
+            }
+        }
+    }
+}

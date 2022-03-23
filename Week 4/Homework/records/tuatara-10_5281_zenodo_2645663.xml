@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/ZENODO.2645663</identifier>
+  <creators>
+    <creator>
+      <creatorName>Sterrer, Wolfgang</creatorName>
+      <givenName>Wolfgang</givenName>
+      <familyName>Sterrer</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>FIGURE 6 in Gnathostomulida from the Otago Peninsula, southern New Zealand</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2006</publicationYear>
+  <subjects>
+    <subject>Biodiversity</subject>
+    <subject>Taxonomy</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2006-04-13</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Image">Figure</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/2645663</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.5281/zenodo.2645647</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="IsPartOf">urn:lsid:plazi.org:pub:FFA9FFA792762B76F108FFA3FFCBCA7E</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsPartOf">https://zenodo.org/record/2645647</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsPartOf">http://publication.plazi.org/id/FFA9FFA792762B76F108FFA3FFCBCA7E</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.2645662</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsPartOf">https://zenodo.org/communities/biosyslit</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">FIGURE 6. Pterognathia tuatara nov. spec. Basal plates and jaws of three specimens (in 6.1 the basal plate is below the jaws, and upside­down). Phase contrast micrographs of live specimens.</description>
+  </descriptions>
+</resource>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.MS7Q2Q4/1</identifier>
+  <version>1</version>
+  <creators>
+    <creator>
+      <creatorName>Vaux, Felix</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Morgan-Richards, Mary</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Daly, Elizabeth E.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Trewick, Steven A.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Tutara sampling</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2018</publicationYear>
+  <subjects>
+    <subject>geometric morphometric</subject>
+    <subject>living fossil</subject>
+    <subject>morphological stasis</subject>
+    <subject>morphological conservatism</subject>
+    <subject>New Zealand</subject>
+    <subject>Holocene</subject>
+    <subject>Sphenodon punctatus</subject>
+  </subjects>
+  <dates>
+    <date dateType="Accepted">2018-11-02</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.MS7Q2Q4</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+    <size>17690 bytes</size>
+  </sizes>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/"/>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Other">Photographic and digitisation sampling of tuatara dentary bones for this study. File includes provenance and museum collection information.</description>
+  </descriptions>
+</resource>

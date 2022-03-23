@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17863/CAM.9175</identifier>
+  <creators>
+    <creator>
+      <creatorName>Tovar, C</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Pye, RJ</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Kreiss, A</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Cheng, Y</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Brown, GK</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Darby, J</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Malley, RC</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Siddle, HVT</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Skjødt, K</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Kaufman, James</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-7216-8422</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Silva, A</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Baz Morelli, A</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Papenfuss, AT</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Corcoran, LM</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Murphy, JM</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Pearse, MJ</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Belov, K</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Lyons, AB</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Woods, GM</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Regression of devil facial tumour disease following immunotherapy in immunised Tasmanian devils</title>
+  </titles>
+  <publisher>Apollo - University of Cambridge Repository</publisher>
+  <publicationYear>2017</publicationYear>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2017-04-25</date>
+    <date dateType="Available">2017-04-25</date>
+    <date dateType="Issued">2017-03-09</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="issn">2045-2322</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">https://www.repository.cam.ac.uk/handle/1810/263804</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="eissn">2045-2322</alternateIdentifier>
+  </alternateIdentifiers>
+  <rightsList>
+    <rights>Attribution 4.0 International</rights>
+    <rights>Attribution 4.0 International</rights>
+    <rights>Attribution 4.0 International</rights>
+    <rights>Attribution 4.0 International</rights>
+    <rights>http://creativecommons.org/licenses/by/4.0/</rights>
+    <rights>http://creativecommons.org/licenses/by/4.0/</rights>
+    <rights>http://creativecommons.org/licenses/by/4.0/</rights>
+    <rights>http://creativecommons.org/licenses/by/4.0/</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Devil facial tumour disease (DFTD) is a transmissible cancer devastating the Tasmanian devil (Sarcophilus harrisii) population. The cancer cell is the 'infectious' agent transmitted as an allograft by biting. Animals usually die within a few months with no evidence of antibody or immune cell responses against the DFTD allograft. This lack of anti-tumour immunity is attributed to an absence of cell surface major histocompatibility complex (MHC)-I molecule expression. While the endangerment of the devil population precludes experimentation on large experimental groups, those examined in our study indicated that immunisation and immunotherapy with DFTD cells expressing surface MHC-I corresponded with effective anti-tumour responses. Tumour engraftment did not occur in one of the five immunised Tasmanian devils, and regression followed therapy of experimentally induced DFTD tumours in three Tasmanian devils. Regression correlated with immune cell infiltration and antibody responses against DFTD cells. These data support the concept that immunisation of devils with DFTD cancer cells can successfully induce humoral responses against DFTD and trigger immune-mediated regression of established tumours. Our findings support the feasibility of a protective DFTD vaccine and ultimately the preservation of the species.</description>
+    <description descriptionType="Other">Research support was provided by the Australian Research Council (ARC Linkage grant #LP0989727, ARC Discovery grant #DP130100715), University of Tasmania Foundation through funds raised by the Save the Tasmanian Devil Appeal. J.M.M. acknowledges fellowship support (APP1105754) and L.M.C. Program Grant funding (APP1054925) from NHMRC. J.M.M. and L.M.C. acknowledge NHMRC IRIISS (9000220) and Victorian Government Operational Infrastructure Support. Y.C. and K.B. are supported by the Australian Research Council (ARC Discovery grant #DP140103260). K.B. is funded by an ARC Future Fellowship. J.K. is supported by a Wellcome Trust programme Grant (089305).</description>
+  </descriptions>
+  <fundingReferences>
+    <fundingReference>
+      <funderName>Wellcome Trust</funderName>
+      <awardNumber>089305/Z/09/Z</awardNumber>
+    </fundingReference>
+  </fundingReferences>
+</resource>

@@ -1,0 +1,73 @@
+{
+    "id": "https://doi.org/10.22004/ag.econ.53083",
+    "type": "works",
+    "attributes": {
+        "doi": "10.22004/ag.econ.53083",
+        "identifier": "https://doi.org/10.22004/ag.econ.53083",
+        "url": "https://ageconsearch.umn.edu/record/53083",
+        "author": [
+            {
+                "given": "Scott H.",
+                "family": "Irwin"
+            },
+            {
+                "given": "Dwight R.",
+                "family": "Sanders"
+            },
+            {
+                "given": "Robert P.",
+                "family": "Merrin"
+            },
+            {
+                "given": "Scott H.",
+                "family": "Irwin"
+            },
+            {
+                "given": "Dwight R.",
+                "family": "Sanders"
+            },
+            {
+                "given": "Robert P.",
+                "family": "Merrin"
+            }
+        ],
+        "title": "Devil or Angel? The Role of Speculation in the Recent Commodity Price Boom (and Bust)",
+        "container-title": "Unknown",
+        "description": "It is commonly asserted that speculative buying by index funds in commodity futures and over\u2013the\u2013counter derivatives markets created a \u2018\u2018bubble\u2019\u2019 in commodity prices, with the result that prices, and crude oil prices, in particular, far exceeded fundamental values at the peak. The purpose of this paper is to show that the bubble argument simply does not withstand close scrutiny. Four main points are explored. First, the arguments of bubble proponents are conceptually flawed and reflect fundamental and basic misunderstandings of how commodity futures markets actually work. Second, a number of facts about the situation in commodity markets are inconsistent with the existence of a substantial bubble in commodity prices. Third, available statistical evidence does not indicate that positions for any group in commodity futures markets, including long\u2013only index funds, consistently lead futures price changes. Fourth, there is a historical pattern of attacks upon speculation during periods of extreme market volatility.",
+        "resource-type-subtype": "Text",
+        "data-center-id": "tind.agecon",
+        "member-id": "tind",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2009",
+        "registered": "2019-08-24T02:14:58.000Z",
+        "checked": null,
+        "updated": "2019-08-25T06:56:49.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjIwMDQvQUcuRUNPTi41MzA4MzwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPklyd2luLCBTY290dCBILjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlNhbmRlcnMsIER3aWdodCBSLjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPk1lcnJpbiwgUm9iZXJ0IFAuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+SXJ3aW4sIFNjb3R0IEguPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U2FuZGVycywgRHdpZ2h0IFIuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+TWVycmluLCBSb2JlcnQgUC48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5EZXZpbCBvciBBbmdlbD8gVGhlIFJvbGUgb2YgU3BlY3VsYXRpb24gaW4gdGhlIFJlY2VudCBDb21tb2RpdHkgUHJpY2UgQm9vbSAoYW5kIEJ1c3QpPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlVua25vd248L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMDk8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5BZ3JpYnVzaW5lc3M8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5EZW1hbmQgYW5kIFByaWNlIEFuYWx5c2lzPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+RmluYW5jaWFsIEVjb25vbWljczwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pk1hcmtldGluZzwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHN1YmplY3RTY2hlbWU9ImtleXdvcmQiPmNvbW1vZGl0eTwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHN1YmplY3RTY2hlbWU9ImtleXdvcmQiPmZ1dHVyZXM8L3N1YmplY3Q+CiAgICA8c3ViamVjdCBzdWJqZWN0U2NoZW1lPSJrZXl3b3JkIj5pbmRleCBmdW5kPC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc3ViamVjdFNjaGVtZT0ia2V5d29yZCI+bWFya2V0PC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc3ViamVjdFNjaGVtZT0ia2V5d29yZCI+c3BlY3VsYXRpb248L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOS0wOC0yNVQwMTo1Njo0OS4wLTA1OjAwPC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPlRleHQ8L3Jlc291cmNlVHlwZT4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkl0IGlzIGNvbW1vbmx5IGFzc2VydGVkIHRoYXQgc3BlY3VsYXRpdmUgYnV5aW5nIGJ5IGluZGV4IGZ1bmRzIGluIGNvbW1vZGl0eSBmdXR1cmVzIGFuZApvdmVy4oCTdGhl4oCTY291bnRlciBkZXJpdmF0aXZlcyBtYXJrZXRzIGNyZWF0ZWQgYSDigJjigJhidWJibGXigJnigJkgaW4gY29tbW9kaXR5IHByaWNlcywgd2l0aCB0aGUgcmVzdWx0CnRoYXQgcHJpY2VzLCBhbmQgY3J1ZGUgb2lsIHByaWNlcywgaW4gcGFydGljdWxhciwgZmFyIGV4Y2VlZGVkIGZ1bmRhbWVudGFsIHZhbHVlcyBhdCB0aGUgcGVhay4KVGhlIHB1cnBvc2Ugb2YgdGhpcyBwYXBlciBpcyB0byBzaG93IHRoYXQgdGhlIGJ1YmJsZSBhcmd1bWVudCBzaW1wbHkgZG9lcyBub3Qgd2l0aHN0YW5kIGNsb3NlCnNjcnV0aW55LiBGb3VyIG1haW4gcG9pbnRzIGFyZSBleHBsb3JlZC4gRmlyc3QsIHRoZSBhcmd1bWVudHMgb2YgYnViYmxlIHByb3BvbmVudHMgYXJlCmNvbmNlcHR1YWxseSBmbGF3ZWQgYW5kIHJlZmxlY3QgZnVuZGFtZW50YWwgYW5kIGJhc2ljIG1pc3VuZGVyc3RhbmRpbmdzIG9mIGhvdyBjb21tb2RpdHkKZnV0dXJlcyBtYXJrZXRzIGFjdHVhbGx5IHdvcmsuIFNlY29uZCwgYSBudW1iZXIgb2YgZmFjdHMgYWJvdXQgdGhlIHNpdHVhdGlvbiBpbiBjb21tb2RpdHkKbWFya2V0cyBhcmUgaW5jb25zaXN0ZW50IHdpdGggdGhlIGV4aXN0ZW5jZSBvZiBhIHN1YnN0YW50aWFsIGJ1YmJsZSBpbiBjb21tb2RpdHkgcHJpY2VzLgpUaGlyZCwgYXZhaWxhYmxlIHN0YXRpc3RpY2FsIGV2aWRlbmNlIGRvZXMgbm90IGluZGljYXRlIHRoYXQgcG9zaXRpb25zIGZvciBhbnkgZ3JvdXAgaW4gY29tbW9kaXR5CmZ1dHVyZXMgbWFya2V0cywgaW5jbHVkaW5nIGxvbmfigJNvbmx5IGluZGV4IGZ1bmRzLCBjb25zaXN0ZW50bHkgbGVhZCBmdXR1cmVzIHByaWNlCmNoYW5nZXMuIEZvdXJ0aCwgdGhlcmUgaXMgYSBoaXN0b3JpY2FsIHBhdHRlcm4gb2YgYXR0YWNrcyB1cG9uIHNwZWN1bGF0aW9uIGR1cmluZyBwZXJpb2RzIG9mCmV4dHJlbWUgbWFya2V0IHZvbGF0aWxpdHkuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tind.agecon",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tind",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

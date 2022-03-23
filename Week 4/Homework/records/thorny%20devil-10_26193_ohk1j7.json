@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.26193/ohk1j7",
+    "type": "works",
+    "attributes": {
+        "doi": "10.26193/ohk1j7",
+        "identifier": "https://doi.org/10.26193/ohk1j7",
+        "url": "https://dataverse.ada.edu.au/citation?persistentId=doi:10.26193/OHK1J7",
+        "author": [
+            {
+                "given": "Jonathan",
+                "family": "Kelley"
+            },
+            {
+                "given": "Clive",
+                "family": "Bean"
+            },
+            {
+                "given": "Mariah D. R.",
+                "family": "Evans"
+            },
+            {
+                "given": "Krzysztof",
+                "family": "Zagorski"
+            }
+        ],
+        "title": "National Social Science Survey, 1993",
+        "container-title": "ADA Dataverse",
+        "description": "This file is the sixth in the National Social Science Survey (NSSS) series and is a panel of respondents from the National Social Science Survey 1989/90: Family and Changing Sex Roles and the National Social Science Survey 1990: Lifestyles, and repeats many of the questions asked in the previous rounds. The survey also includes questions asked as part of the International Social Survey Programme. Comparative data from all countries in the Programme are processed and distributed by the Zentralarchiv fur Empirische Sozialforschung (ZA) at the University of Cologne (ZA Study 2150, Religion, 1991, ZA Study 2310, Inequality II 1992). The data file contains a wide range of attitudinal questions. Sections cover attitudes to government policies; trade unionism; attitudes to political leaders, parties and election issues; voting and party identification; feeling thermometer ratings of political leaders, groups and institutions; experience of crime; church services; parents' participation in cultural activities when respondent was growing up, and respondents participation in those activities then and now; standard of living when growing up and now; freedom of the Press; leisure activities; courtship and marriage; abortion; attitudes to medical ethics and preventable diseases. The Inequality module covers perceived prerequisites for success; social mobility; importance of hierarchical pay structure; estimates of actual and ideal salaries for various work positions; appropriateness of tax levels; conflicts between social groups; deciding factors in pay rates; actual and ideal social structure, and respondents' position in the structure. The Religion module focuses on the impact of religious beliefs and behaviours on social, political and moral attitudes. Variables include government responsibility; sexual relations; working women; belief in God, the Devil, heaven, hell and life after death; the influence of religious leaders on voting and government decisions; church attendance and involvement in other religious activities; image of God and image of the world. Background variables include respondents' education and qualifications, income and standard of living, trade union membership, religion, and the education of the respondents' parents and the religion of the respondents' spouse.",
+        "resource-type-subtype": null,
+        "data-center-id": "ands.centre87",
+        "member-id": "ands",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-02-01T04:41:26.000Z",
+        "checked": null,
+        "updated": "2019-09-27T02:32:39.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjYxOTMvT0hLMUo3PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+S2VsbGV5LCBKb25hdGhhbjwvY3JlYXRvck5hbWU+CiAgICAgIDxhZmZpbGlhdGlvbj5BdXN0cmFsaWFuIE5hdGlvbmFsIFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5CZWFuLCBDbGl2ZTwvY3JlYXRvck5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIiBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiPmh0dHBzOi8vb3JjaWQub3JnLzAwMDAtMDAwMi05NDEzLTI3Mlg8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24+QXVzdHJhbGlhbiBOYXRpb25hbCBVbml2ZXJzaXR5PC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+RXZhbnMsIE1hcmlhaCBELiBSLjwvY3JlYXRvck5hbWU+CiAgICAgIDxhZmZpbGlhdGlvbj5BdXN0cmFsaWFuIE5hdGlvbmFsIFVuaXZlcnNpdHk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5aYWdvcnNraSwgS3J6eXN6dG9mPC9jcmVhdG9yTmFtZT4KICAgICAgPGFmZmlsaWF0aW9uPlVuaXZlcnNpdHkgb2YgTWVsYm91cm5lPC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+TmF0aW9uYWwgU29jaWFsIFNjaWVuY2UgU3VydmV5LCAxOTkzPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPkFEQSBEYXRhdmVyc2U8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiLz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlRoaXMgZmlsZSBpcyB0aGUgc2l4dGggaW4gdGhlIE5hdGlvbmFsIFNvY2lhbCBTY2llbmNlIFN1cnZleSAoTlNTUykgc2VyaWVzIGFuZCBpcyBhIHBhbmVsIG9mIHJlc3BvbmRlbnRzIGZyb20gdGhlIE5hdGlvbmFsIFNvY2lhbCBTY2llbmNlIFN1cnZleSAxOTg5LzkwOiBGYW1pbHkgYW5kIENoYW5naW5nIFNleCBSb2xlcyBhbmQgdGhlIE5hdGlvbmFsIFNvY2lhbCBTY2llbmNlIFN1cnZleSAxOTkwOiBMaWZlc3R5bGVzLCBhbmQgcmVwZWF0cyBtYW55IG9mIHRoZSBxdWVzdGlvbnMgYXNrZWQgaW4gdGhlIHByZXZpb3VzIHJvdW5kcy4gVGhlIHN1cnZleSBhbHNvIGluY2x1ZGVzIHF1ZXN0aW9ucyBhc2tlZCBhcyBwYXJ0IG9mIHRoZSBJbnRlcm5hdGlvbmFsIFNvY2lhbCBTdXJ2ZXkgUHJvZ3JhbW1lLiBDb21wYXJhdGl2ZSBkYXRhIGZyb20gYWxsIGNvdW50cmllcyBpbiB0aGUgUHJvZ3JhbW1lIGFyZSBwcm9jZXNzZWQgYW5kIGRpc3RyaWJ1dGVkIGJ5IHRoZSBaZW50cmFsYXJjaGl2IGZ1ciBFbXBpcmlzY2hlIFNvemlhbGZvcnNjaHVuZyAoWkEpIGF0IHRoZSBVbml2ZXJzaXR5IG9mIENvbG9nbmUgKFpBIFN0dWR5IDIxNTAsIFJlbGlnaW9uLCAxOTkxLCBaQSBTdHVkeSAyMzEwLCBJbmVxdWFsaXR5IElJIDE5OTIpLiBUaGUgZGF0YSBmaWxlIGNvbnRhaW5zIGEgd2lkZSByYW5nZSBvZiBhdHRpdHVkaW5hbCBxdWVzdGlvbnMuIFNlY3Rpb25zIGNvdmVyIGF0dGl0dWRlcyB0byBnb3Zlcm5tZW50IHBvbGljaWVzOyB0cmFkZSB1bmlvbmlzbTsgYXR0aXR1ZGVzIHRvIHBvbGl0aWNhbCBsZWFkZXJzLCBwYXJ0aWVzIGFuZCBlbGVjdGlvbiBpc3N1ZXM7IHZvdGluZyBhbmQgcGFydHkgaWRlbnRpZmljYXRpb247IGZlZWxpbmcgdGhlcm1vbWV0ZXIgcmF0aW5ncyBvZiBwb2xpdGljYWwgbGVhZGVycywgZ3JvdXBzIGFuZCBpbnN0aXR1dGlvbnM7IGV4cGVyaWVuY2Ugb2YgY3JpbWU7IGNodXJjaCBzZXJ2aWNlczsgcGFyZW50cycgcGFydGljaXBhdGlvbiBpbiBjdWx0dXJhbCBhY3Rpdml0aWVzIHdoZW4gcmVzcG9uZGVudCB3YXMgZ3Jvd2luZyB1cCwgYW5kIHJlc3BvbmRlbnRzIHBhcnRpY2lwYXRpb24gaW4gdGhvc2UgYWN0aXZpdGllcyB0aGVuIGFuZCBub3c7IHN0YW5kYXJkIG9mIGxpdmluZyB3aGVuIGdyb3dpbmcgdXAgYW5kIG5vdzsgZnJlZWRvbSBvZiB0aGUgUHJlc3M7IGxlaXN1cmUgYWN0aXZpdGllczsgY291cnRzaGlwIGFuZCBtYXJyaWFnZTsgYWJvcnRpb247IGF0dGl0dWRlcyB0byBtZWRpY2FsIGV0aGljcyBhbmQgcHJldmVudGFibGUgZGlzZWFzZXMuIFRoZSBJbmVxdWFsaXR5IG1vZHVsZSBjb3ZlcnMgcGVyY2VpdmVkIHByZXJlcXVpc2l0ZXMgZm9yIHN1Y2Nlc3M7IHNvY2lhbCBtb2JpbGl0eTsgaW1wb3J0YW5jZSBvZiBoaWVyYXJjaGljYWwgcGF5IHN0cnVjdHVyZTsgZXN0aW1hdGVzIG9mIGFjdHVhbCBhbmQgaWRlYWwgc2FsYXJpZXMgZm9yIHZhcmlvdXMgd29yayBwb3NpdGlvbnM7IGFwcHJvcHJpYXRlbmVzcyBvZiB0YXggbGV2ZWxzOyBjb25mbGljdHMgYmV0d2VlbiBzb2NpYWwgZ3JvdXBzOyBkZWNpZGluZyBmYWN0b3JzIGluIHBheSByYXRlczsgYWN0dWFsIGFuZCBpZGVhbCBzb2NpYWwgc3RydWN0dXJlLCBhbmQgcmVzcG9uZGVudHMnIHBvc2l0aW9uIGluIHRoZSBzdHJ1Y3R1cmUuIFRoZSBSZWxpZ2lvbiBtb2R1bGUgZm9jdXNlcyBvbiB0aGUgaW1wYWN0IG9mIHJlbGlnaW91cyBiZWxpZWZzIGFuZCBiZWhhdmlvdXJzIG9uIHNvY2lhbCwgcG9saXRpY2FsIGFuZCBtb3JhbCBhdHRpdHVkZXMuIFZhcmlhYmxlcyBpbmNsdWRlIGdvdmVybm1lbnQgcmVzcG9uc2liaWxpdHk7IHNleHVhbCByZWxhdGlvbnM7IHdvcmtpbmcgd29tZW47IGJlbGllZiBpbiBHb2QsIHRoZSBEZXZpbCwgaGVhdmVuLCBoZWxsIGFuZCBsaWZlIGFmdGVyIGRlYXRoOyB0aGUgaW5mbHVlbmNlIG9mIHJlbGlnaW91cyBsZWFkZXJzIG9uIHZvdGluZyBhbmQgZ292ZXJubWVudCBkZWNpc2lvbnM7IGNodXJjaCBhdHRlbmRhbmNlIGFuZCBpbnZvbHZlbWVudCBpbiBvdGhlciByZWxpZ2lvdXMgYWN0aXZpdGllczsgaW1hZ2Ugb2YgR29kIGFuZCBpbWFnZSBvZiB0aGUgd29ybGQuIEJhY2tncm91bmQgdmFyaWFibGVzIGluY2x1ZGUgcmVzcG9uZGVudHMnIGVkdWNhdGlvbiBhbmQgcXVhbGlmaWNhdGlvbnMsIGluY29tZSBhbmQgc3RhbmRhcmQgb2YgbGl2aW5nLCB0cmFkZSB1bmlvbiBtZW1iZXJzaGlwLCByZWxpZ2lvbiwgYW5kIHRoZSBlZHVjYXRpb24gb2YgdGhlIHJlc3BvbmRlbnRzJyBwYXJlbnRzIGFuZCB0aGUgcmVsaWdpb24gb2YgdGhlIHJlc3BvbmRlbnRzJyBzcG91c2UuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KICA8Y29udHJpYnV0b3JzPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iQ29udGFjdFBlcnNvbiI+CiAgICAgIDxjb250cmlidXRvck5hbWU+QXVzdHJhbGlhbiBEYXRhIEFyY2hpdmU8L2NvbnRyaWJ1dG9yTmFtZT4KICAgICAgPGFmZmlsaWF0aW9uPkF1c3RyYWxpYW4gTmF0aW9uYWwgVW5pdmVyc2l0eTwvYWZmaWxpYXRpb24+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iUHJvZHVjZXIiPgogICAgICA8Y29udHJpYnV0b3JOYW1lPkF1c3RyYWxpYW4gRGF0YSBBcmNoaXZlPC9jb250cmlidXRvck5hbWU+CiAgICAgIDxhZmZpbGlhdGlvbj5UaGUgQXVzdHJhbGlhbiBOYXRpb25hbCBVbml2ZXJzaXR5PC9hZmZpbGlhdGlvbj4KICAgIDwvY29udHJpYnV0b3I+CiAgPC9jb250cmlidXRvcnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ands.centre87",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ands",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

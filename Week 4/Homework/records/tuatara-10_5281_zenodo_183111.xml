@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.183111</identifier>
+  <creators>
+    <creator>
+      <creatorName>Gershwin, Lisa-Ann</creatorName>
+      <givenName>Lisa-Ann</givenName>
+      <familyName>Gershwin</familyName>
+    </creator>
+    <creator>
+      <creatorName>Zeidler, Wolfgang</creatorName>
+      <givenName>Wolfgang</givenName>
+      <familyName>Zeidler</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Cladonema Timmsii, A New Species Of Hydromedusa (Cnidaria: Hydrozoa) From A Salt Lake In South Australia</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2008</publicationYear>
+  <subjects>
+    <subject>Biodiversity</subject>
+    <subject>Taxonomy</subject>
+    <subject>Animalia</subject>
+    <subject>Cnidaria</subject>
+    <subject>Hydrozoa</subject>
+    <subject>Anthoathecata</subject>
+    <subject>Cladonematidae</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2008-12-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Journal article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="lsid">urn:lsid:plazi.org:pub:FF884858706FFFD4FFF8D44CFF8F1B45</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/183111</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/03B13020706EFFD2FF6FD703FE3D1E9F</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.183112</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:2-227-1345-614-1924</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/183112</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.183113</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:3-220-1364-511-1228</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/183113</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.183114</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:4-225-1367-669-1931</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/183114</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5281/zenodo.183115</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="LSID" relationType="HasPart">urn:lsid:plazi.org:fig:5-300-1287-194-1442</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://zenodo.org/record/183115</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="info:eu-repo/semantics/closedAccess">Closed Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Gershwin, Lisa-Ann, Zeidler, Wolfgang (2008): Cladonema timmsii, a new species of hydromedusa (Cnidaria: Hydrozoa) from a salt lake in South Australia. Zootaxa 1826: 59-68, DOI: 10.5281/zenodo.183111</description>
+    <description descriptionType="Other">{"references": ["Allman, G.J. (1871-1872) A monograph of the gymnoblastic or tubularian hydroids. Ray Society, London, 1-450 pp., pls 1-23.", "Bouillon, J. &amp; Boero, F. (2000) Synopsis of the families and genera of the hydromedusae of the world, with a list of the worldwide species. Thalassia Salentina, 24, 47-296.", "Dujardin, F. (1843a) Observations sur un nouveau genre de medusaires provenant de la metamorphose des Syncorynes. Comptes rendus des seances de l'Academie des sciences, Paris, Tome 16, 1132-1136.", "Dujardin, F. (1843b) Observations sur un nouveau genre de medusaires, provenant de la metamorphose des Syncorynes. Annales des Sciences Naturelles, Paris (Zoology), Series 2, Tome 20, 370-373.", "Gegenbaur, C. (1856) Versuch eines Systemes der Medusen, mit Beschreibung neuer oder wenig gekannter Formen; zugleich ein Beitrag zur Kenntniss der Fauna des Mittelmeeres. Zeitschrift fur wissenschaftliche Zoologie, 8, 202- 273, pl. vii-x.", "Haeckel, E. (1879) Das System der Medusen: Erster Theil einer Monographie der Medusen. G. Fischer, Jena, 360 pp., atlas of 80 pls.", "Hatschek, B. (1888) Lehrbuch der Zoologie. Eine morphologische Ubersicht des Thiereiches zur Einfuhrung in das Studium dieser Wissenschaft. Gustav Fischer, Jena, 432 pp. [not seen].", "Hirai, E. (1958) On the species of Cladonema radiatum var. mayeri Perkins. Bulletin of the Marine Biological Station of Asamushi, 9, 23-25.", "Hyman, L.H. (1947) Two new hydromedusae from the California coast. Transactions of the American Microscopical Society, 66, 262-268.", "Kramp, P.L. (1961) Synopsis of the medusae of the world. Journal of the Marine Biological Association of the United Kingdom, 40, 1-469.", "Mayer, A.G. (1904) Medusae of the Bahamas. Memoirs of the Natural Science Museum of the Brooklyn Institute of Arts and Sciences, 1, 1-33, pls. 1-7.", "Mayer, A.G. (1910) Medusae of the World. Vol. 1 and 2, the hydromedusae. Vol. 3, The scyphomedusae. Carnegie Institution, Washington, D.C., 735 pp.", "Naumov, D.V. (1955) New genera and species of Hydroidea from far-Eastern seas. Travaux de l'Institut Zoologique de l'Academie des Sciences de l'U.S.S.R., 18, 19-28. [In Russian].", "Owen, R. (1843) Lectures on the comparative anatomy and physiology of the invertebrate animals, delivered at the Royal College of Surgeons, in 1843 [1 aufl.]. Longman, Brown, Green, and Longmans, London, 392 pp.", "Perkins, H.F. (1908) Notes on medusae of the western Atlantic. Papers from the Tortugas Laboratory, Carnegie Institution of Washington, 1, 135-149, pl. 1-4.", "Ralph, P.M. (1953) A guide to the athecate hydroids and medusae of New Zealand. Tuatara, 5, 59-75.", "Rees, J.T. (1979) The polyp and immature medusa stages of Cladonema californicum, Hyman, 1947 (Anthomedusae: Cladonemidae) with biological notes and a discussion of the taxonomy of the genus Cladonema. Journal of Natural History, 13, 295-302.", "Rees, J.T. (1982) The hydrozoan Cladonema in California: a possible introduction from east Asia. Pacific Science, 36, 439-444.", "Rees, W.J. (1949) On Cladonema myersi, a new species of hydroid from the California coast. Proceedings of the Zoological Society of London, 119, 861-865.", "Russell, F.S. (1953) The Medusae of the British Isles. Anthomedusae, Leptomedusae, Limnomedusae, Trachymedusae and Narcomedusae. Cambridge University Press, Cambridge, 530 pp.", "Schuchert, P. (2006) The European athecate hydroids and their medusae (Hydrozoa, Cnidaria): Capitata Part 1. Revue Suisse de Zoologie, 113, 325-410.", "Stepanjants, S.D., Ovanesyan, I.G. &amp; Sirenko, B.I. (1993) Cladonematidae representative (Hydrozoa, Athecata, Capitata) in Saint-Petersburg aquariums. Cladonema revision. Issledovaniya Fauny Morei, 45, 90-105 [Russian with English summary] [Unseen].", "Uchida, T. (1925) Some hydromedusae from Northern Japan. Japanese Journal of Zoology, 1, 77-100. Zeidler, W. &amp; Gershwin, L. (2004) A new species of Australomedusa (Cnidaria: Hydrozoa: Anthomedusae) from a saline lake in south-western Western Australia. Records of the Western Australian Museum, 22, 109-113."]}</description>
+  </descriptions>
+</resource>

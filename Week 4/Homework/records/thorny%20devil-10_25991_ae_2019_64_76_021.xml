@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25991/AE.2019.64.76.021</identifier>
+  <creators>
+    <creator>
+      <creatorName>Примочкина, Н.Н.</creatorName>
+      <affiliation>ИМЛИ РАН</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>ФАНТАСТИЧЕСКИЕ СЮЖЕТЫ И ОБРАЗЫ В ПАМФЛЕТАХ И  ОЧЕРКАХ  ГОРЬКОГО  ОБ АМЕРИКЕ</title>
+    <title titleType="TranslatedTitle">FANTASTIC PLOTS AND CHARACTERS IN PAMPHLETS AND ESSAYS OF GORKI ABOUT AMERICA   </title>
+  </titles>
+  <publisher>ACTA ERUDITORUM</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>М. Горький</subject>
+    <subject>творчество</subject>
+    <subject>демонологические сюжеты и образы</subject>
+    <subject>философский и социально-политический смысл</subject>
+    <subject>М. Gorki</subject>
+    <subject>work</subject>
+    <subject>demoniacs  plots and characters</subject>
+    <subject>philosophical and socio-political sense</subject>
+  </subjects>
+  <language>ru</language>
+  <dates>
+    <date dateType="Issued">2019-08-19</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Journal Article</resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsCitedBy">http://rhga.ru/upload/iblock/c36/c3679813011b9571ffd45245bf0ebd86.pdf</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="ISSN" relationType="IsPartOf">2307-6437</relatedIdentifier>
+  </relatedIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">В статье рассматриваются фантастические сюжеты и демонологические образы в сатирических памфлетах и фельетонах Горького, написанных им по впечатлениям от жизни в Соединенных Штатах Америки в 1906 г., выявляется их особый философский и социальнополитический смысл, устанавливается их связь с русской литературной традицией, одновременно показывается подлинное новаторство Горькогохудожника в освоении этой темы. Анализ этих произведений Горького позволяет прийти к выводу, что писатель, обращаясь к образу дьявола, пытался в яркой художественной форме выразить свою философскую мысль о всеобщем несовершенстве жизни и населяющих Землю людей, причем дьявол зачастую играет в них роль того персонажа, с помощью которого выявляются человеческие грехи и пороки общественного устройства.</description>
+    <description descriptionType="Abstract">In the article demoniacs plots and characters are examined in satiric pamphlets and satirical articles of Gorki, written to them on the impressions from life in the United States of America in 1906, their special philosophical and sociopolitical sense comes to light, their connection is established with Russian literary tradition, the authentic innovation of Gorkiartist is simultaneously shown in mastering of this theme. The analysis of these works of Gorki allows to come to the conclusion, that a writer, calling to character of devil, tried in a bright artistic form to express the philosophical idea about universal imperfection of life and inhabiting Earth people, thus a devil frequently plays them the role of that personage human sins and vices of public device come to light by means of that.</description>
+    <description descriptionType="SeriesInformation">№31 (2019)</description>
+  </descriptions>
+</resource>

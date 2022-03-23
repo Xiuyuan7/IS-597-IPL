@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/ZENODO.2585367</identifier>
+  <creators>
+    <creator>
+      <creatorName>Zeng, Lu</creatorName>
+      <givenName>Lu</givenName>
+      <familyName>Zeng</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0001-9381-7690</nameIdentifier>
+      <affiliation>University of Adelaide</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Peona, Valentina</creatorName>
+      <givenName>Valentina</givenName>
+      <familyName>Peona</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0001-5119-1837</nameIdentifier>
+      <affiliation>Uppsala University</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Peart, Claire</creatorName>
+      <givenName>Claire</givenName>
+      <familyName>Peart</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-0433-0299</nameIdentifier>
+      <affiliation>Uppsala University</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Warmuth, Vera</creatorName>
+      <givenName>Vera</givenName>
+      <familyName>Warmuth</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-0305-5125</nameIdentifier>
+      <affiliation>Uppsala University</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Grau, Jose H</creatorName>
+      <givenName>Jose H</givenName>
+      <familyName>Grau</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0003-4595-9517</nameIdentifier>
+      <affiliation>Museum für Naturkunde Berlin</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Korschak, R Daniel</creatorName>
+      <givenName>R Daniel</givenName>
+      <familyName>Korschak</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0001-8295-2301</nameIdentifier>
+      <affiliation>Adelaide University</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Bertozzi, Terry</creatorName>
+      <givenName>Terry</givenName>
+      <familyName>Bertozzi</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0001-6665-3395</nameIdentifier>
+      <affiliation>South Australian Museum</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Suh, Alexander</creatorName>
+      <givenName>Alexander</givenName>
+      <familyName>Suh</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-8979-9992</nameIdentifier>
+      <affiliation>Uppsala University</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Adelson, David L</creatorName>
+      <givenName>David L</givenName>
+      <familyName>Adelson</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0003-2404-5636</nameIdentifier>
+      <affiliation>University of Adelaide</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>Tuatara (Sphenodon punctatus) ab initio interspersed repeat consensus sequences from the Tuatara genome assembly.</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>Tuatara</subject>
+    <subject>LINE</subject>
+    <subject>SINE</subject>
+    <subject>ERV</subject>
+    <subject>repeat</subject>
+    <subject>transposon</subject>
+    <subject>TE</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2019-03-06</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/2585367</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.2585366</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International</rights>
+    <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">&lt;p&gt;These repeat consensus sequences are part of the genome analysis of the Tuatara genome.&amp;nbsp;&lt;/p&gt;</description>
+    <description descriptionType="Other">Genome sequence/assembly is supported by Ngatiwai iwi, Allan Wilson Centre, University of Otago, New Zealand Genomics Limited, Illumina, National eScience Infrastructure (NeSI NZ). Repeat work supported by University of Adelaide, Uppsala University, South Australian Museum and Museum für Naturkunde Berlin.</description>
+  </descriptions>
+</resource>

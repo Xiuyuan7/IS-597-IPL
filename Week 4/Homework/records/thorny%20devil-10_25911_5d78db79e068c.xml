@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25911/5D78DB79E068C</identifier>
+  <creators>
+    <creator>
+      <creatorName>Hansen, Christine Frances</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Telling Absence: Aboriginal social history and the National Museum of Australia</title>
+  </titles>
+  <publisher>The Australian National University</publisher>
+  <publicationYear>2012</publicationYear>
+  <subjects>
+    <subject>Aboriginal history</subject>
+    <subject>Indigenous history</subject>
+    <subject>museums</subject>
+    <subject>material culture</subject>
+    <subject>Aboriginal history of the Snowy Mountains</subject>
+    <subject>the National Museum of Australia</subject>
+    <subject>Ngarigo</subject>
+    <subject>Aboriginal objects</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>The Australian National University</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>The Australian National University</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2012-09-13</date>
+    <date dateType="Available">2012-09-13</date>
+    <date dateType="Created">2009-12</date>
+    <date dateType="Issued">2012-09-13</date>
+  </dates>
+  <language>en-AU</language>
+  <resourceType resourceTypeGeneral="Other">Thesis (PhD)</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="other">b24445848</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">http://hdl.handle.net/1885/9328</alternateIdentifier>
+  </alternateIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">The ordinary stories of ordinary Aboriginal people are a necessary part of Australian history. Yet museums throughout Australia, and in particular the National Museum of Australia, which are charged with the task of telling these stories, struggle to find appropriate material means to do so: the history which shaped Australian museum collections and the history which shaped contemporary Aboriginal communities do not neatly converge. This research reflects on both. The structure of this thesis is fashioned around three distinct voices. The first of these is my own where I give an account of my engagement with the Ngarigo community from the Snowy Mountains region of New South Wales into whose contemporary reality and history I am drawn. This reflexive narrative also provides the means for consideration of the complex and sometimes confronting research process as it unfolds in the field. Stories rather than objects were central to the interests of the community participants and it was a story, or rather a series of stories, which I felt would best serve the thorny conjunction of politics, history and representation at the core of this project. Story is also the central method in the second voice of this work, that of the historical narrative. Here the plot centres not so much on reflection as on reconstruction of a Ngarigo family history. It is this voice that provides a powerful juxtaposition between the reality of lived lives and the constructions of Aboriginality emanating from both the academy and from within institutions of popular culture such as museums. The third voice of the thesis offers an analytical examination of the ideas underpinning the conceptual and historical elements out of which a museum is constructed. In this way I explore how the processes which have constituted the museum might be re-configured to accommodate the particularities of Aboriginal social history.</description>
+  </descriptions>
+</resource>

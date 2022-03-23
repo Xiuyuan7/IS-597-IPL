@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.21963/12962</identifier>
+  <creators>
+    <creator>
+      <creatorName>Virginia León-Règagnon</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Ian Hogg</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Paul Hebert</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The distribution and abundance of parasites in harvested wildlife from the Canadian North : a review</title>
+  </titles>
+  <publisher>Canadian Cryospheric Information Network</publisher>
+  <publicationYear>2018</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">CreativeWork</resourceType>
+  <dates>
+    <date dateType="Issued">2018</date>
+  </dates>
+  <version/>
+  <descriptions>
+    <description descriptionType="Abstract">Parasites are key components of arctic ecosystems. The current rate of climate and landscape changes in the Arctic is expected to alter host-parasite interactions, creating a significant concern for the sustainability of arctic vertebrates. In addition to direct effects on host populations, changes in parasite loads on wildlife can have significant impacts on the people who depend on these organisms for food. Parasites play important roles in maintaining ecosystem stability through the regulation of host populations, and can provide unique insights into ecosystem structure. The present review examines the literature on the parasites of harvested wildlife in the Canadian North including studies in the Yukon, Northwest Territories, Nunavut, northern Quebec (Nunavik), and Newfoundland and Labrador. For host species with higher mobility, we included records from other regions, such as Greenland, Russia and the Canadian Subarctic, when no parasitological studies were available for the Canadian North. In addition, we searched databases for the Parasite Collection at the Canadian Museum of Nature and for the United States Parasite Collection for records from the Canadian North. We found records for 248 species of macroparasites in vertebrate species of country food of animal origin in the Canadian North including flatworms, roundworms, thorny-headed worms, ticks, lice, fleas, flies and tongue worms. This review highlights the need to extend the study of the parasites which infect the primary species of harvested wildlife in the Canadian North. More detailed information on parasite communities is particularly important as climate change raises the possibility that new parasite species will colonize the region. Building a DNA barcode library for the parasites from country food in the area will facilitate their identification and monitoring.</description>
+  </descriptions>
+</resource>

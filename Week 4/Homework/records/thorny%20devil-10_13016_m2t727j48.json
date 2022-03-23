@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.13016/m2t727j48",
+    "type": "works",
+    "attributes": {
+        "doi": "10.13016/m2t727j48",
+        "identifier": "https://doi.org/10.13016/m2t727j48",
+        "url": "https://www.datacite.org/invalid.html",
+        "author": [
+            {
+                "given": "Telana Leilani",
+                "family": "Jackson"
+            }
+        ],
+        "title": "Collisional Plasmas In Martian Dust Storms: Application To Sustenance And Glow Emissions",
+        "container-title": "My University",
+        "description": "Mars' dynamic atmosphere displays dust devils and larger, global dust storms. Through models and simulations, these features show large electrostatic fields and it is possible that, in the low pressure Martian atmosphere, they may create an electron avalanche and a collisional plasma due to an increase in electron density with ambient E-field. To show that a plasma is sustained under these conditions, a model of the predicted electric Martian dust storm electron avalanche is created, including electron impact ionization sources and electron loss processes (i.e. dust absorption, system loss, electron dissociation and electron recombination). This new model is called the \"Dust Devil Electron Avalanche Model (DDEAM)\". \t      These losses have not been included in previous models, which stimulated the objectives of this study, to (a) develop a simple form for the Townsend coefficient, (b) determine the critical E-field where plasma sustenance occurs, (c) determine the electron density and model the continuity equation including losses, and (d) model the developments of a plasma \"glow\" discharge and Mars methane destruction as functions of E-field. This work enhances the recently-published model by Delory et al. [2006], which considered source terms for electron generation.        The DDEAM system of eight one-dimensional differential equations was solved simultaneously for values to characterize the electron density, the densities of constituents (CO2,H2O) and their products (CO2+, CO,O-, OH ,H-) due to electron/molecule interactions in the Martian atmosphere. Values for glow discharge and methane destruction rates were also found. When all losses are included in the electron continuity equation, the electron density grows exponentially with increasing E-field, eventually reaching the equilibrium needed to sustain a plasma. The recombination loss plays the biggest role in stabilizing the system. It is also shown that glow discharges can occur within Martian dust storms, reaching a value of 6*10^21 photons/m^3 with a mean free path of ~32m after traveling 60m down a dust column and should be observable by landed spacecraft. The destruction rate for methane shows an increase by a factor of 10^17/m^3s as the E-field increases",
+        "resource-type-subtype": "Text",
+        "data-center-id": "umd.lib",
+        "member-id": "umd",
+        "resource-type-id": "collection",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2008",
+        "registered": "2018-04-27T13:40:22.000Z",
+        "checked": null,
+        "updated": "2019-09-17T13:01:20.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTMwMTYvTTJUNzI3SjQ4PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+SmFja3NvbiwgVGVsYW5hIExlaWxhbmk8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5Db2xsaXNpb25hbCBQbGFzbWFzIEluIE1hcnRpYW4gRHVzdCBTdG9ybXM6IEFwcGxpY2F0aW9uIFRvIFN1c3RlbmFuY2UgQW5kIEdsb3cgRW1pc3Npb25zPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPk15IFVuaXZlcnNpdHk8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMDg8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5DaGVtaXN0cnk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5QbGFzbWE8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5EdXN0IERldmlsPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+TWFyczwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlBsYXNtYSBQaHlzaWNzPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGNvbnRyaWJ1dG9ycz4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IkRhdGFNYW5hZ2VyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5NeSBVbml2ZXJzaXR5PC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iSG9zdGluZ0luc3RpdHV0aW9uIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5NeSBVbml2ZXJzaXR5PC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iUmVsYXRlZFBlcnNvbiI+CiAgICAgIDxjb250cmlidXRvck5hbWU+Tml0aGlhbmFuZGFtLCBKZXlhc2luZ2g8L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJSZWxhdGVkUGVyc29uIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5GYXJyZWxsLCBXaWxsaWFtIE08L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgPC9jb250cmlidXRvcnM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAwODwvZGF0ZT4KICA8L2RhdGVzPgogIDxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJDb2xsZWN0aW9uIj5UZXh0PC9yZXNvdXJjZVR5cGU+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVyaSI+aHR0cDovL2hkbC5oYW5kbGUubmV0LzExNjAzLzk3NDE8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHM+VGhpcyBpdGVtIGlzIG1hZGUgYXZhaWxhYmxlIGJ5IE1vcmdhbiBTdGF0ZSBVbml2ZXJzaXR5IGZvciBwZXJzb25hbCwgZWR1Y2F0aW9uYWwsIGFuZCByZXNlYXJjaCBwdXJwb3NlcyBpbiBhY2NvcmRhbmNlIHdpdGggVGl0bGUgMTcgb2YgdGhlIFUuUy4gQ29weXJpZ2h0IExhdy4gT3RoZXIgdXNlcyBtYXkgcmVxdWlyZSBwZXJtaXNzaW9uIGZyb20gdGhlIGNvcHlyaWdodCBvd25lci48L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5NYXJzJyBkeW5hbWljIGF0bW9zcGhlcmUgZGlzcGxheXMgZHVzdCBkZXZpbHMgYW5kIGxhcmdlciwgZ2xvYmFsIGR1c3Qgc3Rvcm1zLiBUaHJvdWdoIG1vZGVscyBhbmQgc2ltdWxhdGlvbnMsIHRoZXNlIGZlYXR1cmVzIHNob3cgbGFyZ2UgZWxlY3Ryb3N0YXRpYyBmaWVsZHMgYW5kIGl0IGlzIHBvc3NpYmxlIHRoYXQsIGluIHRoZSBsb3cgcHJlc3N1cmUgTWFydGlhbiBhdG1vc3BoZXJlLCB0aGV5IG1heSBjcmVhdGUgYW4gZWxlY3Ryb24gYXZhbGFuY2hlIGFuZCBhIGNvbGxpc2lvbmFsIHBsYXNtYSBkdWUgdG8gYW4gaW5jcmVhc2UgaW4gZWxlY3Ryb24gZGVuc2l0eSB3aXRoIGFtYmllbnQgRS1maWVsZC4gVG8gc2hvdyB0aGF0IGEgcGxhc21hIGlzIHN1c3RhaW5lZCB1bmRlciB0aGVzZSBjb25kaXRpb25zLCBhIG1vZGVsIG9mIHRoZSBwcmVkaWN0ZWQgZWxlY3RyaWMgTWFydGlhbiBkdXN0IHN0b3JtIGVsZWN0cm9uIGF2YWxhbmNoZSBpcyBjcmVhdGVkLCBpbmNsdWRpbmcgZWxlY3Ryb24gaW1wYWN0IGlvbml6YXRpb24gc291cmNlcyBhbmQgZWxlY3Ryb24gbG9zcyBwcm9jZXNzZXMgKGkuZS4gZHVzdCBhYnNvcnB0aW9uLCBzeXN0ZW0gbG9zcywgZWxlY3Ryb24gZGlzc29jaWF0aW9uIGFuZCBlbGVjdHJvbiByZWNvbWJpbmF0aW9uKS4gVGhpcyBuZXcgbW9kZWwgaXMgY2FsbGVkIHRoZSAiRHVzdCBEZXZpbCBFbGVjdHJvbiBBdmFsYW5jaGUgTW9kZWwgKERERUFNKSIuIAkgICAgICBUaGVzZSBsb3NzZXMgaGF2ZSBub3QgYmVlbiBpbmNsdWRlZCBpbiBwcmV2aW91cyBtb2RlbHMsIHdoaWNoIHN0aW11bGF0ZWQgdGhlIG9iamVjdGl2ZXMgb2YgdGhpcyBzdHVkeSwgdG8gKGEpIGRldmVsb3AgYSBzaW1wbGUgZm9ybSBmb3IgdGhlIFRvd25zZW5kIGNvZWZmaWNpZW50LCAoYikgZGV0ZXJtaW5lIHRoZSBjcml0aWNhbCBFLWZpZWxkIHdoZXJlIHBsYXNtYSBzdXN0ZW5hbmNlIG9jY3VycywgKGMpIGRldGVybWluZSB0aGUgZWxlY3Ryb24gZGVuc2l0eSBhbmQgbW9kZWwgdGhlIGNvbnRpbnVpdHkgZXF1YXRpb24gaW5jbHVkaW5nIGxvc3NlcywgYW5kIChkKSBtb2RlbCB0aGUgZGV2ZWxvcG1lbnRzIG9mIGEgcGxhc21hICJnbG93IiBkaXNjaGFyZ2UgYW5kIE1hcnMgbWV0aGFuZSBkZXN0cnVjdGlvbiBhcyBmdW5jdGlvbnMgb2YgRS1maWVsZC4gVGhpcyB3b3JrIGVuaGFuY2VzIHRoZSByZWNlbnRseS1wdWJsaXNoZWQgbW9kZWwgYnkgRGVsb3J5IGV0IGFsLiBbMjAwNl0sIHdoaWNoIGNvbnNpZGVyZWQgc291cmNlIHRlcm1zIGZvciBlbGVjdHJvbiBnZW5lcmF0aW9uLiAgICAgICAgVGhlIERERUFNIHN5c3RlbSBvZiBlaWdodCBvbmUtZGltZW5zaW9uYWwgZGlmZmVyZW50aWFsIGVxdWF0aW9ucyB3YXMgc29sdmVkIHNpbXVsdGFuZW91c2x5IGZvciB2YWx1ZXMgdG8gY2hhcmFjdGVyaXplIHRoZSBlbGVjdHJvbiBkZW5zaXR5LCB0aGUgZGVuc2l0aWVzIG9mIGNvbnN0aXR1ZW50cyAoQ08yLEgyTykgYW5kIHRoZWlyIHByb2R1Y3RzIChDTzIrLCBDTyxPLSwgT0ggLEgtKSBkdWUgdG8gZWxlY3Ryb24vbW9sZWN1bGUgaW50ZXJhY3Rpb25zIGluIHRoZSBNYXJ0aWFuIGF0bW9zcGhlcmUuIFZhbHVlcyBmb3IgZ2xvdyBkaXNjaGFyZ2UgYW5kIG1ldGhhbmUgZGVzdHJ1Y3Rpb24gcmF0ZXMgd2VyZSBhbHNvIGZvdW5kLiBXaGVuIGFsbCBsb3NzZXMgYXJlIGluY2x1ZGVkIGluIHRoZSBlbGVjdHJvbiBjb250aW51aXR5IGVxdWF0aW9uLCB0aGUgZWxlY3Ryb24gZGVuc2l0eSBncm93cyBleHBvbmVudGlhbGx5IHdpdGggaW5jcmVhc2luZyBFLWZpZWxkLCBldmVudHVhbGx5IHJlYWNoaW5nIHRoZSBlcXVpbGlicml1bSBuZWVkZWQgdG8gc3VzdGFpbiBhIHBsYXNtYS4gVGhlIHJlY29tYmluYXRpb24gbG9zcyBwbGF5cyB0aGUgYmlnZ2VzdCByb2xlIGluIHN0YWJpbGl6aW5nIHRoZSBzeXN0ZW0uIEl0IGlzIGFsc28gc2hvd24gdGhhdCBnbG93IGRpc2NoYXJnZXMgY2FuIG9jY3VyIHdpdGhpbiBNYXJ0aWFuIGR1c3Qgc3Rvcm1zLCByZWFjaGluZyBhIHZhbHVlIG9mIDYqMTBeMjEgcGhvdG9ucy9tXjMgd2l0aCBhIG1lYW4gZnJlZSBwYXRoIG9mIH4zMm0gYWZ0ZXIgdHJhdmVsaW5nIDYwbSBkb3duIGEgZHVzdCBjb2x1bW4gYW5kIHNob3VsZCBiZSBvYnNlcnZhYmxlIGJ5IGxhbmRlZCBzcGFjZWNyYWZ0LiBUaGUgZGVzdHJ1Y3Rpb24gcmF0ZSBmb3IgbWV0aGFuZSBzaG93cyBhbiBpbmNyZWFzZSBieSBhIGZhY3RvciBvZiAxMF4xNy9tXjNzIGFzIHRoZSBFLWZpZWxkIGluY3JlYXNlczwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "umd.lib",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "umd",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "collection",
+                "type": "resource-types"
+            }
+        }
+    }
+}

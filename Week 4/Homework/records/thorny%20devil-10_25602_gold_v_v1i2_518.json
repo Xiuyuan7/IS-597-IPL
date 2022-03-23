@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.25602/gold.v.v1i2.518",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25602/gold.v.v1i2.518",
+        "identifier": "https://doi.org/10.25602/gold.v.v1i2.518",
+        "url": "http://journals.gold.ac.uk/index.php/volupte/article/view/518",
+        "author": [
+            {
+                "given": "Alice",
+                "family": "Cond\u00e9"
+            },
+            {
+                "given": "Jessica",
+                "family": "Gossling"
+            }
+        ],
+        "title": "The Devil in the Detail: An Introduction to Decadent Occultism from the Editors",
+        "container-title": "Volupt\u00e9",
+        "description": "The double meaning of \u2018occult\u2019 refers to the secret and the supernatural, and, just as \u2018Decadent\u2019 was both a pejorative term and a badge of honour in the nineteenth century, accusations of affiliation with the dark arts are being re-appropriated and celebrated by marginalized groups. The historical association of the occult with non-normativity and transgression means it has particular significance as a form of protest or protection in today\u2019s era of \u2018small-d\u2019 decadence. There has been a recent extreme political swerve to the right, climate change denial threatens to end the world as we know it, and social media platforms are subject to deep corruption and involvement in a neo-Cold War, but bubbling under this surface is a queer rebellion associated with witchcraft and occult magick.",
+        "resource-type-subtype": "Article",
+        "data-center-id": "bl.gold",
+        "member-id": "bl",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2019-03-05T14:32:58.000Z",
+        "checked": null,
+        "updated": "2019-09-21T15:00:57.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjU2MDIvR09MRC5WLlYxSTIuNTE4PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Q29uZMOpLCBBbGljZTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkdvc3NsaW5nLCBKZXNzaWNhPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+VGhlIERldmlsIGluIHRoZSBEZXRhaWw6IEFuIEludHJvZHVjdGlvbiB0byBEZWNhZGVudCBPY2N1bHRpc20gZnJvbSB0aGUgRWRpdG9yczwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5Wb2x1cHTDqTwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxODwvcHVibGljYXRpb25ZZWFyPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJTdWJtaXR0ZWQiPjIwMTgtMTItMjE8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQWNjZXB0ZWQiPjIwMTgtMTItMjE8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOC0xMi0yMTwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTgtMTItMjE8L2RhdGU+CiAgPC9kYXRlcz4KICA8bGFuZ3VhZ2U+ZW48L2xhbmd1YWdlPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+QXJ0aWNsZTwvcmVzb3VyY2VUeXBlPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJwdWJsaXNoZXJJZCI+MTAtNDQtNTE4PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogIDwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5UaGUgZG91YmxlIG1lYW5pbmcgb2Yg4oCYb2NjdWx04oCZIHJlZmVycyB0byB0aGUgc2VjcmV0IGFuZCB0aGUgc3VwZXJuYXR1cmFsLCBhbmQsIGp1c3QgYXMg4oCYRGVjYWRlbnTigJkgd2FzIGJvdGggYSBwZWpvcmF0aXZlIHRlcm0gYW5kIGEgYmFkZ2Ugb2YgaG9ub3VyIGluIHRoZSBuaW5ldGVlbnRoIGNlbnR1cnksIGFjY3VzYXRpb25zIG9mIGFmZmlsaWF0aW9uIHdpdGggdGhlIGRhcmsgYXJ0cyBhcmUgYmVpbmcgcmUtYXBwcm9wcmlhdGVkIGFuZCBjZWxlYnJhdGVkIGJ5IG1hcmdpbmFsaXplZCBncm91cHMuIFRoZSBoaXN0b3JpY2FsIGFzc29jaWF0aW9uIG9mIHRoZSBvY2N1bHQgd2l0aCBub24tbm9ybWF0aXZpdHkgYW5kIHRyYW5zZ3Jlc3Npb24gbWVhbnMgaXQgaGFzIHBhcnRpY3VsYXIgc2lnbmlmaWNhbmNlIGFzIGEgZm9ybSBvZiBwcm90ZXN0IG9yIHByb3RlY3Rpb24gaW4gdG9kYXnigJlzIGVyYSBvZiDigJhzbWFsbC1k4oCZIGRlY2FkZW5jZS4gVGhlcmUgaGFzIGJlZW4gYSByZWNlbnQgZXh0cmVtZSBwb2xpdGljYWwgc3dlcnZlIHRvIHRoZSByaWdodCwgY2xpbWF0ZSBjaGFuZ2UgZGVuaWFsIHRocmVhdGVucyB0byBlbmQgdGhlIHdvcmxkIGFzIHdlIGtub3cgaXQsIGFuZCBzb2NpYWwgbWVkaWEgcGxhdGZvcm1zIGFyZSBzdWJqZWN0IHRvIGRlZXAgY29ycnVwdGlvbiBhbmQgaW52b2x2ZW1lbnQgaW4gYSBuZW8tQ29sZCBXYXIsIGJ1dCBidWJibGluZyB1bmRlciB0aGlzIHN1cmZhY2UgaXMgYSBxdWVlciByZWJlbGxpb24gYXNzb2NpYXRlZCB3aXRoIHdpdGNoY3JhZnQgYW5kIG9jY3VsdCBtYWdpY2suwqA8L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iU2VyaWVzSW5mb3JtYXRpb24iPlZvbHVwdMOpLCBWb2wgMSBObyAyICgyMDE4KTogRGVjYWRlbmNlLCBNYWdpYyhrKSwgYW5kIHRoZSBPY2N1bHQ8L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "bl.gold",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "bl",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

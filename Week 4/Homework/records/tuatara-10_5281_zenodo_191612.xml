@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.191612</identifier>
+  <creators>
+    <creator>
+      <creatorName>González-Acuña, Daniel</creatorName>
+      <givenName>Daniel</givenName>
+      <familyName>González-Acuña</familyName>
+    </creator>
+    <creator>
+      <creatorName>Cerda, Fabiola</creatorName>
+      <givenName>Fabiola</givenName>
+      <familyName>Cerda</familyName>
+    </creator>
+    <creator>
+      <creatorName>López, Juana</creatorName>
+      <givenName>Juana</givenName>
+      <familyName>López</familyName>
+    </creator>
+    <creator>
+      <creatorName>Ortega, René</creatorName>
+      <givenName>René</givenName>
+      <familyName>Ortega</familyName>
+    </creator>
+    <creator>
+      <creatorName>Mathieu, Christian</creatorName>
+      <givenName>Christian</givenName>
+      <familyName>Mathieu</familyName>
+    </creator>
+    <creator>
+      <creatorName>Kinsella, Mike</creatorName>
+      <givenName>Mike</givenName>
+      <familyName>Kinsella</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Checklist Of The Helminths Of The Kelp Gull, Larus Dominicanus (Aves: Laridae), With New Records From Chile</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2009</publicationYear>
+  <subjects>
+    <subject>Biodiversity</subject>
+    <subject>Taxonomy</subject>
+    <subject>Animalia</subject>
+    <subject>Platyhelminthes</subject>
+    <subject>Trematoda</subject>
+    <subject>Diplostomida</subject>
+    <subject>Diplostomidae</subject>
+    <subject>Plagiorchiida</subject>
+    <subject>Echinostomatidae</subject>
+    <subject>Digenea</subject>
+    <subject>Echinostomida</subject>
+    <subject>Philopthalmidae</subject>
+    <subject>Gymnophallidae</subject>
+    <subject>Microphallidae</subject>
+    <subject>Renicolidae</subject>
+    <subject>Stomylotrematidae</subject>
+    <subject>Heterophyidae</subject>
+    <subject>Opisthorchiidae</subject>
+    <subject>Notocotylidae</subject>
+    <subject>Schistosomatidae</subject>
+    <subject>Cestoda</subject>
+    <subject>Cyclophyllidea</subject>
+    <subject>Hymenolepididae</subject>
+    <subject>Mesocestoididae</subject>
+    <subject>Tetrabothriidea</subject>
+    <subject>Tetrabothriidae</subject>
+    <subject>Diphyllobothriidea</subject>
+    <subject>Diphyllobothriidae</subject>
+    <subject>Nematoda</subject>
+    <subject>Secernentea</subject>
+    <subject>Ascaridida</subject>
+    <subject>Anisakidae</subject>
+    <subject>Spirurida</subject>
+    <subject>Acuariidae</subject>
+    <subject>Tetrameridae</subject>
+    <subject>Acanthocephala</subject>
+    <subject>Palaeacanthocephala</subject>
+    <subject>Polymorphida</subject>
+    <subject>Polymorphidae</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2009-12-31</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Journal article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="lsid">urn:lsid:plazi.org:pub:0758F17DFFE16A15990B9A7C5603FF96</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/191612</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE06A14999C99845432F90E</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE06A17999C9D6455FFF85D</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE26A16999C9AEB54E9FC06</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE26A16999C9E6C5586F900</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE26A11999C9D6A537FF9F9</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE56A11999C9CDE5436F832</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE46A10999C9AEB5590FD98</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE46A10999C98F2530BFC48</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE46A10999C9E6C54A2FAF6</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE46A10999C9F9C55A9F89C</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE46A12999C9DF654CCFB92</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE66A1D999C9E4B525AFCFC</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE96A1D999C99E15437FB09</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE96A1D999C9EAE52C6F8E8</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE86A1C999C9A995553FC21</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFE86A1C999C9E845474F8A6</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFEB6A1E999C98F255DDFCFC</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFEA6A1E999C99965432FA38</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="HasPart">http://treatment.plazi.org/id/FB618905FFEA6A19999C9CDE54C8F9DE</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="info:eu-repo/semantics/closedAccess">Closed Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">González-Acuña, Daniel, Cerda, Fabiola, López, Juana, Ortega, René, Mathieu, Christian, Kinsella, Mike (2009): Checklist of the helminths of the kelp gull, Larus dominicanus (Aves: Laridae), with new records from Chile. Zootaxa 2297: 27-43, DOI: 10.5281/zenodo.191612</description>
+    <description descriptionType="Other">{"references": ["Al-Kandari, M. A., Abdul-Salam, J. M., Moussa, M. A. &amp; Sreelatha, B. S. (2007) Seasonal dynamics of the cercarial and metacercarial stages of the microphallid trematode Maritrema eroliae (Digenea: Microphallidae). Acta Zoologica Sinica, 53, 463-469.", "Amin, O. (1985) Classification. In: Crompton, D. W. T. &amp; Nickol, B. B. (Eds.). Biology of the Acanthocephala. Cambridge University Press, Cambridge, pp. 27-72.", "Anderson, R. C., Chabaud, A.G. &amp; Willmott, S. (1974) CIH Keys to the Nematode Parasites of Vertebrates. Commonwealth Agricultural Bureaux, Farnham Royal, England.", "Appleton, C.C. (1982) The eggs of some blood flukes (Trematoda: Schistosomatidae) from South African birds. South African Journal of Zoology, 17, 147-150.", "Appleton, C.C. &amp; Randall, R.M. (1986) Schistosome infection in the kelp gull Larus dominicanus from Port Elizabeth, South Africa. Journal of Helminthology, 60, 143-146.", "Bowie, J. Y. (1981) Redescription of Cosmocephalus tanakai Rodrigues &amp; Vicente (Nematoda: Acuariidae), a parasite of the southern black-backed gull in New Zealand. New Zealand Journal of Zoology, 8, 249-253.", "Bray, R. A., Gibson, D. I., &amp; Jones, A. (Eds.). (2008) Keys to the Trematoda. Volume 3.CABI Publishing, London, 824 pp.", "Burger, J. &amp; Gochfeld, M. (1996) Family Laridae (Gulls). In: del Hoyo, J. A. Elliot &amp; Sargartal, J. (eds). Handbook of the birds of the World. Volume 3, Lynx Editions, Barcelona, Spain, pp. 572-623.", "Cielecka, D. &amp; Zdzitowiecki, K. (1981) The tapeworm Microsomacanthus shetlandicus sp.n. (Hymenolepidae) from the Dominican gull of King George Island (South Shetlands, Antarctica). Bulletin de l\u00b4Academia Polonaise des Sciences, 29, 173-180.", "Cremonte, F. (2001) Bartolius pierrei n. g. sp. (Digenea: Gymnophallidae) from Peninsula Valdes, Argentina. Systematic Parasitology, 49, 139-147.", "Cremonte, F. (2004) Life cycle and geographic distribution of the gymnophallid Bartollius pierrei (Digenea) on the Patagonian coast, Argentina. Journal of Natural History, 38, 1591-1604.", "Cremonte, F. &amp; Etchegoin, J.A. (2002) First report of the microphallid digenean Odhneria odhneri Travassos, 1921 parasite of two birds from Patagonian coast, Argentina. Neotropica, 48, 58-60.", "Cremonte, F., Etchegoin, J.A. &amp; Martorelli, S.R. (1999a) Nuevos hospedadores de los digeneos Maritrema bonarensis (Microphallidae) y Stephanoprora podicipei (Echinostomatidae) en Argentina. Stephanoprora manei Holcman- Spector &amp; Olague, 1986 como un nomen nudum. Neotropica, 45, 105-107.", "Cremonte, F. &amp; Ituarte, C.F. (2003) Pathologies elicited by the gymnophallid metacercariae of Bartolius pierrei in the clam Darina solenoides. Journal of Marine Biological Association of the United Kingdom, 83, 311-318.", "Cremonte, F. &amp; Martorelli, S.R. (1998) Description of a new species of Maritrema (Digenea: Microphallidae) in Larus dominicanus (Aves: Laridae) from Buenos Aires coast, Argentina. Folia Parasitologica, 45, 230-232.", "Cremonte, F. &amp; Navone, T. (1999) Co-ocurrence of Pectinospirura argentata Wehr, 1933, Skrjabinoclava andersoni n. sp. and larvae (Nematoda: Acuariidae) in the proventriculus of Larus dominicanus Lichtenstein (Aves: Laridae), with notes on their attachment. Systematic Parasitology, 42, 203-211.", "Cremonte, F., Navone, G.T. &amp; Etchegoin, J.A. (1999b) A new species of Sciadiocara Skrjabin, 1916 (Nematoda: Acuariidae) parasitic in shorebirds in Argentina. Systematic Parasitology, 42, 213-217.", "Cremonte, F., Navone, G.T. &amp; Etchegoin, J.A. (2000) Morphological studies of Ancyracanthopsis winegardi Wong &amp; Anderson, 1990 (Nematoda: Acuariodea) and larval stages of acuariid nematodes parasitic in Larus dominicanus Lichtenstein (Aves: Laridae) from Argentina. Systematic Parasitology, 45, 135-140.", "Diaz, J.I. &amp; Cremonte, F. (2004) Himasthla escamosa n. sp. (Digenea: Echinostomatidae) from the kelp gull, Larus dominicanus (Charadriiformes: Laridae), on the Patagonian coast, Argentina. Journal of Parasitology, 90, 308-314.", "Diaz, J. I., Cremonte F. &amp; Navone G. T. (2004) First records of the acuarioid nematode Paracuaria adunca from South America, with new morphological details and discussion of cordons. Comparative Parasitology, 7, 238-242.", "Diaz, J., Navone, G.T. &amp; Cremonte, F. (2001) New host and distribution records of Cosmocephalus obvelatus (Creplin, 1825) (Nematoda: Acuariidae), with morphometic comparisons. Comparative Parasitology, 68, 277-282.", "Etchegoin, J.A. &amp; Martorelli, S.R. (1997a) Description of a new species of Maritrema (Digenea: Microphallidae) from Mar Chiquita coastal lagoon (Buenos Aires, Argentina) with notes on its life cycle. Journal of Parasitology, 83, 709-713.", "Etchegoin, J.A. &amp; Martorelli, S.R. (1997b) A new species of the genus Stephanoprora Odhner, 1902 (Digenea, Echinostomatidae) from Argentina. Acta Parasitologica, 42, 74-76.", "Freiler, K. (1986) Trematodes of C. alba and Larus dominicanus in the South Shetland Islands (Antarctica). Angewandte Parasitologie, 27, 23-33.", "Figueroa, L., Torres, P., Franjola, R. &amp; Schlatter, R. (1980) Investigaciones sobre Pseudophyllidea (Carus, 1813) en el sur de Chile. VI. Infeccion por Diphyllobothrium (Cobbold) en Larus maculipennis Lichtenstein en el Lago Calafquen. Boletin Chileno de Parasitologia, 35, 71-73.", "Figueroa, L., Torres P., Schlatter, R., Asenjo F., Franjola R. &amp; Contreras, B. (1979) Investigaciones sobre Pseudophyllidea (Carus, 1813) en el sur de Chile. III. Estudio sobre Diphyllobothrium sp. en aves del lago Calafquen (39\u00b032\u00b4S., 72\u00b009\u00b4O.). Boletin Chileno de Parasitologia, 34, 13-20.", "Georgiev, B.B., Vasileva, G.P., Chipev, N.H., Dimitrova, Z.M. (1996) Cestodes of seabirds at Livingston Island, South Shetlands. Bulgarian Antarctic Research Life Science, 1, 111-127.", "Gibson, D. I., Jones, A. &amp; Bray, R. A. (Eds.). (2002) Keys to the Trematoda. Volume 1. CABI Publishing, London, 544 pp.", "Gonzalez, H., Garrido, V., Landeta M. E. &amp; Martens P. (1980) Nuevos aportes para la identificion de Diphyllobothrium sp., en el Lago Rupanco, Chile. Boletin Chileno de Parasitologia, 35, 10-14.", "Howel, M. (1965) Notes on a potencial trematode parasite of man in New Zealand. Tuatara, 13, 182-184.", "Jarecka, L. (1984) Development of Hymenolepis arctowskii Jarecka &amp; Ostas, 1984 (Cestoda: Hymenolepididae) in the intermediate host Branchinecta gaini Daday (Branchiopoda) of the Antarctic. Acta Parasitologica Polonica, 29, 337-342.", "Jarecka, L. &amp; Ostas, J. (1984) Hymenolepis arctowskii sp. n. (Cestoda, Hymenolepididae) from Larus dominicanus Licht. of the Antarctic. Acta Parasitologica Polonica, 29, 189-196.", "Jones, A., Bray, R. A. &amp; Gibson, D. I. (Eds.). (2002) Keys to the Trematoda. Volume 2.CABI Publishing, London, 768 pp.", "Joyeux, C. &amp; Baer, J.G. (1954) Cestodes et acanthocephales recoletes par M. Patrice Paulian aux lies Kerguelen et Amsterdam, 1951-1952. Memoires de I\u00b4Institut Scientifique de Madagascar. Serie A. Biologie Animale, 9, 23-40.", "Khalil, L.F., Jones A. &amp; Bray, R. A. (1994) Keys to the cestode parasites of vertebrates. The Natural History Museum, CAB International, London, U.K., 751 pp.", "Kreiter, A. &amp; Semenas, L. (1997) Helmintos parasitos de Larus dominicanus en la Patagonia Argentina. Boletin Chileno de Parasitologia, 52, 39-42.", "Labriola, J.B. &amp; Suriano, D.M. (2001) Community structure of parasitic helminths of birds of the genus Larus from Mar del Plata, Argentina. Vie et Milieu, 51, 67-76.", "Latham, A. D. M. &amp; Poulin, R. (2002) New records of gastrointestinal helminths from the southern black-backed gull (Larus dominicanus) in New Zealand. New Zealand Journal of Zoology, 29, 253-257.", "La Sala, L. F., Martorelli, S. R., Alda, P., &amp; Marcotegui, P. (2009) Some Digeneans from Olrog\u00b4s Gull Larus atlanticus Olrog, 1958 (Aves: Laridae) from the Bahia Blanca Estuary, Argentina. Comparative Parasitology, 76, 113-116.", "Lunaschi, L. I., Cremonte, F. &amp; Drago, F.B. (2007) Checklist of digenean parasites of birds from Argentina. Zootaxa, 1403, 1-36.", "Moravec, F. (1982) Proposal of a new systematic arrangement of nematodes of the family Capillariidae. Folia Parasitologica, 29, 119-132.", "Niewiadomska, K., Zdizitowiecki, K. &amp; Ostrowski de Nunez, M. (1989) Redescription of Diplostomum minutum Szidat, 1964, Digenea, Diplostomidae. Acta Parasitologica Polonica, 34, 267-271.", "Odening, K. (1982a) Cestoden aus Flugvogeln der Sudschetlands (Antarktis) under Falklandinseln (Malwinen). Angewandte Parasitologie, 23, 202-223.", "Odening, K. (1982b) Paramonostomum antarcticum in Larus dominicanus in the South Shetland Islands (Antarctica). Angewandte Parasitologie 23 (3), 137-143.", "Rind, S. (1984) The blood fluke Ornithobilharzia canaliculata (Rudolphi, 1819) (Trematoda: Shistosomatidae) from the gull Larus dominicanus at Lyttelton, New Zealand. Mauri Ora, 11, 71-75.", "Riquelme, C., M. George-Nascimento &amp; Balboa L. (2006) Morfometria y fecundidad de Profilicollis bullocki Mateo, Cordova &amp; Guzman 1982 (Acanthocephala: Polimorfidae) en especies simpatricas de aves costeras de Chile. Revista Chilena de Historia Natural, 79, 465-474.", "Roca, V., Lafuente, M. &amp; Carbonell, E. (1999) Helminth Communities in Audouin\u00b4s Gulls, Larus audouinii from Chafarinas Islands (Western Mediterranean). Journal of Parasitology 85, 984-986.", "Rodrigues de Oliveira, H. &amp; Vicente, J. (1963) Nova especie do genero Cosmocephalus Molin, 1858 (Nematoda, Spiruroidea). Revista Brasileira de Biologia, 23, 389-392.", "Stunkard, H. W. (1979) The morphology, life-history, and taxonomic relations of Odhneria odhneria Travassos, 1921 (Digenea: Microphallidae). Biological Bulletin, 156, 234-245.", "Szidat L. (1964) Vergleichende Helminthologische Untersuchungen an den argentinischen Grossmoven Larus marinus dominicanus Lichtenstein und Larus ridibundus maculipennis Lichtenstein nebst neuen bebachhtungen uber die artbildung bei Pararasiten. Zeitschirift fur Parasitenkunde, 24, 351-414.", "Szidat, L. &amp; Soria, F. (1957) Difilobothriasis en nuestro pais. Boletin del Museo Argentino de Ciencias Naturales \"Bernardino Rivadavia\", 9, 1-22.", "Torres, P., Cubillos, V., Gesche, W., Rebolledo C., Montefusco A., Miranda C., Arenas J., Mira A., Nilo M. &amp; Abello C. (1991b) Difilobotriasis en salmonidos introducidos en lagos del sur de Chile: Aspectos patologicos, relacion con infeccion humana, animales domesticos y aves piscivoras. Archivos de Medicina Veterinaria, 23, 165-183.", "Torres, P., Contreras, A., Cubillos, V., Gesche W., Montesfusco A., Rebolledo C., Mira A., Arenas J., Miranda J., Asenjo, S. &amp; Schlatter S. (1992) Parasitismo en peces, aves piscivoras y comunidades humanas riberenas de los lagos Yelcho y Tagua Tagua, X Region de Chile. Archivos de Medicina Veterinaria, 20, 76-92.", "Torres, P., Figueroa, L. &amp; Saldivia, A. (1983) Stephanoprora denticulata (Trematoda, Echinostomidae) en gaviotas del sur de Chile. Boletin Chileno de Parasitologia, 38, 33-34.", "Torres, P., Figueroa, L. Saldivia, A. &amp; Barrientos J. (1982) Gastrointestinal Helminths of Fish-Eating Birds from the Valdivia River, Chile. Journal of Parasitology, 68, 1157.", "Torres, P., Franjola, R. Figueroa, L., Schlatter, R., Gonzalez H., Contreras, B. &amp; Martin, R. (1981) Researches on Pseudophyllidea (Carus, 1813) in the south of Chile. IV. Occurrence of Diphyllobothrium dendriticum (Nitzsch). Journal of Helminthology, 55, 173-187.", "Torres, P., Ruiz E., Gesche W. &amp; Montefusco A. (1991a) Gastrointestinal helminths of fish-eating birds from Chiloe Island, Chile. Journal of Wildlife Disease, 27, 178-179.", "Torres, P., Schlatter, R., Montefusco A., Gesche W. Ruiz E., &amp; Contreras A. (1993) Helminth parasites of piscivorous birds from lakes in the south of Chile. Memorias do Instituto Oswaldo Cruz, 88, 341-343.", "Torres, P., Sierpe, V. &amp; Schlatter R. (1983) Occurrence of Contracaecum rudolphii in new host in Chile. Zeitschrift fur Parasitenkunde, 69, 397-399.", "Travassos, L. (1942) Contribucoes ao conhecimento dos Schistosomatidae. Sobre (Rudolphi, 1819). Revista Brasileira de Biologia, 2, 473-476.", "Travassos, L., Teixeira de Freitas, J., Machado de Mendoca, J. &amp; Oliveira Rodrigues, H. (1960) Excursao a Cabo Frio, Estado do Rio de Janeiro. Atas da Sociedade de Biologia do Rio de Janeiro, 4, 70-71.", "Travassos, L., Teixeira de Freitas, J., Machado de Mendoca, J. &amp; Oliveira Rodrigues, H. (1962) Segunda excursao a Cabo Frio, Estado do Rio de Janeiro. Atas da Sociedade de Biologia do Rio de Janeiro, 6, 37-38.", "Wright, C.A. (1954) Trematodes of the genus Renicola from the kidneys of birds in Brazil. Revista Brasileira de Biologia, 14, 61-64.", "Yamaguti, S. (1959). Systema Helminthum. Vol. II. The Cestodes of Vertebrates. Interscience Publishers, New York, USA, 860 pp.", "Zdzitowiecki, K. (1978) Corynosoma shackletoni sp. n. from host in South Shetlands and South Georgia (Antarctica). Bulletin de l'Academie Polonaise des Science, II Serie des Science, 26, 629-634.", "Zdzitowiecki, K. (1985) Acanthocephalans of birds from South Shetlands (Antarctica). Acta Parasitologica Polonica, 30, 11-24.", "Zdzitowiecki, K., Niewiadomska, K. &amp; Drozdz, J. (1989) Trematodes of birds and mammals in the environs of H. Arctowski Station (South Shetlands, Antarctica). Acta Parasitologica Polonica, 34, 247-257.", "Zdzitowiecki, K. &amp; Szelenbaum-Cielecka, D. (1984) Anomotaenia dominicana (Railliet et Henry, 1912) (Cestoda, Dilepididae) from Dominican gull Larus dominicanus Lichtenstein of the Antarctica. Acta Parasitologica Polonica, 29, 49-58."]}</description>
+  </descriptions>
+</resource>

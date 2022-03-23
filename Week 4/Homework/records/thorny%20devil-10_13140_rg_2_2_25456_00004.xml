@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.13140/RG.2.2.25456.00004</identifier>
+  <creators>
+    <creator>
+      <creatorName>Jack Ballard</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>"Little Blue Devil" from Seven Sketches on Paintings by Paul Klee by "Little Blue Devil" from Seven Sketches on Paintings by Paul Klee by</title>
+  </titles>
+  <publisher>Unpublished</publisher>
+  <publicationYear>2019</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Preprint</resourceType>
+  <language>en</language>
+</resource>

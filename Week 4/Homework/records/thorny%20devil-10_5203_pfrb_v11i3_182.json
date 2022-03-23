@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.5203/pfrb.v11i3.182",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5203/pfrb.v11i3.182",
+        "identifier": "https://doi.org/10.5203/pfrb.v11i3.182",
+        "url": "http://ojs.lib.umanitoba.ca/index.php/prairie_fire/article/view/182",
+        "author": [
+            {
+                "given": "Dave",
+                "family": "Williamson"
+            }
+        ],
+        "title": "The Devil You Know by Jenn Farrell",
+        "container-title": "Prairie Fire Press, Inc.",
+        "description": "Prairie Fire Review of Books, Vol 11, No 3 (2011)",
+        "resource-type-subtype": "Article",
+        "data-center-id": "cisti.umanlib",
+        "member-id": "cisti",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2011",
+        "registered": "2017-04-17T21:04:49.000Z",
+        "checked": null,
+        "updated": "2019-09-27T19:08:12.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6amF0cz0iaHR0cDovL3d3dy5uY2JpLm5sbS5uaWguZ292L0pBVFMxIiB4bWxuczphaT0iaHR0cDovL3d3dy5jcm9zc3JlZi5vcmcvQWNjZXNzSW5kaWNhdG9ycy54c2QiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMy9tZXRhZGF0YS54c2QiPjxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjUyMDMvcGZyYi52MTFpMy4xODI8L2lkZW50aWZpZXI+PGNyZWF0b3JzPjxjcmVhdG9yPjxjcmVhdG9yTmFtZT5XaWxsaWFtc29uLCBEYXZlPC9jcmVhdG9yTmFtZT48L2NyZWF0b3I+PC9jcmVhdG9ycz48dGl0bGVzPjx0aXRsZT5UaGUgRGV2aWwgWW91IEtub3cgYnkgSmVubiBGYXJyZWxsPC90aXRsZT48L3RpdGxlcz48cHVibGlzaGVyPlByYWlyaWUgRmlyZSBQcmVzcywgSW5jLjwvcHVibGlzaGVyPjxwdWJsaWNhdGlvblllYXI+MjAxMTwvcHVibGljYXRpb25ZZWFyPjxzdWJqZWN0cz48c3ViamVjdD5maWN0aW9uOyBzaG9ydCBzdG9yaWVzOyBkZXZpbCB5b3Uga25vdzsgamVubiBmYXJyZWxsPC9zdWJqZWN0Pjwvc3ViamVjdHM+PGRhdGVzPjxkYXRlIGRhdGVUeXBlPSJTdWJtaXR0ZWQiPjIwMTEtMTAtMDM8L2RhdGU+PGRhdGUgZGF0ZVR5cGU9IkFjY2VwdGVkIj4yMDExLTEwLTAzPC9kYXRlPjxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTEtMTAtMDM8L2RhdGU+PGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTEtMTAtMDQ8L2RhdGU+PC9kYXRlcz48bGFuZ3VhZ2U+ZW48L2xhbmd1YWdlPjxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+QXJ0aWNsZTwvcmVzb3VyY2VUeXBlPjxhbHRlcm5hdGVJZGVudGlmaWVycz48YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0icHVibGlzaGVySWQiPjItMTItMTgyPC9hbHRlcm5hdGVJZGVudGlmaWVyPjwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+PHJlbGF0ZWRJZGVudGlmaWVycz48cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNQYXJ0T2YiPjEwLjUyMDMvcGZyYi52MTFpMzwvcmVsYXRlZElkZW50aWZpZXI+PC9yZWxhdGVkSWRlbnRpZmllcnM+PHJpZ2h0c0xpc3Q+PHJpZ2h0cyByaWdodHNVUkk9IiI+PC9yaWdodHM+PC9yaWdodHNMaXN0PjxkZXNjcmlwdGlvbnM+PGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iU2VyaWVzSW5mb3JtYXRpb24iPlByYWlyaWUgRmlyZSBSZXZpZXcgb2YgQm9va3MsIFZvbCAxMSwgTm8gMyAoMjAxMSk8L2Rlc2NyaXB0aW9uPjwvZGVzY3JpcHRpb25zPjwvcmVzb3VyY2U+Cg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cisti.umanlib",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cisti",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

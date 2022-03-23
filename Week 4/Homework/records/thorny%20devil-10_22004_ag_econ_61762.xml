@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.22004/AG.ECON.61762</identifier>
+  <creators>
+    <creator>
+      <creatorName>Weeks, Heather</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Grant, Jason H.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>McConnell, Michael</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Meilke, Karl D.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Weeks, Heather</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Grant, Jason H.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>McConnell, Michael</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Meilke, Karl D.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>THE SPECIAL SAFEGUARD MECHANISM IN THE DOHA DEVELOPMENT AGENDA: A CASE STUDY OF SOYBEANS</title>
+  </titles>
+  <publisher>Unknown</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+    <subject>Agribusiness</subject>
+  </subjects>
+  <dates>
+    <date dateType="Updated">2019-08-25T02:29:10.0-05:00</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">The Special Safeguard Mechanism (SSM) proposed for developing countries has become a
+thorny issue in the Doha Development Agenda’s (DDA) agricultural negotiations. Proponents of
+the mechanism argue that it is a necessary compromise to counter sharp price declines or rapid
+import surges in staple commodity markets of developing nations. Opponents of the SSM,
+which include many developed exporters, contend that the policy flexibility contained in
+current SSM proposals would severely limit market access if the mechanism is triggered. The
+impact of the SSM depends on a number of parameters: the number of times the SSM is
+triggered, whether the price or volume SSM is triggered, the size of current tariffs, the
+magnitude with which tariffs are reduced in the DDA, and the number of times a developing
+country will actually make use of the SSM. This study introduces a static, synthetic, global,
+partial equilibrium model of the world soybean complex to assess the preliminary aspects of
+the DDA’s proposed tariff cuts. Future work on this project will extend the model to a
+stochastic framework from which to simulate the effects of an SSM combined with the DDA
+tariff cutting formulas for developing nations.</description>
+  </descriptions>
+</resource>

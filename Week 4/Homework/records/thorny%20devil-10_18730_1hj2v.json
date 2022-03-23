@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.18730/1hj2v",
+    "type": "works",
+    "attributes": {
+        "doi": "10.18730/1hj2v",
+        "identifier": "https://doi.org/10.18730/1hj2v",
+        "url": "https://ssl.fao.org/glis/doi/10.18730/1HJ2V",
+        "author": [
+            {
+                "literal": "GLIS Of The ITPGRFA"
+            }
+        ],
+        "title": "Cucumis sativus L. CGN20203",
+        "container-title": "Centre for Genetic Resources, the Netherlands",
+        "description": "Plant Genetic Resource.<br>Taxonomy: Cucumis sativus L.<br>Common name(s): cucumber<br>Other names: Shantung Thorny<br>Conserved by: Centre for Genetic Resources, the Netherlands (CGN), Netherlands<br>Local sample unique identifier: CGN20203<br>Method of creation: Acquisition<br>Date: 1998-08-20<br>Other identifiers: 61101, 4.304, http://purl.org/cgngenis/accenumb/CGN20203<br>MLS status: Not included<br>Historical: No",
+        "resource-type-subtype": "PGRFA Material",
+        "data-center-id": "fao.itpgrfa",
+        "member-id": "fao",
+        "resource-type-id": "physicalobject",
+        "version": null,
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-10-11T15:56:42.000Z",
+        "checked": null,
+        "updated": "2019-09-06T13:48:05.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjIvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4xODczMC8xSEoyVjwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkdMSVMgb2YgdGhlIElUUEdSRkE8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5DdWN1bWlzIHNhdGl2dXMgTC4gQ0dOMjAyMDM8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+Q2VudHJlIGZvciBHZW5ldGljIFJlc291cmNlcywgdGhlIE5ldGhlcmxhbmRzPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE3PC9wdWJsaWNhdGlvblllYXI+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+UGxhbnQgR2VuZXRpYyBSZXNvdXJjZSBmb3IgRm9vZCBhbmQgQWdyaWN1bHR1cmU8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8Y29udHJpYnV0b3JzPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iT3RoZXIiPgogICAgICA8Y29udHJpYnV0b3JOYW1lPkNlbnRyZSBmb3IgR2VuZXRpYyBSZXNvdXJjZXMsIHRoZSBOZXRoZXJsYW5kczwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICA8L2NvbnRyaWJ1dG9ycz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQWNjZXB0ZWQiPjE5OTgtMDgtMjA8L2RhdGU+CiAgPC9kYXRlcz4KICA8bGFuZ3VhZ2U+ZW48L2xhbmd1YWdlPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iUGh5c2ljYWxPYmplY3QiPlBHUkZBIE1hdGVyaWFsPC9yZXNvdXJjZVR5cGU+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9Ik90aGVyIj42MTEwMTwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJPdGhlciI+NC4zMDQ8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iUFVSTCI+aHR0cDovL3B1cmwub3JnL2NnbmdlbmlzL2FjY2VudW1iL0NHTjIwMjAzPC9hbHRlcm5hdGVJZGVudGlmaWVyPgogIDwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IlVSTCIgcmVsYXRlZE1ldGFkYXRhU2NoZW1lPSJHTElTIERlc2NyaXB0b3JzIiByZWxhdGlvblR5cGU9Ikhhc01ldGFkYXRhIiBzY2hlbWVUeXBlPSJYTUwiIHNjaGVtZVVSST0iaHR0cDovL3d3dy5mYW8ub3JnL3BsYW50LXRyZWF0eS9hcmVhcy1vZi13b3JrL2dsb2JhbC1pbmZvcm1hdGlvbi1zeXN0ZW0vZGVzY3JpcHRvcnMiPmh0dHBzOi8vc3NsLmZhby5vcmcvZ2xpc2FwaS92MS9wZ3JmYXM/ZG9pPTEwLjE4NzMwLzFISjJWPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IlVSTCIgcmVsYXRlZE1ldGFkYXRhU2NoZW1lPSJEYXJ3aW4gQ29yZSBBcmNoaXZlIiByZWxhdGlvblR5cGU9Ikhhc01ldGFkYXRhIiBzY2hlbWVUeXBlPSJEd0MtQSIgc2NoZW1lVVJJPSJodHRwOi8vcnMudGR3Zy5vcmcvZHdjL3Rlcm1zL2d1aWRlcy90ZXh0L2luZGV4Lmh0bSI+aHR0cHM6Ly9zc2wuZmFvLm9yZy9nbGlzYXBpL3YxL3BncmZhcz9fZm9ybWF0PWR3YyZhbXA7ZG9pPTEwLjE4NzMwLzFISjJWPC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlBsYW50IEdlbmV0aWMgUmVzb3VyY2UuJmx0O2JyLyZndDtUYXhvbm9teTogQ3VjdW1pcyBzYXRpdnVzIEwuJmx0O2JyLyZndDtDb21tb24gbmFtZShzKTogY3VjdW1iZXImbHQ7YnIvJmd0O090aGVyIG5hbWVzOiBTaGFudHVuZyBUaG9ybnkmbHQ7YnIvJmd0O0NvbnNlcnZlZCBieTogQ2VudHJlIGZvciBHZW5ldGljIFJlc291cmNlcywgdGhlIE5ldGhlcmxhbmRzIChDR04pLCBOZXRoZXJsYW5kcyZsdDtici8mZ3Q7TG9jYWwgc2FtcGxlIHVuaXF1ZSBpZGVudGlmaWVyOiBDR04yMDIwMyZsdDtici8mZ3Q7TWV0aG9kIG9mIGNyZWF0aW9uOiBBY3F1aXNpdGlvbiZsdDtici8mZ3Q7RGF0ZTogMTk5OC0wOC0yMCZsdDtici8mZ3Q7T3RoZXIgaWRlbnRpZmllcnM6IDYxMTAxLCA0LjMwNCwgaHR0cDovL3B1cmwub3JnL2NnbmdlbmlzL2FjY2VudW1iL0NHTjIwMjAzJmx0O2JyLyZndDtNTFMgc3RhdHVzOiBOb3QgaW5jbHVkZWQmbHQ7YnIvJmd0O0hpc3RvcmljYWw6IE5vPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KICA8Z2VvTG9jYXRpb25zPgogICAgPGdlb0xvY2F0aW9uPgogICAgICA8Z2VvTG9jYXRpb25QbGFjZT5Db2xsZWN0aW5nIHNpdGU6IFNoYW50dW5nIChTaGFuZG9uZyk8L2dlb0xvY2F0aW9uUGxhY2U+CiAgICA8L2dlb0xvY2F0aW9uPgogIDwvZ2VvTG9jYXRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "fao.itpgrfa",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "fao",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "physical-object",
+                "type": "resource-types"
+            }
+        }
+    }
+}

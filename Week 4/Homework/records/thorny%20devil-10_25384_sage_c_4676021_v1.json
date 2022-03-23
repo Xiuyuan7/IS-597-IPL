@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.25384/sage.c.4676021.v1",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25384/sage.c.4676021.v1",
+        "identifier": "https://doi.org/10.25384/sage.c.4676021.v1",
+        "url": "https://sage.figshare.com/collections/The_Devil_Is_in_the_Details_Attorney_Effects_on_Employment_Arbitration_Outcomes/4676021/1",
+        "author": [
+            {
+                "literal": "J. Ryan Lamare"
+            }
+        ],
+        "title": "The Devil Is in the Details: Attorney Effects on Employment Arbitration Outcomes",
+        "container-title": "SAGE Journals",
+        "description": "Conventional wisdom holds that hiring an attorney will improve outcomes for non-union employees who take individual rights complaints to arbitration. The limited empirical scholarship on this topic, however, rarely accounts for the concurrent influence of employer representatives or for differences in attorney characteristics. The author analyzes all arbitration awards rendered within the securities industry for cases filed at the implementation of its ADR program through 2007. Findings show that hiring an attorney benefits employees, but only in the rare instances when employers do not include an agent. In addition, the author examines lawyers\u2019 biographical records to determine attorney quality differences and their effects on outcomes conditional on both sides having legal counsel. Findings show that employee and employer attorney characteristics differ and have grown more pronounced over time. These differences can affect awards, particularly to the benefit of employees. The author concludes that although simply hiring any attorney will not redress systematic imbalances within employment arbitration, lawyers are important to the system and certain types of representatives can affect the outcomes of arbitration.",
+        "resource-type-subtype": "Collection",
+        "data-center-id": "figshare.sage",
+        "member-id": "figshare",
+        "resource-type-id": "collection",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-09-24T12:09:34.000Z",
+        "checked": null,
+        "updated": "2019-09-24T12:09:34.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4yNTM4NC9TQUdFLkMuNDY3NjAyMS5WMTwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkouIFJ5YW4gTGFtYXJlPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+VGhlIERldmlsIElzIGluIHRoZSBEZXRhaWxzOiBBdHRvcm5leSBFZmZlY3RzIG9uIEVtcGxveW1lbnQgQXJiaXRyYXRpb24gT3V0Y29tZXM8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+Jmx0O2RpdiZndDsmbHQ7cCZndDtDb252ZW50aW9uYWwgd2lzZG9tIGhvbGRzIHRoYXQgaGlyaW5nIGFuIGF0dG9ybmV5IHdpbGwgaW1wcm92ZSBvdXRjb21lcyBmb3Igbm9uLXVuaW9uIGVtcGxveWVlcyB3aG8gdGFrZSBpbmRpdmlkdWFsIHJpZ2h0cyBjb21wbGFpbnRzIHRvIGFyYml0cmF0aW9uLiBUaGUgbGltaXRlZCBlbXBpcmljYWwgc2Nob2xhcnNoaXAgb24gdGhpcyB0b3BpYywgaG93ZXZlciwgcmFyZWx5IGFjY291bnRzIGZvciB0aGUgY29uY3VycmVudCBpbmZsdWVuY2Ugb2YgZW1wbG95ZXIgcmVwcmVzZW50YXRpdmVzIG9yIGZvciBkaWZmZXJlbmNlcyBpbiBhdHRvcm5leSBjaGFyYWN0ZXJpc3RpY3MuIFRoZSBhdXRob3IgYW5hbHl6ZXMgYWxsIGFyYml0cmF0aW9uIGF3YXJkcyByZW5kZXJlZCB3aXRoaW4gdGhlIHNlY3VyaXRpZXMgaW5kdXN0cnkgZm9yIGNhc2VzIGZpbGVkIGF0IHRoZSBpbXBsZW1lbnRhdGlvbiBvZiBpdHMgQURSIHByb2dyYW0gdGhyb3VnaCAyMDA3LiBGaW5kaW5ncyBzaG93IHRoYXQgaGlyaW5nIGFuIGF0dG9ybmV5IGJlbmVmaXRzIGVtcGxveWVlcywgYnV0IG9ubHkgaW4gdGhlIHJhcmUgaW5zdGFuY2VzIHdoZW4gZW1wbG95ZXJzIGRvIG5vdCBpbmNsdWRlIGFuIGFnZW50LiBJbiBhZGRpdGlvbiwgdGhlIGF1dGhvciBleGFtaW5lcyBsYXd5ZXJz4oCZIGJpb2dyYXBoaWNhbCByZWNvcmRzIHRvIGRldGVybWluZSBhdHRvcm5leSBxdWFsaXR5IGRpZmZlcmVuY2VzIGFuZCB0aGVpciBlZmZlY3RzIG9uIG91dGNvbWVzIGNvbmRpdGlvbmFsIG9uIGJvdGggc2lkZXMgaGF2aW5nIGxlZ2FsIGNvdW5zZWwuIEZpbmRpbmdzIHNob3cgdGhhdCBlbXBsb3llZSBhbmQgZW1wbG95ZXIgYXR0b3JuZXkgY2hhcmFjdGVyaXN0aWNzIGRpZmZlciBhbmQgaGF2ZSBncm93biBtb3JlIHByb25vdW5jZWQgb3ZlciB0aW1lLiBUaGVzZSBkaWZmZXJlbmNlcyBjYW4gYWZmZWN0IGF3YXJkcywgcGFydGljdWxhcmx5IHRvIHRoZSBiZW5lZml0IG9mIGVtcGxveWVlcy4gVGhlIGF1dGhvciBjb25jbHVkZXMgdGhhdCBhbHRob3VnaCBzaW1wbHkgaGlyaW5nIGFueSBhdHRvcm5leSB3aWxsIG5vdCByZWRyZXNzIHN5c3RlbWF0aWMgaW1iYWxhbmNlcyB3aXRoaW4gZW1wbG95bWVudCBhcmJpdHJhdGlvbiwgbGF3eWVycyBhcmUgaW1wb3J0YW50IHRvIHRoZSBzeXN0ZW0gYW5kIGNlcnRhaW4gdHlwZXMgb2YgcmVwcmVzZW50YXRpdmVzIGNhbiBhZmZlY3QgdGhlIG91dGNvbWVzIG9mIGFyYml0cmF0aW9uLiZsdDsvcCZndDsmbHQ7L2RpdiZndDs8L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0PkVjb25vbWljczwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHNjaGVtZVVSST0iaHR0cDovL3d3dy5hYnMuZ292LmF1L2F1c3N0YXRzL2Fic0AubnNmLzAvNkJCNDI3QUI5Njk2QzIyNUNBMjU3NDE4MDAwNDQ2M0UiIHN1YmplY3RTY2hlbWU9IkZPUiI+MTUwMzEwIE9yZ2FuaXNhdGlvbiBhbmQgTWFuYWdlbWVudCBUaGVvcnk8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8cHVibGlzaGVyPlNBR0UgSm91cm5hbHM8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQ3JlYXRlZCI+MjAxOS0wOS0yNDwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJVcGRhdGVkIj4yMDE5LTA5LTI0PC9kYXRlPgogIDwvZGF0ZXM+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJDb2xsZWN0aW9uIj5Db2xsZWN0aW9uPC9yZXNvdXJjZVR5cGU+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1N1cHBsZW1lbnRUbyI+MTAuMTE3Ny8wMDE5NzkzOTE5ODc3NDA0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc0lkZW50aWNhbFRvIj4xMC4yNTM4NC9TQUdFLmMuNDY3NjAyMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzQuMC8iPkNDIEJZIDQuMDwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.sage",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "collection",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.17169/REFUBIUM-8299</identifier>
+  <creators>
+    <creator>
+      <creatorName>Pettelkau, Susanne</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Go tell Mankind, that there are Devils and Witches</title>
+    <title titleType="Subtitle">ein Vergleich von Hexenverfolgung und Hexenprozessen in Deutschland, England und in den neuenglischen Kolonien der frühen Neuzeit</title>
+    <title titleType="TranslatedTitle">Go tell Mankind, that there are Devils and Witches</title>
+    <title>a comparative study of early-modern witch persecution</title>
+  </titles>
+  <publisher>Freie Universität Berlin</publisher>
+  <publicationYear>2007</publicationYear>
+  <subjects>
+    <subject>Salem</subject>
+    <subject>witch persecution</subject>
+    <subject>cross-cultural phenomenon</subject>
+    <subject subjectScheme="ddc">000 Informatik, Informationswissenschaft, allgemeine Werke::000 Informatik, Wissen, Systeme::000 Informatik, Informationswissenschaft, allgemeine Werke</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Universitätsbibliothek der FU Berlin</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Universitätsbibliothek der FU Berlin</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2018-06-07</date>
+    <date dateType="Available">2007-08-12</date>
+    <date dateType="Issued">2007</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Other">Dissertation</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="uri">https://refubium.fu-berlin.de/handle/fub188/4099</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="urn">urn:nbn:de:kobv:188-fudissthesis000000003128-9</alternateIdentifier>
+  </alternateIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://www.fu-berlin.de/sites/refubium/rechtliches/Nutzungsbedingungen"/>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Other">Titelblatt, Vorwort und Inhaltsverzeichnis 1\. Einleitung 2\. Die neuenglischen Hexenprozesse - eine eigenständige Form der Hexenverfolgung? Ein Erklärungsversuch anhand einer kurzen Übersicht der Ursachen und der Geschichte der Hexenverfolgung in ausgewählten europäischen Ländern und in den neuenglischen Kolonien 2.1 Deutschland 2.1.1 Das mittelalterliche Deutschland als Wendepunkt in der deutschen Hexenverfolgung 2.1.2 Die Hexenverfolgung im frühneuzeitlichen Deutschland 2.2 England 2.2.1 Die Hexenverfolgung im frühneuzeitlichen England 2.2.2 Essex - Sonderfall und Wendepunkt in der englischen Geschichte der Hexenverfolgung 2.3 Die neuenglischen Kolonien 2.3.1 Die Hexenverfolgung in den neuenglischen Kolonien vor 1692 2.3.2 Die Ereignisse von Salem 1692 - eine Ausnahme in der neuenglischen Hexenverfolgung 2.4 Ergebnis 3\. Die Materialität des Teufels und ihre Wirkung auf Hexenverfolgung und Hexenprozeß in ausgewählten europäischen Ländern und in den neuenglischen Kolonien 3.1 Der Einfluß des Teufels auf die Gesetzgebung im Deutschland der frühen Neuzeit 3.1.1 Der Hexenhammer von Sprenger und Institoris stellvertretend für die Hexentraktate der frühen Neuzeit 3.1.2 Constitutio Criminalis Carolina 3.2 Die Materialität des Teufels in den englischen Rechtsprechung 3.2.1 Der Witchcraft Act James I. (1604) und seine Daemonologie (1597) als Beispiel für den Einfluß des Teufels als reale Gestalt auf die englische Gesetzgebung 3.3 Der Teufel, das neuenglische Recht und der Spektralbeweis 3.3.1 The Book of the General Laws of the Inhabitants of the Jurisdiction of New Plimouth, 1685 3.3.2 The Laws and Liberties of Massachusetts, 1648 3.4 Ergebnis 4\. Die Materialität des Teufels - Diskussionspunkt unter den Gelehrten der frühen Neuzeit 4.1 Der Teufel in der deutschen Rechtsliteratur der frühen Neuzeit anhand von Spee und Thomasius 4.1.1 Friedrich von Spee - Cautio Criminalis 4.1.2 Christian Thomasius - De Crimine Magiae 4.2 Hopkins, Stearne und Gaule: Die Materialität des Teufels - Diskussionsbedarf unter den englischen Gelehrten? 4.2.1 John Stearne - A Confirmation And Discovery of Witchcraft unter Berücksichtigung von Matthew Hopkins \- The Discovery of Witches: In Answers to Severall Queries Lately Delivered to the Judges of Assize for the County of Norfolke 4.2.2 John Gaule - A true and exact Relation Of The severall Informations, and Confessions of the Late Witches, arraigned and examined in the County of Essex 4.3 Increase und Cotton Mather zu der Materialität des Teufels in den neuenglischen Kolonien 4.3.1 Increase Mather - Cases of Conscience Concerning Witchcrafts and Evil Spirits Personating Men 4.3.2 Cotton Mather - Wonders of the Invisible World 4.4 Ergebnis 5\. Die Abkehr von der Hexenverfolgung - eine Schlußbetrachtung 6\. Literaturverzeichnis</description>
+    <description descriptionType="Abstract">Im Zentrum der Dissertation steht eine Untersuchung der kulturellen und rechtlichen Gemeinsamkeiten und Unterschiede in der deutschen, englischen und neuenglischen Hexenverfolgung, ihrer rechtlichen Handhabung sowie ihrer Rezeption in der zeitgenössischen Literatur unter der besonderen Berücksichtigung des Einflusses der Materialität des Teufels auf die Gesetzgebung und auf ausgewählte Literatur der frühen Neuzeit in den genannten Ländern. Der Teufelspakt hatte dabei auf Grund der Annahme eines materiellen Teufels und der sich daraus ergebenden Beweisproblematik in den Hexenprozessen, welche Inquisition und Folter erforderlich machte, einen weitaus größeren Einfluss auf die Intensität der Hexenverfolgung als das Maleficium, bei welchem die wegen Hexerei Angeklagten auf Grund des entstandenen materiellen Schadens verurteilt wurden. Dieses lässt sich deutlich am unterschiedlichen Verlauf der deutschen Hexenverfolgung, die seit dem 15. Jahrhundert vom Teufelspakt dominiert wurde, und der englischen Hexenverfolgung, in welcher das Maleficium Hauptbestandteil der Hexenprozesse war, erkennen. Eine Ausnahme in der neuenglischen Hexenverfolgung stellen die Salemer Hexenprozesse von 1692 dar, welche in ihrer Verfolgungsintensität und in der großen Zahl der Opfer einzigartig in der Geschichte der amerikanischen Hexenverfolgung sind. Sie sind nach wie vor ein bedeutendes Thema für das amerikanische Selbstbild und ein Schlüssel für das Verstehen der Entwicklung der amerikanischen Gesellschaft unter Berücksichtigung religiöser, gesellschaftlicher, wirtschaftlicher und politischer Aspekte. Diese Arbeit versteht sich als ein auf der zeitgenössischen Literatur aufbauender Mosaikstein zum Verständnis dieses weltweiten Phänomens unter besonderer Beachtung des transnationalen Aspektes.</description>
+    <description descriptionType="Abstract">This study explores cultural and legal similarities and differences of early- modern German, English and American witch trials, their legal framework as well as their reception in early-modern literature with particular reference to the prevalent imagination of a corporeal devil and its influence on early modern law and literature. The most severe period of witch persecution occurred in the sixteenth and seventeenth centuries with the most intense witch hunts taking place in Germany and in central Europe in the seventeenth century. One reason for the intense persecution of witches in early-modern Germany is the wide-spread belief in the devil's pact as well as the need to prove the material existence of the devil in the courts. This belief exerted a strong influence on the intensity of inquisition and torture to accumulate evidence for a seemingly invisible crime. In English witch trials the courts of justice were far more concerned with the maleficium as cause of indictment than the devil's pact which emphasizes the importance of material damage as main evidence in most English and early American witch trials. An exception in the history of American witch persecution are the Salem witch trials of 1692 which are singular in the history of America considering the intensity of persecution and the large number of victims. The Salem witch trials in their legal process and in their sociocultural reception are of great significance for the American identity and a key to the understanding of the American society concerning religious, social and political aspects. The aim of this study is not to offer yet another explanation for the rise of witch persecution, but to research the transnational aspects of witch persecution as a cross-cultural phenomenon.</description>
+  </descriptions>
+</resource>

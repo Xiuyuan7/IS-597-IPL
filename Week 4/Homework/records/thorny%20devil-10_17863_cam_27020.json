@@ -1,0 +1,161 @@
+{
+    "id": "https://doi.org/10.17863/cam.27020",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17863/cam.27020",
+        "identifier": "https://doi.org/10.17863/cam.27020",
+        "url": "https://www.repository.cam.ac.uk/handle/1810/279652",
+        "author": [
+            {
+                "given": "Andrew",
+                "family": "Balmford"
+            },
+            {
+                "given": "Tatsuya",
+                "family": "Amano"
+            },
+            {
+                "given": "Harriet",
+                "family": "Bartlett"
+            },
+            {
+                "given": "Dave",
+                "family": "Chadwick"
+            },
+            {
+                "given": "Adrian",
+                "family": "Collins"
+            },
+            {
+                "given": "David",
+                "family": "Edwards"
+            },
+            {
+                "given": "Rob",
+                "family": "Field"
+            },
+            {
+                "given": "Philip",
+                "family": "Garnsworthy"
+            },
+            {
+                "given": "Rhys",
+                "family": "Green"
+            },
+            {
+                "given": "Pete",
+                "family": "Smith"
+            },
+            {
+                "given": "Helen",
+                "family": "Waters"
+            },
+            {
+                "given": "Andrew",
+                "family": "Whitmore"
+            },
+            {
+                "given": "Donald",
+                "family": "Broom"
+            },
+            {
+                "given": "Julian",
+                "family": "Chara"
+            },
+            {
+                "given": "Tom",
+                "family": "Finch"
+            },
+            {
+                "given": "Emma",
+                "family": "Garnett"
+            },
+            {
+                "given": "Alfred",
+                "family": "Gathorne-Hardy"
+            },
+            {
+                "given": "Juan",
+                "family": "Hernandez-Medrano"
+            },
+            {
+                "given": "Mario",
+                "family": "Herrero"
+            },
+            {
+                "given": "Fangyuan",
+                "family": "Hua"
+            },
+            {
+                "given": "Agnieszka",
+                "family": "Latawiec"
+            },
+            {
+                "given": "Tom",
+                "family": "Misselbrook"
+            },
+            {
+                "given": "Benjamin Timothy",
+                "family": "Phalan"
+            },
+            {
+                "given": "Benno",
+                "family": "Simmons"
+            },
+            {
+                "given": "Taro",
+                "family": "Takahashi"
+            },
+            {
+                "given": "James",
+                "family": "Vause"
+            },
+            {
+                "given": "Erasmus",
+                "family": "Zu Ermgassen"
+            },
+            {
+                "given": "Rowan",
+                "family": "Eisner"
+            }
+        ],
+        "title": "The environmental costs and benefits of high-yield farming",
+        "container-title": "Apollo - University of Cambridge Repository",
+        "description": "How we manage farming and food systems to meet rising demand is pivotal to the future of biodiversity. Extensive field data suggest impacts on wild populations would be greatly reduced through boosting yields on existing farmland so as to spare remaining natural habitats. High-yield farming raises other concerns because expressed per unit area it can generate high levels of externalities such as greenhouse gas (GHG) emissions and nutrient losses. However, such metrics underestimate the overall impacts of lower-yield systems, so here we develop a framework that instead compares externality and land costs per unit production. Applying this to diverse datasets describing the externalities of four major farm sectors reveals that, rather than involving trade-offs, the externality and land costs of alternative production systems can co-vary positively: per unit production, land-efficient systems often produce lower externalities. For GHG emissions these associations become more strongly positive once forgone sequestration is included. Our conclusions are limited: remarkably few studies report externalities alongside yields; many important externalities and farming systems are inadequately measured; and realising the environmental benefits of high-yield systems typically requires additional measures to limit farmland expansion. Yet our results nevertheless suggest that trade-offs among key cost metrics are not as ubiquitous as sometimes perceived. There is an author correction to this article. See: https://doi.org/10.1038/s41893-018-0138-5",
+        "resource-type-subtype": "Article",
+        "data-center-id": "bl.cam",
+        "member-id": "bl",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-09-05T14:53:04.000Z",
+        "checked": null,
+        "updated": "2019-08-30T14:46:21.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc4NjMvQ0FNLjI3MDIwPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+QmFsbWZvcmQsIEFuZHJldzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkFtYW5vLCBUYXRzdXlhPC9jcmVhdG9yTmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZyIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIj4wMDAwLTAwMDEtNjU3Ni0zNDEwPC9uYW1lSWRlbnRpZmllcj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+QmFydGxldHQsIEhhcnJpZXQ8L2NyZWF0b3JOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgc2NoZW1lVVJJPSJodHRwOi8vb3JjaWQub3JnIiBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiPjAwMDAtMDAwMi03Mzg5LTg3ODU8L25hbWVJZGVudGlmaWVyPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5DaGFkd2ljaywgRGF2ZTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkNvbGxpbnMsIEFkcmlhbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkVkd2FyZHMsIERhdmlkPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+RmllbGQsIFJvYjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkdhcm5zd29ydGh5LCBQaGlsaXA8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5HcmVlbiwgUmh5czwvY3JlYXRvck5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmciIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCI+MDAwMC0wMDAxLTg2OTAtODkxNDwvbmFtZUlkZW50aWZpZXI+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlNtaXRoLCBQZXRlPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+V2F0ZXJzLCBIZWxlbjwvY3JlYXRvck5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmciIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCI+MDAwMC0wMDAzLTIyMTgtOTI5WDwvbmFtZUlkZW50aWZpZXI+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPldoaXRtb3JlLCBBbmRyZXc8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Ccm9vbSwgRG9uYWxkPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Q2hhcmEsIEp1bGlhbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkZpbmNoLCBUb208L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5HYXJuZXR0LCBFbW1hPC9jcmVhdG9yTmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZyIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIj4wMDAwLTAwMDItMTY2NC05MDI5PC9uYW1lSWRlbnRpZmllcj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+R2F0aG9ybmUtSGFyZHksIEFsZnJlZDwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkhlcm5hbmRlei1NZWRyYW5vLCBKdWFuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+SGVycmVybywgTWFyaW88L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5IdWEsIEZhbmd5dWFuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+TGF0YXdpZWMsIEFnbmllc3prYTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPk1pc3NlbGJyb29rLCBUb208L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5QaGFsYW4sIEJlbmphbWluIFRpbW90aHk8L2NyZWF0b3JOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgc2NoZW1lVVJJPSJodHRwOi8vb3JjaWQub3JnIiBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiPjAwMDAtMDAwMS03ODc2LTcyMjY8L25hbWVJZGVudGlmaWVyPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5TaW1tb25zLCBCZW5ubzwvY3JlYXRvck5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmciIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCI+MDAwMC0wMDAyLTI3NTEtOTQzMDwvbmFtZUlkZW50aWZpZXI+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlRha2FoYXNoaSwgVGFybzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlZhdXNlLCBKYW1lczwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPnp1IEVybWdhc3NlbiwgRXJhc211czwvY3JlYXRvck5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmciIG5hbWVJZGVudGlmaWVyU2NoZW1lPSJPUkNJRCI+MDAwMC0wMDAyLTkxNjgtNjA1NzwvbmFtZUlkZW50aWZpZXI+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkVpc25lciwgUm93YW48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5UaGUgZW52aXJvbm1lbnRhbCBjb3N0cyBhbmQgYmVuZWZpdHMgb2YgaGlnaC15aWVsZCBmYXJtaW5nPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPkFwb2xsbyAtIFVuaXZlcnNpdHkgb2YgQ2FtYnJpZGdlIFJlcG9zaXRvcnk8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTg8L3B1YmxpY2F0aW9uWWVhcj4KICA8Y29udHJpYnV0b3JzPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iRGF0YU1hbmFnZXIiPgogICAgICA8Y29udHJpYnV0b3JOYW1lPkFwb2xsbyAtIFVuaXZlcnNpdHkgb2YgQ2FtYnJpZGdlIFJlcG9zaXRvcnk8L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJIb3N0aW5nSW5zdGl0dXRpb24iPgogICAgICA8Y29udHJpYnV0b3JOYW1lPkFwb2xsbyAtIFVuaXZlcnNpdHkgb2YgQ2FtYnJpZGdlIFJlcG9zaXRvcnk8L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgPC9jb250cmlidXRvcnM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAxOC0wOS0wNTwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJBdmFpbGFibGUiPjIwMTgtMDktMDU8L2RhdGU+CiAgPC9kYXRlcz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPkFydGljbGU8L3Jlc291cmNlVHlwZT4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iaXNzbiI+MjM5OC05NjI5PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVyaSI+aHR0cHM6Ly93d3cucmVwb3NpdG9yeS5jYW0uYWMudWsvaGFuZGxlLzE4MTAvMjc5NjUyPC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9ImVpc3NuIj4yMzk4LTk2Mjk8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkhvdyB3ZSBtYW5hZ2UgZmFybWluZyBhbmQgZm9vZCBzeXN0ZW1zIHRvIG1lZXQgcmlzaW5nIGRlbWFuZCBpcyBwaXZvdGFsIHRvIHRoZSBmdXR1cmUgb2YgYmlvZGl2ZXJzaXR5LiBFeHRlbnNpdmUgZmllbGQgZGF0YSBzdWdnZXN0IGltcGFjdHMgb24gd2lsZCBwb3B1bGF0aW9ucyB3b3VsZCBiZSBncmVhdGx5IHJlZHVjZWQgdGhyb3VnaCBib29zdGluZyB5aWVsZHMgb24gZXhpc3RpbmcgZmFybWxhbmQgc28gYXMgdG8gc3BhcmUgcmVtYWluaW5nIG5hdHVyYWwgaGFiaXRhdHMuIEhpZ2gteWllbGQgZmFybWluZyByYWlzZXMgb3RoZXIgY29uY2VybnMgYmVjYXVzZSBleHByZXNzZWQgcGVyIHVuaXQgYXJlYSBpdCBjYW4gZ2VuZXJhdGUgaGlnaCBsZXZlbHMgb2YgZXh0ZXJuYWxpdGllcyBzdWNoIGFzIGdyZWVuaG91c2UgZ2FzIChHSEcpIGVtaXNzaW9ucyBhbmQgbnV0cmllbnQgbG9zc2VzLiBIb3dldmVyLCBzdWNoIG1ldHJpY3MgdW5kZXJlc3RpbWF0ZSB0aGUgb3ZlcmFsbCBpbXBhY3RzIG9mIGxvd2VyLXlpZWxkIHN5c3RlbXMsIHNvIGhlcmUgd2UgZGV2ZWxvcCBhIGZyYW1ld29yayB0aGF0IGluc3RlYWQgY29tcGFyZXMgZXh0ZXJuYWxpdHkgYW5kIGxhbmQgY29zdHMgcGVyIHVuaXQgcHJvZHVjdGlvbi4gQXBwbHlpbmcgdGhpcyB0byBkaXZlcnNlIGRhdGFzZXRzIGRlc2NyaWJpbmcgdGhlIGV4dGVybmFsaXRpZXMgb2YgZm91ciBtYWpvciBmYXJtIHNlY3RvcnMgcmV2ZWFscyB0aGF0LCByYXRoZXIgdGhhbiBpbnZvbHZpbmcgdHJhZGUtb2ZmcywgdGhlIGV4dGVybmFsaXR5IGFuZCBsYW5kIGNvc3RzIG9mIGFsdGVybmF0aXZlIHByb2R1Y3Rpb24gc3lzdGVtcyBjYW4gY28tdmFyeSBwb3NpdGl2ZWx5OiBwZXIgdW5pdCBwcm9kdWN0aW9uLCBsYW5kLWVmZmljaWVudCBzeXN0ZW1zIG9mdGVuIHByb2R1Y2UgbG93ZXIgZXh0ZXJuYWxpdGllcy4gRm9yIEdIRyBlbWlzc2lvbnMgdGhlc2UgYXNzb2NpYXRpb25zIGJlY29tZSBtb3JlIHN0cm9uZ2x5IHBvc2l0aXZlIG9uY2UgZm9yZ29uZSBzZXF1ZXN0cmF0aW9uIGlzIGluY2x1ZGVkLiBPdXIgY29uY2x1c2lvbnMgYXJlIGxpbWl0ZWQ6IHJlbWFya2FibHkgZmV3IHN0dWRpZXMgcmVwb3J0IGV4dGVybmFsaXRpZXMgYWxvbmdzaWRlIHlpZWxkczsgbWFueSBpbXBvcnRhbnQgZXh0ZXJuYWxpdGllcyBhbmQgZmFybWluZyBzeXN0ZW1zIGFyZSBpbmFkZXF1YXRlbHkgbWVhc3VyZWQ7IGFuZCByZWFsaXNpbmcgdGhlIGVudmlyb25tZW50YWwgYmVuZWZpdHMgb2YgaGlnaC15aWVsZCBzeXN0ZW1zIHR5cGljYWxseSByZXF1aXJlcyBhZGRpdGlvbmFsIG1lYXN1cmVzIHRvIGxpbWl0IGZhcm1sYW5kIGV4cGFuc2lvbi4gWWV0IG91ciByZXN1bHRzIG5ldmVydGhlbGVzcyBzdWdnZXN0IHRoYXQgdHJhZGUtb2ZmcyBhbW9uZyBrZXkgY29zdCBtZXRyaWNzIGFyZSBub3QgYXMgdWJpcXVpdG91cyBhcyBzb21ldGltZXMgcGVyY2VpdmVkLiBUaGVyZSBpcyBhbiBhdXRob3IgY29ycmVjdGlvbiB0byB0aGlzIGFydGljbGUuIFNlZTogaHR0cHM6Ly9kb2kub3JnLzEwLjEwMzgvczQxODkzLTAxOC0wMTM4LTU8L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPldlIGFyZSBncmF0ZWZ1bCBmb3IgZnVuZGluZyBmcm9tIHRoZSBDYW1icmlkZ2UgQ29uc2VydmF0aW9uIEluaXRpYXRpdmUgQ29sbGFib3JhdGl2ZSBGdW5kIGFuZCBBcmNhZGlhLCB0aGUgR3JhbnRoYW0gRm91bmRhdGlvbiBmb3IgdGhlIFByb3RlY3Rpb24gb2YgdGhlIEVudmlyb25tZW50LCB0aGUgS2VubmV0aCBNaWxsZXIgVHJ1c3QgdGhlIFVLLUNoaW5hIFZpcnR1YWwgSm9pbnQgQ2VudHJlIGZvciBBZ3JpY3VsdHVyYWwgTml0cm9nZW4gKENJTkFnLCA3ODAgQkIvTjAxMzQ2OC8xLCBmaW5hbmNlZCBieSB0aGUgTmV3dG9uIEZ1bmQgdmlhIEJCU1JDIGFuZCBORVJDKSwgQkJTUkMgKEJCUy9FL0MvMDAwSTAzMzApLCBERVZJTCAoTkUvTTAyMTMyNy8xKSwgVS1HUkFTUyAoTkUvTTAxNjkwMC8xKSwgU29pbHMtUi1HUlJFQVQgKE5FL1AwMTk0NTUvMSksIE4tQ2lyY2xlIChCQi9OMDEzNDg0LzEpLCBCQlNSQyBTb2lsIHRvIE51dHJpdGlvbiAoUzJOKSBzdHJhdGVnaWMgcHJvZ3JhbW1lIChCQlMvRS9DLzAwMEkwMzMwKSwgVU5BTS1QQVBJSVQgKElWMjAwNzE1KSwgdGhlIEJlbG1vbnQgRm9ydW0vRkFDRUUtSlBJIChORS9NMDIxMzI3LzEg4oCYREVWSUzigJkpLCBhbmQgdGhlIENhbWJyaWRnZSBFYXJ0aCBTeXN0ZW0gU2NpZW5jZSBORVJDIERUUCAoTkUvTDAwMjUwNy8xKTsgQUIgaXMgc3VwcG9ydGVkIGJ5IGEgUm95YWwgU29jaWV0eSBXb2xmc29uIFJlc2VhcmNoIE1lcml0IGF3YXJkLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPGZ1bmRpbmdSZWZlcmVuY2VzPgogICAgPGZ1bmRpbmdSZWZlcmVuY2U+CiAgICAgIDxmdW5kZXJOYW1lPkdyYW50aGFtIEZvdW5kYXRpb24gZm9yIHRoZSBQcm90ZWN0aW9uIG9mIHRoZSBFbnZpcm9ubWVudDwvZnVuZGVyTmFtZT4KICAgIDwvZnVuZGluZ1JlZmVyZW5jZT4KICAgIDxmdW5kaW5nUmVmZXJlbmNlPgogICAgICA8ZnVuZGVyTmFtZT5LZW5uZXRoIE1pbGxlciBUcnVzdDwvZnVuZGVyTmFtZT4KICAgIDwvZnVuZGluZ1JlZmVyZW5jZT4KICAgIDxmdW5kaW5nUmVmZXJlbmNlPgogICAgICA8ZnVuZGVyTmFtZT5ORVJDPC9mdW5kZXJOYW1lPgogICAgICA8YXdhcmROdW1iZXI+MTY1MzE4MzwvYXdhcmROdW1iZXI+CiAgICA8L2Z1bmRpbmdSZWZlcmVuY2U+CiAgICA8ZnVuZGluZ1JlZmVyZW5jZT4KICAgICAgPGZ1bmRlck5hbWU+QkJTUkM8L2Z1bmRlck5hbWU+CiAgICAgIDxhd2FyZE51bWJlcj52aWEgVW5pdmVyc2l0eSBvZiBBYmVyZGVlbikgKEJCL04wMTM0ODQvMTwvYXdhcmROdW1iZXI+CiAgICA8L2Z1bmRpbmdSZWZlcmVuY2U+CiAgICA8ZnVuZGluZ1JlZmVyZW5jZT4KICAgICAgPGZ1bmRlck5hbWU+TkVSQzwvZnVuZGVyTmFtZT4KICAgICAgPGF3YXJkTnVtYmVyPk5FL0wwMDI1MDcvMTwvYXdhcmROdW1iZXI+CiAgICA8L2Z1bmRpbmdSZWZlcmVuY2U+CiAgICA8ZnVuZGluZ1JlZmVyZW5jZT4KICAgICAgPGZ1bmRlck5hbWU+TkVSQzwvZnVuZGVyTmFtZT4KICAgICAgPGF3YXJkTnVtYmVyPjE2NTMxODM8L2F3YXJkTnVtYmVyPgogICAgPC9mdW5kaW5nUmVmZXJlbmNlPgogIDwvZnVuZGluZ1JlZmVyZW5jZXM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "bl.cam",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "bl",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

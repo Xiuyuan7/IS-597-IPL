@@ -1,0 +1,61 @@
+{
+    "id": "https://doi.org/10.5061/dryad.568jh",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5061/dryad.568jh",
+        "identifier": "https://doi.org/10.5061/dryad.568jh",
+        "url": "https://datadryad.org/resource/doi:10.5061/dryad.568jh",
+        "author": [
+            {
+                "given": "Jorge A.",
+                "family": "Herrera-Flores"
+            },
+            {
+                "given": "Thomas L.",
+                "family": "Stubbs"
+            },
+            {
+                "given": "Michael J.",
+                "family": "Benton"
+            }
+        ],
+        "title": "Data from: Macroevolutionary patterns in Rhynchocephalia: is the tuatara (Sphenodon punctatus) a living fossil?",
+        "container-title": "Dryad Digital Repository",
+        "description": null,
+        "resource-type-subtype": "DataPackage",
+        "data-center-id": "dryad.dryad",
+        "member-id": "dryad",
+        "resource-type-id": "dataset",
+        "version": "1",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-02-13T15:39:19.000Z",
+        "checked": null,
+        "updated": "2019-08-02T14:05:41.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6bWV0cz0iaHR0cDovL3d3dy5sb2MuZ292L01FVFMvIiB4bWxuczpkc3BhY2U9Imh0dHA6Ly93d3cuZHNwYWNlLm9yZy94bWxucy9kc3BhY2UvZGltIiB4bWxuczpkaW09Imh0dHA6Ly93d3cuZHNwYWNlLm9yZy94bWxucy9kc3BhY2UvZGltIiB4bWxuczpkcnlhZD0iaHR0cDovL3B1cmwub3JnL2RyeWFkL3Rlcm1zLyIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTA2MS9EUllBRC41NjhKSDwvaWRlbnRpZmllcj4KICA8dmVyc2lvbj4xPC92ZXJzaW9uPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+SGVycmVyYS1GbG9yZXMsIEpvcmdlIEEuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U3R1YmJzLCBUaG9tYXMgTC48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5CZW50b24sIE1pY2hhZWwgSi48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5EYXRhIGZyb206IE1hY3JvZXZvbHV0aW9uYXJ5IHBhdHRlcm5zIGluIFJoeW5jaG9jZXBoYWxpYTogaXMgdGhlIHR1YXRhcmEgKFNwaGVub2RvbiBwdW5jdGF0dXMpIGEgbGl2aW5nIGZvc3NpbD88L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+RHJ5YWQgRGlnaXRhbCBSZXBvc2l0b3J5PC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE3PC9wdWJsaWNhdGlvblllYXI+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+UmF0ZXMgb2YgZXZvbHV0aW9uPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+bGl2aW5nIGZvc3NpbHM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5tb3JwaG9zcGFjZTwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pk5ldyBaZWFsYW5kPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+V29ybHdpZGU8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5NZXNvem9pYzwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkhvbG9jZW5lPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+Umh5bmNob2NlcGhhbGlhPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+U3BoZW5vZG9udGlhPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+U3BoZW5vZG9uIHB1bmN0YXR1czwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCI+RGF0YVBhY2thZ2U8L3Jlc291cmNlVHlwZT4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iY2l0YXRpb24iPkhlcnJlcmEtRmxvcmVzIEpBLCBTdHViYnMgVEwsIEJlbnRvbiBNSiAoMjAxNykgTWFjcm9ldm9sdXRpb25hcnkgcGF0dGVybnMgaW4gUmh5bmNob2NlcGhhbGlhOiBpcyB0aGUgdHVhdGFyYSAoU3BoZW5vZG9uIHB1bmN0YXR1cykgYSBsaXZpbmcgZm9zc2lsPyBQYWxhZW9udG9sb2d5IDYwKDMpOiAzMTnigJMzMjguPC9hbHRlcm5hdGVJZGVudGlmaWVyPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9Imlzc24iPjE0NzUtNDk4MzwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSGFzUGFydCI+MTAuNTA2MS9EUllBRC41NjhKSC8xPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1JlZmVyZW5jZWRCeSI+MTAuMTExMS9QQUxBLjEyMjg0PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1N1cHBsZW1lbnRUbyI+MTAuMTExMS9QQUxBLjEyMjg0PC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9wdWJsaWNkb21haW4vemVyby8xLjAvIi8+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "dryad.dryad",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "dryad",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

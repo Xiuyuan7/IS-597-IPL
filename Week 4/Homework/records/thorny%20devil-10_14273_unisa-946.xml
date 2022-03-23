@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.14273/UNISA-946</identifier>
+  <creators>
+    <creator>
+      <creatorName>Zambrano, Valentina</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Lotta al terrorismo e riconoscimento dello status di rifugiato nel quadro normativo e giurisprudenziale europeo: un rapporto problematico</title>
+  </titles>
+  <publisher>Universita' degli Studi di Salerno</publisher>
+  <publicationYear>2017</publicationYear>
+  <subjects>
+    <subject>Terrorism</subject>
+    <subject>Refugee status</subject>
+    <subject>B&amp;D case</subject>
+    <subject>Lounani case</subject>
+    <subject>Art. 3 ECHR</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Universita' degli Studi di Salerno</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Universita' degli Studi di Salerno</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2017-11-28</date>
+    <date dateType="Available">2017-11-28</date>
+    <date dateType="Issued">2017</date>
+  </dates>
+  <language>it</language>
+  <resourceType resourceTypeGeneral="Other">Journal Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="citation">Zambrano, V. "Lotta al terrorismo e riconoscimento dello status di rifugiato nel quadro normativo e giurisprudenziale europeo: un rapporto problematico." Freedom, Security &amp; Justice: European Legal Studies 3 (2017): 71-90</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="issn">2532-2079</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">http://hdl.handle.net/10556/2547</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">http://dx.doi.org/10.26321/V.ZAMBRANO.03.2017.05</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">http://www.fsjeurostudies.eu/files/FSJ.2017.III.Zambrano_5DEF.pdf</alternateIdentifier>
+  </alternateIdentifiers>
+  <sizes>
+    <size>P. 71-90</size>
+  </sizes>
+  <descriptions>
+    <description descriptionType="Abstract">The European Union directive 2011/95 deals with a very thorny question: the relationship between terrorism and the denial of refugee status. In fact, Article 12 of the directive provides that a person is not recognized as a refugee where there are serious reasons for considering that he or she has been guilty of acts contrary to the purposes and principles of the United Nations. This paper aims to explore the content and limits of this exclusion clause in relation with acts of terrorism, analysing the article 1F(c) of the Convention relating to the status of refugees as a starting point. The jurisprudence of the EU Court of Justice is analysed to highlight the extent and the implementation of this clause in the European Union context. Finally, the paper deals with the question of the relationship between the exclusion clause and the expulsion of terrorists taking also into account the jurisprudence of the European Court of Human Rights on Article 3 ECHR.</description>
+  </descriptions>
+</resource>

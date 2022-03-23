@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.6084/m9.figshare.6817370",
+    "type": "works",
+    "attributes": {
+        "doi": "10.6084/m9.figshare.6817370",
+        "identifier": "https://doi.org/10.6084/m9.figshare.6817370",
+        "url": "https://figshare.com/articles/Additional_file_1_of_Certainty_of_paternity_in_two_coucal_species_with_divergent_sex_roles_the_devil_takes_the_hindmost/6817370",
+        "author": [
+            {
+                "given": "Ignas",
+                "family": "Safari"
+            },
+            {
+                "given": "Wolfgang",
+                "family": "Goymann"
+            }
+        ],
+        "title": "Additional file 1: of Certainty of paternity in two coucal species with divergent sex roles: the devil takes the hindmost",
+        "container-title": "Figshare",
+        "description": "Additional notes on laboratory methods, parentage and sibship analysis, parameters of the microsatellites used, and additional tables and figures. (PDF 1017 kb)",
+        "resource-type-subtype": "Paper",
+        "data-center-id": "figshare.ars",
+        "member-id": "figshare",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-07-14T04:02:32.000Z",
+        "checked": null,
+        "updated": "2019-09-27T01:32:07.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxyZXNvdXJjZSB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMy9tZXRhZGF0YS54c2QiPgogIDxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjYwODQvbTkuZmlnc2hhcmUuNjgxNzM3MDwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPklnbmFzIFNhZmFyaTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPldvbGZnYW5nIEdveW1hbm48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5BZGRpdGlvbmFsIGZpbGUgMTogb2YgQ2VydGFpbnR5IG9mIHBhdGVybml0eSBpbiB0d28gY291Y2FsIHNwZWNpZXMgd2l0aCBkaXZlcmdlbnQgc2V4IHJvbGVzOiB0aGUgZGV2aWwgdGFrZXMgdGhlIGhpbmRtb3N0PC90aXRsZT4KICA8L3RpdGxlcz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkFkZGl0aW9uYWwgbm90ZXMgb24gbGFib3JhdG9yeSBtZXRob2RzLCBwYXJlbnRhZ2UgYW5kIHNpYnNoaXAgYW5hbHlzaXMsIHBhcmFtZXRlcnMgb2YgdGhlIG1pY3Jvc2F0ZWxsaXRlcyB1c2VkLCBhbmQgYWRkaXRpb25hbCB0YWJsZXMgYW5kIGZpZ3VyZXMuIChQREYgMTAxNyBrYik8L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0PkJpb2NoZW1pc3RyeTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkdlbmV0aWNzPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+TW9sZWN1bGFyIEJpb2xvZ3k8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5FY29sb2d5PC9zdWJqZWN0PgogICAgPHN1YmplY3Q+U29jaW9sb2d5PC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc2NoZW1lVVJJPSJodHRwOi8vd3d3LmFicy5nb3YuYXUvYXVzc3RhdHMvYWJzQC5uc2YvMC82QkI0MjdBQjk2OTZDMjI1Q0EyNTc0MTgwMDA0NDYzRSIgc3ViamVjdFNjaGVtZT0iRk9SIj42OTk5OSBCaW9sb2dpY2FsIFNjaWVuY2VzIG5vdCBlbHNld2hlcmUgY2xhc3NpZmllZDwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkRldmVsb3BtZW50YWwgQmlvbG9neTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxwdWJsaXNoZXI+Rmlnc2hhcmU8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTg8L3B1YmxpY2F0aW9uWWVhcj4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQ3JlYXRlZCI+MjAxOC0wNy0xNDwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJVcGRhdGVkIj4yMDE4LTA3LTE0PC9kYXRlPgogIDwvZGF0ZXM+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5QYXBlcjwvcmVzb3VyY2VUeXBlPgogIDxzaXplcz4KICAgIDxzaXplPjEwNDE1MjcgQnl0ZXM8L3NpemU+CiAgPC9zaXplcz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzU3VwcGxlbWVudFRvIj4xMC4xMTg2L3MxMjg2Mi0wMTgtMTIyNS15PC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwczovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLyI+Q0MgQlkgKyBDQzA8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CjwvcmVzb3VyY2U+Cg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.ars",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

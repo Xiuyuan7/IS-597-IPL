@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.14288/1.0381000",
+    "type": "works",
+    "attributes": {
+        "doi": "10.14288/1.0381000",
+        "identifier": "https://doi.org/10.14288/1.0381000",
+        "url": "https://doi.library.ubc.ca/10.14288/1.0381000",
+        "author": [
+            {
+                "given": "Kyle John",
+                "family": "Stooshnov"
+            }
+        ],
+        "title": "The virtual renaissance : self-consciousness through literacy/technology",
+        "container-title": "University of British Columbia",
+        "description": "A dialogue often consists of two opposing ideas, either spoken or written, that attempt to find a resolution in the exchange of ideas. The prefix \u2018dia-\u2019 has the dual meaning of separating and joining together with a sense of completeness. From Socratic philosophic treatises to superheroes outmaneuvering their archenemies in blockbuster movies, one speaker depends on the other to test their mettle and strengthen their point of view. Literacy practice within twenty-first century education requires a dialogue between two seemingly opposite viewpoints: the traditional print literacy and digital technology. Historically, print literacy was as disruptive to society as its digital counterpart, yet such literacy became normalized by the mid-sixteenth century, across Europe and beyond, creating a Renaissance that would become a model for education over the following centuries. Some voices on the side of traditional literacy see current technological development as a continuation of the disruptions caused by widespread dissemination of the printed word. Other voices cry out that smartphones need to be banned from classrooms, the Internet needs to be regulated, and children\u2019s overdependence on digital tools has robbed them of creativity or higher cognitive functions. This thesis creates a dialogue between print literacy and digital technology by inquiring into the English Renaissance and a proposed Virtual Renaissance. Through the arts-based methodologies of fiction-based research and research-based theatre, this thesis creates a dialogue between two characters, each representing an aspect of the time and place from where they belong. John Webster is an English playwright living in London during the Renaissance. Two of his most popular plays, The White Devil and The Duchess of Malfi, were staged by leading Jacobean actors in such playhouse as the Red Bull, the Globe and Blackfriars. His dialogue partner is a Canadian researcher from the mid-twenty-first century, Nathan Plettner, whose familiarity with digital devices and computer-generated avatars allows him to interact with historical figures such as John through a process called retroprojection. His inquiry into theatre practices and their relationship with a virtual stage seeks a synthesis between both practices, listening to both the voices of the past and hopes for the future.",
+        "resource-type-subtype": "Text",
+        "data-center-id": "cisti.ubc",
+        "member-id": "cisti",
+        "resource-type-id": "text",
+        "version": "1",
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-09-27T17:44:40.000Z",
+        "checked": null,
+        "updated": "2019-09-27T17:44:40.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTQyODgvMS4wMzgxMDAwPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U3Rvb3Nobm92LCBLeWxlIEpvaG48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5UaGUgdmlydHVhbCByZW5haXNzYW5jZSA6IHNlbGYtY29uc2Npb3VzbmVzcyB0aHJvdWdoIGxpdGVyYWN5L3RlY2hub2xvZ3k8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+VW5pdmVyc2l0eSBvZiBCcml0aXNoIENvbHVtYmlhPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5UZXh0PC9yZXNvdXJjZVR5cGU+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KICA8dmVyc2lvbj4xPC92ZXJzaW9uPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+QSBkaWFsb2d1ZSBvZnRlbiBjb25zaXN0cyBvZiB0d28gb3Bwb3NpbmcgaWRlYXMsIGVpdGhlciBzcG9rZW4gb3Igd3JpdHRlbiwgdGhhdCBhdHRlbXB0IHRvIGZpbmQgYSByZXNvbHV0aW9uIGluIHRoZSBleGNoYW5nZSBvZiBpZGVhcy4gVGhlIHByZWZpeCDigJhkaWEt4oCZIGhhcyB0aGUgZHVhbCBtZWFuaW5nIG9mIHNlcGFyYXRpbmcgYW5kIGpvaW5pbmcgdG9nZXRoZXIgd2l0aCBhIHNlbnNlIG9mIGNvbXBsZXRlbmVzcy4gRnJvbSBTb2NyYXRpYyBwaGlsb3NvcGhpYyB0cmVhdGlzZXMgdG8gc3VwZXJoZXJvZXMgb3V0bWFuZXV2ZXJpbmcgdGhlaXIgYXJjaGVuZW1pZXMgaW4gYmxvY2tidXN0ZXIgbW92aWVzLCBvbmUgc3BlYWtlciBkZXBlbmRzIG9uIHRoZSBvdGhlciB0byB0ZXN0IHRoZWlyIG1ldHRsZSBhbmQgc3RyZW5ndGhlbiB0aGVpciBwb2ludCBvZiB2aWV3LiBMaXRlcmFjeSBwcmFjdGljZSB3aXRoaW4gdHdlbnR5LWZpcnN0IGNlbnR1cnkgZWR1Y2F0aW9uIHJlcXVpcmVzIGEgZGlhbG9ndWUgYmV0d2VlbiB0d28gc2VlbWluZ2x5IG9wcG9zaXRlIHZpZXdwb2ludHM6IHRoZSB0cmFkaXRpb25hbCBwcmludCBsaXRlcmFjeSBhbmQgZGlnaXRhbCB0ZWNobm9sb2d5LiBIaXN0b3JpY2FsbHksIHByaW50IGxpdGVyYWN5IHdhcyBhcyBkaXNydXB0aXZlIHRvIHNvY2lldHkgYXMgaXRzIGRpZ2l0YWwgY291bnRlcnBhcnQsIHlldCBzdWNoIGxpdGVyYWN5IGJlY2FtZSBub3JtYWxpemVkIGJ5IHRoZSBtaWQtc2l4dGVlbnRoIGNlbnR1cnksIGFjcm9zcyBFdXJvcGUgYW5kIGJleW9uZCwgY3JlYXRpbmcgYSBSZW5haXNzYW5jZSB0aGF0IHdvdWxkIGJlY29tZSBhIG1vZGVsIGZvciBlZHVjYXRpb24gb3ZlciB0aGUgZm9sbG93aW5nIGNlbnR1cmllcy4gU29tZSB2b2ljZXMgb24gdGhlIHNpZGUgb2YgdHJhZGl0aW9uYWwgbGl0ZXJhY3kgc2VlIGN1cnJlbnQgdGVjaG5vbG9naWNhbCBkZXZlbG9wbWVudCBhcyBhIGNvbnRpbnVhdGlvbiBvZiB0aGUgZGlzcnVwdGlvbnMgY2F1c2VkIGJ5IHdpZGVzcHJlYWQgZGlzc2VtaW5hdGlvbiBvZiB0aGUgcHJpbnRlZCB3b3JkLiBPdGhlciB2b2ljZXMgY3J5IG91dCB0aGF0IHNtYXJ0cGhvbmVzIG5lZWQgdG8gYmUgYmFubmVkIGZyb20gY2xhc3Nyb29tcywgdGhlIEludGVybmV0IG5lZWRzIHRvIGJlIHJlZ3VsYXRlZCwgYW5kIGNoaWxkcmVu4oCZcyBvdmVyZGVwZW5kZW5jZSBvbiBkaWdpdGFsIHRvb2xzIGhhcyByb2JiZWQgdGhlbSBvZiBjcmVhdGl2aXR5IG9yIGhpZ2hlciBjb2duaXRpdmUgZnVuY3Rpb25zLiAgVGhpcyB0aGVzaXMgY3JlYXRlcyBhIGRpYWxvZ3VlIGJldHdlZW4gcHJpbnQgbGl0ZXJhY3kgYW5kIGRpZ2l0YWwgdGVjaG5vbG9neSBieSBpbnF1aXJpbmcgaW50byB0aGUgRW5nbGlzaCBSZW5haXNzYW5jZSBhbmQgYSBwcm9wb3NlZCBWaXJ0dWFsIFJlbmFpc3NhbmNlLiBUaHJvdWdoIHRoZSBhcnRzLWJhc2VkIG1ldGhvZG9sb2dpZXMgb2YgZmljdGlvbi1iYXNlZCByZXNlYXJjaCBhbmQgcmVzZWFyY2gtYmFzZWQgdGhlYXRyZSwgdGhpcyB0aGVzaXMgY3JlYXRlcyBhIGRpYWxvZ3VlIGJldHdlZW4gdHdvIGNoYXJhY3RlcnMsIGVhY2ggcmVwcmVzZW50aW5nIGFuIGFzcGVjdCBvZiB0aGUgdGltZSBhbmQgcGxhY2UgZnJvbSB3aGVyZSB0aGV5IGJlbG9uZy4gSm9obiBXZWJzdGVyIGlzIGFuIEVuZ2xpc2ggcGxheXdyaWdodCBsaXZpbmcgaW4gTG9uZG9uIGR1cmluZyB0aGUgUmVuYWlzc2FuY2UuIFR3byBvZiBoaXMgbW9zdCBwb3B1bGFyIHBsYXlzLCBUaGUgV2hpdGUgRGV2aWwgYW5kIFRoZSBEdWNoZXNzIG9mIE1hbGZpLCB3ZXJlIHN0YWdlZCBieSBsZWFkaW5nIEphY29iZWFuIGFjdG9ycyBpbiBzdWNoIHBsYXlob3VzZSBhcyB0aGUgUmVkIEJ1bGwsIHRoZSBHbG9iZSBhbmQgQmxhY2tmcmlhcnMuIEhpcyBkaWFsb2d1ZSBwYXJ0bmVyIGlzIGEgQ2FuYWRpYW4gcmVzZWFyY2hlciBmcm9tIHRoZSBtaWQtdHdlbnR5LWZpcnN0IGNlbnR1cnksIE5hdGhhbiBQbGV0dG5lciwgd2hvc2UgZmFtaWxpYXJpdHkgd2l0aCBkaWdpdGFsIGRldmljZXMgYW5kIGNvbXB1dGVyLWdlbmVyYXRlZCBhdmF0YXJzIGFsbG93cyBoaW0gdG8gaW50ZXJhY3Qgd2l0aCBoaXN0b3JpY2FsIGZpZ3VyZXMgc3VjaCBhcyBKb2huIHRocm91Z2ggYSBwcm9jZXNzIGNhbGxlZCByZXRyb3Byb2plY3Rpb24uIEhpcyBpbnF1aXJ5IGludG8gdGhlYXRyZSBwcmFjdGljZXMgYW5kIHRoZWlyIHJlbGF0aW9uc2hpcCB3aXRoIGEgdmlydHVhbCBzdGFnZSBzZWVrcyBhIHN5bnRoZXNpcyBiZXR3ZWVuIGJvdGggcHJhY3RpY2VzLCBsaXN0ZW5pbmcgdG8gYm90aCB0aGUgdm9pY2VzIG9mIHRoZSBwYXN0IGFuZCBob3BlcyBmb3IgdGhlIGZ1dHVyZS48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cisti.ubc",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cisti",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

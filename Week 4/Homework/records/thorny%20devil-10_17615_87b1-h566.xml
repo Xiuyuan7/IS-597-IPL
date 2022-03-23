@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17615/87B1-H566</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Bailey, Mary Courtney</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Bridging the Gap: Handling Born-Digital Records in Manuscript Repositories</title>
+  </titles>
+  <publisher>The University of North Carolina at Chapel Hill University Libraries</publisher>
+  <publicationYear>2013</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Masters Paper</resourceType>
+  <subjects>
+    <subject>Electronic records</subject>
+    <subject>Libraries--Special Collections--Manuscripts</subject>
+    <subject>Electronic information resources--Access control</subject>
+  </subjects>
+  <version/>
+  <rightsList>
+    <rights rightsURI="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Due to the rapidly burgeoning volume of born-digital records, it behooves archives to
+determine how they can best bridge the gap between handling analog and handling born-digital records. In addition to analyzing existing case studies of repositories that already accession and process electronic records, the study presented in this paper used both a survey instrument and semi-structured interviews with archivists to investigate whether and how manuscript repositories are handling born-digital materials. The intent of this study has been to pinpoint some of the problems that plague manuscript repositories in particular and to identify some practical steps that have already been taken at similar repositories and should be replicated and suggest courses for further study and action.  The problems of handling born-digital materials, especially when it comes to providing access, are not unique, and the profession would be well served by finding a space for collaboration to solve these thorny issues.</description>
+  </descriptions>
+</resource>

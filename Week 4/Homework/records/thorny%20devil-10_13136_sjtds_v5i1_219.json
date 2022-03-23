@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.13136/sjtds.v5i1.219",
+    "type": "works",
+    "attributes": {
+        "doi": "10.13136/sjtds.v5i1.219",
+        "identifier": "https://doi.org/10.13136/sjtds.v5i1.219",
+        "url": "http://www.skenejournal.skeneproject.it/index.php/JTDS/article/view/219",
+        "author": [
+            {
+                "given": "Roberta",
+                "family": "Mullini"
+            }
+        ],
+        "title": "Bianca Del Villano, Using the Devil with Courtesy. Shakespeare and the Language of (Im)Politeness, Bern: Peter Lang, 2018",
+        "container-title": "Sken\u00e8. Journal of Theatre and Drama Studies",
+        "description": "This review of Bianca Del Villano\u2019s Using the Devil with Courtesy. Shakespeare and the Language of (Im)Politeness highlights the interdisciplinary approach used in the volume, so that the pragmatic research at its basis is enlivened with a vast series of theoretical perspectives. The detailed study of im(politeness) phenomena goes hand in hand with the Author\u2019s cultural awareness of the deep changes in early modern English society, thus shedding new light onto the interpersonal relationships revealed by dramatic dialogue both in Hamlet and in The Taming of the Shrew, the two plays chosen as case studies.",
+        "resource-type-subtype": "Article",
+        "data-center-id": "crui.univr",
+        "member-id": "crui",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-09-13T22:44:55.000Z",
+        "checked": null,
+        "updated": "2019-09-13T22:44:55.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTMxMzYvU0pURFMuVjVJMS4yMTk8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5NdWxsaW5pLCBSb2JlcnRhPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+QmlhbmNhIERlbCBWaWxsYW5vLCBVc2luZyB0aGUgRGV2aWwgd2l0aCBDb3VydGVzeS4gU2hha2VzcGVhcmUgYW5kIHRoZSBMYW5ndWFnZSBvZiAoSW0pUG9saXRlbmVzcywgQmVybjogUGV0ZXIgTGFuZywgMjAxODwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5Ta2Vuw6guIEpvdXJuYWwgb2YgVGhlYXRyZSBhbmQgRHJhbWEgU3R1ZGllczwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxOTwvcHVibGljYXRpb25ZZWFyPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJTdWJtaXR0ZWQiPjIwMTktMDQtMzA8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQWNjZXB0ZWQiPjIwMTktMDQtMzA8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOS0wNS0yNjwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTktMDUtMjE8L2RhdGU+CiAgPC9kYXRlcz4KICA8bGFuZ3VhZ2U+ZW48L2xhbmd1YWdlPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+QXJ0aWNsZTwvcmVzb3VyY2VUeXBlPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJwdWJsaXNoZXJJZCI+MS0yMi0yMTk8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPgpUaGlzIHJldmlldyBvZiBCaWFuY2EgRGVsIFZpbGxhbm/igJlzIFVzaW5nIHRoZSBEZXZpbCB3aXRoIENvdXJ0ZXN5LiBTaGFrZXNwZWFyZSBhbmQgdGhlIExhbmd1YWdlIG9mIChJbSlQb2xpdGVuZXNzIGhpZ2hsaWdodHMgdGhlIGludGVyZGlzY2lwbGluYXJ5IGFwcHJvYWNoIHVzZWQgaW4gdGhlIHZvbHVtZSwgc28gdGhhdCB0aGUgcHJhZ21hdGljIHJlc2VhcmNoIGF0IGl0cyBiYXNpcyBpcyBlbmxpdmVuZWQgd2l0aCBhIHZhc3Qgc2VyaWVzIG9mIHRoZW9yZXRpY2FsIHBlcnNwZWN0aXZlcy4gVGhlIGRldGFpbGVkIHN0dWR5IG9mIGltKHBvbGl0ZW5lc3MpIHBoZW5vbWVuYSBnb2VzIGhhbmQgaW4gaGFuZCB3aXRoIHRoZSBBdXRob3LigJlzIGN1bHR1cmFsIGF3YXJlbmVzcyBvZiB0aGUgZGVlcCBjaGFuZ2VzIGluIGVhcmx5IG1vZGVybiBFbmdsaXNoIHNvY2lldHksIHRodXMgc2hlZGRpbmcgbmV3IGxpZ2h0IG9udG8gdGhlIGludGVycGVyc29uYWwgcmVsYXRpb25zaGlwcyByZXZlYWxlZCBieSBkcmFtYXRpYyBkaWFsb2d1ZSBib3RoIGluIEhhbWxldCDCoGFuZCBpbiBUaGUgVGFtaW5nIG9mIHRoZSBTaHJldywgdGhlIHR3byBwbGF5cyBjaG9zZW4gYXMgY2FzZSBzdHVkaWVzLsKgCjwvZGVzY3JpcHRpb24+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJTZXJpZXNJbmZvcm1hdGlvbiI+U2tlbsOoLiBKb3VybmFsIG9mIFRoZWF0cmUgYW5kIERyYW1hIFN0dWRpZXMsIFZvbCA1IE5vIDEgKDIwMTkpPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "crui.univr",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "crui",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

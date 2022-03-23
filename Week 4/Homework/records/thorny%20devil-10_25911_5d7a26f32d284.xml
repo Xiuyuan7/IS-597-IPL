@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25911/5D7A26F32D284</identifier>
+  <creators>
+    <creator>
+      <creatorName>Skirrow, Roger</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The genesis of gold-copper-bismuth deposits, Tennant Creek, Northern Territory</title>
+  </titles>
+  <publisher>The Australian National University</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+    <subject>gold-copper-bismuth ore deposits, economic geology, Tennant Creek, iron oxide copper-gold deposits, Proterozoic, ore genesis, Au, Cu, Bi, IOCG deposits, West Peko deposit, Eldorado deposit</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>The Australian National University</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>The Australian National University</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2011-06-30</date>
+    <date dateType="Available">2011-06-30</date>
+    <date dateType="Created">1993-11</date>
+    <date dateType="Issued">2011-06-30</date>
+  </dates>
+  <language>en-AU</language>
+  <resourceType resourceTypeGeneral="Other">Thesis (PhD)</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="other">b18780714</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">http://hdl.handle.net/1885/7562</alternateIdentifier>
+  </alternateIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">The Au-Cu-Bi- deposits of the Proterozoic Tennant Creek Inlier share geological and geochemical characteristics that indicate strong links in their genesis, yet the diversity in alteration assemblages, metal ratios and zonation patterns reflect variations in ore forming processes that previously have not been explained in detail. The West Peko deposit is representative of Cu-rich, pyrrhotite-bearing mineralisation with intermediate gold grades, in magnetite+ hematite-rich syntectonic ‘ironstones’. By contrast, the high grade Eldorado Au deposit contains minor sulfides and very low Cu grades, similar to several of the larger gold producers in the field (e.g. Juno, White Devil, Nobles Nob), and is also hematite-rich. Au, Chalcopyrite and Bi-sulfosalts were introduced into pre-existing ironside during progressive shearing, either late in the first regional deformation event (D1) or during a second phase of deformation. The occurrence of some Au zones outside ironstones suggests the ore fluids in part followed different flow paths to hose of the ironside-forming fluids. Three chemically and isotopically distinct fluids have been characterised. (i) Ironstone-forming fluids at West Peko and Eldorado were Ca-Na-Cl (-Fe?) brines containing 12-20 weight % total dissolved salts, and reached temperatures of 350-400°C during magnetite deposition. Oxygen and hydrogen isotope compositions of minerals formed at the ironside stage are consistent with an origin of ironstones from formation or metamorphic waters. (ii) The inferred Au-Bi+Cu transport fluid in he Cu- and sulphide-rich West Peko deposit was of low to moderate salinity (3-10 eq. wt. % Na Cl), ~300-350°C and N2 + CH4 – rich. Newly represented phase equilibria among the Fe-silicates stilpnomelane and minnesotaite, chlorite, biotite, sulfides, oxides and carbonates as well as fluid inclusion vapour compositions indicate that the Au-Bi+Cu transport fluid was relatively reducing with near-neutral pH and total dissolved sulphur contents of 0.001m to 0.01m. In the Eldorado Deeps Au- and hematite-rich deposit the Au-transporting fluid also may have been of low-moderate salinity, with Au deposition occurring at ~300°C. The reducing Au-Bi+Cu transport fluid at West Peko resembles primary magmatic or metamorphic water in oxygen and hydrogen isotopic composition. Carbon isotope ratios of Au-sulfide stage carbonates at West Peko point to involvement f organic carbon, probably sourced outside the host Warramunga Formation. (iii) A regionally distributed, oxidising Ca-Na-Cl brine with 20-35 weight percent total dissolved salts, was present prior to, after and probably during ore deposition. Mixing with lower salinity reducing Au-Bi+Cu transport fluid is inferred at West Peko and us suggested to have caused effervescence of N2+CH4 by ‘salting out’, relatively late in the Au depositional stage. An hypothesis of metal transport and deposition is proposed for the Tennant Creek deposits in which gold, copper and bismuth were transported in a reducing fluid and were deposited in the Cu- and sulphide-rich deposits dominantly by oxidation, desulfidation and initial pH increase as the reducing fluid reacted with magnetite+hematite ironstone. Mass transfer modelling indicates that relatively small amounts of ironstone are required to precipitate Au + Bi-sulfides, such as Eldorado, the oxidising brine may have played a significant role in ore deposition either by mixing with a reducing Au-Cu-Bi-transporting fluid, or by producing hematite oxidant additional to any already present in the ironstones. The greater extent of oxidation of the ore fluid in such deposits may have generally prevented saturation of copper minerals, resulting in low Cu grades. Gold is inferred to have been transported dominantly as uncharged bisulfide complexes, although biselenide complexes were potentially important. New thermodynamic data estimated for bismuth complexes are consistent with bismuth transport as uncharged S-H-O-bearing species in the Tenant Creek ore fluids. The existence of high grade Au-Bi deposits outside ironstones is predicted by chemical modelling of mixing between reducing and oxidising fluids, located where structures allowed focused flow of both fluids.</description>
+  </descriptions>
+</resource>

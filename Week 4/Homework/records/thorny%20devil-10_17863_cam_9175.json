@@ -1,0 +1,125 @@
+{
+    "id": "https://doi.org/10.17863/cam.9175",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17863/cam.9175",
+        "identifier": "https://doi.org/10.17863/cam.9175",
+        "url": "https://www.repository.cam.ac.uk/handle/1810/263804",
+        "author": [
+            {
+                "given": "C",
+                "family": "Tovar"
+            },
+            {
+                "given": "RJ",
+                "family": "Pye"
+            },
+            {
+                "given": "A",
+                "family": "Kreiss"
+            },
+            {
+                "given": "Y",
+                "family": "Cheng"
+            },
+            {
+                "given": "GK",
+                "family": "Brown"
+            },
+            {
+                "given": "J",
+                "family": "Darby"
+            },
+            {
+                "given": "RC",
+                "family": "Malley"
+            },
+            {
+                "given": "HVT",
+                "family": "Siddle"
+            },
+            {
+                "given": "K",
+                "family": "Skj\u00f8dt"
+            },
+            {
+                "given": "James",
+                "family": "Kaufman"
+            },
+            {
+                "given": "A",
+                "family": "Silva"
+            },
+            {
+                "given": "A",
+                "family": "Baz Morelli"
+            },
+            {
+                "given": "AT",
+                "family": "Papenfuss"
+            },
+            {
+                "given": "LM",
+                "family": "Corcoran"
+            },
+            {
+                "given": "JM",
+                "family": "Murphy"
+            },
+            {
+                "given": "MJ",
+                "family": "Pearse"
+            },
+            {
+                "given": "K",
+                "family": "Belov"
+            },
+            {
+                "given": "AB",
+                "family": "Lyons"
+            },
+            {
+                "given": "GM",
+                "family": "Woods"
+            }
+        ],
+        "title": "Regression of devil facial tumour disease following immunotherapy in immunised Tasmanian devils",
+        "container-title": "Apollo - University of Cambridge Repository",
+        "description": "Devil facial tumour disease (DFTD) is a transmissible cancer devastating the Tasmanian devil (Sarcophilus harrisii) population. The cancer cell is the 'infectious' agent transmitted as an allograft by biting. Animals usually die within a few months with no evidence of antibody or immune cell responses against the DFTD allograft. This lack of anti-tumour immunity is attributed to an absence of cell surface major histocompatibility complex (MHC)-I molecule expression. While the endangerment of the devil population precludes experimentation on large experimental groups, those examined in our study indicated that immunisation and immunotherapy with DFTD cells expressing surface MHC-I corresponded with effective anti-tumour responses. Tumour engraftment did not occur in one of the five immunised Tasmanian devils, and regression followed therapy of experimentally induced DFTD tumours in three Tasmanian devils. Regression correlated with immune cell infiltration and antibody responses against DFTD cells. These data support the concept that immunisation of devils with DFTD cancer cells can successfully induce humoral responses against DFTD and trigger immune-mediated regression of established tumours. Our findings support the feasibility of a protective DFTD vaccine and ultimately the preservation of the species.",
+        "resource-type-subtype": "Article",
+        "data-center-id": "bl.cam",
+        "member-id": "bl",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-04-25T16:45:54.000Z",
+        "checked": null,
+        "updated": "2019-08-29T12:57:33.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc4NjMvQ0FNLjkxNzU8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Ub3ZhciwgQzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlB5ZSwgUko8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5LcmVpc3MsIEE8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5DaGVuZywgWTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkJyb3duLCBHSzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkRhcmJ5LCBKPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+TWFsbGV5LCBSQzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlNpZGRsZSwgSFZUPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U2tqw7hkdCwgSzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkthdWZtYW4sIEphbWVzPC9jcmVhdG9yTmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZyIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIj4wMDAwLTAwMDItNzIxNi04NDIyPC9uYW1lSWRlbnRpZmllcj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+U2lsdmEsIEE8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5CYXogTW9yZWxsaSwgQTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlBhcGVuZnVzcywgQVQ8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Db3Jjb3JhbiwgTE08L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5NdXJwaHksIEpNPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+UGVhcnNlLCBNSjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkJlbG92LCBLPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+THlvbnMsIEFCPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+V29vZHMsIEdNPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+UmVncmVzc2lvbiBvZiBkZXZpbCBmYWNpYWwgdHVtb3VyIGRpc2Vhc2UgZm9sbG93aW5nIGltbXVub3RoZXJhcHkgaW4gaW1tdW5pc2VkIFRhc21hbmlhbiBkZXZpbHM8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+QXBvbGxvIC0gVW5pdmVyc2l0eSBvZiBDYW1icmlkZ2UgUmVwb3NpdG9yeTwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxNzwvcHVibGljYXRpb25ZZWFyPgogIDxjb250cmlidXRvcnM+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJEYXRhTWFuYWdlciI+CiAgICAgIDxjb250cmlidXRvck5hbWU+QXBvbGxvIC0gVW5pdmVyc2l0eSBvZiBDYW1icmlkZ2UgUmVwb3NpdG9yeTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9Ikhvc3RpbmdJbnN0aXR1dGlvbiI+CiAgICAgIDxjb250cmlidXRvck5hbWU+QXBvbGxvIC0gVW5pdmVyc2l0eSBvZiBDYW1icmlkZ2UgUmVwb3NpdG9yeTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICA8L2NvbnRyaWJ1dG9ycz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE3LTA0LTI1PC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IkF2YWlsYWJsZSI+MjAxNy0wNC0yNTwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTctMDMtMDk8L2RhdGU+CiAgPC9kYXRlcz4KICA8bGFuZ3VhZ2U+ZW48L2xhbmd1YWdlPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+QXJ0aWNsZTwvcmVzb3VyY2VUeXBlPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJpc3NuIj4yMDQ1LTIzMjI8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0idXJpIj5odHRwczovL3d3dy5yZXBvc2l0b3J5LmNhbS5hYy51ay9oYW5kbGUvMTgxMC8yNjM4MDQ8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iZWlzc24iPjIwNDUtMjMyMjwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cz5BdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbDwvcmlnaHRzPgogICAgPHJpZ2h0cz5BdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbDwvcmlnaHRzPgogICAgPHJpZ2h0cz5BdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbDwvcmlnaHRzPgogICAgPHJpZ2h0cz5BdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbDwvcmlnaHRzPgogICAgPHJpZ2h0cz5odHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvPC9yaWdodHM+CiAgICA8cmlnaHRzPmh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzQuMC88L3JpZ2h0cz4KICAgIDxyaWdodHM+aHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLzwvcmlnaHRzPgogICAgPHJpZ2h0cz5odHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvPC9yaWdodHM+CiAgPC9yaWdodHNMaXN0PgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+RGV2aWwgZmFjaWFsIHR1bW91ciBkaXNlYXNlIChERlREKSBpcyBhIHRyYW5zbWlzc2libGUgY2FuY2VyIGRldmFzdGF0aW5nIHRoZSBUYXNtYW5pYW4gZGV2aWwgKFNhcmNvcGhpbHVzIGhhcnJpc2lpKSBwb3B1bGF0aW9uLiBUaGUgY2FuY2VyIGNlbGwgaXMgdGhlICdpbmZlY3Rpb3VzJyBhZ2VudCB0cmFuc21pdHRlZCBhcyBhbiBhbGxvZ3JhZnQgYnkgYml0aW5nLiBBbmltYWxzIHVzdWFsbHkgZGllIHdpdGhpbiBhIGZldyBtb250aHMgd2l0aCBubyBldmlkZW5jZSBvZiBhbnRpYm9keSBvciBpbW11bmUgY2VsbCByZXNwb25zZXMgYWdhaW5zdCB0aGUgREZURCBhbGxvZ3JhZnQuIFRoaXMgbGFjayBvZiBhbnRpLXR1bW91ciBpbW11bml0eSBpcyBhdHRyaWJ1dGVkIHRvIGFuIGFic2VuY2Ugb2YgY2VsbCBzdXJmYWNlIG1ham9yIGhpc3RvY29tcGF0aWJpbGl0eSBjb21wbGV4IChNSEMpLUkgbW9sZWN1bGUgZXhwcmVzc2lvbi4gV2hpbGUgdGhlIGVuZGFuZ2VybWVudCBvZiB0aGUgZGV2aWwgcG9wdWxhdGlvbiBwcmVjbHVkZXMgZXhwZXJpbWVudGF0aW9uIG9uIGxhcmdlIGV4cGVyaW1lbnRhbCBncm91cHMsIHRob3NlIGV4YW1pbmVkIGluIG91ciBzdHVkeSBpbmRpY2F0ZWQgdGhhdCBpbW11bmlzYXRpb24gYW5kIGltbXVub3RoZXJhcHkgd2l0aCBERlREIGNlbGxzIGV4cHJlc3Npbmcgc3VyZmFjZSBNSEMtSSBjb3JyZXNwb25kZWQgd2l0aCBlZmZlY3RpdmUgYW50aS10dW1vdXIgcmVzcG9uc2VzLiBUdW1vdXIgZW5ncmFmdG1lbnQgZGlkIG5vdCBvY2N1ciBpbiBvbmUgb2YgdGhlIGZpdmUgaW1tdW5pc2VkIFRhc21hbmlhbiBkZXZpbHMsIGFuZCByZWdyZXNzaW9uIGZvbGxvd2VkIHRoZXJhcHkgb2YgZXhwZXJpbWVudGFsbHkgaW5kdWNlZCBERlREIHR1bW91cnMgaW4gdGhyZWUgVGFzbWFuaWFuIGRldmlscy4gUmVncmVzc2lvbiBjb3JyZWxhdGVkIHdpdGggaW1tdW5lIGNlbGwgaW5maWx0cmF0aW9uIGFuZCBhbnRpYm9keSByZXNwb25zZXMgYWdhaW5zdCBERlREIGNlbGxzLiBUaGVzZSBkYXRhIHN1cHBvcnQgdGhlIGNvbmNlcHQgdGhhdCBpbW11bmlzYXRpb24gb2YgZGV2aWxzIHdpdGggREZURCBjYW5jZXIgY2VsbHMgY2FuIHN1Y2Nlc3NmdWxseSBpbmR1Y2UgaHVtb3JhbCByZXNwb25zZXMgYWdhaW5zdCBERlREIGFuZCB0cmlnZ2VyIGltbXVuZS1tZWRpYXRlZCByZWdyZXNzaW9uIG9mIGVzdGFibGlzaGVkIHR1bW91cnMuIE91ciBmaW5kaW5ncyBzdXBwb3J0IHRoZSBmZWFzaWJpbGl0eSBvZiBhIHByb3RlY3RpdmUgREZURCB2YWNjaW5lIGFuZCB1bHRpbWF0ZWx5IHRoZSBwcmVzZXJ2YXRpb24gb2YgdGhlIHNwZWNpZXMuPC9kZXNjcmlwdGlvbj4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9Ik90aGVyIj5SZXNlYXJjaCBzdXBwb3J0IHdhcyBwcm92aWRlZCBieSB0aGUgQXVzdHJhbGlhbiBSZXNlYXJjaCBDb3VuY2lsIChBUkMgTGlua2FnZSBncmFudCAjTFAwOTg5NzI3LCBBUkMgRGlzY292ZXJ5IGdyYW50ICNEUDEzMDEwMDcxNSksIFVuaXZlcnNpdHkgb2YgVGFzbWFuaWEgRm91bmRhdGlvbiB0aHJvdWdoIGZ1bmRzIHJhaXNlZCBieSB0aGUgU2F2ZSB0aGUgVGFzbWFuaWFuIERldmlsIEFwcGVhbC4gSi5NLk0uIGFja25vd2xlZGdlcyBmZWxsb3dzaGlwIHN1cHBvcnQgKEFQUDExMDU3NTQpIGFuZCBMLk0uQy4gUHJvZ3JhbSBHcmFudCBmdW5kaW5nIChBUFAxMDU0OTI1KSBmcm9tIE5ITVJDLiBKLk0uTS4gYW5kIEwuTS5DLiBhY2tub3dsZWRnZSBOSE1SQyBJUklJU1MgKDkwMDAyMjApIGFuZCBWaWN0b3JpYW4gR292ZXJubWVudCBPcGVyYXRpb25hbCBJbmZyYXN0cnVjdHVyZSBTdXBwb3J0LiBZLkMuIGFuZCBLLkIuIGFyZSBzdXBwb3J0ZWQgYnkgdGhlIEF1c3RyYWxpYW4gUmVzZWFyY2ggQ291bmNpbCAoQVJDIERpc2NvdmVyeSBncmFudCAjRFAxNDAxMDMyNjApLiBLLkIuIGlzIGZ1bmRlZCBieSBhbiBBUkMgRnV0dXJlIEZlbGxvd3NoaXAuIEouSy4gaXMgc3VwcG9ydGVkIGJ5IGEgV2VsbGNvbWUgVHJ1c3QgcHJvZ3JhbW1lIEdyYW50ICgwODkzMDUpLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPGZ1bmRpbmdSZWZlcmVuY2VzPgogICAgPGZ1bmRpbmdSZWZlcmVuY2U+CiAgICAgIDxmdW5kZXJOYW1lPldlbGxjb21lIFRydXN0PC9mdW5kZXJOYW1lPgogICAgICA8YXdhcmROdW1iZXI+MDg5MzA1L1ovMDkvWjwvYXdhcmROdW1iZXI+CiAgICA8L2Z1bmRpbmdSZWZlcmVuY2U+CiAgPC9mdW5kaW5nUmVmZXJlbmNlcz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "bl.cam",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "bl",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

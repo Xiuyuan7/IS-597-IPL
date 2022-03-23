@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.22004/AG.ECON.93592</identifier>
+  <creators>
+    <creator>
+      <creatorName>Hallman, William K.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Aquino, Helen L.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Hallman, William K.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Aquino, Helen L.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Consumers’ Desire for GM Labels: Is the Devil in the Details?</title>
+  </titles>
+  <publisher>Unknown</publisher>
+  <publicationYear>2005</publicationYear>
+  <subjects>
+    <subject>Consumer/Household Economics</subject>
+    <subject>Food Consumption/Nutrition/Food Safety</subject>
+  </subjects>
+  <dates>
+    <date dateType="Updated">2019-08-25T03:16:37.0-05:00</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+</resource>

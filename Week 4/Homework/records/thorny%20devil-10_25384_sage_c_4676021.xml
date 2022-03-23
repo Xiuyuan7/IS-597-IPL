@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.25384/SAGE.C.4676021</identifier>
+  <creators>
+    <creator>
+      <creatorName>J. Ryan Lamare</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The Devil Is in the Details: Attorney Effects on Employment Arbitration Outcomes</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">&lt;div&gt;&lt;p&gt;Conventional wisdom holds that hiring an attorney will improve outcomes for non-union employees who take individual rights complaints to arbitration. The limited empirical scholarship on this topic, however, rarely accounts for the concurrent influence of employer representatives or for differences in attorney characteristics. The author analyzes all arbitration awards rendered within the securities industry for cases filed at the implementation of its ADR program through 2007. Findings show that hiring an attorney benefits employees, but only in the rare instances when employers do not include an agent. In addition, the author examines lawyers’ biographical records to determine attorney quality differences and their effects on outcomes conditional on both sides having legal counsel. Findings show that employee and employer attorney characteristics differ and have grown more pronounced over time. These differences can affect awards, particularly to the benefit of employees. The author concludes that although simply hiring any attorney will not redress systematic imbalances within employment arbitration, lawyers are important to the system and certain types of representatives can affect the outcomes of arbitration.&lt;/p&gt;&lt;/div&gt;</description>
+  </descriptions>
+  <subjects>
+    <subject>Economics</subject>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">150310 Organisation and Management Theory</subject>
+  </subjects>
+  <publisher>SAGE Journals</publisher>
+  <publicationYear>2019</publicationYear>
+  <dates>
+    <date dateType="Created">2019-09-24</date>
+    <date dateType="Updated">2019-09-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Collection">Collection</resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1177/0019793919877404</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</rights>
+  </rightsList>
+</resource>

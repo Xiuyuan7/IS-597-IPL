@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.5446/38948",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5446/38948",
+        "identifier": "https://doi.org/10.5446/38948",
+        "url": "https://av.tib.eu/media/38948",
+        "author": [
+            {
+                "given": "Marion",
+                "family": "Marschalek"
+            }
+        ],
+        "title": "A Thorny Piece Of Malware (And Me): A Talk about Exception Handlers, VfTables, Multi-Threading and other Nastiness",
+        "container-title": "DEFCONConference",
+        "description": "Reverse Engineering is the supreme discipline in analyzing malware, how else would you find out all capabilities of a malicious sample? But this task gets trickier nearly every day, as malware authors apply new techniques to evade analysis. Even worse, documentation of said techniques is barely existent, which makes our job even harder. This talk will focus on the challenges of a specifically thorny piece of malware, detected as Backdoor.Win32.Banito. It will discuss the palette of anti-analysis measures found and show a path through a multi-threaded file-infecting spy bot. The talk will try to shed some light on the merely shallow documentation of the binary layout of Windows Structured Exception Handling (SEH), point out complications in analyzing object oriented C++ binaries and give an insight on how to tackle multi-threaded executables. Marion Marschalek (@pinkflawd) is currently employed at IKARUS Security Software GmbH based in Vienna, Austria. She is working as Malware Analyst and in Incident Response for two years now. Besides that Marion teaches basics of malware analysis at University of Applied Sciences St. P\u00f6lten. She has a technical degree, achieved through three different universities on three different continents. In March this year Marion won the Female Reverse Engineering Challenge 2013, organized by RE professional Halvar Flake.",
+        "resource-type-subtype": "Conference/Talk",
+        "data-center-id": "tib.kmo",
+        "member-id": "tib",
+        "resource-type-id": "audiovisual",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2013",
+        "registered": "2019-08-28T07:02:37.000Z",
+        "checked": null,
+        "updated": "2019-08-28T07:02:37.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTQ0Ni8zODk0ODwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPk1hcnNjaGFsZWssIE1hcmlvbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkEgVGhvcm55IFBpZWNlIE9mIE1hbHdhcmUgKEFuZCBNZSk6IEEgVGFsayBhYm91dCBFeGNlcHRpb24gSGFuZGxlcnMsIFZmVGFibGVzLCBNdWx0aS1UaHJlYWRpbmcgYW5kIG90aGVyIE5hc3RpbmVzczwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5ERUZDT05Db25mZXJlbmNlPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDEzPC9wdWJsaWNhdGlvblllYXI+CiAgPGxhbmd1YWdlPmVuZzwvbGFuZ3VhZ2U+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJBdWRpb3Zpc3VhbCI+Q29uZmVyZW5jZS9UYWxrPC9yZXNvdXJjZVR5cGU+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+SW5mb3JtYXRpb24gVGVjaG5vbG9neTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+UmV2ZXJzZSBFbmdpbmVlcmluZyBpcyB0aGUgc3VwcmVtZSBkaXNjaXBsaW5lIGluIGFuYWx5emluZyBtYWx3YXJlLCBob3cgZWxzZSB3b3VsZCB5b3UgZmluZCBvdXQgYWxsIGNhcGFiaWxpdGllcyBvZiBhIG1hbGljaW91cyBzYW1wbGU/IEJ1dCB0aGlzIHRhc2sgZ2V0cyB0cmlja2llciBuZWFybHkgZXZlcnkgZGF5LCBhcyBtYWx3YXJlIGF1dGhvcnMgYXBwbHkgbmV3IHRlY2huaXF1ZXMgdG8gZXZhZGUgYW5hbHlzaXMuIEV2ZW4gd29yc2UsIGRvY3VtZW50YXRpb24gb2Ygc2FpZCB0ZWNobmlxdWVzIGlzIGJhcmVseSBleGlzdGVudCwgd2hpY2ggbWFrZXMgb3VyIGpvYiBldmVuIGhhcmRlci4mIzEzOwomIzEzOwpUaGlzIHRhbGsgd2lsbCBmb2N1cyBvbiB0aGUgY2hhbGxlbmdlcyBvZiBhIHNwZWNpZmljYWxseSB0aG9ybnkgcGllY2Ugb2YgbWFsd2FyZSwgZGV0ZWN0ZWQgYXMgQmFja2Rvb3IuV2luMzIuQmFuaXRvLiBJdCB3aWxsIGRpc2N1c3MgdGhlIHBhbGV0dGUgb2YgYW50aS1hbmFseXNpcyBtZWFzdXJlcyBmb3VuZCBhbmQgc2hvdyBhIHBhdGggdGhyb3VnaCBhIG11bHRpLXRocmVhZGVkIGZpbGUtaW5mZWN0aW5nIHNweSBib3QuIFRoZSB0YWxrIHdpbGwgdHJ5IHRvIHNoZWQgc29tZSBsaWdodCBvbiB0aGUgbWVyZWx5IHNoYWxsb3cgZG9jdW1lbnRhdGlvbiBvZiB0aGUgYmluYXJ5IGxheW91dCBvZiBXaW5kb3dzIFN0cnVjdHVyZWQgRXhjZXB0aW9uIEhhbmRsaW5nIChTRUgpLCBwb2ludCBvdXQgY29tcGxpY2F0aW9ucyBpbiBhbmFseXppbmcgb2JqZWN0IG9yaWVudGVkIEMrKyBiaW5hcmllcyBhbmQgZ2l2ZSBhbiBpbnNpZ2h0IG9uIGhvdyB0byB0YWNrbGUgbXVsdGktdGhyZWFkZWQgZXhlY3V0YWJsZXMuJiMxMzsKJiMxMzsKTWFyaW9uIE1hcnNjaGFsZWsgKEBwaW5rZmxhd2QpIGlzIGN1cnJlbnRseSBlbXBsb3llZCBhdCBJS0FSVVMgU2VjdXJpdHkgU29mdHdhcmUgR21iSCBiYXNlZCBpbiBWaWVubmEsIEF1c3RyaWEuIFNoZSBpcyB3b3JraW5nIGFzIE1hbHdhcmUgQW5hbHlzdCBhbmQgaW4gSW5jaWRlbnQgUmVzcG9uc2UgZm9yIHR3byB5ZWFycyBub3cuIEJlc2lkZXMgdGhhdCBNYXJpb24gdGVhY2hlcyBiYXNpY3Mgb2YgbWFsd2FyZSBhbmFseXNpcyBhdCBVbml2ZXJzaXR5IG9mIEFwcGxpZWQgU2NpZW5jZXMgU3QuIFDDtmx0ZW4uIFNoZSBoYXMgYSB0ZWNobmljYWwgZGVncmVlLCBhY2hpZXZlZCB0aHJvdWdoIHRocmVlIGRpZmZlcmVudCB1bml2ZXJzaXRpZXMgb24gdGhyZWUgZGlmZmVyZW50IGNvbnRpbmVudHMuIEluIE1hcmNoIHRoaXMgeWVhciBNYXJpb24gd29uIHRoZSBGZW1hbGUgUmV2ZXJzZSBFbmdpbmVlcmluZyBDaGFsbGVuZ2UgMjAxMywgb3JnYW5pemVkIGJ5IFJFIHByb2Zlc3Npb25hbCBIYWx2YXIgRmxha2UuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tib.kmo",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tib",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "audiovisual",
+                "type": "resource-types"
+            }
+        }
+    }
+}

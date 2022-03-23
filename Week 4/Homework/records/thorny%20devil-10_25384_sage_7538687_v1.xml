@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.25384/SAGE.7538687.V1</identifier>
+  <creators>
+    <creator>
+      <creatorName>Karolina A. Ścigała</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Christoph Schild</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Daniel W. Heck</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Ingo Zettler</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Supplemental Material, SPPS813419_suppl_mat - Who Deals With the Devil? Interdependence, Personality, and Corrupted Collaboration</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">&lt;p&gt;Supplemental Material, SPPS813419_suppl_mat for Who Deals With the Devil? Interdependence, Personality, and Corrupted Collaboration by Karolina A. Ścigała, Christoph Schild, Daniel W. Heck, and Ingo Zettler in Social Psychological and Personality Science&lt;/p&gt;</description>
+  </descriptions>
+  <subjects>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">170199 Psychology not elsewhere classified</subject>
+  </subjects>
+  <publisher>SAGE Journals</publisher>
+  <publicationYear>2018</publicationYear>
+  <dates>
+    <date dateType="Created">2019-01-01</date>
+    <date dateType="Updated">2019-10-03</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Journal contribution</resourceType>
+  <sizes>
+    <size>90266 Bytes</size>
+  </sizes>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1177/1948550618813419</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsIdenticalTo">10.25384/SAGE.7538687</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</rights>
+  </rightsList>
+</resource>

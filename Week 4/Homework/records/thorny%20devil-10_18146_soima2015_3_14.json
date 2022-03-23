@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.18146/soima2015.3.14",
+    "type": "works",
+    "attributes": {
+        "doi": "10.18146/soima2015.3.14",
+        "identifier": "https://doi.org/10.18146/soima2015.3.14",
+        "url": "https://kennisbank.avanet.nl/open-access-a-challenging-opportunity-for-audiovisual-archives/",
+        "author": [
+            {
+                "given": "Irfan",
+                "family": "Zuberi"
+            }
+        ],
+        "title": "Open access",
+        "container-title": "International Centre for the Study of the Preservation and Restoration of Cultural Property (ICCROM) and Royal Institute for Cultural Heritage (KIK-IRPA)",
+        "description": "In the broadest sense, archives are an embodiment of cultural artefacts that endure as signifiers of who we are and why. They are both a place of representation of these signifiers and their institutional form, providing tangible evidence of memory as well as defining memory institutionally within prevailing political systems and cultural norms. The principle of offering equal and open access to archival resources remains a cornerstone in various guidelines and codes of ethics for archival practices. However, providing open access is also a thorny problem and one that is challenged by factors such as intellectual property rights. This paper considers the notion of open access in the domain of audiovisual archives and the challenging potential that it offers, looking specifically at the experience of India\u2019s National Cultural Audiovisual Archives. Perhaps the moment of open access is well and truly upon audiovisual archives in the twenty-first century, for they face the necessity of reinventing themselves or risking possible irrelevancy and increased marginalization, even as they must continue to balance delicate questions pertaining to ethics of access.",
+        "resource-type-subtype": "Conference Paper",
+        "data-center-id": "delft.nibg",
+        "member-id": "delft",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by-sa/3.0/igo",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-10-26T09:40:59.000Z",
+        "checked": null,
+        "updated": "2019-10-03T07:01:33.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTgxNDYvU09JTUEyMDE1LjMuMTQ8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlp1YmVyaSwgSXJmYW48L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPklyZmFuPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPlp1YmVyaTwvZmFtaWx5TmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+T3BlbiBhY2Nlc3M8L3RpdGxlPgogICAgPHRpdGxlIHRpdGxlVHlwZT0iU3VidGl0bGUiPkEgY2hhbGxlbmdpbmcgb3Bwb3J0dW5pdHkgZm9yIGF1ZGlvdmlzdWFsIGFyY2hpdmVzPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPkludGVybmF0aW9uYWwgQ2VudHJlIGZvciB0aGUgU3R1ZHkgb2YgdGhlIFByZXNlcnZhdGlvbiBhbmQgUmVzdG9yYXRpb24gb2YgQ3VsdHVyYWwgUHJvcGVydHkgKElDQ1JPTSkgYW5kIFJveWFsIEluc3RpdHV0ZSBmb3IgQ3VsdHVyYWwgSGVyaXRhZ2UgKEtJSy1JUlBBKTwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxNzwvcHVibGljYXRpb25ZZWFyPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+Q29uZmVyZW5jZSBQYXBlcjwvcmVzb3VyY2VUeXBlPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTctMTAtMjc8L2RhdGU+CiAgPC9kYXRlcz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iSVNCTiIgcmVsYXRpb25UeXBlPSJJc1BhcnRPZiI+OTc4LTkyLTkwNzctMjY0LTQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iSVNCTiIgcmVsYXRpb25UeXBlPSJJc1BhcnRPZiI+OTc4LTItOTMwMDU0LTMwLTg8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDx2ZXJzaW9uLz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1zYS8zLjAvaWdvIj5UaGlzIHB1YmxpY2F0aW9uIGlzIGF2YWlsYWJsZSBpbiBPcGVuIEFjY2VzcyB1bmRlciB0aGUgQXR0cmlidXRpb24gU2hhcmUgQWxpa2UgMy4wIElHTyAoQ0NCWS1TQSAzLjAgSUdPKSBsaWNlbnNlIChodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1zYS8zLjAvaWdvLykuIEJ5IHVzaW5nIHRoZSBjb250ZW50IG9mIHRoaXMgcHVibGljYXRpb24sIHRoZSB1c2VycyBhY2NlcHQgdG8gYmUgYm91bmQgYnkgdGhlIHRlcm1zIG9mIHVzZSBvZiB0aGUgdGVybXMgb2YgdGhlIGZ1dHVyZSBJQ0NST00gT3BlbiBBY2Nlc3MgUmVwb3NpdG9yeS48L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5JbiB0aGUgYnJvYWRlc3Qgc2Vuc2UsIGFyY2hpdmVzIGFyZSBhbiBlbWJvZGltZW50IG9mIGN1bHR1cmFsIGFydGVmYWN0cyB0aGF0IGVuZHVyZSBhcyBzaWduaWZpZXJzIG9mIHdobyB3ZSBhcmUgYW5kIHdoeS4gVGhleSBhcmUgYm90aCBhIHBsYWNlIG9mIHJlcHJlc2VudGF0aW9uIG9mIHRoZXNlIHNpZ25pZmllcnMgYW5kIHRoZWlyIGluc3RpdHV0aW9uYWwgZm9ybSwgcHJvdmlkaW5nIHRhbmdpYmxlIGV2aWRlbmNlIG9mIG1lbW9yeSBhcyB3ZWxsIGFzIGRlZmluaW5nIG1lbW9yeSBpbnN0aXR1dGlvbmFsbHkgd2l0aGluIHByZXZhaWxpbmcgcG9saXRpY2FsIHN5c3RlbXMgYW5kIGN1bHR1cmFsIG5vcm1zLiBUaGUgcHJpbmNpcGxlIG9mIG9mZmVyaW5nIGVxdWFsIGFuZCBvcGVuIGFjY2VzcyB0byBhcmNoaXZhbCByZXNvdXJjZXMgcmVtYWlucyBhIGNvcm5lcnN0b25lIGluIHZhcmlvdXMgZ3VpZGVsaW5lcyBhbmQgY29kZXMgb2YgZXRoaWNzIGZvciBhcmNoaXZhbCBwcmFjdGljZXMuIEhvd2V2ZXIsIHByb3ZpZGluZyBvcGVuIGFjY2VzcyBpcyBhbHNvIGEgdGhvcm55IHByb2JsZW0gYW5kIG9uZSB0aGF0IGlzIGNoYWxsZW5nZWQgYnkgZmFjdG9ycyBzdWNoIGFzIGludGVsbGVjdHVhbCBwcm9wZXJ0eSByaWdodHMuIFRoaXMgcGFwZXIgY29uc2lkZXJzIHRoZSBub3Rpb24gb2Ygb3BlbiBhY2Nlc3MgaW4gdGhlIGRvbWFpbiBvZiBhdWRpb3Zpc3VhbCBhcmNoaXZlcyBhbmQgdGhlIGNoYWxsZW5naW5nIHBvdGVudGlhbCB0aGF0IGl0IG9mZmVycywgbG9va2luZyBzcGVjaWZpY2FsbHkgYXQgdGhlIGV4cGVyaWVuY2Ugb2YgSW5kaWHigJlzIE5hdGlvbmFsIEN1bHR1cmFsIEF1ZGlvdmlzdWFsIEFyY2hpdmVzLiBQZXJoYXBzIHRoZSBtb21lbnQgb2Ygb3BlbiBhY2Nlc3MgaXMgd2VsbCBhbmQgdHJ1bHkgdXBvbiBhdWRpb3Zpc3VhbCBhcmNoaXZlcyBpbiB0aGUgdHdlbnR5LWZpcnN0IGNlbnR1cnksIGZvciB0aGV5IGZhY2UgdGhlIG5lY2Vzc2l0eSBvZiByZWludmVudGluZyB0aGVtc2VsdmVzIG9yIHJpc2tpbmcgcG9zc2libGUgaXJyZWxldmFuY3kgYW5kIGluY3JlYXNlZCBtYXJnaW5hbGl6YXRpb24sIGV2ZW4gYXMgdGhleSBtdXN0IGNvbnRpbnVlIHRvIGJhbGFuY2UgZGVsaWNhdGUgcXVlc3Rpb25zIHBlcnRhaW5pbmcgdG8gZXRoaWNzIG9mIGFjY2Vzcy48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPgo="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "delft.nibg",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "delft",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17863/CAM.27877</identifier>
+  <creators>
+    <creator>
+      <creatorName>Blanchard, Guy</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-3689-0522</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Fletcher, Alexander G</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0003-0525-4336</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Schumacher, Linus J</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0003-0797-3406</nameIdentifier>
+    </creator>
+  </creators>
+  <titles>
+    <title>The devil is in the mesoscale: Mechanical and behavioural heterogeneity in collective cell movement.</title>
+  </titles>
+  <publisher>Apollo - University of Cambridge Repository</publisher>
+  <publicationYear>2019</publicationYear>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2018-09-20</date>
+    <date dateType="Available">2018-09-20</date>
+    <date dateType="Issued">2019-09</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="issn">1084-9521</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">https://www.repository.cam.ac.uk/handle/1810/280507</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="eissn">1096-3634</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="doi">10.1016/j.semcdb.2018.06.003</alternateIdentifier>
+  </alternateIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">Heterogeneity within cell populations can be an important aspect affecting their collective movement and tissue-mechanical properties, determining for example their effective viscoelasticity. Differences in cell-level properties and behaviour within a group of moving cells can give rise to unexpected and non-intuitive behaviours at the tissue level. Such emergent phenomena often manifest themselves through spatiotemporal patterns at an intermediate ‘mesoscale’ between cell and tissue scales, typically involving tens of cells. Focussing on the development of embryonic animal tissues, we review recent evidence for the importance of heterogeneity at the mesoscale for collective cell migration and convergence and extension movements. We further discuss approaches to incorporate heterogeneity into computational models to complement experimental investigations.</description>
+    <description descriptionType="Other">GBB acknowledges the Wellcome Trust Investigator Award 099234/Z/12/Z to Bénédicte Sanson. AGF is supported by a Vice-Chancellor’s Fellowship from the University of Sheffield. LJS is supported by a Chancellor’s Fellowship from the University of Edinburgh.</description>
+  </descriptions>
+  <fundingReferences>
+    <fundingReference>
+      <funderName>Wellcome Trust</funderName>
+      <awardNumber>099234/Z/12/Z</awardNumber>
+    </fundingReference>
+    <fundingReference>
+      <funderName>BBSRC</funderName>
+      <awardNumber>BB/J010278/1</awardNumber>
+    </fundingReference>
+  </fundingReferences>
+</resource>

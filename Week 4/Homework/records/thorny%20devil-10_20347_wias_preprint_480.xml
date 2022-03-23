@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.20347/WIAS.PREPRINT.480</identifier>
+  <creators>
+    <creator>
+      <creatorName>Coffey, Brian</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Schoenmakers, John G. M.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>LIBOR rate models, related derivatives and model calibration</title>
+  </titles>
+  <publisher>Weierstrass Institute</publisher>
+  <publicationYear>1999</publicationYear>
+  <subjects>
+    <subject subjectScheme="keyword">Interest rate modelling</subject>
+    <subject subjectScheme="keyword">LIBOR models</subject>
+    <subject subjectScheme="keyword">LIBOR derivatives</subject>
+    <subject subjectScheme="keyword">arbitrage</subject>
+    <subject subjectScheme="keyword">semi--martingale theory</subject>
+    <subject subjectScheme="MSC1990" schemeURI="http://www.ams.org/msc/msc1990.html">60H05</subject>
+    <subject subjectScheme="MSC1990" schemeURI="http://www.ams.org/msc/msc1990.html">60H10</subject>
+    <subject subjectScheme="MSC1990" schemeURI="http://www.ams.org/msc/msc1990.html">90A09</subject>
+  </subjects>
+  <language>ENG</language>
+  <resourceType resourceTypeGeneral="Text"/>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="ISSN" relationType="Cites">0946-8633</relatedIdentifier>
+  </relatedIdentifiers>
+  <formats>
+    <format>PDF</format>
+  </formats>
+  <descriptions>
+    <description descriptionType="Abstract"><![CDATA[Based on Jamshidians framework a general strategy for the quasi-analytical valuation of large classes of LIBOR derivatives will be developed. As a special case we will address the quasi-analytical approximation formula for swaptions of Brace Gatarek and Musiela and show that a similar formula can be derived with Jamshidian's methods as well. As further applications we will study the  callable reverse floater and the trigger swap. Then, we will study the thorny issues around simultaneous calibration of (low factor) LIBOR models to cap(let) and swaption prices in the markets. We will argue that a low factor market model cannot be calibrated to these prices in a stable way and propose an, in fact, many factor model with only the same number of loading parameters as a two factor model, but, with much better stability properties.]]></description>
+  </descriptions>
+</resource>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.13140/RG.2.2.13376.74249</identifier>
+  <creators>
+    <creator>
+      <creatorName>Nicholas C. Wu</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Joseph R. Waas</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>No evidence for across-population scent discrimination of cloacal gland secretions in tuatara (Sphenodon punctatus)</title>
+  </titles>
+  <publisher>Unpublished</publisher>
+  <publicationYear>2016</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Poster</resourceType>
+  <language>en</language>
+</resource>

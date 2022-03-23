@@ -1,0 +1,73 @@
+{
+    "id": "https://doi.org/10.21411/cbm.a.8dfa67ce",
+    "type": "works",
+    "attributes": {
+        "doi": "10.21411/cbm.a.8dfa67ce",
+        "identifier": "https://doi.org/10.21411/cbm.a.8dfa67ce",
+        "url": "http://application.sb-roscoff.fr/cbm/doi/10.21411/CBM.A.8DFA67CE",
+        "author": [
+            {
+                "given": "Ioannis",
+                "family": "GIOVOS"
+            },
+            {
+                "given": "Periklis",
+                "family": "KLEITOU"
+            },
+            {
+                "given": "Vangelis",
+                "family": "PARAVAS"
+            },
+            {
+                "given": "Dimitra",
+                "family": "MARMARA"
+            },
+            {
+                "given": "Georgios",
+                "family": "ROMANIDIS-KYRIAKIDIS"
+            },
+            {
+                "given": "Dimitris",
+                "family": "POURSANIDIS"
+            }
+        ],
+        "title": "Citizen scientists monitoring the establishment and expansion of Pterois miles (Bennett, 1828) in the Aegean Sea, Greece",
+        "container-title": "Station Biologique de Roscoff (SBR)",
+        "description": "The introduction of the lionfish in the western Atlantic has been considered as one of the world's most detrimental invasions. However, in the Mediterranean Sea, the devil firefish Pterois miles (Bennett, 1828) long after its first record in 1991, has only recently shown a rapid expansion. Citizen scientists have played a significant role in reporting the presence and monitoring the expansion of several invasive species around the world. In 2016 the environmental non- governmental Greek organisation \"iSea\", initiated the citizen science project \"Is it alien to you\u2026Share it\", for the monitoring of alien species in the Greek waters. Between May 2016-Septeber 2017, 37 records of the devil firefish have been reported, documenting the establishment and a northward expansion of the species in the Mediterranean. We discuss the importance of citizen scientists in the collection of information regarding invasive species and the potential of suggested conservation measures.",
+        "resource-type-subtype": "Article",
+        "data-center-id": "inist.sbr",
+        "member-id": "inist",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-07-13T08:50:33.000Z",
+        "checked": null,
+        "updated": "2019-09-11T12:02:28.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIj8+CjxyZXNvdXJjZSB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTQiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTQgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtNC9tZXRhZGF0YS54c2QiPgogIDxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjIxNDExL0NCTS5BLjhERkE2N0NFPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+R0lPVk9TLCBJb2FubmlzPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+S0xFSVRPVSwgUGVyaWtsaXM8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5QQVJBVkFTLCBWYW5nZWxpczwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPk1BUk1BUkEsIERpbWl0cmE8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5ST01BTklESVMtS1lSSUFLSURJUywgR2Vvcmdpb3M8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5QT1VSU0FOSURJUywgRGltaXRyaXM8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5DaXRpemVuIHNjaWVudGlzdHMgbW9uaXRvcmluZyB0aGUgZXN0YWJsaXNobWVudCBhbmQgZXhwYW5zaW9uIG9mIFB0ZXJvaXMgbWlsZXMgKEJlbm5ldHQsIDE4MjgpIGluIHRoZSBBZWdlYW4gU2VhLCBHcmVlY2U8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+U3RhdGlvbiBCaW9sb2dpcXVlIGRlIFJvc2NvZmYgKFNCUik8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTg8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPkFydGljbGU8L3Jlc291cmNlVHlwZT4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlRoZSBpbnRyb2R1Y3Rpb24gb2YgdGhlIGxpb25maXNoIGluIHRoZSB3ZXN0ZXJuIEF0bGFudGljIGhhcyBiZWVuIGNvbnNpZGVyZWQgYXMgb25lIG9mIHRoZSB3b3JsZCdzIG1vc3QgZGV0cmltZW50YWwgaW52YXNpb25zLiBIb3dldmVyLCBpbiB0aGUgTWVkaXRlcnJhbmVhbiBTZWEsIHRoZSBkZXZpbCBmaXJlZmlzaCBQdGVyb2lzIG1pbGVzIChCZW5uZXR0LCAxODI4KSBsb25nIGFmdGVyIGl0cyBmaXJzdCByZWNvcmQgaW4gMTk5MSwgaGFzIG9ubHkgcmVjZW50bHkgc2hvd24gYSByYXBpZCBleHBhbnNpb24uIENpdGl6ZW4gc2NpZW50aXN0cyBoYXZlIHBsYXllZCBhIHNpZ25pZmljYW50IHJvbGUgaW4gcmVwb3J0aW5nIHRoZSBwcmVzZW5jZSBhbmQgbW9uaXRvcmluZyB0aGUgZXhwYW5zaW9uIG9mIHNldmVyYWwgaW52YXNpdmUgc3BlY2llcyBhcm91bmQgdGhlIHdvcmxkLiBJbiAyMDE2IHRoZSBlbnZpcm9ubWVudGFsIG5vbi0gZ292ZXJubWVudGFsIEdyZWVrIG9yZ2FuaXNhdGlvbiAiaVNlYSIsIGluaXRpYXRlZCB0aGUgY2l0aXplbiBzY2llbmNlIHByb2plY3QgIklzIGl0IGFsaWVuIHRvIHlvdSYjeDIwMjY7U2hhcmUgaXQiLCBmb3IgdGhlIG1vbml0b3Jpbmcgb2YgYWxpZW4gc3BlY2llcyBpbiB0aGUgR3JlZWsgd2F0ZXJzLiBCZXR3ZWVuIE1heSAyMDE2LVNlcHRlYmVyIDIwMTcsIDM3IHJlY29yZHMgb2YgdGhlIGRldmlsIGZpcmVmaXNoIGhhdmUgYmVlbiByZXBvcnRlZCwgZG9jdW1lbnRpbmcgdGhlIGVzdGFibGlzaG1lbnQgYW5kIGEgbm9ydGh3YXJkIGV4cGFuc2lvbiBvZiB0aGUgc3BlY2llcyBpbiB0aGUgTWVkaXRlcnJhbmVhbi4gV2UgZGlzY3VzcyB0aGUgaW1wb3J0YW5jZSBvZiBjaXRpemVuIHNjaWVudGlzdHMgaW4gdGhlIGNvbGxlY3Rpb24gb2YgaW5mb3JtYXRpb24gcmVnYXJkaW5nIGludmFzaXZlIHNwZWNpZXMgYW5kIHRoZSBwb3RlbnRpYWwgb2Ygc3VnZ2VzdGVkIGNvbnNlcnZhdGlvbiBtZWFzdXJlcy48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJJU1NOIiByZWxhdGlvblR5cGU9IklzUGFydE9mIj4yMjYyLTMwOTQ8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzUGFydE9mIj4xMC4yMTQxMS9DQk0uSS4yNUFEOTFCMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CjwvcmVzb3VyY2U+Cg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "inist.sbr",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "inist",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

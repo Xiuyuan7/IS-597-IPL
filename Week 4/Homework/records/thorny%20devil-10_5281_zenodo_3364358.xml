@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/ZENODO.3364358</identifier>
+  <creators>
+    <creator>
+      <creatorName>Gârlea, Olesea</creatorName>
+      <givenName>Olesea</givenName>
+      <familyName>Gârlea</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Rostul lui Dumnezeu și implicația diavolului în aforismele lui Grigore Vieru</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>Apollonian</subject>
+    <subject>Dionysiac</subject>
+    <subject>identity</subject>
+    <subject>demonization</subject>
+    <subject>mask</subject>
+    <subject>good</subject>
+    <subject>evil</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2019-08-09</date>
+  </dates>
+  <language>ro</language>
+  <resourceType resourceTypeGeneral="Text">Journal article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/3364359</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasVersion">10.5281/zenodo.3364359</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsPartOf">https://zenodo.org/communities/akademos</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International</rights>
+    <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">&lt;p&gt;The Good and the Evil as factors of evolution and the development of inter-human relations, progress&amp;nbsp;and regression, were concretized by two archetypal images, by two concrete metonymized or personified representations.&amp;nbsp;The God, as the positive energy representative and the devil as opposed to it. The article has as an axis of analysis&amp;nbsp;the aphorisms of Grigore Vieru, in which appears the divine and the worldly experiences. The massive presence of aphorisms&amp;nbsp;in which the name of God appears denotes the profoundly Christian education of the poet, the omnipresence of&amp;nbsp;God by the status of universe creator, there are visible attempts to define God by recognizing and valuing the Romanian&amp;nbsp;values, by invoking the divinity, the stereotype and the Romanians output of patterns, the unfavorable historical conjuncture,&amp;nbsp;etc.&lt;br&gt;
+Several dionisyac hypostases are reflected by the woman&amp;rsquo;s image, the physical and the metaphysical aspect of devil,&amp;nbsp;a representative spirit of maximum vigilance, with multiple faces and temptations. We have identified different relationships&amp;nbsp;between God and devil in Grigore Vieru&amp;rsquo; aphorisms, especially the co-operation, interdependence and adversity.&lt;/p&gt;</description>
+  </descriptions>
+</resource>

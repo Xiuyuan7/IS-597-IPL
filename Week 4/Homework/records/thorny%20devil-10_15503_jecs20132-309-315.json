@@ -1,0 +1,49 @@
+{
+    "id": "https://doi.org/10.15503/jecs20132-309-315",
+    "type": "works",
+    "attributes": {
+        "doi": "10.15503/jecs20132-309-315",
+        "identifier": "https://doi.org/10.15503/jecs20132-309-315",
+        "url": "http://www.jecs.pl/doi/10-15503-jecs20132-309-315/",
+        "author": [
+            {
+                "literal": "ANNA BRZEZI\u0143SKA"
+            }
+        ],
+        "title": "Mystification in Czech cinematography and Czech culture",
+        "container-title": "Journal of Education Culture and Society",
+        "description": "The article concerns the issue of mystification and hoax in Czech culture. It demon-strates historical aspects of this phenomenon and, basing on the example of various cul-tural texts, shows that the mystification as a means of artistic expression is deeply rooted in Czech culture. Surrealistic and illogical themes that are characteristic for Czech humour are used by artists, especially filmmakers, in creating successive mystifications. The article examines films such as Oil Gobblers (1988), Year of Devil (2002), Czech Dream (2004), Jara Cim-rman Lying, Sleeping (1983), in order to analyse the role of this phenomenon in both films that speak of mystification and the ones that are mystifications themselves.",
+        "resource-type-subtype": null,
+        "data-center-id": "tib.fpsc",
+        "member-id": "tib",
+        "resource-type-id": null,
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2013",
+        "registered": "2014-10-03T17:45:21.000Z",
+        "checked": null,
+        "updated": "2019-09-17T23:01:35.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCg0KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+ICANCiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTU1MDMvamVjczIwMTMyLTMwOS0zMTU8L2lkZW50aWZpZXI+ICANCiAgPGNyZWF0b3JzPiANCiAgICA8Y3JlYXRvcj4gDQogICAgICA8Y3JlYXRvck5hbWU+QU5OQSBCUlpFWknFg1NLQTwvY3JlYXRvck5hbWU+IA0KICAgIDwvY3JlYXRvcj4gDQogIDwvY3JlYXRvcnM+ICANCiAgPHRpdGxlcz4gDQogICAgPHRpdGxlPk15c3RpZmljYXRpb24gaW4gQ3plY2ggY2luZW1hdG9ncmFwaHkgYW5kIEN6ZWNoIGN1bHR1cmU8L3RpdGxlPiANCiAgPC90aXRsZXM+ICANCiAgPHB1Ymxpc2hlcj5Kb3VybmFsIG9mIEVkdWNhdGlvbiBDdWx0dXJlIGFuZCBTb2NpZXR5PC9wdWJsaXNoZXI+ICANCiAgPHB1YmxpY2F0aW9uWWVhcj4yMDEzPC9wdWJsaWNhdGlvblllYXI+ICANCiAgPHN1YmplY3RzPiANCiAgICA8c3ViamVjdD5ob2F4PC9zdWJqZWN0PiAgDQogICAgPHN1YmplY3Q+bXlzdGlmaWNhdGlvbjwvc3ViamVjdD4gIA0KICAgIDxzdWJqZWN0Pm1vY2t1bWVudGFyeTwvc3ViamVjdD4gIA0KICAgIDxzdWJqZWN0PkN6ZWNoIGN1bHR1cmU8L3N1YmplY3Q+ICANCiAgICA8c3ViamVjdD5PaWwgR29iYmxlcnM8L3N1YmplY3Q+ICANCiAgICA8c3ViamVjdD5ZZWFyIG9mIERldmlsPC9zdWJqZWN0PiAgDQogICAgPHN1YmplY3Q+Q3plY2ggRHJlYW08L3N1YmplY3Q+ICANCiAgICA8c3ViamVjdD5KYXJhIENpbXJtYW4gTHlpbmc8L3N1YmplY3Q+ICANCiAgICA8c3ViamVjdD5TbGVlcGluZzwvc3ViamVjdD4gIA0KICAgIDxzdWJqZWN0PkrDoXJhIENpbXJtYW48L3N1YmplY3Q+IA0KICA8L3N1YmplY3RzPiAgDQogIDxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+ICANCiAgPHNpemVzPiANCiAgICA8c2l6ZT43IHBhZ2VzPC9zaXplPiANCiAgPC9zaXplcz4gIA0KICA8Zm9ybWF0cz4gDQogICAgPGZvcm1hdD5wZGY8L2Zvcm1hdD4gDQogIDwvZm9ybWF0cz4gIA0KICA8cmlnaHRzTGlzdD4gDQogICAgPHJpZ2h0cz5DQy1CWS1OQy1ORDwvcmlnaHRzPiANCiAgPC9yaWdodHNMaXN0PiAgDQogIDxkZXNjcmlwdGlvbnM+IA0KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5UaGUgYXJ0aWNsZSBjb25jZXJucyB0aGUgaXNzdWUgb2YgbXlzdGlmaWNhdGlvbiBhbmQgaG9heCBpbiBDemVjaCBjdWx0dXJlLiBJdCBkZW1vbi1zdHJhdGVzIGhpc3RvcmljYWwgYXNwZWN0cyBvZiB0aGlzIHBoZW5vbWVub24gYW5kLCBiYXNpbmcgb24gdGhlIGV4YW1wbGUgb2YgdmFyaW91cyBjdWwtdHVyYWwgdGV4dHMsIHNob3dzIHRoYXQgdGhlIG15c3RpZmljYXRpb24gYXMgYSBtZWFucyBvZiBhcnRpc3RpYyBleHByZXNzaW9uIGlzIGRlZXBseSByb290ZWQgaW4gQ3plY2ggY3VsdHVyZS4gU3VycmVhbGlzdGljIGFuZCBpbGxvZ2ljYWwgdGhlbWVzIHRoYXQgYXJlIGNoYXJhY3RlcmlzdGljIGZvciBDemVjaCBodW1vdXIgYXJlIHVzZWQgYnkgYXJ0aXN0cywgZXNwZWNpYWxseSBmaWxtbWFrZXJzLCBpbiBjcmVhdGluZyBzdWNjZXNzaXZlIG15c3RpZmljYXRpb25zLiBUaGUgYXJ0aWNsZSBleGFtaW5lcyBmaWxtcyBzdWNoIGFzIE9pbCBHb2JibGVycyAoMTk4OCksIFllYXIgb2YgRGV2aWwgKDIwMDIpLCBDemVjaCBEcmVhbSAoMjAwNCksIEphcmEgQ2ltLXJtYW4gTHlpbmcsIFNsZWVwaW5nICgxOTgzKSwgaW4gb3JkZXIgdG8gYW5hbHlzZSB0aGUgcm9sZSBvZiB0aGlzIHBoZW5vbWVub24gaW4gYm90aCBmaWxtcyB0aGF0IHNwZWFrIG9mIG15c3RpZmljYXRpb24gYW5kIHRoZSBvbmVzIHRoYXQgYXJlIG15c3RpZmljYXRpb25zIHRoZW1zZWx2ZXMuPC9kZXNjcmlwdGlvbj4gDQogIDwvZGVzY3JpcHRpb25zPiANCjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tib.fpsc",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tib",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": null
+        }
+    }
+}

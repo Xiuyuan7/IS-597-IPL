@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.17615/ygjh-b353",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17615/ygjh-b353",
+        "identifier": "https://doi.org/10.17615/ygjh-b353",
+        "url": "https://cdr.lib.unc.edu/concern/honors_theses/cj82kc390",
+        "author": [
+            {
+                "literal": "Pribble, Kathryn"
+            }
+        ],
+        "title": "The Word and the Christian Author: Attitudes Toward Verbal Language in Nikolai Gogol's \u041c\u0451\u0440\u0442\u0432\u044b\u0435 \u0434\u0443\u0448\u0438",
+        "container-title": "The University of North Carolina at Chapel Hill University Libraries",
+        "description": "The purpose of this thesis will be to examine Gogol\u2019s mature philosophy of language as it\nis suggested by Dead Souls, taking into consideration both the novel\u2019s thematics and its narrative\ntechnique. I contend that Gogol uses the plot of the novel to model the way in which words are\ncapable of acting as conduits for poshlost\u2019, and that, furthermore, certain aspects of the novel\u2019s\nnarrative structure are motivated by and reflective of Gogol\u2019s awareness that, as an author, he is\nimplicated in his novel\u2019s condemnation of verbal language as a potential instrument of the Devil.",
+        "resource-type-subtype": "Honors Thesis",
+        "data-center-id": "gdcc.odum-library",
+        "member-id": "gdcc",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://rightsstatements.org/vocab/InC/1.0/",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2013",
+        "registered": "2019-08-20T07:16:35.000Z",
+        "checked": null,
+        "updated": "2019-10-02T20:02:01.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc2MTUvWUdKSC1CMzUzPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5QcmliYmxlLCBLYXRocnluPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+VGhlIFdvcmQgYW5kIHRoZSBDaHJpc3RpYW4gQXV0aG9yOiBBdHRpdHVkZXMgVG93YXJkIFZlcmJhbCBMYW5ndWFnZSBpbiBOaWtvbGFpIEdvZ29sJ3Mg0JzRkdGA0YLQstGL0LUg0LTRg9GI0Lg8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+VGhlIFVuaXZlcnNpdHkgb2YgTm9ydGggQ2Fyb2xpbmEgYXQgQ2hhcGVsIEhpbGwgVW5pdmVyc2l0eSBMaWJyYXJpZXM8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTM8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPkhvbm9ycyBUaGVzaXM8L3Jlc291cmNlVHlwZT4KICA8dmVyc2lvbi8+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL3JpZ2h0c3N0YXRlbWVudHMub3JnL3ZvY2FiL0luQy8xLjAvIj5JbiBDb3B5cmlnaHQ8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5UaGUgcHVycG9zZSBvZiB0aGlzIHRoZXNpcyB3aWxsIGJlIHRvIGV4YW1pbmUgR29nb2zigJlzIG1hdHVyZSBwaGlsb3NvcGh5IG9mIGxhbmd1YWdlIGFzIGl0CmlzIHN1Z2dlc3RlZCBieSBEZWFkIFNvdWxzLCB0YWtpbmcgaW50byBjb25zaWRlcmF0aW9uIGJvdGggdGhlIG5vdmVs4oCZcyB0aGVtYXRpY3MgYW5kIGl0cyBuYXJyYXRpdmUKdGVjaG5pcXVlLiBJIGNvbnRlbmQgdGhhdCBHb2dvbCB1c2VzIHRoZSBwbG90IG9mIHRoZSBub3ZlbCB0byBtb2RlbCB0aGUgd2F5IGluIHdoaWNoIHdvcmRzIGFyZQpjYXBhYmxlIG9mIGFjdGluZyBhcyBjb25kdWl0cyBmb3IgcG9zaGxvc3TigJksIGFuZCB0aGF0LCBmdXJ0aGVybW9yZSwgY2VydGFpbiBhc3BlY3RzIG9mIHRoZSBub3ZlbOKAmXMKbmFycmF0aXZlIHN0cnVjdHVyZSBhcmUgbW90aXZhdGVkIGJ5IGFuZCByZWZsZWN0aXZlIG9mIEdvZ29s4oCZcyBhd2FyZW5lc3MgdGhhdCwgYXMgYW4gYXV0aG9yLCBoZSBpcwppbXBsaWNhdGVkIGluIGhpcyBub3ZlbOKAmXMgY29uZGVtbmF0aW9uIG9mIHZlcmJhbCBsYW5ndWFnZSBhcyBhIHBvdGVudGlhbCBpbnN0cnVtZW50IG9mIHRoZSBEZXZpbC48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPgo="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "gdcc.odum-library",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "gdcc",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

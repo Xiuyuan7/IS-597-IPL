@@ -1,0 +1,61 @@
+{
+    "id": "https://doi.org/10.21963/12962",
+    "type": "works",
+    "attributes": {
+        "doi": "10.21963/12962",
+        "identifier": "https://doi.org/10.21963/12962",
+        "url": "https://www.polardata.ca/pdcsearch/?doi_id=12962",
+        "author": [
+            {
+                "given": "Virginia",
+                "family": "Le\u00f3n-R\u00e8gagnon"
+            },
+            {
+                "given": "Ian",
+                "family": "Hogg"
+            },
+            {
+                "given": "Paul",
+                "family": "Hebert"
+            }
+        ],
+        "title": "The distribution and abundance of parasites in harvested wildlife from the Canadian North : a review",
+        "container-title": "Canadian Cryospheric Information Network",
+        "description": "Parasites are key components of arctic ecosystems. The current rate of climate and landscape changes in the Arctic is expected to alter host-parasite interactions, creating a significant concern for the sustainability of arctic vertebrates. In addition to direct effects on host populations, changes in parasite loads on wildlife can have significant impacts on the people who depend on these organisms for food. Parasites play important roles in maintaining ecosystem stability through the regulation of host populations, and can provide unique insights into ecosystem structure. The present review examines the literature on the parasites of harvested wildlife in the Canadian North including studies in the Yukon, Northwest Territories, Nunavut, northern Quebec (Nunavik), and Newfoundland and Labrador. For host species with higher mobility, we included records from other regions, such as Greenland, Russia and the Canadian Subarctic, when no parasitological studies were available for the Canadian North. In addition, we searched databases for the Parasite Collection at the Canadian Museum of Nature and for the United States Parasite Collection for records from the Canadian North. We found records for 248 species of macroparasites in vertebrate species of country food of animal origin in the Canadian North including flatworms, roundworms, thorny-headed worms, ticks, lice, fleas, flies and tongue worms. This review highlights the need to extend the study of the parasites which infect the primary species of harvested wildlife in the Canadian North. More detailed information on parasite communities is particularly important as climate change raises the possibility that new parasite species will colonize the region. Building a DNA barcode library for the parasites from country food in the area will facilitate their identification and monitoring.",
+        "resource-type-subtype": "CreativeWork",
+        "data-center-id": "cisti.ccin",
+        "member-id": "cisti",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-10-11T15:17:36.000Z",
+        "checked": null,
+        "updated": "2019-10-04T01:30:58.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjE5NjMvMTI5NjI8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5WaXJnaW5pYSBMZcOzbi1Sw6hnYWdub248L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5JYW4gSG9nZzwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlBhdWwgSGViZXJ0PC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+VGhlIGRpc3RyaWJ1dGlvbiBhbmQgYWJ1bmRhbmNlIG9mIHBhcmFzaXRlcyBpbiBoYXJ2ZXN0ZWQgd2lsZGxpZmUgZnJvbSB0aGUgQ2FuYWRpYW4gTm9ydGggOiBhIHJldmlldzwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5DYW5hZGlhbiBDcnlvc3BoZXJpYyBJbmZvcm1hdGlvbiBOZXR3b3JrPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE4PC9wdWJsaWNhdGlvblllYXI+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJEYXRhc2V0Ij5DcmVhdGl2ZVdvcms8L3Jlc291cmNlVHlwZT4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE4PC9kYXRlPgogIDwvZGF0ZXM+CiAgPHZlcnNpb24vPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+UGFyYXNpdGVzIGFyZSBrZXkgY29tcG9uZW50cyBvZiBhcmN0aWMgZWNvc3lzdGVtcy4gVGhlIGN1cnJlbnQgcmF0ZSBvZiBjbGltYXRlIGFuZCBsYW5kc2NhcGUgY2hhbmdlcyBpbiB0aGUgQXJjdGljIGlzIGV4cGVjdGVkIHRvIGFsdGVyIGhvc3QtcGFyYXNpdGUgaW50ZXJhY3Rpb25zLCBjcmVhdGluZyBhIHNpZ25pZmljYW50IGNvbmNlcm4gZm9yIHRoZSBzdXN0YWluYWJpbGl0eSBvZiBhcmN0aWMgdmVydGVicmF0ZXMuIEluIGFkZGl0aW9uIHRvIGRpcmVjdCBlZmZlY3RzIG9uIGhvc3QgcG9wdWxhdGlvbnMsIGNoYW5nZXMgaW4gcGFyYXNpdGUgbG9hZHMgb24gd2lsZGxpZmUgY2FuIGhhdmUgc2lnbmlmaWNhbnQgaW1wYWN0cyBvbiB0aGUgcGVvcGxlIHdobyBkZXBlbmQgb24gdGhlc2Ugb3JnYW5pc21zIGZvciBmb29kLiBQYXJhc2l0ZXMgcGxheSBpbXBvcnRhbnQgcm9sZXMgaW4gbWFpbnRhaW5pbmcgZWNvc3lzdGVtIHN0YWJpbGl0eSB0aHJvdWdoIHRoZSByZWd1bGF0aW9uIG9mIGhvc3QgcG9wdWxhdGlvbnMsIGFuZCBjYW4gcHJvdmlkZSB1bmlxdWUgaW5zaWdodHMgaW50byBlY29zeXN0ZW0gc3RydWN0dXJlLiBUaGUgcHJlc2VudCByZXZpZXcgZXhhbWluZXMgdGhlIGxpdGVyYXR1cmUgb24gdGhlIHBhcmFzaXRlcyBvZiBoYXJ2ZXN0ZWQgd2lsZGxpZmUgaW4gdGhlIENhbmFkaWFuIE5vcnRoIGluY2x1ZGluZyBzdHVkaWVzIGluIHRoZSBZdWtvbiwgTm9ydGh3ZXN0IFRlcnJpdG9yaWVzLCBOdW5hdnV0LCBub3J0aGVybiBRdWViZWMgKE51bmF2aWspLCBhbmQgTmV3Zm91bmRsYW5kIGFuZCBMYWJyYWRvci4gRm9yIGhvc3Qgc3BlY2llcyB3aXRoIGhpZ2hlciBtb2JpbGl0eSwgd2UgaW5jbHVkZWQgcmVjb3JkcyBmcm9tIG90aGVyIHJlZ2lvbnMsIHN1Y2ggYXMgR3JlZW5sYW5kLCBSdXNzaWEgYW5kIHRoZSBDYW5hZGlhbiBTdWJhcmN0aWMsIHdoZW4gbm8gcGFyYXNpdG9sb2dpY2FsIHN0dWRpZXMgd2VyZSBhdmFpbGFibGUgZm9yIHRoZSBDYW5hZGlhbiBOb3J0aC4gSW4gYWRkaXRpb24sIHdlIHNlYXJjaGVkIGRhdGFiYXNlcyBmb3IgdGhlIFBhcmFzaXRlIENvbGxlY3Rpb24gYXQgdGhlIENhbmFkaWFuIE11c2V1bSBvZiBOYXR1cmUgYW5kIGZvciB0aGUgVW5pdGVkIFN0YXRlcyBQYXJhc2l0ZSBDb2xsZWN0aW9uIGZvciByZWNvcmRzIGZyb20gdGhlIENhbmFkaWFuIE5vcnRoLiBXZSBmb3VuZCByZWNvcmRzIGZvciAyNDggc3BlY2llcyBvZiBtYWNyb3BhcmFzaXRlcyBpbiB2ZXJ0ZWJyYXRlIHNwZWNpZXMgb2YgY291bnRyeSBmb29kIG9mIGFuaW1hbCBvcmlnaW4gaW4gdGhlIENhbmFkaWFuIE5vcnRoIGluY2x1ZGluZyBmbGF0d29ybXMsIHJvdW5kd29ybXMsIHRob3JueS1oZWFkZWQgd29ybXMsIHRpY2tzLCBsaWNlLCBmbGVhcywgZmxpZXMgYW5kIHRvbmd1ZSB3b3Jtcy4gVGhpcyByZXZpZXcgaGlnaGxpZ2h0cyB0aGUgbmVlZCB0byBleHRlbmQgdGhlIHN0dWR5IG9mIHRoZSBwYXJhc2l0ZXMgd2hpY2ggaW5mZWN0IHRoZSBwcmltYXJ5IHNwZWNpZXMgb2YgaGFydmVzdGVkIHdpbGRsaWZlIGluIHRoZSBDYW5hZGlhbiBOb3J0aC4gTW9yZSBkZXRhaWxlZCBpbmZvcm1hdGlvbiBvbiBwYXJhc2l0ZSBjb21tdW5pdGllcyBpcyBwYXJ0aWN1bGFybHkgaW1wb3J0YW50IGFzIGNsaW1hdGUgY2hhbmdlIHJhaXNlcyB0aGUgcG9zc2liaWxpdHkgdGhhdCBuZXcgcGFyYXNpdGUgc3BlY2llcyB3aWxsIGNvbG9uaXplIHRoZSByZWdpb24uIEJ1aWxkaW5nIGEgRE5BIGJhcmNvZGUgbGlicmFyeSBmb3IgdGhlIHBhcmFzaXRlcyBmcm9tIGNvdW50cnkgZm9vZCBpbiB0aGUgYXJlYSB3aWxsIGZhY2lsaXRhdGUgdGhlaXIgaWRlbnRpZmljYXRpb24gYW5kIG1vbml0b3JpbmcuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4K"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cisti.ccin",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cisti",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

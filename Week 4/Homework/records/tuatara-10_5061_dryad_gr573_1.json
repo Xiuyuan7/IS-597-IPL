@@ -1,0 +1,73 @@
+{
+    "id": "https://doi.org/10.5061/dryad.gr573/1",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5061/dryad.gr573/1",
+        "identifier": "https://doi.org/10.5061/dryad.gr573/1",
+        "url": "http://datadryad.org/resource/doi:10.5061/dryad.gr573/1",
+        "author": [
+            {
+                "given": "Marc E. H.",
+                "family": "Jones"
+            },
+            {
+                "given": "Cajsa Lisa",
+                "family": "Anderson"
+            },
+            {
+                "given": "Christy A.",
+                "family": "Hipsley"
+            },
+            {
+                "given": "Johannes",
+                "family": "Mu\u0308ller"
+            },
+            {
+                "given": "Susan E.",
+                "family": "Evans"
+            },
+            {
+                "given": "Rainer R.",
+                "family": "Schoch"
+            }
+        ],
+        "title": "RAG1 aligned matrix of Squamata, Sphenodon and outgroups",
+        "container-title": "Dryad Digital Repository",
+        "description": null,
+        "resource-type-subtype": "DataFile",
+        "data-center-id": "dryad.dryad",
+        "member-id": "dryad",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": "http://creativecommons.org/publicdomain/zero/1.0",
+        "schema-version": "3",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2013",
+        "registered": "2013-09-27T19:12:44.000Z",
+        "checked": null,
+        "updated": "2019-08-02T02:30:22.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6bWV0cz0iaHR0cDovL3d3dy5sb2MuZ292L01FVFMvIiB4bWxuczpkc3BhY2U9Imh0dHA6Ly93d3cuZHNwYWNlLm9yZy94bWxucy9kc3BhY2UvZGltIiB4bWxuczpkaW09Imh0dHA6Ly93d3cuZHNwYWNlLm9yZy94bWxucy9kc3BhY2UvZGltIiB4bWxuczpkcnlhZD0iaHR0cDovL3B1cmwub3JnL2RyeWFkL3Rlcm1zLyIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+ICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41MDYxL0RSWUFELkdSNTczLzE8L2lkZW50aWZpZXI+ICA8dmVyc2lvbj4xPC92ZXJzaW9uPiAgPGNyZWF0b3JzPiAgICA8Y3JlYXRvcj4gICAgICA8Y3JlYXRvck5hbWU+Sm9uZXMsIE1hcmMgRS4gSC48L2NyZWF0b3JOYW1lPiAgICA8L2NyZWF0b3I+ICAgIDxjcmVhdG9yPiAgICAgIDxjcmVhdG9yTmFtZT5BbmRlcnNvbiwgQ2Fqc2EgTGlzYTwvY3JlYXRvck5hbWU+ICAgIDwvY3JlYXRvcj4gICAgPGNyZWF0b3I+ICAgICAgPGNyZWF0b3JOYW1lPkhpcHNsZXksIENocmlzdHkgQS48L2NyZWF0b3JOYW1lPiAgICA8L2NyZWF0b3I+ICAgIDxjcmVhdG9yPiAgICAgIDxjcmVhdG9yTmFtZT5NdcyIbGxlciwgSm9oYW5uZXM8L2NyZWF0b3JOYW1lPiAgICA8L2NyZWF0b3I+ICAgIDxjcmVhdG9yPiAgICAgIDxjcmVhdG9yTmFtZT5FdmFucywgU3VzYW4gRS48L2NyZWF0b3JOYW1lPiAgICA8L2NyZWF0b3I+ICAgIDxjcmVhdG9yPiAgICAgIDxjcmVhdG9yTmFtZT5TY2hvY2gsIFJhaW5lciBSLjwvY3JlYXRvck5hbWU+ICAgIDwvY3JlYXRvcj4gIDwvY3JlYXRvcnM+ICA8dGl0bGVzPiAgICA8dGl0bGU+UkFHMSBhbGlnbmVkIG1hdHJpeCBvZiBTcXVhbWF0YSwgU3BoZW5vZG9uIGFuZCBvdXRncm91cHM8L3RpdGxlPiAgPC90aXRsZXM+ICA8cHVibGlzaGVyPkRyeWFkIERpZ2l0YWwgUmVwb3NpdG9yeTwvcHVibGlzaGVyPiAgPHB1YmxpY2F0aW9uWWVhcj4yMDEzPC9wdWJsaWNhdGlvblllYXI+ICA8c3ViamVjdHM+ICAgIDxzdWJqZWN0PmRhdGluZzwvc3ViamVjdD4gICAgPHN1YmplY3Q+Zm9zc2lsPC9zdWJqZWN0PiAgICA8c3ViamVjdD5saXphcmRzPC9zdWJqZWN0PiAgICA8c3ViamVjdD5tb2xlY3VsYXI8L3N1YmplY3Q+ICAgIDxzdWJqZWN0Pm9yaWdpbjwvc3ViamVjdD4gICAgPHN1YmplY3Q+dHVhdGFyYTwvc3ViamVjdD4gICAgPHN1YmplY3Q+VHJpYXNzaWM8L3N1YmplY3Q+ICAgIDxzdWJqZWN0Pkp1cmFzc2ljPC9zdWJqZWN0PiAgICA8c3ViamVjdD5TcGhlbm9kb24gcHVuY3RhdHVzPC9zdWJqZWN0PiAgICA8c3ViamVjdD5MZXBpZG9zYXVyaWE8L3N1YmplY3Q+ICAgIDxzdWJqZWN0PlNxdWFtYXRhPC9zdWJqZWN0PiAgPC9zdWJqZWN0cz4gIDxkYXRlcz4gICAgPGRhdGUgZGF0ZVR5cGU9IkFjY2VwdGVkIj4yMDEzLTEyLTEyPC9kYXRlPiAgPC9kYXRlcz4gIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCI+RGF0YUZpbGU8L3Jlc291cmNlVHlwZT4gIDxyZWxhdGVkSWRlbnRpZmllcnM+ICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1BhcnRPZiI+MTAuNTA2MS9EUllBRC5HUjU3MzwvcmVsYXRlZElkZW50aWZpZXI+ICA8L3JlbGF0ZWRJZGVudGlmaWVycz4gIDxyaWdodHNMaXN0PiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvcHVibGljZG9tYWluL3plcm8vMS4wLyIvPiAgPC9yaWdodHNMaXN0PiAgPGRlc2NyaXB0aW9ucz4gICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiLz4gIDwvZGVzY3JpcHRpb25zPjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "dryad.dryad",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "dryad",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

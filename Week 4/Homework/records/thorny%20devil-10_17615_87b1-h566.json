@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.17615/87b1-h566",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17615/87b1-h566",
+        "identifier": "https://doi.org/10.17615/87b1-h566",
+        "url": "https://cdr.lib.unc.edu/concern/masters_papers/6969z494m",
+        "author": [
+            {
+                "literal": "Bailey, Mary Courtney"
+            }
+        ],
+        "title": "Bridging the Gap: Handling Born-Digital Records in Manuscript Repositories",
+        "container-title": "The University of North Carolina at Chapel Hill University Libraries",
+        "description": "Due to the rapidly burgeoning volume of born-digital records, it behooves archives to\ndetermine how they can best bridge the gap between handling analog and handling born-digital records. In addition to analyzing existing case studies of repositories that already accession and process electronic records, the study presented in this paper used both a survey instrument and semi-structured interviews with archivists to investigate whether and how manuscript repositories are handling born-digital materials. The intent of this study has been to pinpoint some of the problems that plague manuscript repositories in particular and to identify some practical steps that have already been taken at similar repositories and should be replicated and suggest courses for further study and action.  The problems of handling born-digital materials, especially when it comes to providing access, are not unique, and the profession would be well served by finding a space for collaboration to solve these thorny issues.",
+        "resource-type-subtype": "Masters Paper",
+        "data-center-id": "gdcc.odum-library",
+        "member-id": "gdcc",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://rightsstatements.org/vocab/InC/1.0/",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2013",
+        "registered": "2019-08-20T07:02:16.000Z",
+        "checked": null,
+        "updated": "2019-10-02T19:59:49.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc2MTUvODdCMS1INTY2PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5CYWlsZXksIE1hcnkgQ291cnRuZXk8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5CcmlkZ2luZyB0aGUgR2FwOiBIYW5kbGluZyBCb3JuLURpZ2l0YWwgUmVjb3JkcyBpbiBNYW51c2NyaXB0IFJlcG9zaXRvcmllczwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5UaGUgVW5pdmVyc2l0eSBvZiBOb3J0aCBDYXJvbGluYSBhdCBDaGFwZWwgSGlsbCBVbml2ZXJzaXR5IExpYnJhcmllczwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxMzwvcHVibGljYXRpb25ZZWFyPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+TWFzdGVycyBQYXBlcjwvcmVzb3VyY2VUeXBlPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0PkVsZWN0cm9uaWMgcmVjb3Jkczwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkxpYnJhcmllcy0tU3BlY2lhbCBDb2xsZWN0aW9ucy0tTWFudXNjcmlwdHM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5FbGVjdHJvbmljIGluZm9ybWF0aW9uIHJlc291cmNlcy0tQWNjZXNzIGNvbnRyb2w8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8dmVyc2lvbi8+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL3JpZ2h0c3N0YXRlbWVudHMub3JnL3ZvY2FiL0luQy8xLjAvIj5JbiBDb3B5cmlnaHQ8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5EdWUgdG8gdGhlIHJhcGlkbHkgYnVyZ2VvbmluZyB2b2x1bWUgb2YgYm9ybi1kaWdpdGFsIHJlY29yZHMsIGl0IGJlaG9vdmVzIGFyY2hpdmVzIHRvCmRldGVybWluZSBob3cgdGhleSBjYW4gYmVzdCBicmlkZ2UgdGhlIGdhcCBiZXR3ZWVuIGhhbmRsaW5nIGFuYWxvZyBhbmQgaGFuZGxpbmcgYm9ybi1kaWdpdGFsIHJlY29yZHMuIEluIGFkZGl0aW9uIHRvIGFuYWx5emluZyBleGlzdGluZyBjYXNlIHN0dWRpZXMgb2YgcmVwb3NpdG9yaWVzIHRoYXQgYWxyZWFkeSBhY2Nlc3Npb24gYW5kIHByb2Nlc3MgZWxlY3Ryb25pYyByZWNvcmRzLCB0aGUgc3R1ZHkgcHJlc2VudGVkIGluIHRoaXMgcGFwZXIgdXNlZCBib3RoIGEgc3VydmV5IGluc3RydW1lbnQgYW5kIHNlbWktc3RydWN0dXJlZCBpbnRlcnZpZXdzIHdpdGggYXJjaGl2aXN0cyB0byBpbnZlc3RpZ2F0ZSB3aGV0aGVyIGFuZCBob3cgbWFudXNjcmlwdCByZXBvc2l0b3JpZXMgYXJlIGhhbmRsaW5nIGJvcm4tZGlnaXRhbCBtYXRlcmlhbHMuIFRoZSBpbnRlbnQgb2YgdGhpcyBzdHVkeSBoYXMgYmVlbiB0byBwaW5wb2ludCBzb21lIG9mIHRoZSBwcm9ibGVtcyB0aGF0IHBsYWd1ZSBtYW51c2NyaXB0IHJlcG9zaXRvcmllcyBpbiBwYXJ0aWN1bGFyIGFuZCB0byBpZGVudGlmeSBzb21lIHByYWN0aWNhbCBzdGVwcyB0aGF0IGhhdmUgYWxyZWFkeSBiZWVuIHRha2VuIGF0IHNpbWlsYXIgcmVwb3NpdG9yaWVzIGFuZCBzaG91bGQgYmUgcmVwbGljYXRlZCBhbmQgc3VnZ2VzdCBjb3Vyc2VzIGZvciBmdXJ0aGVyIHN0dWR5IGFuZCBhY3Rpb24uICBUaGUgcHJvYmxlbXMgb2YgaGFuZGxpbmcgYm9ybi1kaWdpdGFsIG1hdGVyaWFscywgZXNwZWNpYWxseSB3aGVuIGl0IGNvbWVzIHRvIHByb3ZpZGluZyBhY2Nlc3MsIGFyZSBub3QgdW5pcXVlLCBhbmQgdGhlIHByb2Zlc3Npb24gd291bGQgYmUgd2VsbCBzZXJ2ZWQgYnkgZmluZGluZyBhIHNwYWNlIGZvciBjb2xsYWJvcmF0aW9uIHRvIHNvbHZlIHRoZXNlIHRob3JueSBpc3N1ZXMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4K"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "gdcc.odum-library",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "gdcc",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

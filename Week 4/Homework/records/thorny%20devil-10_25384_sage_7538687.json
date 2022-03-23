@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.25384/sage.7538687",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25384/sage.7538687",
+        "identifier": "https://doi.org/10.25384/sage.7538687",
+        "url": "https://sage.figshare.com/articles/Supplemental_Material_SPPS813419_suppl_mat_-_Who_Deals_With_the_Devil_Interdependence_Personality_and_Corrupted_Collaboration/7538687",
+        "author": [
+            {
+                "given": "Karolina A.",
+                "family": "\u015aciga\u0142a"
+            },
+            {
+                "given": "Christoph",
+                "family": "Schild"
+            },
+            {
+                "given": "Daniel W.",
+                "family": "Heck"
+            },
+            {
+                "given": "Ingo",
+                "family": "Zettler"
+            }
+        ],
+        "title": "Supplemental Material, SPPS813419_suppl_mat - Who Deals With the Devil? Interdependence, Personality, and Corrupted Collaboration",
+        "container-title": "SAGE Journals",
+        "description": "Supplemental Material, SPPS813419_suppl_mat for Who Deals With the Devil? Interdependence, Personality, and Corrupted Collaboration by Karolina A. \u015aciga\u0142a, Christoph Schild, Daniel W. Heck, and Ingo Zettler in Social Psychological and Personality Science",
+        "resource-type-subtype": "Journal contribution",
+        "data-center-id": "figshare.sage",
+        "member-id": "figshare",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://rightsstatements.org/vocab/InC/1.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2019-01-01T16:02:21.000Z",
+        "checked": null,
+        "updated": "2019-10-03T08:06:36.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4yNTM4NC9TQUdFLjc1Mzg2ODc8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5LYXJvbGluYSBBLiDFmmNpZ2HFgmE8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5DaHJpc3RvcGggU2NoaWxkPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+RGFuaWVsIFcuIEhlY2s8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5JbmdvIFpldHRsZXI8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5TdXBwbGVtZW50YWwgTWF0ZXJpYWwsIFNQUFM4MTM0MTlfc3VwcGxfbWF0IC0gV2hvIERlYWxzIFdpdGggdGhlIERldmlsPyBJbnRlcmRlcGVuZGVuY2UsIFBlcnNvbmFsaXR5LCBhbmQgQ29ycnVwdGVkIENvbGxhYm9yYXRpb248L3RpdGxlPgogIDwvdGl0bGVzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+Jmx0O3AmZ3Q7U3VwcGxlbWVudGFsIE1hdGVyaWFsLCBTUFBTODEzNDE5X3N1cHBsX21hdCBmb3IgV2hvIERlYWxzIFdpdGggdGhlIERldmlsPyBJbnRlcmRlcGVuZGVuY2UsIFBlcnNvbmFsaXR5LCBhbmQgQ29ycnVwdGVkIENvbGxhYm9yYXRpb24gYnkgS2Fyb2xpbmEgQS4gxZpjaWdhxYJhLCBDaHJpc3RvcGggU2NoaWxkLCBEYW5pZWwgVy4gSGVjaywgYW5kIEluZ28gWmV0dGxlciBpbiBTb2NpYWwgUHN5Y2hvbG9naWNhbCBhbmQgUGVyc29uYWxpdHkgU2NpZW5jZSZsdDsvcCZndDs8L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0IHNjaGVtZVVSST0iaHR0cDovL3d3dy5hYnMuZ292LmF1L2F1c3N0YXRzL2Fic0AubnNmLzAvNkJCNDI3QUI5Njk2QzIyNUNBMjU3NDE4MDAwNDQ2M0UiIHN1YmplY3RTY2hlbWU9IkZPUiI+MTcwMTk5IFBzeWNob2xvZ3kgbm90IGVsc2V3aGVyZSBjbGFzc2lmaWVkPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPHB1Ymxpc2hlcj5TQUdFIEpvdXJuYWxzPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE4PC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkNyZWF0ZWQiPjIwMTktMDEtMDE8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOS0xMC0wMzwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+Sm91cm5hbCBjb250cmlidXRpb248L3Jlc291cmNlVHlwZT4KICA8c2l6ZXM+CiAgICA8c2l6ZT45MDI2NiBCeXRlczwvc2l6ZT4KICA8L3NpemVzPgogIDxyZWxhdGVkSWRlbnRpZmllcnM+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNTdXBwbGVtZW50VG8iPjEwLjExNzcvMTk0ODU1MDYxODgxMzQxOTwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL3JpZ2h0c3N0YXRlbWVudHMub3JnL3ZvY2FiL0luQy8xLjAvIj5JbiBDb3B5cmlnaHQ8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.sage",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

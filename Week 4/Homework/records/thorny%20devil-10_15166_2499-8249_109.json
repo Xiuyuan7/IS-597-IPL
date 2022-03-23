@@ -1,0 +1,61 @@
+{
+    "id": "https://doi.org/10.15166/2499-8249/109",
+    "type": "works",
+    "attributes": {
+        "doi": "10.15166/2499-8249/109",
+        "identifier": "https://doi.org/10.15166/2499-8249/109",
+        "url": "http://www.europeanpapers.eu/en/e-journal/regulatory-trust-eu-free-movement-law-adopting-the-level-of-protection-of-the-other",
+        "author": [
+            {
+                "given": "Xavier",
+                "family": "Groussot"
+            },
+            {
+                "given": "Gunnar",
+                "family": "Thor Petursson"
+            },
+            {
+                "given": "Henrik",
+                "family": "Wenander"
+            }
+        ],
+        "title": "Regulatory Trust in EU Free Movement Law: Adopting the Level of Protection of the Other?",
+        "container-title": "European Papers (www.europeanpapers.eu)",
+        "description": "European Papers; Vol. 1, 2016, No 3; www.europeanpapers.eu; p. 865-892; ISSN 2499-8249",
+        "resource-type-subtype": "Article",
+        "data-center-id": "crui.unitelma",
+        "member-id": "crui",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by-nc-nd/4.0",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2016",
+        "registered": "2017-02-09T11:10:20.000Z",
+        "checked": null,
+        "updated": "2019-09-04T13:01:08.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4NCjxyZXNvdXJjZSB4bWxucz0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTMgaHR0cDovL3NjaGVtYS5kYXRhY2l0ZS5vcmcvbWV0YS9rZXJuZWwtMy9tZXRhZGF0YS54c2QiPg0KIDxpZGVudGlmaWVyIGlkZW50aWZpZXJUeXBlPSJET0kiPjEwLjE1MTY2LzI0OTktODI0OS8xMDk8L2lkZW50aWZpZXI+DQogPGFsdGVybmF0ZUlkZW50aWZpZXJzPg0KICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iVVJJIj5odHRwOi8vd3d3LmV1cm9wZWFucGFwZXJzLmV1L2VuL2Utam91cm5hbC9yZWd1bGF0b3J5LXRydXN0LWV1LWZyZWUtbW92ZW1lbnQtbGF3LWFkb3B0aW5nLXRoZS1sZXZlbC1vZi1wcm90ZWN0aW9uLW9mLXRoZS1vdGhlcjwvYWx0ZXJuYXRlSWRlbnRpZmllcj4NCiA8L2FsdGVybmF0ZUlkZW50aWZpZXJzPg0KIDxjcmVhdG9ycz4NCiAgPGNyZWF0b3I+DQogICA8Y3JlYXRvck5hbWU+R3JvdXNzb3QsIFhhdmllcjwvY3JlYXRvck5hbWU+DQogIDwvY3JlYXRvcj4NCiAgPGNyZWF0b3I+DQogICA8Y3JlYXRvck5hbWU+VGhvciBQZXR1cnNzb24sIEd1bm5hcjwvY3JlYXRvck5hbWU+DQogIDwvY3JlYXRvcj4NCiAgPGNyZWF0b3I+DQogICA8Y3JlYXRvck5hbWU+V2VuYW5kZXIsIEhlbnJpazwvY3JlYXRvck5hbWU+DQogIDwvY3JlYXRvcj4NCiA8L2NyZWF0b3JzPg0KIDx0aXRsZXM+DQogIDx0aXRsZT5SZWd1bGF0b3J5IFRydXN0IGluIEVVIEZyZWUgTW92ZW1lbnQgTGF3OiBBZG9wdGluZyB0aGUgTGV2ZWwgb2YgUHJvdGVjdGlvbiBvZiB0aGUgT3RoZXI/PC90aXRsZT4NCiA8L3RpdGxlcz4NCiA8cHVibGlzaGVyPkV1cm9wZWFuIFBhcGVycyAod3d3LmV1cm9wZWFucGFwZXJzLmV1KTwvcHVibGlzaGVyPg0KIDxwdWJsaWNhdGlvblllYXI+MjAxNjwvcHVibGljYXRpb25ZZWFyPg0KIDxzdWJqZWN0cz4NCiAgPHN1YmplY3Q+bXV0dWFsIHJlY29nbml0aW9uPC9zdWJqZWN0Pg0KICA8c3ViamVjdD5tdXR1YWwgdHJ1c3Q8L3N1YmplY3Q+DQogIDxzdWJqZWN0PmxldmVsIG9mIHByb3RlY3Rpb248L3N1YmplY3Q+DQogIDxzdWJqZWN0PnJlZ3VsYXRpb248L3N1YmplY3Q+DQogIDxzdWJqZWN0PmZyZWUgbW92ZW1lbnQ8L3N1YmplY3Q+DQogIDxzdWJqZWN0PmludGVybmFsIG1hcmtldDwvc3ViamVjdD4NCiAgPHN1YmplY3Q+SGFiZXJtYXM8L3N1YmplY3Q+DQogPC9zdWJqZWN0cz4NCiA8Y29udHJpYnV0b3JzPg0KICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJIb3N0aW5nSW5zdGl0dXRpb24iPg0KICAgPGNvbnRyaWJ1dG9yTmFtZT5SZXNlYXJjaCBDZW50cmUgZm9yIEV1cm9wZWFuIExhdywgJnF1b3Q7VW5pdGVsbWEgU2FwaWVuemEmcXVvdDsgLSBVbml2ZXJzaXR5IG9mIFJvbWU8L2NvbnRyaWJ1dG9yTmFtZT4NCiAgPC9jb250cmlidXRvcj4NCiA8L2NvbnRyaWJ1dG9ycz4NCiA8bGFuZ3VhZ2U+ZW5nPC9sYW5ndWFnZT4NCiA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPkFydGljbGU8L3Jlc291cmNlVHlwZT4NCiA8Zm9ybWF0cz4NCiAgPGZvcm1hdD50ZXh0L2h0bWw8L2Zvcm1hdD4NCiAgPGZvcm1hdD5wZGY8L2Zvcm1hdD4NCiA8L2Zvcm1hdHM+DQogPHJpZ2h0c0xpc3Q+DQogIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS1uYy1uZC80LjAvIj5DcmVhdGl2ZSBDb21tb25zIEF0dHJpYnV0aW9uLU5vbkNvbW1lcmNpYWwtTm9EZXJpdmF0aXZlcyA0LjAgSW50ZXJuYXRpb25hbCBMaWNlbnNlPC9yaWdodHM+DQogPC9yaWdodHNMaXN0Pg0KIDxkZXNjcmlwdGlvbnM+DQogIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IlNlcmllc0luZm9ybWF0aW9uIj5FdXJvcGVhbiBQYXBlcnM7IFZvbC4gMSwgMjAxNiwgTm8gMzsgd3d3LmV1cm9wZWFucGFwZXJzLmV1OyBwLiA4NjUtODkyOyBJU1NOIDI0OTktODI0OTwvZGVzY3JpcHRpb24+DQogIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5UaGUgcHJpbmNpcGxlcyBvZiBtdXR1YWwgdHJ1c3QgYW5kIG11dHVhbCByZWNvZ25pdGlvbiBhcmUgd2VsbCBlc3RhYmxpc2hlZCBmZWF0dXJlcyBvZiBFVSBsYXcuIE9uIGEgdGVjaG5pY2FsIGxldmVsLCBpdCBpcyBjbGVhciB0aGF0IHRoZSBwcmluY2lwbGVzIG1heSByZXF1aXJlIGFkb3B0aW9uIG9mIGZvcmVpZ24gbGV2ZWxzIG9mIHByb3RlY3Rpb24gaW4gaW5kaXZpZHVhbCBjYXNlcyBhcyB3ZWxsIGFzIGluIGxlZ2lzbGF0aW9uLiBBdCBhIGNsb3NlciBsb29rLCBob3dldmVyLCB0aGUgcHJpbmNpcGxlcyB0aHJvdWdoIOKAnHRoZSBydWxlIG9mIHJlYXNvbuKAnSBhbHNvIG1heSBpbXBseSBxdWl0ZSB0aGUgb3Bwb3NpdGU6IHRoZSBpbXBvc2luZyBvZiBkb21lc3RpYyByZXF1aXJlbWVudHMgb24gZm9yZWlnbiBnb29kcywgc2VydmljZXMgZXRjLiBUaGUgQ0pFVSBjYXNlIGxhdyBmb2xsb3dpbmcgdGhlIENhc3NpcyBqdWRnZW1lbnQgbWF5IGJlIHNlZW4gYXMgc3RyaWtpbmcgYSBiYWxhbmNlIGJldHdlZW4gY29vcGVyYXRpb24gYW5kIE1lbWJlciBTdGF0ZSBzZWxmLWRldGVybWluYXRpb24sIG9yIGJldHdlZW4gdHJ1c3QgYW5kIGRpc3RydXN0LCBpbiBkaWZmZXJlbnQgZmllbGRzLiBUaGlzIGNvbnRyaWJ1dGlvbiBhaW1zIGF0IGxvb2tpbmcgaW50byB0aGUgcmVndWxhdG9yeSBmdW5jdGlvbiBvZiB0aGUgbGVnYWwgcHJpbmNpcGxlIG9mIHRydXN0IGluIEVVIGxhdy4gVGFraW5nIHRoaXMgd2lkZXIgcmVndWxhdG9yeSBwZXJzcGVjdGl2ZSwgdGhlIG11dHVhbCByZWNvZ25pdGlvbiByZWdpbWVzIG9mIEVVIG11c3QgYmUgc2VlbiBmcm9tIGEgaG9saXN0aWMgcGVyc3BlY3RpdmUuIFJhdGhlciB0aGFuIGR3ZWxsaW5nIHVwb24gaGFybW9uaXplZCBhbmQgbm9uLWhhcm1vbml6ZWQgZmllbGRzIHNlcGFyYXRlbHksIHdlIHdpbGwgYXBwcm9hY2ggbXV0dWFsIHRydXN0IGFzIG9uZSwgYWxiZWl0IG11bHRpZmFjZXRlZCwgY29uY2VwdCwgd2hlcmUgaGFybW9uaXphdGlvbiwgcHJvcG9ydGlvbmFsaXR5IGFzc2Vzc21lbnRzIGFuZCBNZW1iZXIgU3RhdGUgYWN0aW9ucyBpbiB2YXJpb3VzIGZpZWxkcyBvZiBsYXcgZm9ybSBwYXJ0IG9mIHRoZSBzYW1lIHdpZGVyIHBpY3R1cmUuIEluIHRoaXMgcmVndWxhdG9yeSBwZXJzcGVjdGl2ZSwgdGhlIGxhdyBvbiBtdXR1YWwgdHJ1c3QgYW5kIG11dHVhbCByZWNvZ25pdGlvbiBtYXkgYmUgc2VlbiBhcyBhIGJhbGFuY2luZyBiZXR3ZWVuIHRoZSByZWd1bGF0b3J5IGludGVyZXN0cyBvZiB0aGUgRVUgKHByb21vdGluZyBmcmVlIG1vdmVtZW50IGFuZCBjb29wZXJhdGlvbikgYW5kIHRoZSB2YXJpb3VzIE1lbWJlciBTdGF0ZXMgKHByb21vdGluZyB0aGVpciBpbnRlcmVzdHMgb2Yg4oCTIGFsbGVnZWQg4oCTIHByb3RlY3Rpb24gb2Ygc2FmZXR5IG9mIHZhcmlvdXMga2luZHMpLiBUaHJvdWdoIHRoaXMgcGVyc3BlY3RpdmUsIHdlIHdpbGwgYmUgYWJsZSB0byBhZGRyZXNzIHRoZSB0ZW5zaW9uIGJldHdlZW4gcmVndWxhdGlvbiBhbmQgZGVyZWd1bGF0aW9uLCBiZXR3ZWVuIGludGVncmF0aW9uIGFuZCBkaXNpbnRlZ3JhdGlvbiwgYW5kIGJldHdlZW4gdW5pdHkgYW5kIGRpdmVyc2l0eSBwcmVzZW50IGluIEVVIGxhdyBvbiBhIHZlcnkgZ2VuZXJhbCBsZXZlbC4gVGhlIGZpcnN0IHNlYy10aW9uIG9mIHRoaXMgY29udHJpYnV0aW9uIHdpbGwgbG9vayBhdCB0aGUgY29uc3RpdHV0aW9uYWwgbGlmZSBvZiBtdXR1YWwgdHJ1c3Qgd2l0aGluIHRoZSBDSkVVIGNhc2UgbGF3OiBsb29raW5nIGF0IGl0cyBvcmlnaW5zIGFuZCBtYWluIGxvZ2ljLiBUaGUgc2Vjb25kIHNlY3Rpb24gd2lsbCBhdHRlbXB0IHRvIGNsYXJpZnkgd2h5IHRoZSBwcmluY2lwbGUgb2YgbXV0dWFsIHRydXN0IGlzIG1vc3RseSBpbnZpc2libGUgaW4gdGhlIGZyZWUgbW92ZW1lbnQganVyaXNwcnVkZW5jZS4gVGhpcyBzZWN0aW9uIGFsc28gYXJndWVzIGZvciB1bmRlcnN0YW5kaW5nIG11dHVhbCByZWNvZ25pdGlvbiBpbiB0ZXJtcyBvZiBSZWd1bGF0b3J5IFRydXN0LiBUaGUgbGFzdCBzZWN0aW9uIGZvY3VzZXMgb24gdGhlIHRob3JueSBpc3N1ZSBvZiB0aGUgbGV2ZWxzIG9mIHByb3RlY3Rpb24gYW5kIGF0dGVtcHRzIHRvIHVuZGVyc3RhbmQgd2hpY2ggYXJlIHRoZSBrZXkgZmFjdG9ycyB1c2VkIGJ5IHRoZSBDSkVVIGluIHJldmlld2luZyB0aGUgKGhvc3QpIFN0YXRlcyBtZWFzdXJlcyB0aGF0IHJlc3RyaWN0IGZyZWUgbW92ZW1lbnQgbGF3IGFuZCB0aHVzIG1heSBjb25zdGl0dXRlIGEgYnJlYWsgdG8gdGhlIGFwcGxpY2F0aW9uIG9mIHRoZSBwcmluY2lwbGVzIG9mIG11dHVhbCB0cnVzdCBhbmQgbXV0dWFsIHJlY29nbml0aW9uLjwvZGVzY3JpcHRpb24+DQogIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IlRhYmxlT2ZDb250ZW50cyI+SS4gSW50cm9kdWN0aW9uLiDigJMgSUkuIFRoZSBjb25zdGl0dXRpb25hbCBsaWZlIG9mIG11dHVhbCB0cnVzdC4g4oCTIElJSS4gT2YgcmVndWxhdG9yeSB0cnVzdCBhbmQgbXV0dWFsIHJlY29nbml0aW9uLiDigJMgSUlJLjEuIENsYXJpZnlpbmcgdGhlIGludmlzaWJpbGl0eSBvZiBtdXR1YWwgdHJ1c3QuIOKAkyBJSUkuMi4gVGhlIG5vcm1hdGl2aXR5IG9mIHJlZ3VsYXRvcnkgdHJ1c3QuIOKAkyBJVi4gQWRvcHRpbmcgb3IgcmVqZWN0aW5nIHRoZSBsZXZlbCBvZiBwcm90ZWN0aW9uIG9mIHRoZSBvdGhlci4g4oCTIElWLjEuIE11dHVhbCByZWNvZ25pdGlvbiBhbmQgdGhlIGNvbnVuZHJ1bSBvZiB0aGUgbGV2ZWwgb2YgcHJvdGVjdGlvbi4g4oCTIElWLjIuIFdoaWNoIGFyZSB0aGUgcHJldmFpbGluZyBmYWN0b3JzIHdoZW4gcmV2aWV3aW5nIHJlc3RyaWN0aXZlIG1lYXN1cmVzPyDigJMgVi4gQ29uY2x1ZGluZyByZW1hcmtzOiBtdXR1YWwgdHJ1c3QgYXMgYSByZWd1bGF0b3J5IHByaW5jaXBsZS48L2Rlc2NyaXB0aW9uPg0KIDwvZGVzY3JpcHRpb25zPg0KPC9yZXNvdXJjZT4NCg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "crui.unitelma",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "crui",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dryad="http://purl.org/dryad/terms/" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.S77DK4V/5</identifier>
+  <version>1</version>
+  <creators>
+    <creator>
+      <creatorName>Cunningham, Calum</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Scoleri, Vincent</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Johnson, Christopher</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Barmuta, Leon</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Jones, Menna</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Changes in Tasmanian devil temporal activity following increase in density</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>mesopredator release</subject>
+    <subject>predator-prey</subject>
+    <subject>temporal partitioning of activity</subject>
+    <subject>apex predator</subject>
+    <subject>trophic cascade</subject>
+    <subject>Tasmania</subject>
+    <subject>Australia</subject>
+    <subject>Sarcophilus harrisii</subject>
+  </subjects>
+  <dates>
+    <date dateType="Accepted">2019-09-06</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">DataFile</resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relationType="IsPartOf" relatedIdentifierType="DOI">10.5061/DRYAD.S77DK4V</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+    <size>12438 bytes</size>
+  </sizes>
+  <rightsList>
+    <rights>At the request of the author, this item is embargoed until the associated article is published.</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Other">Changes in Tasmanian devil temporal activity following the introduction of Tasmanian devils to Maria Island ("MI"), compared to a control site ("C"). This camera data was analysed using a GAM to produce Fig 3C of our paper in Ecography. Devil records at each site were binned into the nearest hourly bin i.e. there was a total of 24 bins. We then calculated the proportion of total activity in each hour of the day for each site. See paper for details.</description>
+  </descriptions>
+</resource>

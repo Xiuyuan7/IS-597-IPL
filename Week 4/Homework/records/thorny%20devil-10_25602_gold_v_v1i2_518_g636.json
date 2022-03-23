@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.25602/gold.v.v1i2.518.g636",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25602/gold.v.v1i2.518.g636",
+        "identifier": "https://doi.org/10.25602/gold.v.v1i2.518.g636",
+        "url": "http://journals.gold.ac.uk/index.php/volupte/article/view/518/636",
+        "author": [
+            {
+                "given": "Alice",
+                "family": "Cond\u00e9"
+            },
+            {
+                "given": "Jessica",
+                "family": "Gossling"
+            }
+        ],
+        "title": "The Devil in the Detail: An Introduction to Decadent Occultism from the Editors",
+        "container-title": "Volupt\u00e9",
+        "description": "Volupt\u00e9, Vol 1 No 2 (2018): Decadence, Magic(k), and the Occult",
+        "resource-type-subtype": "Article",
+        "data-center-id": "bl.gold",
+        "member-id": "bl",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2019-03-05T15:08:46.000Z",
+        "checked": null,
+        "updated": "2019-10-02T19:30:46.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjU2MDIvR09MRC5WLlYxSTIuNTE4Lkc2MzY8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Db25kw6ksIEFsaWNlPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+R29zc2xpbmcsIEplc3NpY2E8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5UaGUgRGV2aWwgaW4gdGhlIERldGFpbDogQW4gSW50cm9kdWN0aW9uIHRvIERlY2FkZW50IE9jY3VsdGlzbSBmcm9tIHRoZSBFZGl0b3JzPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlZvbHVwdMOpPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE4PC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IkFjY2VwdGVkIj4yMDE4LTEyLTIxPC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTgtMTItMjE8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE4LTEyLTIxPC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPkFydGljbGU8L3Jlc291cmNlVHlwZT4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0icHVibGlzaGVySWQiPjEwLTQ0LTUxOC1nNjM2PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogIDwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgPHNpemVzPgogICAgPHNpemU+Mzk3S0I8L3NpemU+CiAgPC9zaXplcz4KICA8Zm9ybWF0cz4KICAgIDxmb3JtYXQ+YXBwbGljYXRpb24vcGRmPC9mb3JtYXQ+CiAgPC9mb3JtYXRzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJTZXJpZXNJbmZvcm1hdGlvbiI+Vm9sdXB0w6ksIFZvbCAxIE5vIDIgKDIwMTgpOiBEZWNhZGVuY2UsIE1hZ2ljKGspLCBhbmQgdGhlIE9jY3VsdDwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "bl.gold",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "bl",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

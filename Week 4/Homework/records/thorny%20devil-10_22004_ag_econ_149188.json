@@ -1,0 +1,73 @@
+{
+    "id": "https://doi.org/10.22004/ag.econ.149188",
+    "type": "works",
+    "attributes": {
+        "doi": "10.22004/ag.econ.149188",
+        "identifier": "https://doi.org/10.22004/ag.econ.149188",
+        "url": "https://ageconsearch.umn.edu/record/149188",
+        "author": [
+            {
+                "given": "Ronald",
+                "family": "Cotterill"
+            },
+            {
+                "given": "Michael",
+                "family": "Cohen"
+            },
+            {
+                "given": "Li",
+                "family": "Tian"
+            },
+            {
+                "given": "Ronald",
+                "family": "Cotterill"
+            },
+            {
+                "given": "Michael",
+                "family": "Cohen"
+            },
+            {
+                "given": "Li",
+                "family": "Tian"
+            }
+        ],
+        "title": "Private Labels: Supermarket Chain Buyer Power in Action",
+        "container-title": "Unknown",
+        "description": "The issue of supermarket chain power in wholesale markets has been around at least since the 1930\u2019s when A&amp;P surfaced as a nationwide chain with centralized buying (Adelman, 1959). Curiously those that complained the loudest were not firms that sold to supermarkets. Small retailers, who were unable to wrest concessions from brand manufacturers or wholesalers of fresh fruits and vegetables, alleged that large chain buyer power was driving them out of business. Consequently the Robinson Patman Act (1936) was passed to monitor the exercise of buyer power and its impact on smaller retailers as well as sellers. Enforcement has always been a thorny exercise because cost justified large buyer discounts are not illegal.",
+        "resource-type-subtype": "Text",
+        "data-center-id": "tind.agecon",
+        "member-id": "tind",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2006",
+        "registered": "2019-08-30T03:37:29.000Z",
+        "checked": null,
+        "updated": "2019-08-30T03:37:29.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjIwMDQvQUcuRUNPTi4xNDkxODg8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Db3R0ZXJpbGwsIFJvbmFsZDwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkNvaGVuLCBNaWNoYWVsPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VGlhbiwgTGk8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Db3R0ZXJpbGwsIFJvbmFsZDwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkNvaGVuLCBNaWNoYWVsPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VGlhbiwgTGk8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5Qcml2YXRlIExhYmVsczogU3VwZXJtYXJrZXQgQ2hhaW4gQnV5ZXIgUG93ZXIgaW4gQWN0aW9uPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlVua25vd248L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMDY8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5EZW1hbmQgYW5kIFByaWNlIEFuYWx5c2lzPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTktMDgtMjlUMjI6Mzc6MjguMC0wNTowMDwvZGF0ZT4KICA8L2RhdGVzPgogIDxsYW5ndWFnZT5lbmc8L2xhbmd1YWdlPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+VGV4dDwvcmVzb3VyY2VUeXBlPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+VGhlIGlzc3VlIG9mIHN1cGVybWFya2V0IGNoYWluIHBvd2VyIGluIHdob2xlc2FsZSBtYXJrZXRzIGhhcyBiZWVuIGFyb3VuZCBhdCBsZWFzdApzaW5jZSB0aGUgMTkzMOKAmXMgd2hlbiBBJmFtcDtQIHN1cmZhY2VkIGFzIGEgbmF0aW9ud2lkZSBjaGFpbiB3aXRoIGNlbnRyYWxpemVkIGJ1eWluZyAoQWRlbG1hbiwKMTk1OSkuIEN1cmlvdXNseSB0aG9zZSB0aGF0IGNvbXBsYWluZWQgdGhlIGxvdWRlc3Qgd2VyZSBub3QgZmlybXMgdGhhdCBzb2xkIHRvIHN1cGVybWFya2V0cy4KU21hbGwgcmV0YWlsZXJzLCB3aG8gd2VyZSB1bmFibGUgdG8gd3Jlc3QgY29uY2Vzc2lvbnMgZnJvbSBicmFuZCBtYW51ZmFjdHVyZXJzIG9yIHdob2xlc2FsZXJzCm9mIGZyZXNoIGZydWl0cyBhbmQgdmVnZXRhYmxlcywgYWxsZWdlZCB0aGF0IGxhcmdlIGNoYWluIGJ1eWVyIHBvd2VyIHdhcyBkcml2aW5nIHRoZW0gb3V0IG9mCmJ1c2luZXNzLiBDb25zZXF1ZW50bHkgdGhlIFJvYmluc29uIFBhdG1hbiBBY3QgKDE5MzYpIHdhcyBwYXNzZWQgdG8gbW9uaXRvciB0aGUgZXhlcmNpc2Ugb2YKYnV5ZXIgcG93ZXIgYW5kIGl0cyBpbXBhY3Qgb24gc21hbGxlciByZXRhaWxlcnMgYXMgd2VsbCBhcyBzZWxsZXJzLiBFbmZvcmNlbWVudCBoYXMgYWx3YXlzIGJlZW4KYSB0aG9ybnkgZXhlcmNpc2UgYmVjYXVzZSBjb3N0IGp1c3RpZmllZCBsYXJnZSBidXllciBkaXNjb3VudHMgYXJlIG5vdCBpbGxlZ2FsLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tind.agecon",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tind",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

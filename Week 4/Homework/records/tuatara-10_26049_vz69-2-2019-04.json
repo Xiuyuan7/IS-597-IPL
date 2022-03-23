@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.26049/vz69-2-2019-04",
+    "type": "works",
+    "attributes": {
+        "doi": "10.26049/vz69-2-2019-04",
+        "identifier": "https://doi.org/10.26049/vz69-2-2019-04",
+        "url": "https://www.senckenberg.de/de/wissenschaft/publikationen/wissenschaftliche-zeitschriften/vertebrate-zoology/archiv/2019-69-2/vz-69-2-04/",
+        "author": [
+            {
+                "given": "Oleksandr",
+                "family": "Yaryhin"
+            },
+            {
+                "given": "Ingmar",
+                "family": "Werneburg"
+            }
+        ],
+        "title": "The origin of orbitotemporal diversity in lepidosaurs: insights from tuatara chondrocranial anatomy",
+        "container-title": "Senckenberg Gesellschaft f\u00fcr Naturforschung",
+        "description": "Sphenodon punctatus, the tuatara, is the last survivor of the formerly widely distributed group of Rhynchocephalia, which is the sister group of Squamata. The skull anatomy of S. punctatus and its fossil relatives is comparably well known; however, embryological data of skull development are rare, incomplete, and mostly represented by dated works. Knowing the anatomy of the chondrocranium of S. punctatus is crucial to an understanding of chondrocranial evolution in reptiles and particularly in lepidosaurs. Here, based on the historical histological collection of Hugo Schauinsland, we reexamined the anatomy of the fully formed chondrocranium in S. punctatus and describe a very early stage of its chondrocranium formation, which was not considered in any previous study. The architecture of the fully formed chondrocranium of S. punctatus represents one of the most complex ones among sauropsids. We observed a number of characters, that are absent in other reptiles and were never previously described in S. punctatus. We consider the robust lateral braincase wall in S. punctatus to represent an ancestral condition. In the lepidosaurian ancestor it likely had the potential for further diversification of the orbitotemporal region in squamates. Certainly, it provided extra mechanical strength to the chondrocranium as a whole. At the same time, the strong cartilaginous lateral wall of the chondrocranium in S. punctatus could also be a rudimentary form of the more distant ancestor of lepidosaurs, in which the chondrocranium played a more functional role.",
+        "resource-type-subtype": "Vertebrate Zoology, Scientific Article",
+        "data-center-id": "tib.snsd",
+        "member-id": "tib",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-05-27T10:05:25.000Z",
+        "checked": null,
+        "updated": "2019-10-03T15:30:40.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjYwNDkvVlo2OS0yLTIwMTktMDQ8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPllhcnloaW4sIE9sZWtzYW5kcjwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWU+T2xla3NhbmRyPC9naXZlbk5hbWU+CiAgICAgIDxmYW1pbHlOYW1lPllhcnloaW48L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+V2VybmVidXJnLCBJbmdtYXI8L2NyZWF0b3JOYW1lPgogICAgICA8Z2l2ZW5OYW1lPkluZ21hcjwvZ2l2ZW5OYW1lPgogICAgICA8ZmFtaWx5TmFtZT5XZXJuZWJ1cmc8L2ZhbWlseU5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlIHhtbDpsYW5nPSJlbiI+VGhlIG9yaWdpbiBvZiBvcmJpdG90ZW1wb3JhbCBkaXZlcnNpdHkgaW4gbGVwaWRvc2F1cnM6IGluc2lnaHRzIGZyb20gdHVhdGFyYSBjaG9uZHJvY3JhbmlhbCBhbmF0b215PC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlNlbmNrZW5iZXJnIEdlc2VsbHNjaGFmdCBmw7xyIE5hdHVyZm9yc2NodW5nPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5WZXJ0ZWJyYXRlIFpvb2xvZ3ksIFNjaWVudGlmaWMgQXJ0aWNsZTwvcmVzb3VyY2VUeXBlPgogIDx2ZXJzaW9uLz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIHhtbDpsYW5nPSJlbiIgZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+U3BoZW5vZG9uIHB1bmN0YXR1cywgdGhlIHR1YXRhcmEsIGlzIHRoZSBsYXN0IHN1cnZpdm9yIG9mIHRoZSBmb3JtZXJseSB3aWRlbHkgZGlzdHJpYnV0ZWQgZ3JvdXAgb2YgUmh5bmNob2NlcGhhbGlhLCB3aGljaCBpcyB0aGUgc2lzdGVyIGdyb3VwIG9mIFNxdWFtYXRhLiBUaGUgc2t1bGwgYW5hdG9teSBvZiBTLiBwdW5jdGF0dXMgYW5kIGl0cyBmb3NzaWwgcmVsYXRpdmVzIGlzIGNvbXBhcmFibHkgd2VsbCBrbm93bjsgaG93ZXZlciwgZW1icnlvbG9naWNhbCBkYXRhIG9mIHNrdWxsIGRldmVsb3BtZW50IGFyZSByYXJlLCBpbmNvbXBsZXRlLCBhbmQgbW9zdGx5IHJlcHJlc2VudGVkIGJ5IGRhdGVkIHdvcmtzLiBLbm93aW5nIHRoZSBhbmF0b215IG9mIHRoZSBjaG9uZHJvY3Jhbml1bSBvZiBTLiBwdW5jdGF0dXMgaXMgY3J1Y2lhbCB0byBhbiB1bmRlcnN0YW5kaW5nIG9mIGNob25kcm9jcmFuaWFsIGV2b2x1dGlvbiBpbiByZXB0aWxlcyBhbmQgcGFydGljdWxhcmx5IGluIGxlcGlkb3NhdXJzLiBIZXJlLCBiYXNlZCBvbiB0aGUgaGlzdG9yaWNhbCBoaXN0b2xvZ2ljYWwgY29sbGVjdGlvbiBvZiBIdWdvIFNjaGF1aW5zbGFuZCwgd2UgcmVleGFtaW5lZCB0aGUgYW5hdG9teSBvZiB0aGUgZnVsbHkgZm9ybWVkIGNob25kcm9jcmFuaXVtIGluIFMuIHB1bmN0YXR1cyBhbmQgZGVzY3JpYmUgYSB2ZXJ5IGVhcmx5IHN0YWdlIG9mIGl0cyBjaG9uZHJvY3Jhbml1bSBmb3JtYXRpb24sIHdoaWNoIHdhcyBub3QgY29uc2lkZXJlZCBpbiBhbnkgcHJldmlvdXMgc3R1ZHkuIFRoZSBhcmNoaXRlY3R1cmUgb2YgdGhlIGZ1bGx5IGZvcm1lZCBjaG9uZHJvY3Jhbml1bSBvZiBTLiBwdW5jdGF0dXMgcmVwcmVzZW50cyBvbmUgb2YgdGhlIG1vc3QgY29tcGxleCBvbmVzIGFtb25nIHNhdXJvcHNpZHMuIFdlIG9ic2VydmVkIGEgbnVtYmVyIG9mIGNoYXJhY3RlcnMsIHRoYXQgYXJlIGFic2VudCBpbiBvdGhlciByZXB0aWxlcyBhbmQgd2VyZSBuZXZlciBwcmV2aW91c2x5IGRlc2NyaWJlZCBpbiBTLiBwdW5jdGF0dXMuIFdlIGNvbnNpZGVyIHRoZSByb2J1c3QgbGF0ZXJhbCBicmFpbmNhc2Ugd2FsbCBpbiBTLiBwdW5jdGF0dXMgdG8gcmVwcmVzZW50IGFuIGFuY2VzdHJhbCBjb25kaXRpb24uIEluIHRoZSBsZXBpZG9zYXVyaWFuIGFuY2VzdG9yIGl0IGxpa2VseSBoYWQgdGhlIHBvdGVudGlhbCBmb3IgZnVydGhlciBkaXZlcnNpZmljYXRpb24gb2YgdGhlIG9yYml0b3RlbXBvcmFsIHJlZ2lvbiBpbiBzcXVhbWF0ZXMuIENlcnRhaW5seSwgaXQgcHJvdmlkZWQgZXh0cmEgbWVjaGFuaWNhbCBzdHJlbmd0aCB0byB0aGUgY2hvbmRyb2NyYW5pdW0gYXMgYSB3aG9sZS4gQXQgdGhlIHNhbWUgdGltZSwgdGhlIHN0cm9uZyBjYXJ0aWxhZ2lub3VzIGxhdGVyYWwgd2FsbCBvZiB0aGUgY2hvbmRyb2NyYW5pdW0gaW4gUy4gcHVuY3RhdHVzIGNvdWxkIGFsc28gYmUgYSBydWRpbWVudGFyeSBmb3JtIG9mIHRoZSBtb3JlIGRpc3RhbnQgYW5jZXN0b3Igb2YgbGVwaWRvc2F1cnMsIGluIHdoaWNoIHRoZSBjaG9uZHJvY3Jhbml1bSBwbGF5ZWQgYSBtb3JlIGZ1bmN0aW9uYWwgcm9sZS48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPgo="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tib.snsd",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tib",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.22004/ag.econ.266675",
+    "type": "works",
+    "attributes": {
+        "doi": "10.22004/ag.econ.266675",
+        "identifier": "https://doi.org/10.22004/ag.econ.266675",
+        "url": "https://ageconsearch.umn.edu/record/266675",
+        "author": [
+            {
+                "given": "Jamie Bologna",
+                "family": "Pavlik"
+            },
+            {
+                "given": "Ryan Blake",
+                "family": "Williams"
+            },
+            {
+                "given": "Jamie Bologna",
+                "family": "Pavlik"
+            },
+            {
+                "given": "Ryan Blake",
+                "family": "Williams"
+            }
+        ],
+        "title": "Is the Devil in the Shadow? A Reexamination of the Relationship between Institutions and Income",
+        "container-title": "Unknown",
+        "description": "The positive relationship between institution quality and \u201cofficial\u201d income is well-documented. It is unclear, however, if this relationship holds once the \u201cunofficial\u201d economy is accounted for. An improvement in institutional quality tends to shift production out of the shadow and into the official sector. This can result in an increase in official income, at the expense of the shadow economy. This paper uses data from 4,954 Brazilian municipalities to explore the effects of institutional quality on formal, informal, and total income per-worker. The results indicate that an improvement in institutional quality leads to a positive change in total income per-worker. Importantly, the effect of improved institutional quality on income per-worker in the informal sector is neutral to positive, contradicting the findings of previous models. It seems that while positive institutional change does reallocate production from the shadows to the official sector, the reallocation increases overall productivity in the economy.",
+        "resource-type-subtype": "Text",
+        "data-center-id": "tind.agecon",
+        "member-id": "tind",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2019-08-24T06:22:48.000Z",
+        "checked": null,
+        "updated": "2019-08-25T03:24:04.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjIwMDQvQUcuRUNPTi4yNjY2NzU8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5QYXZsaWssIEphbWllIEJvbG9nbmE8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5XaWxsaWFtcywgUnlhbiBCbGFrZTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlBhdmxpaywgSmFtaWUgQm9sb2duYTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPldpbGxpYW1zLCBSeWFuIEJsYWtlPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+SXMgdGhlIERldmlsIGluIHRoZSBTaGFkb3c/ICBBIFJlZXhhbWluYXRpb24gb2YgdGhlIFJlbGF0aW9uc2hpcCBiZXR3ZWVuIEluc3RpdHV0aW9ucyBhbmQgSW5jb21lPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlVua25vd248L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTg8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5Qb2xpdGljYWwgRWNvbm9teTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlB1YmxpYyBFY29ub21pY3M8L3N1YmplY3Q+CiAgICA8c3ViamVjdCBzdWJqZWN0U2NoZW1lPSJrZXl3b3JkIj5JbmZvcm1hbCBzZWN0b3I8L3N1YmplY3Q+CiAgICA8c3ViamVjdCBzdWJqZWN0U2NoZW1lPSJrZXl3b3JkIj5zaGFkb3cgZWNvbm9teTwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHN1YmplY3RTY2hlbWU9ImtleXdvcmQiPmluc3RpdHV0aW9uczwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHN1YmplY3RTY2hlbWU9ImtleXdvcmQiPmRldmVsb3BtZW50PC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTktMDgtMjRUMjI6MjQ6MDQuMC0wNTowMDwvZGF0ZT4KICA8L2RhdGVzPgogIDxsYW5ndWFnZT5lbmc8L2xhbmd1YWdlPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+VGV4dDwvcmVzb3VyY2VUeXBlPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+VGhlIHBvc2l0aXZlIHJlbGF0aW9uc2hpcCBiZXR3ZWVuIGluc3RpdHV0aW9uIHF1YWxpdHkgYW5kIOKAnG9mZmljaWFs4oCdIGluY29tZSBpcyB3ZWxsLWRvY3VtZW50ZWQuIEl0IGlzIHVuY2xlYXIsIGhvd2V2ZXIsIGlmIHRoaXMgcmVsYXRpb25zaGlwIGhvbGRzIG9uY2UgdGhlIOKAnHVub2ZmaWNpYWzigJ0gZWNvbm9teSBpcyBhY2NvdW50ZWQgZm9yLiBBbiBpbXByb3ZlbWVudCBpbiBpbnN0aXR1dGlvbmFsIHF1YWxpdHkgdGVuZHMgdG8gc2hpZnQgcHJvZHVjdGlvbiBvdXQgb2YgdGhlIHNoYWRvdyBhbmQgaW50byB0aGUgb2ZmaWNpYWwgc2VjdG9yLiBUaGlzIGNhbiByZXN1bHQgaW4gYW4gaW5jcmVhc2UgaW4gb2ZmaWNpYWwgaW5jb21lLCBhdCB0aGUgZXhwZW5zZSBvZiB0aGUgc2hhZG93IGVjb25vbXkuIFRoaXMgcGFwZXIgdXNlcyBkYXRhIGZyb20gNCw5NTQgQnJhemlsaWFuIG11bmljaXBhbGl0aWVzIHRvIGV4cGxvcmUgdGhlIGVmZmVjdHMgb2YgaW5zdGl0dXRpb25hbCBxdWFsaXR5IG9uIGZvcm1hbCwgaW5mb3JtYWwsIGFuZCB0b3RhbCBpbmNvbWUgcGVyLXdvcmtlci4gVGhlIHJlc3VsdHMgaW5kaWNhdGUgdGhhdCBhbiBpbXByb3ZlbWVudCBpbiBpbnN0aXR1dGlvbmFsIHF1YWxpdHkgbGVhZHMgdG8gYSBwb3NpdGl2ZSBjaGFuZ2UgaW4gdG90YWwgaW5jb21lIHBlci13b3JrZXIuIEltcG9ydGFudGx5LCB0aGUgZWZmZWN0IG9mIGltcHJvdmVkIGluc3RpdHV0aW9uYWwgcXVhbGl0eSBvbiBpbmNvbWUgcGVyLXdvcmtlciBpbiB0aGUgaW5mb3JtYWwgc2VjdG9yIGlzIG5ldXRyYWwgdG8gcG9zaXRpdmUsIGNvbnRyYWRpY3RpbmcgdGhlIGZpbmRpbmdzIG9mIHByZXZpb3VzIG1vZGVscy4gSXQgc2VlbXMgdGhhdCB3aGlsZSBwb3NpdGl2ZSBpbnN0aXR1dGlvbmFsIGNoYW5nZSBkb2VzIHJlYWxsb2NhdGUgcHJvZHVjdGlvbiBmcm9tIHRoZSBzaGFkb3dzIHRvIHRoZSBvZmZpY2lhbCBzZWN0b3IsIHRoZSByZWFsbG9jYXRpb24gaW5jcmVhc2VzIG92ZXJhbGwgcHJvZHVjdGl2aXR5IGluIHRoZSBlY29ub215LjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tind.agecon",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tind",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

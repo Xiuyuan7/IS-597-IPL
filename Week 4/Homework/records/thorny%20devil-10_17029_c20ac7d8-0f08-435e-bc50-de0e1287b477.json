@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.17029/c20ac7d8-0f08-435e-bc50-de0e1287b477",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17029/c20ac7d8-0f08-435e-bc50-de0e1287b477",
+        "identifier": "https://doi.org/10.17029/c20ac7d8-0f08-435e-bc50-de0e1287b477",
+        "url": "https://researchportal.port.ac.uk/portal/en/datasets/dataset-for-the-devil-is-in-the-detail-deception-and-consistency-over-repeated-interviews(c20ac7d8-0f08-435e-bc50-de0e1287b477).html",
+        "author": [
+            {
+                "given": "Charlotte Adele",
+                "family": "Hudson"
+            }
+        ],
+        "title": "Dataset for 'The devil is in the detail: deception and consistency over repeated interviews'.",
+        "container-title": "University of Portsmouth",
+        "description": null,
+        "resource-type-subtype": "Dataset",
+        "data-center-id": "bl.portsmth",
+        "member-id": "bl",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by/4.0",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-02-14T10:32:37.000Z",
+        "checked": null,
+        "updated": "2019-09-30T20:02:16.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8cmVzb3VyY2UgeG1sbnM9Imh0dHA6Ly9kYXRhY2l0ZS5vcmcvc2NoZW1hL2tlcm5lbC00IiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly9kYXRhY2l0ZS5vcmcvc2NoZW1hL2tlcm5lbC00IGh0dHA6Ly9zY2hlbWEuZGF0YWNpdGUub3JnL21ldGEva2VybmVsLTQvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4xNzAyOS9DMjBBQzdEOC0wRjA4LTQzNUUtQkM1MC1ERTBFMTI4N0I0Nzc8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5IdWRzb24sIENoYXJsb3R0ZSBBZGVsZTwvY3JlYXRvck5hbWU+CiAgICAgIDxnaXZlbk5hbWUgeG1sbnM6eHM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4c2k6dHlwZT0ieHM6c3RyaW5nIj5DaGFybG90dGUgQWRlbGU8L2dpdmVuTmFtZT4KICAgICAgPGZhbWlseU5hbWUgeG1sbnM6eHM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4c2k6dHlwZT0ieHM6c3RyaW5nIj5IdWRzb248L2ZhbWlseU5hbWU+CiAgICAgIDxuYW1lSWRlbnRpZmllciBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiIHNjaGVtZVVSST0iaHR0cDovL3d3dy5vcmNpZC5vcmciPjAwMDAtMDAwMi0zOTU3LTYxNDE8L25hbWVJZGVudGlmaWVyPgogICAgICA8YWZmaWxpYXRpb24geG1sbnM6eHM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4c2k6dHlwZT0ieHM6c3RyaW5nIj5Vbml2ZXJzaXR5IG9mIFBvcnRzbW91dGg8L2FmZmlsaWF0aW9uPgogICAgICA8YWZmaWxpYXRpb24geG1sbnM6eHM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIiB4c2k6dHlwZT0ieHM6c3RyaW5nIj5EZXBhcnRtZW50IG9mIFBzeWNob2xvZ3k8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZSB4bWw6bGFuZz0iZW4iPkRhdGFzZXQgZm9yICdUaGUgZGV2aWwgaXMgaW4gdGhlIGRldGFpbDogZGVjZXB0aW9uIGFuZCBjb25zaXN0ZW5jeSBvdmVyIHJlcGVhdGVkIGludGVydmlld3MnLjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5Vbml2ZXJzaXR5IG9mIFBvcnRzbW91dGg8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiPkRhdGFzZXQ8L3Jlc291cmNlVHlwZT4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQXZhaWxhYmxlIj4yMDE5LTAyLTExPC9kYXRlPgogIDwvZGF0ZXM+CiAgPHNpemVzPgogICAgPHNpemU+MjNLQjwvc2l6ZT4KICAgIDxzaXplPjUxS0I8L3NpemU+CiAgPC9zaXplcz4KICA8Zm9ybWF0cz4KICAgIDxmb3JtYXQ+YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtPC9mb3JtYXQ+CiAgICA8Zm9ybWF0PmFwcGxpY2F0aW9uL3gtcnRmPC9mb3JtYXQ+CiAgPC9mb3JtYXRzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzQuMC8iPkNDIEJZPC9yaWdodHM+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wLyI+Q0MgQlk8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0IiB4bWw6bGFuZz0iZW4iLz4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "bl.portsmth",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "bl",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

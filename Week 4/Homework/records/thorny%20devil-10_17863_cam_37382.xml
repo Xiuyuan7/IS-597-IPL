@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17863/CAM.37382</identifier>
+  <creators>
+    <creator>
+      <creatorName>Forouhi, Nita</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-5041-248X</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Unwin, Nigel</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Global diet and health: old questions, fresh evidence, and new horizons.</title>
+  </titles>
+  <publisher>Apollo - University of Cambridge Repository</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>Humans</subject>
+    <subject>Diet</subject>
+    <subject>Global Burden of Disease</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2019-03-05</date>
+    <date dateType="Available">2019-03-05</date>
+    <date dateType="Issued">2019-05</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="issn">0140-6736</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">https://www.repository.cam.ac.uk/handle/1810/290154</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="eissn">1474-547X</alternateIdentifier>
+  </alternateIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">Few, if any, would contest that diet and nutrition have a critical and substantial impact on human health. But, the devil is in the details. Common questions include: is there such as thing as an optimal diet? What is suboptimal? Which dietary components matter most? And given the necessity to take action on climate change and planetary health, what should the world eat?1 The Global Burden of Disease (GBD) Study contributes towards answering these questions through estimating the burden of mortality and disability attributable to specific dietary risks, within a comparative risk assessment framework which currently considers 84 behavioural, environmental, occupational and metabolic risks across 195 countries and territories.2 The latest in the series is the current report by the GBD Diet Collaborators,3 using data from GBD20172. Fifteen dietary risks are evaluated for their impacts on mortality and disability from cancers, cardiovascular diseases and diabetes.</description>
+    <description descriptionType="Other">NGF acknowledges MRC Epidemiology Unit support (MC_UU_12015/5) and NIHR Biomedical Research Centre Cambridge: Nutrition, Diet, and Lifestyle Research Theme (IS-BRC-1215-20014)</description>
+  </descriptions>
+  <fundingReferences>
+    <fundingReference>
+      <funderName>MRC</funderName>
+      <awardNumber>MC_UU_12015/5</awardNumber>
+    </fundingReference>
+    <fundingReference>
+      <funderName>Cambridge University Hospitals NHS Foundation Trust</funderName>
+      <awardNumber>CUH) (146281</awardNumber>
+    </fundingReference>
+  </fundingReferences>
+</resource>

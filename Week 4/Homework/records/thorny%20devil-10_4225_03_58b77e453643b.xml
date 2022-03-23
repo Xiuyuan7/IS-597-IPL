@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.4225/03/58B77E453643B</identifier>
+  <creators>
+    <creator>
+      <creatorName>Sowersby, William Geoffrey</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Behavioural and morphological variation in Neotropical cichlid fishes</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">Intraspecific variation provides the raw materials for natural selection to act upon and, is thus, a key focus for understanding how and why organisms diversify. However, intraspecific variation also represents a puzzle for evolutionary biologists, since natural selection has been hypothesised to favour optimal phenotypes and eliminate all others from the population. One taxonomic group, cichlid fishes (Cichlidae), is proving to be an unparalleled system for the study of intraspecific variation, biological diversification and speciation. In particular, cichlids have shown a propensity to radiate rapidly, specialise ecologically, be phenotypically plastic and display convergent evolution across habitats. Indeed, many closely related species frequently occur in sympatry, often only varying conspicuously in regard to body colour or trophic characteristics, with similar levels of variation even occurring within species. Accordingly, using Neotropical cichlids as a model, my PhD thesis explores the mechanisms underpinning intraspecific variation, and how this variation is generated and maintained. My thesis is organized into two sections, comprising four data chapters. In section 1, I investigated how morphological variation may be generated and maintained in the polymorphic red devil cichlid, Amphilophus labiatus. In section 2, using red devils and another Neotropical species, the poor man’s tropheus, Hypsophrys nematopus, I investigated key behavioural differences between the sexes in the context of parental investment in offspring defence. Using a multi-disciplinary approach – combining behavioural experiments, genomic analysis and ecological data – I found that within cichlid populations, individuals differ in regard to their trophic morphology, body colour and parental investment and that these differences are directly associated with differences in diet, background matching ability and sex. Specifically, I found significant variation in the phenotypic response of cichlid individuals introduced to a novel environment, clear behavioural and morphological variation between distinct colour morphs, and significant sex differences in the level and timing of parental investment. Together, these results highlight the high level of variation within Neotropical cichlid populations and provide insights into both the generation and maintenance of intraspecific variation.</description>
+  </descriptions>
+  <subjects>
+    <subject>Uncategorized</subject>
+  </subjects>
+  <publisher>Monash University</publisher>
+  <publicationYear>2017</publicationYear>
+  <dates>
+    <date dateType="Created">2017-03-02</date>
+    <date dateType="Updated">2019-09-11</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Thesis</resourceType>
+  <sizes>
+    <size>61942235 Bytes</size>
+  </sizes>
+  <rightsList>
+    <rights rightsURI="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</rights>
+  </rightsList>
+</resource>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.7892/BORIS.82033</identifier>
+  <creators>
+    <creator>
+      <creatorName>Tinner, Willy</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Vescovi, Elisa</creatorName>
+    </creator>
+    <creator>
+      <creatorName>van Leeuwen, Jacqueline F. N.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Colombaroli, Daniele</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Henne, Paul Daniel</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Boltshauser-Kaltenrieder, Petra</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Morales del Molino, César</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Beffa, Giorgia Zoe</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Gnaegi, Bettina</creatorName>
+    </creator>
+    <creator>
+      <creatorName>van der Knaap, Willem Oscar</creatorName>
+    </creator>
+    <creator>
+      <creatorName>La Mantia, Tommaso</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Pasta, Salvatore</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Holocene vegetation and fire history of the mountains of Northern Sicily (Italy)</title>
+  </titles>
+  <publisher>Springer</publisher>
+  <publicationYear>2016</publicationYear>
+  <subjects>
+    <subject>580 Plants (Botany)</subject>
+    <subject>570 Life sciences; biology</subject>
+  </subjects>
+  <dates>
+    <date dateType="Available">2016-09</date>
+  </dates>
+  <language>eng</language>
+  <resourceType resourceTypeGeneral="Text"/>
+  <formats>
+    <format>application/pdf</format>
+  </formats>
+  <rightsList>
+    <rights>info:eu-repo/semantics/restrictedAccess</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Other">Knowledge about vegetation and fire history of the mountains of Northern Sicily is scanty. We analysed five sites to fill this gap and used terrestrial plant macrofossils to establish robust radiocarbon chronologies. Palynological records from Gorgo Tondo, Gorgo Lungo, Marcato Cixé, Urgo Pietra Giordano and Gorgo Pollicino show that under natural or near natural conditions, deciduous forests (Quercus pubescens, Q. cerris, Fraxinus ornus, Ulmus), that included a substantial portion of evergreen broadleaved species (Q. suber, Q. ilex, Hedera helix), prevailed in the upper meso-mediterranean belt. Mesophilous deciduous and evergreen broadleaved trees (Fagus sylvatica, Ilex aquifolium) dominated in the natural or quasi-natural forests of the oro-mediterranean belt. Forests were repeatedly opened for agricultural purposes. Fire activity was closely associated with farming, providing evidence that burning was a primary land use tool since Neolithic times. Land use and fire activity intensified during the Early Neolithic at 5000 bc, at the onset of the Bronze Age at 2500 bc and at the onset of the Iron Age at 800 bc. Our data and previous studies suggest that the large majority of open land communities in Sicily, from the coastal lowlands to the mountain areas below the thorny-cushion Astragalus belt (ca. 1,800 m a.s.l.), would rapidly develop into forests if land use ceased. Mesophilous Fagus-Ilex forests developed under warm mid Holocene conditions and were resilient to the combined impacts of humans and climate. The past ecology suggests a resilience of these summer-drought adapted communities to climate warming of about 2 °C. Hence, they may be particularly suited to provide heat and drought-adapted Fagus sylvatica ecotypes for maintaining drought-sensitive Central European beech forests under global warming conditions.</description>
+  </descriptions>
+</resource>

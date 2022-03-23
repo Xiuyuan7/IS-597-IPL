@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.22004/AG.ECON.15503</identifier>
+  <creators>
+    <creator>
+      <creatorName>Randall, Alan</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Taylor, Michael A.</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Randall, Alan</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Taylor, Michael A.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>INCENTIVE-BASED SOLUTIONS TO AGRICULTURAL ENVIRONMENTAL PROBLEMS: RECENT DEVELOPMENTS IN THEORY AND PRACTICE</title>
+  </titles>
+  <publisher>Unknown</publisher>
+  <publicationYear>2000</publicationYear>
+  <subjects>
+    <subject>Environmental Economics and Policy</subject>
+  </subjects>
+  <dates>
+    <date dateType="Updated">2019-08-24T23:21:34.0-05:00</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">Theory predicts that incentive-based regulatory instruments reduce compliance costs by encouraging efficient resource allocation and innovation in environmental technology. Cost reductions from pollution permit trading often have exceeded expectations, but the devil is in the detail: the rules matter. In recent years, IB instruments of many kinds, from permit trading to various informal voluntary agreements, have been introduced in many countries. Point-nonpoint trading programs have been established in the U.S., but recorded trades have been rare. We speculate about prospects for performance-based monitoring of agricultural nonpojnt pollution which, we believe, would encourage trading to the benefit of farmers and society.</description>
+  </descriptions>
+</resource>

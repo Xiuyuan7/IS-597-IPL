@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.5281/zenodo.2592798",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5281/zenodo.2592798",
+        "identifier": "https://doi.org/10.5281/zenodo.2592798",
+        "url": "https://zenodo.org/record/2592798",
+        "author": [
+            {
+                "given": "Melissa",
+                "family": "Jordan"
+            },
+            {
+                "given": "Richard",
+                "family": "Newcomb"
+            }
+        ],
+        "title": "Olfactory receptors from tuatara - supplementary data from the genome project",
+        "container-title": "Zenodo",
+        "description": "Olfactory receptor genes identified from the genome assembly of tuatara (<em>Sphenodon punctatus</em>).\n\nFile 1: List of intact OR genes\n\nFile 2: alignment file used to infer phylogenetic relationship between intact tuatara ORs and other species of terrestrial squamates and two species of bird.\n\nFile 3: Excel spreadsheet listing OR identification from scaffolds (includes data on pseudogenes and partials)",
+        "resource-type-subtype": null,
+        "data-center-id": "cern.zenodo",
+        "member-id": "cern",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by/4.0/legalcode",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-03-14T02:51:40.000Z",
+        "checked": null,
+        "updated": "2019-08-02T22:02:09.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC41MjgxL1pFTk9ETy4yNTkyNzk4PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+TWVsaXNzYSBKb3JkYW48L2NyZWF0b3JOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDItNjI2Ny0zNjQ0PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPk5ldyBaZWFsYW5kIEluc3RpdHV0ZSBmb3IgUGxhbnQgYW5kIEZvb2QgUmVzZWFyY2g8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5SaWNoYXJkIE5ld2NvbWI8L2NyZWF0b3JOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9vcmNpZC5vcmcvIj4wMDAwLTAwMDItNzMwNy05NzU1PC9uYW1lSWRlbnRpZmllcj4KICAgICAgPGFmZmlsaWF0aW9uPk5ldyBaZWFsYW5kIEluc3RpdHV0ZSBmb3IgUGxhbnQgYW5kIEZvb2QgUmVzZWFyY2g8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5PbGZhY3RvcnkgcmVjZXB0b3JzIGZyb20gdHVhdGFyYSAtIHN1cHBsZW1lbnRhcnkgZGF0YSBmcm9tIHRoZSBnZW5vbWUgcHJvamVjdDwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5aZW5vZG88L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5PbGZhY3RvcnkgcmVjZXB0b3I8L3N1YmplY3Q+CiAgICA8c3ViamVjdD50dWF0YXJhPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAxOS0wMy0xNDwvZGF0ZT4KICA8L2RhdGVzPgogIDxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJEYXRhc2V0Ii8+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InVybCI+aHR0cHM6Ly96ZW5vZG8ub3JnL3JlY29yZC8yNTkyNzk5PC9hbHRlcm5hdGVJZGVudGlmaWVyPgogIDwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1N1cHBsZW1lbnRUbyI+MTAuNTI4MS96ZW5vZG8uMjU4MzI3NDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNTdXBwbGVtZW50VG8iPjEwLjUyODEvemVub2RvLjI1ODUzNjc8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzU3VwcGxlbWVudFRvIj4xMC41MjgxL3plbm9kby4yNTQyNTcxPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1N1cHBsZW1lbnRUbyI+MTAuNTI4MS96ZW5vZG8uMTQ4OTM1NDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSGFzVmVyc2lvbiI+MTAuNTI4MS96ZW5vZG8uMjU5Mjc5OTwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnkvNC4wL2xlZ2FsY29kZSI+Q3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbDwvcmlnaHRzPgogICAgPHJpZ2h0cyByaWdodHNVUkk9ImluZm86ZXUtcmVwby9zZW1hbnRpY3Mvb3BlbkFjY2VzcyI+T3BlbiBBY2Nlc3M8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij4mbHQ7cCZndDtPbGZhY3RvcnkgcmVjZXB0b3IgZ2VuZXMgaWRlbnRpZmllZCBmcm9tIHRoZSBnZW5vbWUgYXNzZW1ibHkgb2YgdHVhdGFyYSAoJmx0O2VtJmd0O1NwaGVub2RvbiBwdW5jdGF0dXMmbHQ7L2VtJmd0OykuJmx0Oy9wJmd0OwoKJmx0O3AmZ3Q7RmlsZSAxOiBMaXN0IG9mIGludGFjdCBPUiBnZW5lcyZsdDsvcCZndDsKCiZsdDtwJmd0O0ZpbGUgMjogYWxpZ25tZW50IGZpbGUgdXNlZCB0byBpbmZlciBwaHlsb2dlbmV0aWMgcmVsYXRpb25zaGlwJmFtcDtuYnNwO2JldHdlZW4gaW50YWN0IHR1YXRhcmEgT1JzIGFuZCBvdGhlciBzcGVjaWVzIG9mIHRlcnJlc3RyaWFsIHNxdWFtYXRlcyBhbmQgdHdvIHNwZWNpZXMgb2YgYmlyZC4mbHQ7L3AmZ3Q7CgombHQ7cCZndDtGaWxlIDM6IEV4Y2VsIHNwcmVhZHNoZWV0IGxpc3RpbmcgT1IgaWRlbnRpZmljYXRpb24gZnJvbSBzY2FmZm9sZHMgKGluY2x1ZGVzIGRhdGEgb24gcHNldWRvZ2VuZXMgYW5kIHBhcnRpYWxzKSZsdDsvcCZndDs8L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPlRoZXNlIGRhdGEgYXJlIHBhcnQgb2YgdGhlIHR1YXRhcmEgZ2Vub21lIHByb2plY3QsIHdoaWNoIGlzIHN1cHBvcnRlZCBieSBOZ2F0aXdhaSBpd2ksIEFsbGFuIFdpbHNvbiBDZW50cmUsIFVuaXZlcnNpdHkgb2YgT3RhZ28sIE5ldyBaZWFsYW5kIEdlbm9taWNzIExpbWl0ZWQsIElsbHVtaW5hLCBOYXRpb25hbCBlU2NpZW5jZSBJbmZyYXN0cnVjdHVyZSAoTmVTSSBOWikuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "cern.zenodo",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "cern",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

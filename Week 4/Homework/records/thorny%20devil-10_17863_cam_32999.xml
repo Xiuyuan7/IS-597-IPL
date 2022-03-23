@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17863/CAM.32999</identifier>
+  <creators>
+    <creator>
+      <creatorName>Caldwell, Alison</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0003-2116-2482</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Coleby, Rachel</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-2490-0199</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Tovar, Cesar</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Stammnitz, Maximilian</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-1704-9199</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Kwon, Young Mi</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Owen, Rachel S</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0001-6441-2213</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Tringides, Marios</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Murchison, Elizabeth</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0001-7462-8907</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Skjødt, Karsten</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Thomas, Gareth J</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0003-3832-7335</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Kaufman, James</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0002-7216-8422</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Elliott, Tim</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0003-1097-0222</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Woods, Gregory M</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0001-8421-7917</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Siddle, Hannah Vt</creatorName>
+      <nameIdentifier schemeURI="http://orcid.org" nameIdentifierScheme="ORCID">0000-0003-2906-4385</nameIdentifier>
+    </creator>
+  </creators>
+  <titles>
+    <title>The newly-arisen Devil facial tumour disease 2 (DFT2) reveals a mechanism for the emergence of a contagious cancer.</title>
+  </titles>
+  <publisher>Apollo - University of Cambridge Repository</publisher>
+  <publicationYear>2018</publicationYear>
+  <subjects>
+    <subject>Animals</subject>
+    <subject>Marsupialia</subject>
+    <subject>Facial Neoplasms</subject>
+    <subject>Histocompatibility Antigens Class I</subject>
+    <subject>Alleles</subject>
+    <subject>Biological Evolution</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>Apollo - University of Cambridge Repository</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Issued">2018-11-22</date>
+    <date dateType="Available">2018-11-22</date>
+    <date dateType="Issued">2018-08-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="issn">2050-084X</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">https://www.repository.cam.ac.uk/handle/1810/285647</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="eissn">2050-084X</alternateIdentifier>
+  </alternateIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International</rights>
+  </rightsList>
+  <fundingReferences>
+    <fundingReference>
+      <funderName>Wellcome Trust</funderName>
+      <awardNumber>102942/Z/13/Z</awardNumber>
+    </fundingReference>
+  </fundingReferences>
+</resource>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.13097/ARCHIVE-OUVERTE/UNIGE:120463</identifier>
+  <creators>
+    <creator>
+      <creatorName>Ullate Agote, Asier</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Uncovering the genetic basis of color pattern phenotypes and scale development in squamates through genomic and transcriptomic approaches</title>
+  </titles>
+  <publisher>Université de Genève</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>info:eu-repo/classification/ddc/590</subject>
+    <subject>Corn snake</subject>
+    <subject>Skin coloration</subject>
+    <subject>Genomics</subject>
+    <subject>Mapping</subject>
+    <subject>Transcriptomics</subject>
+    <subject>Scale development</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="Other">
+      <contributorName>Milinkovitch, Michel C.</contributorName>
+    </contributor>
+    <contributor contributorType="Other">
+      <contributorName>Tzika, Athanasia</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Available">2019</date>
+  </dates>
+  <language>eng</language>
+  <resourceType resourceTypeGeneral="Text">info:eu-repo/semantics/doctoralThesis</resourceType>
+  <rightsList>
+    <rights>No access</rights>
+    <rights>info:eu-repo/semantics/closedAccess</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Other">Reptiles include more than 10’000 species that collectively exhibit an outstanding variety of phenotypes. Yet, sequencing resources for representatives of this group are scarce, thus much additional data is required to improve our knowledge of their evolution, diversification and development. First, we built the ‘Reptilian Transcriptome Database v2.0’, providing an extensive annotation of transcriptomes and genomes from species covering the major lineages of the Class Reptilia using a single pipeline to facilitate downstream comparative analyses. We then built large concatenated protein sequence alignments of single-copy genes and uncovered the phylogenetic positions of turtles and the tuatara as sister groups of Archosauria and Squamata, respectively. Second, we assembled and annotated three versions of the corn snake (Pantherophis guttatus) genome, improving its quality and contiguity following the advances in sequencing techniques in the last five years. Our first draft genome was 1.53 Gb long with an N50 of 3.7 Kb and an L50 of 94,091 sequences, whereas the final version totals 1.72 Gb with an N50 of 15.5 Mb and an L50 of 25 sequences. In other words, the combined use of 10x Genomics sequencing and BioNano optical mapping resulted in a 4,000-fold contiguity improvement, making the corn snake genome one of the best reptilian genomes currently assembled. In addition, we modelled with the MAKER and BRAKER annotation pipelines 26,540 and 27,994 genes supported by evidence data, respectively.</description>
+  </descriptions>
+</resource>

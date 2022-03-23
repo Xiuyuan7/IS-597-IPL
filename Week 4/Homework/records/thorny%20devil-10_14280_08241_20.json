@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.14280/08241.20",
+    "type": "works",
+    "attributes": {
+        "doi": "10.14280/08241.20",
+        "identifier": "https://doi.org/10.14280/08241.20",
+        "url": "https://www.history-of-emotions.mpg.de/en/texte/the-devil-used-her-sins-despair-confession-and-salvation-in-a-seventeenth-century-witch-trial",
+        "author": [
+            {
+                "given": "Laura",
+                "family": "Kounine"
+            }
+        ],
+        "title": "\"The Devil Used Her Sins\": Despair, Confession and Salvation in a Seventeenth-Century Witch-Trial",
+        "container-title": "MPIB - Max Planck Institute for Human Development",
+        "description": "History of Emotions - Insights into Research",
+        "resource-type-subtype": null,
+        "data-center-id": "gesis.mpib",
+        "member-id": "gesis",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2014",
+        "registered": "2014-06-18T15:54:52.000Z",
+        "checked": null,
+        "updated": "2019-09-29T00:30:39.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnPz4KPHJlc291cmNlIHhtbG5zPSdodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCcgeG1sbnM6eHNpPSdodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZScgeHNpOnNjaGVtYUxvY2F0aW9uPSdodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkJz4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0nRE9JJz4xMC4xNDI4MC8wODI0MS4yMDwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSdQZXJzb25hbCc+S291bmluZSwgTGF1cmE8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24+TWF4IFBsYW5jayBJbnN0aXR1dGUgZm9yIEh1bWFuIERldmVsb3BtZW50LCBDZW50ZXIgZm9yIHRoZSBIaXN0b3J5IG9mIEVtb3Rpb25zLCBMZW50emVhbGxlZSA5NCwgMTQxOTUgQmVybGluLCBHZXJtYW55PC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGUgeG1sOmxhbmc9J2RlJz4iVGhlIERldmlsIFVzZWQgSGVyIFNpbnMiOiBEZXNwYWlyLCBDb25mZXNzaW9uIGFuZCBTYWx2YXRpb24gaW4gYSBTZXZlbnRlZW50aC1DZW50dXJ5IFdpdGNoLVRyaWFsPC90aXRsZT4KICAgIDx0aXRsZSB4bWw6bGFuZz0nZW4nPiJUaGUgRGV2aWwgVXNlZCBIZXIgU2lucyI6IERlc3BhaXIsIENvbmZlc3Npb24gYW5kIFNhbHZhdGlvbiBpbiBhIFNldmVudGVlbnRoLUNlbnR1cnkgV2l0Y2gtVHJpYWw8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+TVBJQiAtIE1heCBQbGFuY2sgSW5zdGl0dXRlIGZvciBIdW1hbiBEZXZlbG9wbWVudDwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxNDwvcHVibGljYXRpb25ZZWFyPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0nVGV4dCc+PC9yZXNvdXJjZVR5cGU+CiAgPGxhbmd1YWdlPmVuZzwvbGFuZ3VhZ2U+CiAgPHZlcnNpb24+MTwvdmVyc2lvbj4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIHhtbDpsYW5nPSdkZScgZGVzY3JpcHRpb25UeXBlPSdTZXJpZXNJbmZvcm1hdGlvbic+SGlzdG9yeSBvZiBFbW90aW9ucyAtIEluc2lnaHRzIGludG8gUmVzZWFyY2g8L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIHhtbDpsYW5nPSdlbicgZGVzY3JpcHRpb25UeXBlPSdTZXJpZXNJbmZvcm1hdGlvbic+SGlzdG9yeSBvZiBFbW90aW9ucyAtIEluc2lnaHRzIGludG8gUmVzZWFyY2g8L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "gesis.mpib",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "gesis",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

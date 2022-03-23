@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.20347/WIAS.PREPRINT.611</identifier>
+  <creators>
+    <creator>
+      <creatorName>Schoenmakers, John G. M.</creatorName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://ORCID.org/">0000-0002-4389-8266</nameIdentifier>
+    </creator>
+    <creator>
+      <creatorName>Coffey, Brian</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Stable implied calibration of a multi-factor LIBOR model via a semi-parametric correlation structure.</title>
+  </titles>
+  <publisher>Weierstrass Institute</publisher>
+  <publicationYear>2000</publicationYear>
+  <subjects>
+    <subject subjectScheme="keyword">Interest rate modelling</subject>
+    <subject subjectScheme="keyword">LIBOR models</subject>
+    <subject subjectScheme="keyword">calibration</subject>
+    <subject subjectScheme="MSC2000" schemeURI="http://www.ams.org/msc/msc2000.html">60H05</subject>
+    <subject subjectScheme="MSC2000" schemeURI="http://www.ams.org/msc/msc2000.html">60H10</subject>
+    <subject subjectScheme="MSC2000" schemeURI="http://www.ams.org/msc/msc2000.html">90A09</subject>
+  </subjects>
+  <language>ENG</language>
+  <resourceType resourceTypeGeneral="Text"/>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="ISSN" relationType="Cites">0946-8633</relatedIdentifier>
+  </relatedIdentifiers>
+  <formats>
+    <format>PDF</format>
+  </formats>
+  <descriptions>
+    <description descriptionType="Abstract"><![CDATA[We will study the thorny issues around simultaneous calibration of LIBOR models to cap(let) and swaption prices in the markets. We will show in general that low factor market models calibrated to these prices tend to imply unrealistic instantaneous correlations between different forward LIBOR rates. Many-factor models, however, have in general a large parameter dimension and therefore tend to be unstable. In this paper we handle this problem by using a semi-parametric full rank correlation structure in a Brace-Gatarek-Musiela/Jamshidian framework, [1, 5] subject to certain natural constraints which enforce realistic behaviour of forward correlations. A LIBOR market model equipped with this correlation structure has essentially the same parameter dimension as a general two-factor model and we show that calibration of such a model to market swaption and cap(let) volatilities is very stable. Moreover, the implied instantaneous forward LIBOR correlation matrix is consistent with estimations from historical data. Further, application of principal component analysis to the thus obtained multi-factor model yields stably calibrated low-factor models.]]></description>
+  </descriptions>
+</resource>

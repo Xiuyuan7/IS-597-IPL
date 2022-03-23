@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/ZENODO.2542571</identifier>
+  <creators>
+    <creator>
+      <creatorName>Patricio, Mateus</creatorName>
+      <givenName>Mateus</givenName>
+      <familyName>Patricio</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0003-2056-3946</nameIdentifier>
+      <affiliation>European Bioinformatics Institute</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Muffato, Matthieu</creatorName>
+      <givenName>Matthieu</givenName>
+      <familyName>Muffato</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0002-7860-3560</nameIdentifier>
+      <affiliation>European Bioinformatics Institute</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Rutherford, Kim Matthew</creatorName>
+      <givenName>Kim Matthew</givenName>
+      <familyName>Rutherford</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0001-6277-726X</nameIdentifier>
+      <affiliation>University of Cambridge</affiliation>
+    </creator>
+    <creator>
+      <creatorName>Gemmell, Neil J.</creatorName>
+      <givenName>Neil J.</givenName>
+      <familyName>Gemmell</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="http://orcid.org/">0000-0003-0671-3637</nameIdentifier>
+      <affiliation>University of Otago</affiliation>
+    </creator>
+  </creators>
+  <titles>
+    <title>Ortholog data from the tuatara genome project</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2019</publicationYear>
+  <subjects>
+    <subject>tuatara</subject>
+    <subject>orthologs</subject>
+  </subjects>
+  <dates>
+    <date dateType="Issued">2019-01-24</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset"/>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="url">https://zenodo.org/record/2542571</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsVersionOf">10.5281/zenodo.2542570</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/licenses/by/4.0/legalcode">Creative Commons Attribution 4.0 International</rights>
+    <rights rightsURI="info:eu-repo/semantics/openAccess">Open Access</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">&lt;p&gt;This record contains orthology predictions based on the Maker gene annotation&lt;br&gt;
+of the tuatara (Sphenodon punctatus) and a set of 25 other species, using the&lt;br&gt;
+Ensembl methodology.&lt;/p&gt;
+
+&lt;p&gt;See http://doi.org/10.5281/zenodo.1489354 for the Maker annotation in GFF&lt;br&gt;
+format.&lt;/p&gt;
+
+&lt;p&gt;The files all_trees.emf.gz and all_homologies.tsv.gz contain the phylogenetic&lt;br&gt;
+trees (all_trees.emf.gz, in the EMF alignment format) and the derived pairwise&lt;br&gt;
+orthologies and paralogies (all_homologies.tsv.gz, in tabular format).&lt;/p&gt;
+
+&lt;p&gt;From the phylogenetic trees, sets of 1-to-1 orthologues across all 26 species&lt;br&gt;
+were extracted (pure_one2one_orthologies.txt).&amp;nbsp; Sets of orthologues that span&lt;br&gt;
+all the species but include paralogues were reduced to 1 copy per species&lt;br&gt;
+using gene order conservation and sequence similarity. This extra dataset is&lt;br&gt;
+available in promoted_one2one_orthologies.txt&lt;/p&gt;
+
+&lt;p&gt;The main Ensembl entry point for tuatara is:&lt;br&gt;
+&amp;nbsp; http://www.ensembl.org/Sphenodon_punctatus/&lt;/p&gt;
+
+&lt;p&gt;This work is supported by Ngatiwai iwi, Allan Wilson Centre, University of&lt;br&gt;
+Otago, New Zealand Genomics Limited, Illumina, National eScience&lt;br&gt;
+Infrastructure (NeSI NZ).&lt;/p&gt;</description>
+  </descriptions>
+</resource>

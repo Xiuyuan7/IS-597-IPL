@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.13097/archive-ouverte/unige:120463",
+    "type": "works",
+    "attributes": {
+        "doi": "10.13097/archive-ouverte/unige:120463",
+        "identifier": "https://doi.org/10.13097/archive-ouverte/unige:120463",
+        "url": "https://archive-ouverte.unige.ch/unige:120463",
+        "author": [
+            {
+                "given": "Asier",
+                "family": "Ullate Agote"
+            }
+        ],
+        "title": "Uncovering the genetic basis of color pattern phenotypes and scale development in squamates through genomic and transcriptomic approaches",
+        "container-title": "Universit\u00e9 de Gen\u00e8ve",
+        "description": "Reptiles include more than 10\u2019000 species that collectively exhibit an outstanding variety of phenotypes. Yet, sequencing resources for representatives of this group are scarce, thus much additional data is required to improve our knowledge of their evolution, diversification and development. First, we built the \u2018Reptilian Transcriptome Database v2.0\u2019, providing an extensive annotation of transcriptomes and genomes from species covering the major lineages of the Class Reptilia using a single pipeline to facilitate downstream comparative analyses. We then built large concatenated protein sequence alignments of single-copy genes and uncovered the phylogenetic positions of turtles and the tuatara as sister groups of Archosauria and Squamata, respectively. Second, we assembled and annotated three versions of the corn snake (Pantherophis guttatus) genome, improving its quality and contiguity following the advances in sequencing techniques in the last five years. Our first draft genome was 1.53 Gb long with an N50 of 3.7 Kb and an L50 of 94,091 sequences, whereas the final version totals 1.72 Gb with an N50 of 15.5 Mb and an L50 of 25 sequences. In other words, the combined use of 10x Genomics sequencing and BioNano optical mapping resulted in a 4,000-fold contiguity improvement, making the corn snake genome one of the best reptilian genomes currently assembled. In addition, we modelled with the MAKER and BRAKER annotation pipelines 26,540 and 27,994 genes supported by evidence data, respectively.",
+        "resource-type-subtype": "info:eu-repo/semantics/doctoralThesis",
+        "data-center-id": "ethz.unigenf",
+        "member-id": "ethz",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-07-10T04:56:29.000Z",
+        "checked": null,
+        "updated": "2019-09-26T08:56:52.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4xMzA5Ny9BUkNISVZFLU9VVkVSVEUvVU5JR0U6MTIwNDYzPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VWxsYXRlIEFnb3RlLCBBc2llcjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPlVuY292ZXJpbmcgdGhlIGdlbmV0aWMgYmFzaXMgb2YgY29sb3IgcGF0dGVybiBwaGVub3R5cGVzIGFuZCBzY2FsZSBkZXZlbG9wbWVudCBpbiBzcXVhbWF0ZXMgdGhyb3VnaCBnZW5vbWljIGFuZCB0cmFuc2NyaXB0b21pYyBhcHByb2FjaGVzPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlVuaXZlcnNpdMOpIGRlIEdlbsOodmU8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5pbmZvOmV1LXJlcG8vY2xhc3NpZmljYXRpb24vZGRjLzU5MDwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkNvcm4gc25ha2U8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5Ta2luIGNvbG9yYXRpb248L3N1YmplY3Q+CiAgICA8c3ViamVjdD5HZW5vbWljczwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pk1hcHBpbmc8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5UcmFuc2NyaXB0b21pY3M8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5TY2FsZSBkZXZlbG9wbWVudDwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxjb250cmlidXRvcnM+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJPdGhlciI+CiAgICAgIDxjb250cmlidXRvck5hbWU+TWlsaW5rb3ZpdGNoLCBNaWNoZWwgQy48L2NvbnRyaWJ1dG9yTmFtZT4KICAgIDwvY29udHJpYnV0b3I+CiAgICA8Y29udHJpYnV0b3IgY29udHJpYnV0b3JUeXBlPSJPdGhlciI+CiAgICAgIDxjb250cmlidXRvck5hbWU+VHppa2EsIEF0aGFuYXNpYTwvY29udHJpYnV0b3JOYW1lPgogICAgPC9jb250cmlidXRvcj4KICA8L2NvbnRyaWJ1dG9ycz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQXZhaWxhYmxlIj4yMDE5PC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuZzwvbGFuZ3VhZ2U+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5pbmZvOmV1LXJlcG8vc2VtYW50aWNzL2RvY3RvcmFsVGhlc2lzPC9yZXNvdXJjZVR5cGU+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzPk5vIGFjY2VzczwvcmlnaHRzPgogICAgPHJpZ2h0cz5pbmZvOmV1LXJlcG8vc2VtYW50aWNzL2Nsb3NlZEFjY2VzczwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPlJlcHRpbGVzIGluY2x1ZGUgbW9yZSB0aGFuIDEw4oCZMDAwIHNwZWNpZXMgdGhhdCBjb2xsZWN0aXZlbHkgZXhoaWJpdCBhbiBvdXRzdGFuZGluZyB2YXJpZXR5IG9mIHBoZW5vdHlwZXMuIFlldCwgc2VxdWVuY2luZyByZXNvdXJjZXMgZm9yIHJlcHJlc2VudGF0aXZlcyBvZiB0aGlzIGdyb3VwIGFyZSBzY2FyY2UsIHRodXMgbXVjaCBhZGRpdGlvbmFsIGRhdGEgaXMgcmVxdWlyZWQgdG8gaW1wcm92ZSBvdXIga25vd2xlZGdlIG9mIHRoZWlyIGV2b2x1dGlvbiwgZGl2ZXJzaWZpY2F0aW9uIGFuZCBkZXZlbG9wbWVudC4gRmlyc3QsIHdlIGJ1aWx0IHRoZSDigJhSZXB0aWxpYW4gVHJhbnNjcmlwdG9tZSBEYXRhYmFzZSB2Mi4w4oCZLCBwcm92aWRpbmcgYW4gZXh0ZW5zaXZlIGFubm90YXRpb24gb2YgdHJhbnNjcmlwdG9tZXMgYW5kIGdlbm9tZXMgZnJvbSBzcGVjaWVzIGNvdmVyaW5nIHRoZSBtYWpvciBsaW5lYWdlcyBvZiB0aGUgQ2xhc3MgUmVwdGlsaWEgdXNpbmcgYSBzaW5nbGUgcGlwZWxpbmUgdG8gZmFjaWxpdGF0ZSBkb3duc3RyZWFtIGNvbXBhcmF0aXZlIGFuYWx5c2VzLiBXZSB0aGVuIGJ1aWx0IGxhcmdlIGNvbmNhdGVuYXRlZCBwcm90ZWluIHNlcXVlbmNlIGFsaWdubWVudHMgb2Ygc2luZ2xlLWNvcHkgZ2VuZXMgYW5kIHVuY292ZXJlZCB0aGUgcGh5bG9nZW5ldGljIHBvc2l0aW9ucyBvZiB0dXJ0bGVzIGFuZCB0aGUgdHVhdGFyYSBhcyBzaXN0ZXIgZ3JvdXBzIG9mIEFyY2hvc2F1cmlhIGFuZCBTcXVhbWF0YSwgcmVzcGVjdGl2ZWx5LiBTZWNvbmQsIHdlIGFzc2VtYmxlZCBhbmQgYW5ub3RhdGVkIHRocmVlIHZlcnNpb25zIG9mIHRoZSBjb3JuIHNuYWtlIChQYW50aGVyb3BoaXMgZ3V0dGF0dXMpIGdlbm9tZSwgaW1wcm92aW5nIGl0cyBxdWFsaXR5IGFuZCBjb250aWd1aXR5IGZvbGxvd2luZyB0aGUgYWR2YW5jZXMgaW4gc2VxdWVuY2luZyB0ZWNobmlxdWVzIGluIHRoZSBsYXN0IGZpdmUgeWVhcnMuIE91ciBmaXJzdCBkcmFmdCBnZW5vbWUgd2FzIDEuNTMgR2IgbG9uZyB3aXRoIGFuIE41MCBvZiAzLjcgS2IgYW5kIGFuIEw1MCBvZiA5NCwwOTEgc2VxdWVuY2VzLCB3aGVyZWFzIHRoZSBmaW5hbCB2ZXJzaW9uIHRvdGFscyAxLjcyIEdiIHdpdGggYW4gTjUwIG9mIDE1LjUgTWIgYW5kIGFuIEw1MCBvZiAyNSBzZXF1ZW5jZXMuIEluIG90aGVyIHdvcmRzLCB0aGUgY29tYmluZWQgdXNlIG9mIDEweCBHZW5vbWljcyBzZXF1ZW5jaW5nIGFuZCBCaW9OYW5vIG9wdGljYWwgbWFwcGluZyByZXN1bHRlZCBpbiBhIDQsMDAwLWZvbGQgY29udGlndWl0eSBpbXByb3ZlbWVudCwgbWFraW5nIHRoZSBjb3JuIHNuYWtlIGdlbm9tZSBvbmUgb2YgdGhlIGJlc3QgcmVwdGlsaWFuIGdlbm9tZXMgY3VycmVudGx5IGFzc2VtYmxlZC4gSW4gYWRkaXRpb24sIHdlIG1vZGVsbGVkIHdpdGggdGhlIE1BS0VSIGFuZCBCUkFLRVIgYW5ub3RhdGlvbiBwaXBlbGluZXMgMjYsNTQwIGFuZCAyNyw5OTQgZ2VuZXMgc3VwcG9ydGVkIGJ5IGV2aWRlbmNlIGRhdGEsIHJlc3BlY3RpdmVseS48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ethz.unigenf",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ethz",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

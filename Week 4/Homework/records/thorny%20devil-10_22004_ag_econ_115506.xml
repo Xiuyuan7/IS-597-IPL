@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.22004/AG.ECON.115506</identifier>
+  <creators>
+    <creator>
+      <creatorName>Brown, Ian</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Brown, Ian</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The Role of ASM in Meeting Outcome Targets: A Perspective from the Coal Face</title>
+  </titles>
+  <publisher>Unknown</publisher>
+  <publicationYear>2011</publicationYear>
+  <subjects>
+    <subject>Environmental Economics and Policy</subject>
+    <subject>Land Economics/Use</subject>
+  </subjects>
+  <dates>
+    <date dateType="Updated">2019-08-25T04:07:41.0-05:00</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Text</resourceType>
+  <descriptions>
+    <description descriptionType="Abstract">The Environment Canterbury Act with the CWMS embed in ‘law’ a hierarchy of collaborative and more formal institutional arrangements in the form of regional and zone committees. Through these committees we increasingly see a fine tuning of the specificity of the targets around land use and water quality which lead to the maxim – ‘the devil is in the detail’. Under the zones sit an array of audited and non audited self management groups, containing a membership often worried about this ‘devil’, because it will cost. What does this mean for land managers working at the coal face and the agency personnel they then have to interact with?  The audited self management (ASM) concept provides significant opportunities for land managers and the management agencies, such as Environment Canterbury.  However, with the opportunities there are challenges particularly at the farm level. This paper explores some of these opportunities and challenges and lessons learnt using experiences from the North Otago Irrigation (NOIC), and Morven Glenavy Ikawai irrigation (MGI) schemes as examples of how the schemes, individual land managers and council’s can work together to achieve agreed outcome targets.</description>
+  </descriptions>
+</resource>

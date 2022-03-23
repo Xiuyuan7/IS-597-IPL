@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.7480/footprint.10.2.1153",
+    "type": "works",
+    "attributes": {
+        "doi": "10.7480/footprint.10.2.1153",
+        "identifier": "https://doi.org/10.7480/footprint.10.2.1153",
+        "url": "https://journals.open.tudelft.nl/index.php/footprint/article/view/1153",
+        "author": [
+            {
+                "given": "Sam",
+                "family": "Grabowska"
+            }
+        ],
+        "title": "Anxious Architecture: Sleep, Identity, and Death in the US-Mexico Borderlands",
+        "container-title": "FOOTPRINT",
+        "description": "The Mexico-US borderlands have been militarised by the technology, weaponry, and policies of both the American Border Patrol agency and Mexican cartels. Upon this contested ground, border-crossers interrupt their taxing journey to build small informal works of architecture. These structures \u2013 most commonly fashioned from whatever materials are at hand like thorny mesquite branches, rocks, and grasses \u2013 become a locus of crises. Like the migrants, drug mules, or guides who build it, border-crosser architecture has overlapping and competing agendas and motivations. Drawing on the analysis of architectural form, artifacts of material culture, and interviews gathered from fieldwork in the United States and Mexico, I identify three ways architecture acts \u2018anxiously\u2019 as a spatial relationship to conflict: 1) sleep (insomnia), 2) identity (anonymity), and 3) death (haunting). In these modes, an architecture born in the borderlands both embodies and emotes anxiety as an adaptive spatial tactic to respond to conflict and trauma.",
+        "resource-type-subtype": "Article",
+        "data-center-id": "delft.tudarch",
+        "member-id": "delft",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by/4.0",
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-02-14T10:30:06.000Z",
+        "checked": null,
+        "updated": "2019-09-30T10:32:12.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNzQ4MC9mb290cHJpbnQuMTAuMi4xMTUzPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+R3JhYm93c2thLCBTYW08L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT4gQW54aW91cyBBcmNoaXRlY3R1cmU6IFNsZWVwLCBJZGVudGl0eSwgYW5kIERlYXRoIGluIHRoZSBVUy1NZXhpY28gQm9yZGVybGFuZHM8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+Rk9PVFBSSU5UPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE3PC9wdWJsaWNhdGlvblllYXI+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IlN1Ym1pdHRlZCI+MjAxNi0wMy0yMzwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJBY2NlcHRlZCI+MjAxNi0wMy0yMzwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJVcGRhdGVkIj4yMDE3LTEyLTIzPC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAxNy0wMi0wNDwvZGF0ZT4KICA8L2RhdGVzPgogIDxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5BcnRpY2xlPC9yZXNvdXJjZVR5cGU+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9InB1Ymxpc2hlcklkIj45LTQ0MC0xMTUzPC9hbHRlcm5hdGVJZGVudGlmaWVyPgogIDwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgPHJlbGF0ZWRJZGVudGlmaWVycz4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1BhcnRPZiI+MTAuNzQ4MC9mb290cHJpbnQuMTAuMjwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHNpemVzPgogICAgPHNpemU+MTE1LTEzNiBQYWdlczwvc2l6ZT4KICA8L3NpemVzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHA6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LzQuMCI+VGhpcyB3b3JrIGlzIGxpY2Vuc2VkIHVuZGVyIGEgQ3JlYXRpdmUgQ29tbW9ucyBBdHRyaWJ1dGlvbiA0LjAgSW50ZXJuYXRpb25hbCBMaWNlbnNlLjwvcmlnaHRzPgogIDwvcmlnaHRzTGlzdD4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPgpUaGUgTWV4aWNvLVVTIGJvcmRlcmxhbmRzIGhhdmUgYmVlbiBtaWxpdGFyaXNlZCBieSB0aGUgdGVjaG5vbG9neSwgd2VhcG9ucnksIGFuZCBwb2xpY2llcyBvZiBib3RoIHRoZSBBbWVyaWNhbiBCb3JkZXIgUGF0cm9sIGFnZW5jeSBhbmQgTWV4aWNhbiBjYXJ0ZWxzLiBVcG9uIHRoaXMgY29udGVzdGVkIGdyb3VuZCwgYm9yZGVyLWNyb3NzZXJzIGludGVycnVwdCB0aGVpciB0YXhpbmcgam91cm5leSB0byBidWlsZCBzbWFsbCBpbmZvcm1hbCB3b3JrcyBvZiBhcmNoaXRlY3R1cmUuIFRoZXNlIHN0cnVjdHVyZXMg4oCTIG1vc3QgY29tbW9ubHkgZmFzaGlvbmVkIGZyb20gd2hhdGV2ZXIgbWF0ZXJpYWxzIGFyZSBhdCBoYW5kIGxpa2UgdGhvcm55IG1lc3F1aXRlIGJyYW5jaGVzLCByb2NrcywgYW5kIGdyYXNzZXMg4oCTIGJlY29tZSBhIGxvY3VzIG9mIGNyaXNlcy4gTGlrZSB0aGUgbWlncmFudHMsIGRydWcgbXVsZXMsIG9yIGd1aWRlcyB3aG8gYnVpbGQgaXQsIGJvcmRlci1jcm9zc2VyIGFyY2hpdGVjdHVyZSBoYXMgb3ZlcmxhcHBpbmcgYW5kIGNvbXBldGluZyBhZ2VuZGFzIGFuZCBtb3RpdmF0aW9ucy4gRHJhd2luZyBvbiB0aGUgYW5hbHlzaXMgb2YgYXJjaGl0ZWN0dXJhbCBmb3JtLCBhcnRpZmFjdHMgb2YgbWF0ZXJpYWwgY3VsdHVyZSwgYW5kIGludGVydmlld3MgZ2F0aGVyZWQgZnJvbSBmaWVsZHdvcmsgaW4gdGhlIFVuaXRlZCBTdGF0ZXMgYW5kIE1leGljbywgSSBpZGVudGlmeSB0aHJlZSB3YXlzIGFyY2hpdGVjdHVyZSBhY3RzIOKAmGFueGlvdXNseeKAmSBhcyBhIHNwYXRpYWwgcmVsYXRpb25zaGlwIHRvIGNvbmZsaWN0OiAxKSBzbGVlcCAoaW5zb21uaWEpLCAyKSBpZGVudGl0eSAoYW5vbnltaXR5KSwgYW5kIDMpIGRlYXRoIChoYXVudGluZykuIEluIHRoZXNlIG1vZGVzLCBhbiBhcmNoaXRlY3R1cmUgYm9ybiBpbiB0aGUgYm9yZGVybGFuZHMgYm90aCBlbWJvZGllcyBhbmQgZW1vdGVzIGFueGlldHkgYXMgYW4gYWRhcHRpdmUgc3BhdGlhbCB0YWN0aWMgdG8gcmVzcG9uZCB0byBjb25mbGljdCBhbmQgdHJhdW1hLgo8L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iU2VyaWVzSW5mb3JtYXRpb24iPkZPT1RQUklOVCwgSXNzdWUgIyAxOSB8IEF1dHVtbiAvIFdpbnRlciAyMDE2IHwgU3BhY2VzIG9mIENvbmZsaWN0PC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4K"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "delft.tudarch",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "delft",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

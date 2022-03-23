@@ -1,0 +1,69 @@
+{
+    "id": "https://doi.org/10.13018/bmr18119",
+    "type": "works",
+    "attributes": {
+        "doi": "10.13018/bmr18119",
+        "identifier": "https://doi.org/10.13018/bmr18119",
+        "url": "http://www.bmrb.wisc.edu/data_library/summary/?bmrbId=18119",
+        "author": [
+            {
+                "given": "Per Eugen",
+                "family": "Kristiansen"
+            },
+            {
+                "given": "Thorny Cesilie",
+                "family": "Bie Andersen"
+            },
+            {
+                "given": "Zsuzsi",
+                "family": "Huszenicza"
+            },
+            {
+                "given": "Amy H.",
+                "family": "Andreotti"
+            },
+            {
+                "given": "Anne",
+                "family": "Spurkland"
+            }
+        ],
+        "title": "ITK-SH3",
+        "container-title": "Biological Magnetic Resonance Bank",
+        "description": null,
+        "resource-type-subtype": null,
+        "data-center-id": "wisc.bmrb",
+        "member-id": "wisc",
+        "resource-type-id": "dataset",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2012",
+        "registered": "2017-06-20T20:51:36.000Z",
+        "checked": null,
+        "updated": "2019-09-26T08:27:08.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTMwMTgvQk1SMTgxMTk8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPktyaXN0aWFuc2VuLCBQZXIgRXVnZW48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkJpZSBBbmRlcnNlbiwgVGhvcm55IENlc2lsaWU8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkh1c3plbmljemEsIFpzdXpzaTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lIG5hbWVUeXBlPSJQZXJzb25hbCI+QW5kcmVvdHRpLCBBbXkgSC48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlNwdXJrbGFuZCwgQW5uZTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPklUSy1TSDM8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+QmlvbG9naWNhbCBNYWduZXRpYyBSZXNvbmFuY2UgQmFuazwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxMjwvcHVibGljYXRpb25ZZWFyPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCIvPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVJbmZvcm1hdGlvbj0iLiIgZGF0ZVR5cGU9IkF2YWlsYWJsZSI+MjAxMi0xMi0wNDwvZGF0ZT4KICA8L2RhdGVzPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "wisc.bmrb",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "wisc",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

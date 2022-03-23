@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.22004/ag.econ.15503",
+    "type": "works",
+    "attributes": {
+        "doi": "10.22004/ag.econ.15503",
+        "identifier": "https://doi.org/10.22004/ag.econ.15503",
+        "url": "https://ageconsearch.umn.edu/record/15503",
+        "author": [
+            {
+                "given": "Alan",
+                "family": "Randall"
+            },
+            {
+                "given": "Michael A.",
+                "family": "Taylor"
+            },
+            {
+                "given": "Alan",
+                "family": "Randall"
+            },
+            {
+                "given": "Michael A.",
+                "family": "Taylor"
+            }
+        ],
+        "title": "INCENTIVE-BASED SOLUTIONS TO AGRICULTURAL ENVIRONMENTAL PROBLEMS: RECENT DEVELOPMENTS IN THEORY AND PRACTICE",
+        "container-title": "Unknown",
+        "description": "Theory predicts that incentive-based regulatory instruments reduce compliance costs by encouraging efficient resource allocation and innovation in environmental technology. Cost reductions from pollution permit trading often have exceeded expectations, but the devil is in the detail: the rules matter. In recent years, IB instruments of many kinds, from permit trading to various informal voluntary agreements, have been introduced in many countries. Point-nonpoint trading programs have been established in the U.S., but recorded trades have been rare. We speculate about prospects for performance-based monitoring of agricultural nonpojnt pollution which, we believe, would encourage trading to the benefit of farmers and society.",
+        "resource-type-subtype": "Text",
+        "data-center-id": "tind.agecon",
+        "member-id": "tind",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2000",
+        "registered": "2019-08-24T00:11:29.000Z",
+        "checked": null,
+        "updated": "2019-08-25T04:21:34.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjIwMDQvQUcuRUNPTi4xNTUwMzwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPlJhbmRhbGwsIEFsYW48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5UYXlsb3IsIE1pY2hhZWwgQS48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5SYW5kYWxsLCBBbGFuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+VGF5bG9yLCBNaWNoYWVsIEEuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+SU5DRU5USVZFLUJBU0VEIFNPTFVUSU9OUyBUTyBBR1JJQ1VMVFVSQUwgRU5WSVJPTk1FTlRBTCBQUk9CTEVNUzogUkVDRU5UIERFVkVMT1BNRU5UUyBJTiBUSEVPUlkgQU5EIFBSQUNUSUNFPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlVua25vd248L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMDA8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5FbnZpcm9ubWVudGFsIEVjb25vbWljcyBhbmQgUG9saWN5PC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGRhdGVzPgogICAgPGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTktMDgtMjRUMjM6MjE6MzQuMC0wNTowMDwvZGF0ZT4KICA8L2RhdGVzPgogIDxsYW5ndWFnZT5lbjwvbGFuZ3VhZ2U+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5UZXh0PC9yZXNvdXJjZVR5cGU+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij5UaGVvcnkgcHJlZGljdHMgdGhhdCBpbmNlbnRpdmUtYmFzZWQgcmVndWxhdG9yeSBpbnN0cnVtZW50cyByZWR1Y2UgY29tcGxpYW5jZSBjb3N0cyBieSBlbmNvdXJhZ2luZyBlZmZpY2llbnQgcmVzb3VyY2UgYWxsb2NhdGlvbiBhbmQgaW5ub3ZhdGlvbiBpbiBlbnZpcm9ubWVudGFsIHRlY2hub2xvZ3kuIENvc3QgcmVkdWN0aW9ucyBmcm9tIHBvbGx1dGlvbiBwZXJtaXQgdHJhZGluZyBvZnRlbiBoYXZlIGV4Y2VlZGVkIGV4cGVjdGF0aW9ucywgYnV0IHRoZSBkZXZpbCBpcyBpbiB0aGUgZGV0YWlsOiB0aGUgcnVsZXMgbWF0dGVyLiBJbiByZWNlbnQgeWVhcnMsIElCIGluc3RydW1lbnRzIG9mIG1hbnkga2luZHMsIGZyb20gcGVybWl0IHRyYWRpbmcgdG8gdmFyaW91cyBpbmZvcm1hbCB2b2x1bnRhcnkgYWdyZWVtZW50cywgaGF2ZSBiZWVuIGludHJvZHVjZWQgaW4gbWFueSBjb3VudHJpZXMuIFBvaW50LW5vbnBvaW50IHRyYWRpbmcgcHJvZ3JhbXMgaGF2ZSBiZWVuIGVzdGFibGlzaGVkIGluIHRoZSBVLlMuLCBidXQgcmVjb3JkZWQgdHJhZGVzIGhhdmUgYmVlbiByYXJlLiBXZSBzcGVjdWxhdGUgYWJvdXQgcHJvc3BlY3RzIGZvciBwZXJmb3JtYW5jZS1iYXNlZCBtb25pdG9yaW5nIG9mIGFncmljdWx0dXJhbCBub25wb2pudCBwb2xsdXRpb24gd2hpY2gsIHdlIGJlbGlldmUsIHdvdWxkIGVuY291cmFnZSB0cmFkaW5nIHRvIHRoZSBiZW5lZml0IG9mIGZhcm1lcnMgYW5kIHNvY2lldHkuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tind.agecon",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tind",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25602/GOLD.V.V1I2.518</identifier>
+  <creators>
+    <creator>
+      <creatorName>Condé, Alice</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Gossling, Jessica</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The Devil in the Detail: An Introduction to Decadent Occultism from the Editors</title>
+  </titles>
+  <publisher>Volupté</publisher>
+  <publicationYear>2018</publicationYear>
+  <dates>
+    <date dateType="Submitted">2018-12-21</date>
+    <date dateType="Accepted">2018-12-21</date>
+    <date dateType="Updated">2018-12-21</date>
+    <date dateType="Issued">2018-12-21</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="publisherId">10-44-518</alternateIdentifier>
+  </alternateIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">The double meaning of ‘occult’ refers to the secret and the supernatural, and, just as ‘Decadent’ was both a pejorative term and a badge of honour in the nineteenth century, accusations of affiliation with the dark arts are being re-appropriated and celebrated by marginalized groups. The historical association of the occult with non-normativity and transgression means it has particular significance as a form of protest or protection in today’s era of ‘small-d’ decadence. There has been a recent extreme political swerve to the right, climate change denial threatens to end the world as we know it, and social media platforms are subject to deep corruption and involvement in a neo-Cold War, but bubbling under this surface is a queer rebellion associated with witchcraft and occult magick. </description>
+    <description descriptionType="SeriesInformation">Volupté, Vol 1 No 2 (2018): Decadence, Magic(k), and the Occult</description>
+  </descriptions>
+</resource>

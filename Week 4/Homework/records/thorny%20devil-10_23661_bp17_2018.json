@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.23661/bp17.2018",
+    "type": "works",
+    "attributes": {
+        "doi": "10.23661/bp17.2018",
+        "identifier": "https://doi.org/10.23661/bp17.2018",
+        "url": "https://www.die-gdi.de/briefing-paper/article/the-devil-is-in-the-detail-administrative-and-fiscal-challenges-in-implementing-river-basin-management-in-mongolia/",
+        "author": [
+            {
+                "given": "Ines",
+                "family": "Dombrowsky"
+            },
+            {
+                "given": "Jean Carlo",
+                "family": "Rodr\u00edguez De Francisco"
+            },
+            {
+                "given": "Mirja",
+                "family": "Schoderer"
+            },
+            {
+                "given": "Ariunaa",
+                "family": "Lkhagvadorj"
+            }
+        ],
+        "title": "The devil is in the detail: administrative and fiscal challenges in implementing River Basin Management in Mongolia",
+        "container-title": "German Development Institute / Deutsches Institut f\u00fcr Entwicklungspolitik (DIE)",
+        "description": "The concept of river basin management calls for managing water resources at the river basin level in order to promote the sustainable use of water resources. Often this goes along with the introduction of river basin organisations (RBOs) as special purpose organisations. However, particularly in developing countries, RBOs often suffer from insufficient funds. Fiscal decentralisation involves shifting certain fiscal responsibilities to lower levels of government. Decentralisation could thus provide a source of funding for RBOs, depending on how tasks and funds are allocated among RBOs and general-purpose jurisdictions. This briefing paper examines administrative and fiscal aspects of river basin management and analyses whether fiscal decentralisation supports or counteracts the funding of river basin management. We present the example of Mongolia, where in recent years the processes of RBO institutionalisation and fiscal decentralisation have occurred in parallel. More specifically, we analyse i) how competencies for various water governance functions between RBOs and other bodies at the sub-national level are formally allocated, ii) which de jure and de facto funding arrangements are in place, and iii) what this implies for the coordination and sustainability of water resource use.<br>We find that despite a broad division of labour among administrative units, a high level of overlap exists, for instance in the areas of data management, water law enforcement and implementation of water protection measures.<br>In terms of financing water governance, River Basin Authorities (RBAs) are primarily financed through the national budget and aimag (province-level) environmental authorities (AEAs) through sub-national province budgets. However, uncertainties exist regarding the allocation of water-use fees. In practice, funds available to RBAs only cover fixed costs. AEAs have somewhat higher budgets, but do not necessarily use these funds for water-related projects nor do they earmark water-use fees. Inconsistent legal provisions on water-use fees have led to competition between AEAs and RBAs, but also to initial collaborative arrangements. We conclude that in Mongolia, fiscal decentralisation and river basin management are, so far, hardly mutually supportive and we recommend a number of legal and financial adjustments. In particular, we recommend that\n\n\n\nresponsibilities be distributed more clearly to reduce overlap and uncertainty;\n\nlegal inconsistencies regarding water-use fees be clarified;\nfunding be arranged according to tasks; and\nfunding for RBAs be increased and minimum state-funding be provided to river basin councils (RBCs), so they can fulfil their mandates.",
+        "resource-type-subtype": null,
+        "data-center-id": "gesis.die-gdi",
+        "member-id": "gesis",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2018-08-29T07:50:28.000Z",
+        "checked": null,
+        "updated": "2019-09-29T06:00:51.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4yMzY2MS9CUDE3LjIwMTg8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPkRvbWJyb3dza3ksIEluZXM8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24+RGV1dHNjaGVzIEluc3RpdHV0IGbDvHIgRW50d2lja2x1bmdzcG9saXRpayAvIEdlcm1hbiBEZXZlbG9wbWVudCBJbnN0aXR1dGUgKERJRSk8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZSBuYW1lVHlwZT0iUGVyc29uYWwiPlJvZHLDrWd1ZXogZGUgRnJhbmNpc2NvLCBKZWFuIENhcmxvPC9jcmVhdG9yTmFtZT4KICAgICAgPGFmZmlsaWF0aW9uPkRldXRzY2hlcyBJbnN0aXR1dCBmw7xyIEVudHdpY2tsdW5nc3BvbGl0aWsgLyBHZXJtYW4gRGV2ZWxvcG1lbnQgSW5zdGl0dXRlIChESUUpPC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5TY2hvZGVyZXIsIE1pcmphPC9jcmVhdG9yTmFtZT4KICAgICAgPGFmZmlsaWF0aW9uPkRldXRzY2hlcyBJbnN0aXR1dCBmw7xyIEVudHdpY2tsdW5nc3BvbGl0aWsgLyBHZXJtYW4gRGV2ZWxvcG1lbnQgSW5zdGl0dXRlIChESUUpPC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWUgbmFtZVR5cGU9IlBlcnNvbmFsIj5Ma2hhZ3ZhZG9yaiwgQXJpdW5hYTwvY3JlYXRvck5hbWU+CiAgICAgIDxhZmZpbGlhdGlvbj5Nb25nb2xpYW4gQWNhZGVteSBvZiBHb3Zlcm5hbmNlIFVsYWFuYmFhdGFyPC9hZmZpbGlhdGlvbj4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGUgeG1sOmxhbmc9ImVuIj5UaGUgZGV2aWwgaXMgaW4gdGhlIGRldGFpbDogYWRtaW5pc3RyYXRpdmUgYW5kIGZpc2NhbCBjaGFsbGVuZ2VzIGluIGltcGxlbWVudGluZyBSaXZlciBCYXNpbiBNYW5hZ2VtZW50IGluIE1vbmdvbGlhPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPkdlcm1hbiBEZXZlbG9wbWVudCBJbnN0aXR1dGUgLyBEZXV0c2NoZXMgSW5zdGl0dXQgZsO8ciBFbnR3aWNrbHVuZ3Nwb2xpdGlrIChESUUpPC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE4PC9wdWJsaWNhdGlvblllYXI+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ii8+CiAgPGxhbmd1YWdlPmVuZzwvbGFuZ3VhZ2U+CiAgPHZlcnNpb24+MS4wPC92ZXJzaW9uPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24geG1sOmxhbmc9ImVuIiBkZXNjcmlwdGlvblR5cGU9IkFic3RyYWN0Ij4mbHQ7cCZndDtUaGUgY29uY2VwdCBvZiByaXZlciBiYXNpbiBtYW5hZ2VtZW50IGNhbGxzIGZvciBtYW5hZ2luZyB3YXRlciByZXNvdXJjZXMgYXQgdGhlIHJpdmVyIGJhc2luIGxldmVsIGluIG9yZGVyIHRvIHByb21vdGUgdGhlIHN1c3RhaW5hYmxlIHVzZSBvZiB3YXRlciByZXNvdXJjZXMuIE9mdGVuIHRoaXMgZ29lcyBhbG9uZyB3aXRoIHRoZSBpbnRyb2R1Y3Rpb24gb2Ygcml2ZXIgYmFzaW4gb3JnYW5pc2F0aW9ucyAoUkJPcykgYXMgc3BlY2lhbCBwdXJwb3NlIG9yZ2FuaXNhdGlvbnMuIEhvd2V2ZXIsIHBhcnRpY3VsYXJseSBpbiBkZXZlbG9waW5nIGNvdW50cmllcywgUkJPcyBvZnRlbiBzdWZmZXIgZnJvbSBpbnN1ZmZpY2llbnQgZnVuZHMuIEZpc2NhbCBkZWNlbnRyYWxpc2F0aW9uIGludm9sdmVzIHNoaWZ0aW5nIGNlcnRhaW4gZmlzY2FsIHJlc3BvbnNpYmlsaXRpZXMgdG8gbG93ZXIgbGV2ZWxzIG9mIGdvdmVybm1lbnQuIERlY2VudHJhbGlzYXRpb24gY291bGQgdGh1cyBwcm92aWRlIGEgc291cmNlIG9mIGZ1bmRpbmcgZm9yIFJCT3MsIGRlcGVuZGluZyBvbiBob3cgdGFza3MgYW5kIGZ1bmRzIGFyZSBhbGxvY2F0ZWQgYW1vbmcgUkJPcyBhbmQgZ2VuZXJhbC1wdXJwb3NlIGp1cmlzZGljdGlvbnMuIFRoaXMgYnJpZWZpbmcgcGFwZXIgZXhhbWluZXMgYWRtaW5pc3RyYXRpdmUgYW5kIGZpc2NhbCBhc3BlY3RzIG9mIHJpdmVyIGJhc2luIG1hbmFnZW1lbnQgYW5kIGFuYWx5c2VzIHdoZXRoZXIgZmlzY2FsIGRlY2VudHJhbGlzYXRpb24gc3VwcG9ydHMgb3IgY291bnRlcmFjdHMgdGhlIGZ1bmRpbmcgb2Ygcml2ZXIgYmFzaW4gbWFuYWdlbWVudC4gV2UgcHJlc2VudCB0aGUgZXhhbXBsZSBvZiBNb25nb2xpYSwgd2hlcmUgaW4gcmVjZW50IHllYXJzIHRoZSBwcm9jZXNzZXMgb2YgUkJPIGluc3RpdHV0aW9uYWxpc2F0aW9uIGFuZCBmaXNjYWwgZGVjZW50cmFsaXNhdGlvbiBoYXZlIG9jY3VycmVkIGluIHBhcmFsbGVsLiBNb3JlIHNwZWNpZmljYWxseSwgd2UgYW5hbHlzZSBpKSBob3cgY29tcGV0ZW5jaWVzIGZvciB2YXJpb3VzIHdhdGVyIGdvdmVybmFuY2UgZnVuY3Rpb25zIGJldHdlZW4gUkJPcyBhbmQgb3RoZXIgYm9kaWVzIGF0IHRoZSBzdWItbmF0aW9uYWwgbGV2ZWwgYXJlIGZvcm1hbGx5IGFsbG9jYXRlZCwgaWkpIHdoaWNoIGRlIGp1cmUgYW5kIGRlIGZhY3RvIGZ1bmRpbmcgYXJyYW5nZW1lbnRzIGFyZSBpbiBwbGFjZSwgYW5kIGlpaSkgd2hhdCB0aGlzIGltcGxpZXMgZm9yIHRoZSBjb29yZGluYXRpb24gYW5kIHN1c3RhaW5hYmlsaXR5IG9mIHdhdGVyIHJlc291cmNlIHVzZS4mbHQ7YnIgLyZndDtXZSBmaW5kIHRoYXQgZGVzcGl0ZSBhIGJyb2FkIGRpdmlzaW9uIG9mIGxhYm91ciBhbW9uZyBhZG1pbmlzdHJhdGl2ZSB1bml0cywgYSBoaWdoIGxldmVsIG9mIG92ZXJsYXAgZXhpc3RzLCBmb3IgaW5zdGFuY2UgaW4gdGhlIGFyZWFzIG9mIGRhdGEgbWFuYWdlbWVudCwgd2F0ZXIgbGF3IGVuZm9yY2VtZW50IGFuZCBpbXBsZW1lbnRhdGlvbiBvZiB3YXRlciBwcm90ZWN0aW9uIG1lYXN1cmVzLiZsdDticiAvJmd0O0luIHRlcm1zIG9mIGZpbmFuY2luZyB3YXRlciBnb3Zlcm5hbmNlLCBSaXZlciBCYXNpbiBBdXRob3JpdGllcyAoUkJBcykgYXJlIHByaW1hcmlseSBmaW5hbmNlZCB0aHJvdWdoIHRoZSBuYXRpb25hbCBidWRnZXQgYW5kIGFpbWFnIChwcm92aW5jZS1sZXZlbCkgZW52aXJvbm1lbnRhbCBhdXRob3JpdGllcyAoQUVBcykgdGhyb3VnaCBzdWItbmF0aW9uYWwgcHJvdmluY2UgYnVkZ2V0cy4gSG93ZXZlciwgdW5jZXJ0YWludGllcyBleGlzdCByZWdhcmRpbmcgdGhlIGFsbG9jYXRpb24gb2Ygd2F0ZXItdXNlIGZlZXMuIEluIHByYWN0aWNlLCBmdW5kcyBhdmFpbGFibGUgdG8gUkJBcyBvbmx5IGNvdmVyIGZpeGVkIGNvc3RzLiBBRUFzIGhhdmUgc29tZXdoYXQgaGlnaGVyIGJ1ZGdldHMsIGJ1dCBkbyBub3QgbmVjZXNzYXJpbHkgdXNlIHRoZXNlIGZ1bmRzIGZvciB3YXRlci1yZWxhdGVkIHByb2plY3RzIG5vciBkbyB0aGV5IGVhcm1hcmsgd2F0ZXItdXNlIGZlZXMuIEluY29uc2lzdGVudCBsZWdhbCBwcm92aXNpb25zIG9uIHdhdGVyLXVzZSBmZWVzIGhhdmUgbGVkIHRvIGNvbXBldGl0aW9uIGJldHdlZW4gQUVBcyBhbmQgUkJBcywgYnV0IGFsc28gdG8gaW5pdGlhbCBjb2xsYWJvcmF0aXZlIGFycmFuZ2VtZW50cy4gV2UgY29uY2x1ZGUgdGhhdCBpbiBNb25nb2xpYSwgZmlzY2FsIGRlY2VudHJhbGlzYXRpb24gYW5kIHJpdmVyIGJhc2luIG1hbmFnZW1lbnQgYXJlLCBzbyBmYXIsIGhhcmRseSBtdXR1YWxseSBzdXBwb3J0aXZlIGFuZCB3ZSByZWNvbW1lbmQgYSBudW1iZXIgb2YgbGVnYWwgYW5kIGZpbmFuY2lhbCBhZGp1c3RtZW50cy4gSW4gcGFydGljdWxhciwgd2UgcmVjb21tZW5kIHRoYXQmbHQ7L3AmZ3Q7CiZsdDtwJmd0OyZsdDsvcCZndDsKJmx0O3VsJmd0OwombHQ7bGkmZ3Q7CiZsdDtwJmd0O3Jlc3BvbnNpYmlsaXRpZXMgYmUgZGlzdHJpYnV0ZWQgbW9yZSBjbGVhcmx5IHRvIHJlZHVjZSBvdmVybGFwIGFuZCB1bmNlcnRhaW50eTsmbHQ7L3AmZ3Q7CiZsdDsvbGkmZ3Q7CiZsdDtsaSZndDtsZWdhbCBpbmNvbnNpc3RlbmNpZXMgcmVnYXJkaW5nIHdhdGVyLXVzZSBmZWVzIGJlIGNsYXJpZmllZDsmbHQ7L2xpJmd0OwombHQ7bGkmZ3Q7ZnVuZGluZyBiZSBhcnJhbmdlZCBhY2NvcmRpbmcgdG8gdGFza3M7IGFuZCZsdDsvbGkmZ3Q7CiZsdDtsaSZndDtmdW5kaW5nIGZvciBSQkFzIGJlIGluY3JlYXNlZCBhbmQgbWluaW11bSBzdGF0ZS1mdW5kaW5nIGJlIHByb3ZpZGVkIHRvIHJpdmVyIGJhc2luIGNvdW5jaWxzIChSQkNzKSwgc28gdGhleSBjYW4gZnVsZmlsIHRoZWlyIG1hbmRhdGVzLiZsdDsvbGkmZ3Q7CiZsdDsvdWwmZ3Q7PC9kZXNjcmlwdGlvbj4KICAgIDxkZXNjcmlwdGlvbiB4bWw6bGFuZz0iZW4iIGRlc2NyaXB0aW9uVHlwZT0iU2VyaWVzSW5mb3JtYXRpb24iPkJyaWVmaW5nIFBhcGVyPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "gesis.die-gdi",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "gesis",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

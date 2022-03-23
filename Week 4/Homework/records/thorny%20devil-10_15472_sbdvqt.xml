@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resource xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd" xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <identifier identifierType="DOI">10.15472/sbdvqt</identifier>
+    <creators>
+        <creator>
+            <creatorName>Giovanni Cárdenas</creatorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </creator>
+    </creators>
+    <titles>
+        <title xml:lang="spa">Inventarios de Fauna y Flora en Relictos de Bosque en el Enclave Seco del Río Amaime, Valle del Cauca</title>
+    </titles>
+    <publisher>WCS Colombia</publisher>
+    <publicationYear>2013</publicationYear>
+    <subjects>
+        <subject subjectScheme="n/a" xml:lang="spa">Aves</subject>
+        <subject subjectScheme="n/a" xml:lang="spa">anfibios</subject>
+        <subject subjectScheme="n/a" xml:lang="spa">bosque seco</subject>
+        <subject subjectScheme="n/a" xml:lang="spa">mamíferos</subject>
+        <subject subjectScheme="n/a" xml:lang="spa">plantas</subject>
+        <subject subjectScheme="n/a" xml:lang="spa">reptiles.</subject>
+        <subject subjectScheme="GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml" xml:lang="spa">Occurrence</subject>
+        <subject subjectScheme="GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml" xml:lang="spa">Observation</subject>
+        <subject subjectScheme="SiB Colombia" xml:lang="spa">VALLE_DEL_CAUCA</subject>
+    </subjects>
+    <contributors>
+        <contributor contributorType="ContactPerson">
+            <contributorName>Giovanni Cárdenas</contributorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </contributor>
+        <contributor contributorType="DataCurator">
+            <contributorName>Giovanni Cárdenas</contributorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </contributor>
+        <contributor contributorType="ProjectLeader">
+            <contributorName>Giovanni Cárdenas</contributorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </contributor>
+        <contributor contributorType="ProjectLeader">
+            <contributorName>Viviana Vidal-Astudillo</contributorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </contributor>
+        <contributor contributorType="ProjectLeader">
+            <contributorName>Harrison López</contributorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </contributor>
+        <contributor contributorType="ProjectLeader">
+            <contributorName>César H. Giraldo</contributorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </contributor>
+        <contributor contributorType="ProjectLeader">
+            <contributorName>Catalina Ruíz</contributorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </contributor>
+        <contributor contributorType="Editor">
+            <contributorName>Carlos A. Saavedra-Rodríguez</contributorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </contributor>
+        <contributor contributorType="Editor">
+            <contributorName>Padu Franco</contributorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </contributor>
+        <contributor contributorType="Editor">
+            <contributorName>Catalina Gutiérrez-Chacón</contributorName>
+            <affiliation xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">Wildlife Conservation Society-WCS Colombia</affiliation>
+        </contributor>
+    </contributors>
+    <dates>
+        <date dateType="Created">2013-06-20</date>
+        <date dateType="Updated">2018-06-01</date>
+        <date dateType="Valid">2010-01-14/2010-04-15</date>
+    </dates>
+    <language>spa</language>
+    <resourceType resourceTypeGeneral="Dataset">Occurrence</resourceType>
+    <alternateIdentifiers>
+        <alternateIdentifier alternateIdentifierType="Another identifier for this resource">doi:10.15472/sbdvqt</alternateIdentifier>
+        <alternateIdentifier alternateIdentifierType="Another identifier for this resource">fdbbb939-ee0b-4c6e-8eb3-15ed92177306</alternateIdentifier>
+        <alternateIdentifier alternateIdentifierType="Another identifier for this resource">http://ipt.biodiversidad.co/sib/resource?r=fauna_flora_amaime</alternateIdentifier>
+    </alternateIdentifiers>
+    <relatedIdentifiers>
+        <relatedIdentifier relatedIdentifierType="URL" relationType="IsVariantFormOf">https://www.dropbox.com/s/yugl6k52vbr9cwf/Informe%20Final_AMAIME_EPSA_WCS_2010.pdf</relatedIdentifier>
+    </relatedIdentifiers>
+    <sizes>
+        <size>1186 records</size>
+    </sizes>
+    <formats>
+        <format>Data as a Darwin Core Archive file</format>
+        <format>Metadata as an EML file</format>
+        <format>Metadata as an RTF file</format>
+    </formats>
+    <version>11.1</version>
+    <rightsList>
+        <rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/legalcode">Public Domain (CC0 1.0)</rights>
+    </rightsList>
+    <descriptions>
+        <description descriptionType="Abstract" xml:lang="spa">El enclave seco del río Amaime es uno de los pocos lugares con remanentes de Bosques seco Tropical en el Valle del Cauca, considerado uno de los ecosistemas más amenazados en el Neotrópico. El enclave se haya fuertemente transformado y amenazado por continuas quemas para la adecuación de tierras para actividades agrícolas y ganaderas, pequeños cultivos de rotación rápida entre otras amenazas. El objetivo del estudio fue elaborar inventarios detallados de avifauna, herpetofauna, mastofauna, y flora en relictos de bosques sub-xerofítico en el enclave, que permitan conocer la biodiversidad de estos relictos, su estado de conservación y posibles amenazas con el fin de plantear recomendaciones para su conservación. Se seleccionaron cuatro zonas de muestreo con cobertura vegetal como matorrales espinosos, bosques ribereños y fragmentos de bosque. Para el registro y toma de datos se usaron redes de niebla, transectos, observaciones directas, trampas tipo “Sherman” y entrevistas informales con la comunidad. A pesar de la reducción de la cobertura vegetal en el enclave seco del río Amaime, los fragmentos boscosos y matorrales no solo albergan fauna y flora propia de bosques secos y muy secos, sino que también sirven como refugio y sitios de alimentación para especies transitorias.
+ABSTRACT: The dry enclave of Amaime River is one of the few places that remain as Tropical Dry Forest in the Valle del Cauca region, which is considered one of the most threatened ecosystems in the Neotropics. The site has been heavily transformed and threatened by anthropic means like continued burning for the suitability of land for agriculture and livestock, small short rotation crops among others. The aim of the study was to develop detailed inventories of avifauna, herpetofauna, mammalian fauna, and flora in relict sub-xerophytic forests of the enclave, therefore revealing the biodiversity of these remnants, their conservation status and potential threats in order to propose recommendations for conservation. Four sampling areas were selected with cover vegetation as thorny scrub vegetation, riparian forests and forest fragments. For registration and data collection mist nets, transects, direct observations and Sherman traps were used, additionally informal interviews with the community were performed. Despite the reduction of vegetation cover in the dry enclave of Amaime River, the forest fragments serve as shelter and feeding site for both transient species and typical dry and very dry forest wildlife.</description>
+    </descriptions>
+    <geoLocations>
+        <geoLocation>
+            <geoLocationBox>3.601 -76.177 3.631 -76.104</geoLocationBox>
+            <geoLocationPlace xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema">La cuenca del río Amaime se ubica en la vertiente occidental de la cordillera Central en el Valle del Cauca, tiene una extensión aproximada de 55,600 ha, que es compartida por los municipios de Palmira (36,475 ha) y El Cerrito (19,125 ha). El río nace en la laguna Negra en el páramo La Estrella a altitud de 4100 m.s.n.m. y corre en sentido suroeste hasta el corregimiento de Aují y luego en sentido este-oeste hasta su desembocadura en el río Cauca, después de recorrer aproximadamente 65,5 km. Sus principales tributarios son los ríos Toche, Cabuyal, Coronado y Nima (CVC 2000a, 2000b).</geoLocationPlace>
+        </geoLocation>
+    </geoLocations>
+</resource>

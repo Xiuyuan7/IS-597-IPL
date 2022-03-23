@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.5167/UZH-160031</identifier>
+  <creators>
+    <creator>
+      <creatorName>Walter, Matthias</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Christison, Kathleen</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Wyndaele, Jean-Jacques J M</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Kennelly, Michael</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Kessler, Thomas M</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Noonan, Vanessa K</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Fallah, Nader</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Krassioukov, Andrei V</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Response to Elliot and Crew (DOI: 10.1089/neu.2018.5697) Response to Christison et al. (DOI: 10.1089/neu.2017.5413): Intermittent Catheterization: The Devil Is in the Details</title>
+  </titles>
+  <publisher>Mary Ann Liebert</publisher>
+  <publicationYear>2019</publicationYear>
+  <dates>
+    <date dateType="Available">2019-05-15</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text"/>
+</resource>

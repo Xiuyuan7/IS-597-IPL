@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.7480/footprint.10.2.1153</identifier>
+  <creators>
+    <creator>
+      <creatorName>Grabowska, Sam</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title> Anxious Architecture: Sleep, Identity, and Death in the US-Mexico Borderlands</title>
+  </titles>
+  <publisher>FOOTPRINT</publisher>
+  <publicationYear>2017</publicationYear>
+  <dates>
+    <date dateType="Submitted">2016-03-23</date>
+    <date dateType="Accepted">2016-03-23</date>
+    <date dateType="Updated">2017-12-23</date>
+    <date dateType="Issued">2017-02-04</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Text">Article</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="publisherId">9-440-1153</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">10.7480/footprint.10.2</relatedIdentifier>
+  </relatedIdentifiers>
+  <sizes>
+    <size>115-136 Pages</size>
+  </sizes>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/licenses/by/4.0">This work is licensed under a Creative Commons Attribution 4.0 International License.</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">
+The Mexico-US borderlands have been militarised by the technology, weaponry, and policies of both the American Border Patrol agency and Mexican cartels. Upon this contested ground, border-crossers interrupt their taxing journey to build small informal works of architecture. These structures – most commonly fashioned from whatever materials are at hand like thorny mesquite branches, rocks, and grasses – become a locus of crises. Like the migrants, drug mules, or guides who build it, border-crosser architecture has overlapping and competing agendas and motivations. Drawing on the analysis of architectural form, artifacts of material culture, and interviews gathered from fieldwork in the United States and Mexico, I identify three ways architecture acts ‘anxiously’ as a spatial relationship to conflict: 1) sleep (insomnia), 2) identity (anonymity), and 3) death (haunting). In these modes, an architecture born in the borderlands both embodies and emotes anxiety as an adaptive spatial tactic to respond to conflict and trauma.
+</description>
+    <description descriptionType="SeriesInformation">FOOTPRINT, Issue # 19 | Autumn / Winter 2016 | Spaces of Conflict</description>
+  </descriptions>
+</resource>

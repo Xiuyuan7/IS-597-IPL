@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.4225/03/58d1d747a7b51",
+    "type": "works",
+    "attributes": {
+        "doi": "10.4225/03/58d1d747a7b51",
+        "identifier": "https://doi.org/10.4225/03/58d1d747a7b51",
+        "url": "https://monash.figshare.com/articles/Reciprocal_role_modelling_A_constructivist_grounded_theory/4775080",
+        "author": [
+            {
+                "given": "Karen Jean",
+                "family": "Hoare"
+            }
+        ],
+        "title": "Reciprocal role modelling: A constructivist grounded theory",
+        "container-title": "Monash University",
+        "description": "Information use by practice nurses in New Zealand has not been widely described in the literature. Practice nurses in New Zealand, the United Kingdom and Australia are usually employed by general practitioners. Compared with their peers in the United Kingdom, there is little evidence to suggest that New Zealand practice nurses provide the same autonomous nurse-led services. Providing nurse-led services is contingent on knowledge and skills and the ability to source and use contemporary information. In 2008, a New Zealand Ministry of Health programme of supporting new graduate hospital placements through finance and mentorship expanded to include primary health care, and a number of new graduate nurses were placed in general practice. This research sought to investigate information use by practice nurses in general practice in New Zealand. Using a constructivist grounded theory design, the author\u2019s own general practice was the site of an initial ethnographic phase. Theoretical sensitivity was heightened by observing, conversing and documenting field notes in this environment. Following the ethnographic period, data were elicited from eleven practice nurses using an unstructured, in-depth interview technique. Of these participants, five were new graduates and six were experienced practice nurses. Reciprocal role modelling is the constructed grounded theory of this thesis. Within supportive multi-disciplinary environments, new graduate nurses (all from the Millennial generation) and experienced practice nurses (Generation X or Baby Boomers) become willing to enter into a relationship. Once they feel confident with their mentors, new graduate nurses subsequently deploy their unconscious expertise at sourcing information. Experienced practice nurses are then realising potential in the new graduates, the second category of the theory. Following this realisation, a mutual reciprocal arrangement follows where the new graduate nurse learns clinical and communication skills and knowledge of the community, while the experienced practice nurse discovers Internet sources of best practice information. This information is subsequently embedded into their practice and alternate avenues of continuing professional development to encourage their critical thinking. The final category of becoming better practitioners is the outcome of reciprocal role modelling. This theory has widespread implications for the thorny issue of getting evidence into general practice in New Zealand and elsewhere.",
+        "resource-type-subtype": "Thesis",
+        "data-center-id": "ands.centre-3",
+        "member-id": "ands",
+        "resource-type-id": "text",
+        "version": null,
+        "license": "http://rightsstatements.org/vocab/InC/1.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-03-22T01:45:47.000Z",
+        "checked": null,
+        "updated": "2019-09-02T03:23:49.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC40MjI1LzAzLzU4RDFENzQ3QTdCNTE8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Ib2FyZSwgS2FyZW4gSmVhbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPlJlY2lwcm9jYWwgcm9sZSBtb2RlbGxpbmc6IEEgY29uc3RydWN0aXZpc3QgZ3JvdW5kZWQgdGhlb3J5PC90aXRsZT4KICA8L3RpdGxlcz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkluZm9ybWF0aW9uIHVzZSBieSBwcmFjdGljZSBudXJzZXMgaW4gTmV3IFplYWxhbmQgaGFzIG5vdCBiZWVuIHdpZGVseSBkZXNjcmliZWQgaW4gdGhlIGxpdGVyYXR1cmUuIFByYWN0aWNlIG51cnNlcyBpbiBOZXcgWmVhbGFuZCwgdGhlIFVuaXRlZCBLaW5nZG9tIGFuZCBBdXN0cmFsaWEgYXJlIHVzdWFsbHkgZW1wbG95ZWQgYnkgZ2VuZXJhbCBwcmFjdGl0aW9uZXJzLiBDb21wYXJlZCB3aXRoIHRoZWlyIHBlZXJzIGluIHRoZSBVbml0ZWQgS2luZ2RvbSwgdGhlcmUgaXMgbGl0dGxlIGV2aWRlbmNlIHRvIHN1Z2dlc3QgdGhhdCBOZXcgWmVhbGFuZCBwcmFjdGljZSBudXJzZXMgcHJvdmlkZSB0aGUgc2FtZSBhdXRvbm9tb3VzIG51cnNlLWxlZCBzZXJ2aWNlcy4gUHJvdmlkaW5nIG51cnNlLWxlZCBzZXJ2aWNlcyBpcyBjb250aW5nZW50IG9uIGtub3dsZWRnZSBhbmQgc2tpbGxzIGFuZCB0aGUgYWJpbGl0eSB0byBzb3VyY2UgYW5kIHVzZSBjb250ZW1wb3JhcnkgaW5mb3JtYXRpb24uIEluIDIwMDgsIGEgTmV3IFplYWxhbmQgTWluaXN0cnkgb2YgSGVhbHRoIHByb2dyYW1tZSBvZiBzdXBwb3J0aW5nIG5ldyBncmFkdWF0ZSBob3NwaXRhbCBwbGFjZW1lbnRzIHRocm91Z2ggZmluYW5jZSBhbmQgbWVudG9yc2hpcCBleHBhbmRlZCB0byBpbmNsdWRlIHByaW1hcnkgaGVhbHRoIGNhcmUsIGFuZCBhIG51bWJlciBvZiBuZXcgZ3JhZHVhdGUgbnVyc2VzIHdlcmUgcGxhY2VkIGluIGdlbmVyYWwgcHJhY3RpY2UuClRoaXMgcmVzZWFyY2ggc291Z2h0IHRvIGludmVzdGlnYXRlIGluZm9ybWF0aW9uIHVzZSBieSBwcmFjdGljZSBudXJzZXMgaW4gZ2VuZXJhbCBwcmFjdGljZSBpbiBOZXcgWmVhbGFuZC4gVXNpbmcgYSBjb25zdHJ1Y3RpdmlzdCBncm91bmRlZCB0aGVvcnkgZGVzaWduLCB0aGUgYXV0aG9y4oCZcyBvd24gZ2VuZXJhbCBwcmFjdGljZSB3YXMgdGhlIHNpdGUgb2YgYW4gaW5pdGlhbCBldGhub2dyYXBoaWMgcGhhc2UuIFRoZW9yZXRpY2FsIHNlbnNpdGl2aXR5IHdhcyBoZWlnaHRlbmVkIGJ5IG9ic2VydmluZywgY29udmVyc2luZyBhbmQgZG9jdW1lbnRpbmcgZmllbGQgbm90ZXMgaW4gdGhpcyBlbnZpcm9ubWVudC4gRm9sbG93aW5nIHRoZSBldGhub2dyYXBoaWMgcGVyaW9kLCBkYXRhIHdlcmUgZWxpY2l0ZWQgZnJvbSBlbGV2ZW4gcHJhY3RpY2UgbnVyc2VzIHVzaW5nIGFuIHVuc3RydWN0dXJlZCwgaW4tZGVwdGggaW50ZXJ2aWV3IHRlY2huaXF1ZS4gT2YgdGhlc2UgcGFydGljaXBhbnRzLCBmaXZlIHdlcmUgbmV3IGdyYWR1YXRlcyBhbmQgc2l4IHdlcmUgZXhwZXJpZW5jZWQgcHJhY3RpY2UgbnVyc2VzLgpSZWNpcHJvY2FsIHJvbGUgbW9kZWxsaW5nIGlzIHRoZSBjb25zdHJ1Y3RlZCBncm91bmRlZCB0aGVvcnkgb2YgdGhpcyB0aGVzaXMuIFdpdGhpbiBzdXBwb3J0aXZlIG11bHRpLWRpc2NpcGxpbmFyeSBlbnZpcm9ubWVudHMsIG5ldyBncmFkdWF0ZSBudXJzZXMgKGFsbCBmcm9tIHRoZSBNaWxsZW5uaWFsIGdlbmVyYXRpb24pIGFuZCBleHBlcmllbmNlZCBwcmFjdGljZSBudXJzZXMgKEdlbmVyYXRpb24gWCBvciBCYWJ5IEJvb21lcnMpIGJlY29tZSB3aWxsaW5nIHRvIGVudGVyIGludG8gYSByZWxhdGlvbnNoaXAuIE9uY2UgdGhleSBmZWVsIGNvbmZpZGVudCB3aXRoIHRoZWlyIG1lbnRvcnMsIG5ldyBncmFkdWF0ZSBudXJzZXMgc3Vic2VxdWVudGx5IGRlcGxveSB0aGVpciB1bmNvbnNjaW91cyBleHBlcnRpc2UgYXQgc291cmNpbmcgaW5mb3JtYXRpb24uIEV4cGVyaWVuY2VkIHByYWN0aWNlIG51cnNlcyBhcmUgdGhlbiByZWFsaXNpbmcgcG90ZW50aWFsIGluIHRoZSBuZXcgZ3JhZHVhdGVzLCB0aGUgc2Vjb25kIGNhdGVnb3J5IG9mIHRoZSB0aGVvcnkuIEZvbGxvd2luZyB0aGlzIHJlYWxpc2F0aW9uLCBhIG11dHVhbCByZWNpcHJvY2FsIGFycmFuZ2VtZW50IGZvbGxvd3Mgd2hlcmUgdGhlIG5ldyBncmFkdWF0ZSBudXJzZSBsZWFybnMgY2xpbmljYWwgYW5kIGNvbW11bmljYXRpb24gc2tpbGxzIGFuZCBrbm93bGVkZ2Ugb2YgdGhlIGNvbW11bml0eSwgd2hpbGUgdGhlIGV4cGVyaWVuY2VkIHByYWN0aWNlIG51cnNlIGRpc2NvdmVycyBJbnRlcm5ldCBzb3VyY2VzIG9mIGJlc3QgcHJhY3RpY2UgaW5mb3JtYXRpb24uIFRoaXMgaW5mb3JtYXRpb24gaXMgc3Vic2VxdWVudGx5IGVtYmVkZGVkIGludG8gdGhlaXIgcHJhY3RpY2UgYW5kIGFsdGVybmF0ZSBhdmVudWVzIG9mIGNvbnRpbnVpbmcgcHJvZmVzc2lvbmFsIGRldmVsb3BtZW50IHRvIGVuY291cmFnZSB0aGVpciBjcml0aWNhbCB0aGlua2luZy4gVGhlIGZpbmFsIGNhdGVnb3J5IG9mIGJlY29taW5nIGJldHRlciBwcmFjdGl0aW9uZXJzIGlzIHRoZSBvdXRjb21lIG9mIHJlY2lwcm9jYWwgcm9sZSBtb2RlbGxpbmcuIFRoaXMgdGhlb3J5IGhhcyB3aWRlc3ByZWFkIGltcGxpY2F0aW9ucyBmb3IgdGhlIHRob3JueSBpc3N1ZSBvZiBnZXR0aW5nIGV2aWRlbmNlIGludG8gZ2VuZXJhbCBwcmFjdGljZSBpbiBOZXcgWmVhbGFuZCBhbmQgZWxzZXdoZXJlLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPHN1YmplY3RzPgogICAgPHN1YmplY3Q+VW5jYXRlZ29yaXplZDwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxwdWJsaXNoZXI+TW9uYXNoIFVuaXZlcnNpdHk8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTc8L3B1YmxpY2F0aW9uWWVhcj4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQ3JlYXRlZCI+MjAxNy0wMy0yMjwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJVcGRhdGVkIj4yMDE5LTA5LTAyPC9kYXRlPgogIDwvZGF0ZXM+CiAgPHJlc291cmNlVHlwZSByZXNvdXJjZVR5cGVHZW5lcmFsPSJUZXh0Ij5UaGVzaXM8L3Jlc291cmNlVHlwZT4KICA8c2l6ZXM+CiAgICA8c2l6ZT4xNzA2MTM1OCBCeXRlczwvc2l6ZT4KICA8L3NpemVzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHA6Ly9yaWdodHNzdGF0ZW1lbnRzLm9yZy92b2NhYi9JbkMvMS4wLyI+SW4gQ29weXJpZ2h0PC9yaWdodHM+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ands.centre-3",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ands",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

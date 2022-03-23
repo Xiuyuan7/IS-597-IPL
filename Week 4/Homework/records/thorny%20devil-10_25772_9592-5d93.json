@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.25772/9592-5d93",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25772/9592-5d93",
+        "identifier": "https://doi.org/10.25772/9592-5d93",
+        "url": "https://scholarscompass.vcu.edu/etd/4212",
+        "author": [
+            {
+                "given": "John-Michael",
+                "family": "Bloomquist"
+            }
+        ],
+        "title": "Milking The Devil",
+        "container-title": "VCU Libraries",
+        "description": "VCU Theses and Dissertations",
+        "resource-type-subtype": "thesis",
+        "data-center-id": "viva.vcu",
+        "member-id": "viva",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2016",
+        "registered": "2019-08-08T19:57:15.000Z",
+        "checked": null,
+        "updated": "2019-09-21T13:33:07.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjU3NzIvOTU5Mi01RDkzPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Qmxvb21xdWlzdCwgSm9obi1NaWNoYWVsPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+TWlsa2luZyBUaGUgRGV2aWw8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+VkNVIExpYnJhcmllczwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxNjwvcHVibGljYXRpb25ZZWFyPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+dGhlc2lzPC9yZXNvdXJjZVR5cGU+CiAgPGRlc2NyaXB0aW9ucz4KICAgIDxkZXNjcmlwdGlvbiBkZXNjcmlwdGlvblR5cGU9IlNlcmllc0luZm9ybWF0aW9uIj5WQ1UgVGhlc2VzIGFuZCBEaXNzZXJ0YXRpb25zPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "viva.vcu",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "viva",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

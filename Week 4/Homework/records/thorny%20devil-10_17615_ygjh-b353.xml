@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17615/YGJH-B353</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Pribble, Kathryn</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>The Word and the Christian Author: Attitudes Toward Verbal Language in Nikolai Gogol's Мёртвые души</title>
+  </titles>
+  <publisher>The University of North Carolina at Chapel Hill University Libraries</publisher>
+  <publicationYear>2013</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Honors Thesis</resourceType>
+  <version/>
+  <rightsList>
+    <rights rightsURI="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">The purpose of this thesis will be to examine Gogol’s mature philosophy of language as it
+is suggested by Dead Souls, taking into consideration both the novel’s thematics and its narrative
+technique. I contend that Gogol uses the plot of the novel to model the way in which words are
+capable of acting as conduits for poshlost’, and that, furthermore, certain aspects of the novel’s
+narrative structure are motivated by and reflective of Gogol’s awareness that, as an author, he is
+implicated in his novel’s condemnation of verbal language as a potential instrument of the Devil.</description>
+  </descriptions>
+</resource>

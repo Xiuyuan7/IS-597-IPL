@@ -1,0 +1,73 @@
+{
+    "id": "https://doi.org/10.5061/dryad.gr573",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5061/dryad.gr573",
+        "identifier": "https://doi.org/10.5061/dryad.gr573",
+        "url": "https://datadryad.org/resource/doi:10.5061/dryad.gr573",
+        "author": [
+            {
+                "given": "Marc E. H.",
+                "family": "Jones"
+            },
+            {
+                "given": "Cajsa Lisa",
+                "family": "Anderson"
+            },
+            {
+                "given": "Christy A.",
+                "family": "Hipsley"
+            },
+            {
+                "given": "Johannes",
+                "family": "Mu\u0308ller"
+            },
+            {
+                "given": "Susan E.",
+                "family": "Evans"
+            },
+            {
+                "given": "Rainer R.",
+                "family": "Schoch"
+            }
+        ],
+        "title": "Data from: Integration of molecules and new fossils supports a Triassic origin for Lepidosauria (lizards, snakes, and tuatara)",
+        "container-title": "Dryad Digital Repository",
+        "description": null,
+        "resource-type-subtype": "DataPackage",
+        "data-center-id": "dryad.dryad",
+        "member-id": "dryad",
+        "resource-type-id": "dataset",
+        "version": "1",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2013",
+        "registered": "2013-06-14T17:38:07.000Z",
+        "checked": null,
+        "updated": "2019-08-02T02:37:05.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6bWV0cz0iaHR0cDovL3d3dy5sb2MuZ292L01FVFMvIiB4bWxuczpkc3BhY2U9Imh0dHA6Ly93d3cuZHNwYWNlLm9yZy94bWxucy9kc3BhY2UvZGltIiB4bWxuczpkaW09Imh0dHA6Ly93d3cuZHNwYWNlLm9yZy94bWxucy9kc3BhY2UvZGltIiB4bWxuczpkcnlhZD0iaHR0cDovL3B1cmwub3JnL2RyeWFkL3Rlcm1zLyIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTA2MS9EUllBRC5HUjU3MzwvaWRlbnRpZmllcj4KICA8dmVyc2lvbj4xPC92ZXJzaW9uPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Sm9uZXMsIE1hcmMgRS4gSC48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5BbmRlcnNvbiwgQ2Fqc2EgTGlzYTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkhpcHNsZXksIENocmlzdHkgQS48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5NdcyIbGxlciwgSm9oYW5uZXM8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5FdmFucywgU3VzYW4gRS48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5TY2hvY2gsIFJhaW5lciBSLjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkRhdGEgZnJvbTogSW50ZWdyYXRpb24gb2YgbW9sZWN1bGVzIGFuZCBuZXcgZm9zc2lscyBzdXBwb3J0cyBhIFRyaWFzc2ljIG9yaWdpbiBmb3IgTGVwaWRvc2F1cmlhIChsaXphcmRzLCBzbmFrZXMsIGFuZCB0dWF0YXJhKTwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5EcnlhZCBEaWdpdGFsIFJlcG9zaXRvcnk8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTM8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5kYXRpbmc8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5mb3NzaWw8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5saXphcmRzPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+bW9sZWN1bGFyPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+b3JpZ2luPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+dHVhdGFyYTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlRyaWFzc2ljPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+SnVyYXNzaWM8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5TcGhlbm9kb24gcHVuY3RhdHVzPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+TGVwaWRvc2F1cmlhPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+U3F1YW1hdGE8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkRhdGFzZXQiPkRhdGFQYWNrYWdlPC9yZXNvdXJjZVR5cGU+CiAgPGFsdGVybmF0ZUlkZW50aWZpZXJzPgogICAgPGFsdGVybmF0ZUlkZW50aWZpZXIgYWx0ZXJuYXRlSWRlbnRpZmllclR5cGU9ImNpdGF0aW9uIj5Kb25lcyBNRUgsIEFuZGVyc29uIENMLCBIaXBzbGV5IENBLCBNdcyIbGxlciBKLCBFdmFucyBTRSwgU2Nob2NoIFJSICgyMDEzKSBJbnRlZ3JhdGlvbiBvZiBtb2xlY3VsZXMgYW5kIG5ldyBmb3NzaWxzIHN1cHBvcnRzIGEgVHJpYXNzaWMgb3JpZ2luIGZvciBMZXBpZG9zYXVyaWEgKGxpemFyZHMsIHNuYWtlcywgYW5kIHR1YXRhcmEpLiBCTUMgRXZvbHV0aW9uYXJ5IEJpb2xvZ3kgMTM6IDIwOC48L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9Ikhhc1BhcnQiPjEwLjUwNjEvRFJZQUQuR1I1NzMvMTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSGFzUGFydCI+MTAuNTA2MS9EUllBRC5HUjU3My8yPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJIYXNQYXJ0Ij4xMC41MDYxL0RSWUFELkdSNTczLzM8L3JlbGF0ZWRJZGVudGlmaWVyPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9Ikhhc1BhcnQiPjEwLjUwNjEvRFJZQUQuR1I1NzMvNDwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSGFzUGFydCI+MTAuNTA2MS9EUllBRC5HUjU3My81PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1JlZmVyZW5jZWRCeSI+MTAuMTE4Ni8xNDcxLTIxNDgtMTMtMjA4PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJJc1N1cHBsZW1lbnRUbyI+MTAuMTE4Ni8xNDcxLTIxNDgtMTMtMjA4PC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IlBNSUQiIHJlbGF0aW9uVHlwZT0iSXNSZWZlcmVuY2VkQnkiPjI0MDYzNjgwPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IlBNSUQiIHJlbGF0aW9uVHlwZT0iSXNTdXBwbGVtZW50VG8iPjI0MDYzNjgwPC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8cmlnaHRzTGlzdD4KICAgIDxyaWdodHMgcmlnaHRzVVJJPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9wdWJsaWNkb21haW4vemVyby8xLjAvIi8+CiAgPC9yaWdodHNMaXN0Pgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "dryad.dryad",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "dryad",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

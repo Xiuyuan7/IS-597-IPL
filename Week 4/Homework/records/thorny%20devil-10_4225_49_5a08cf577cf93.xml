@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+  <identifier identifierType="DOI">10.4225/49/5A08CF577CF93</identifier>
+  <creators>
+    <creator>
+      <creatorName>Charles Feigin</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Supplementary Table 16</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">Tasmanian devil positively selected genes</description>
+  </descriptions>
+  <subjects>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">60305 Evolution of Developmental Systems</subject>
+  </subjects>
+  <publisher>Figshare</publisher>
+  <publicationYear>2017</publicationYear>
+  <dates>
+    <date dateType="Created">2017-11-12</date>
+    <date dateType="Updated">2017-11-12</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <sizes>
+    <size>22088 Bytes</size>
+  </sizes>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</rights>
+  </rightsList>
+</resource>

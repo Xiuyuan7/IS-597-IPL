@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xi="http://www.w3.org/2001/XInclude" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25620/CI-02_06</identifier>
+  <creators>
+    <creator>
+      <creatorName>Trabert, Florian</creatorName>
+      <givenName>Florian</givenName>
+      <familyName>Trabert</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>‘Il mal seme d’Adamo’: Dante’s Inferno and the Problem of the Literary Representation of Evil in Thomas Mann’s Doktor Faustus and Wolfgang Koeppen’s Der Tod in Rom</title>
+    <title titleType="Subtitle">Dante’s Inferno and the Problem of the Literary Representation of Evil in Thomas Mann’s Doktor Faustus and Wolfgang Koeppen’s Der Tod in Rom</title>
+  </titles>
+  <publisher>Turia + Kant</publisher>
+  <publicationYear>2010</publicationYear>
+  <subjects>
+    <subject>Alighieri, Dante – Divina Commedia – Inferno</subject>
+    <subject>productive reception</subject>
+    <subject>good and evil in literature</subject>
+    <subject>Mann, Thomas – Doktor Faustus</subject>
+    <subject>Koeppen, Wolfgang – Der Tod in Rom</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="Editor">
+      <contributorName>Gragnolati, Manuele</contributorName>
+      <givenName>Manuele</givenName>
+      <familyName>Gragnolati</familyName>
+    </contributor>
+    <contributor contributorType="Editor">
+      <contributorName>Camilletti, Fabio</contributorName>
+      <givenName>Fabio</givenName>
+      <familyName>Camilletti</familyName>
+    </contributor>
+    <contributor contributorType="Editor">
+      <contributorName>Lampart, Fabian</contributorName>
+      <givenName>Fabian</givenName>
+      <familyName>Lampart</familyName>
+    </contributor>
+  </contributors>
+  <language>en-GB</language>
+  <resourceType resourceTypeGeneral="Text">Chapter</resourceType>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">https://doi.org/10.25620/ci-02</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsPartOf">https://www.ici-berlin.org/oa/ci-02/index.html</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="ISBN" relationType="IsPartOf">978-3-85132-617-8</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="ISSN" relationType="IsPartOf">2627-728X</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="ISSN" relationType="IsPartOf">2627-731X</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">https://doi.org/10.25620/ci-print</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsPartOf">https://doi.org/10.25620/ci-online</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights>© by the author(s)</rights>
+    <rights rightsURI="http://creativecommons.org/licenses/by-sa/4.0/">This version is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Even if the title of Wolfgang Koeppen’s last novel, Der Tod in Rom, alludes quite obviously to Thomas Mann’s novella, Der Tod in Venedig, Koeppen’s text must be understood first and foremost as a response to Mann’s most controversial novel, Doktor Faustus. The novels of Mann and Koeppen rank among the most well-known literary examinations of National Socialism but stand in a complementary relation to each other. Doktor Faustus, published in 1947, analyses the cultural and intellectual origins of German fascism, while Der Tod in Rom, published only seven years later in 1954, criticizes the continuity of National Socialist ideologies in post-war Germany. Both authors focus their analyses of fascism on a fictional avant-garde composer who seems at first glance detached from any political context. Doktor Faustus is the fictional biography of the composer Adrian Leverkühn, written by his friend Serenus Zeitblom in the last years of the Second World War. Leverkühn agrees to a pact with the devil, symbolically confirmed by the composer’s syphilitic infection; through this pact, Leverkühn tries to overcome the crisis of modern music. The conception of the novel is based, as the author himself has emphasized, on ‘die Parallelisierung verderblicher, in den Collaps mündender Euphorie mit dem fascistischen Völkerrausch’. By contrast, Siegfried Pfaffrath, the fictive composer of Koeppen’s novel, understands his avant-garde compositions as a form of resistance against the reactionary climate in the economically booming post-war Germany. These reactionary tendencies are embodied by Siegfried’s parents, who are trying, less than ten years after the end of the war, to repatriate their relative Gottlieb Judejahn, a former SS general and wanted war criminal. The actual starting point of my paper, however, is the fact that both novels are preceded by mottos taken from Dante’s Inferno. I will begin by commenting on the references to Dante in Doktor Faustus and then continue by analysing the allusions to the Commedia in Koeppen’s novel, which constitute, as I will demonstrate, a complex constellation among the three texts. […]</description>
+    <description descriptionType="SeriesInformation">Metamorphosing Dante: Appropriations, Manipulations, and Rewritings in the Twentieth and Twenty-First Centuries, Cultural Inquiry 2, 89-99</description>
+    <description descriptionType="Other">Florian Trabert, ‘‘Il mal seme d’Adamo’: Dante’s /Inferno/ and the Problem of the Literary Representation of Evil in Thomas Mann’s /Doktor Faustus/ and Wolfgang Koeppen’s /Der Tod in Rom/’, in /Metamorphosing Dante: Appropriations, Manipulations, and Rewritings in the Twentieth and Twenty-First Centuries/, ed. by Manuele Gragnolati, Fabio Camilletti, and Fabian Lampart, Cultural Inquiry, 2 (Vienna: Turia + Kant, 2010), pp. 89–99 &lt;https://doi.org/10.25620/ci-02_06&gt;&gt;</description>
+  </descriptions>
+</resource>

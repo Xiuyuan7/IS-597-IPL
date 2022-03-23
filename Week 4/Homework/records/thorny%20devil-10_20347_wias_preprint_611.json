@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.20347/wias.preprint.611",
+    "type": "works",
+    "attributes": {
+        "doi": "10.20347/wias.preprint.611",
+        "identifier": "https://doi.org/10.20347/wias.preprint.611",
+        "url": "http://www.wias-berlin.de/publications/wias-publ/run.jsp?template=abstract&type=Preprint&year=2000&number=611",
+        "author": [
+            {
+                "given": "John G. M.",
+                "family": "Schoenmakers"
+            },
+            {
+                "given": "Brian",
+                "family": "Coffey"
+            }
+        ],
+        "title": "Stable implied calibration of a multi-factor LIBOR model via a semi-parametric correlation structure.",
+        "container-title": "Weierstrass Institute",
+        "description": "We will study the thorny issues around simultaneous calibration of LIBOR models to cap(let) and swaption prices in the markets. We will show in general that low factor market models calibrated to these prices tend to imply unrealistic instantaneous correlations between different forward LIBOR rates. Many-factor models, however, have in general a large parameter dimension and therefore tend to be unstable. In this paper we handle this problem by using a semi-parametric full rank correlation structure in a Brace-Gatarek-Musiela/Jamshidian framework, [1, 5] subject to certain natural constraints which enforce realistic behaviour of forward correlations. A LIBOR market model equipped with this correlation structure has essentially the same parameter dimension as a general two-factor model and we show that calibration of such a model to market swaption and cap(let) volatilities is very stable. Moreover, the implied instantaneous forward LIBOR correlation matrix is consistent with estimations from historical data. Further, application of principal component analysis to the thus obtained multi-factor model yields stably calibrated low-factor models.",
+        "resource-type-subtype": null,
+        "data-center-id": "tib.wias",
+        "member-id": "tib",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2000",
+        "registered": "2018-09-20T10:44:34.000Z",
+        "checked": null,
+        "updated": "2019-09-01T01:00:43.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjAzNDcvV0lBUy5QUkVQUklOVC42MTE8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5TY2hvZW5tYWtlcnMsIEpvaG4gRy4gTS48L2NyZWF0b3JOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIiBzY2hlbWVVUkk9Imh0dHA6Ly9PUkNJRC5vcmcvIj4wMDAwLTAwMDItNDM4OS04MjY2PC9uYW1lSWRlbnRpZmllcj4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+Q29mZmV5LCBCcmlhbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPlN0YWJsZSBpbXBsaWVkIGNhbGlicmF0aW9uIG9mIGEgbXVsdGktZmFjdG9yIExJQk9SIG1vZGVsIHZpYSBhIHNlbWktcGFyYW1ldHJpYyBjb3JyZWxhdGlvbiBzdHJ1Y3R1cmUuPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPldlaWVyc3RyYXNzIEluc3RpdHV0ZTwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAwMDwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0IHN1YmplY3RTY2hlbWU9ImtleXdvcmQiPkludGVyZXN0IHJhdGUgbW9kZWxsaW5nPC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc3ViamVjdFNjaGVtZT0ia2V5d29yZCI+TElCT1IgbW9kZWxzPC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc3ViamVjdFNjaGVtZT0ia2V5d29yZCI+Y2FsaWJyYXRpb248L3N1YmplY3Q+CiAgICA8c3ViamVjdCBzdWJqZWN0U2NoZW1lPSJNU0MyMDAwIiBzY2hlbWVVUkk9Imh0dHA6Ly93d3cuYW1zLm9yZy9tc2MvbXNjMjAwMC5odG1sIj42MEgwNTwvc3ViamVjdD4KICAgIDxzdWJqZWN0IHN1YmplY3RTY2hlbWU9Ik1TQzIwMDAiIHNjaGVtZVVSST0iaHR0cDovL3d3dy5hbXMub3JnL21zYy9tc2MyMDAwLmh0bWwiPjYwSDEwPC9zdWJqZWN0PgogICAgPHN1YmplY3Qgc3ViamVjdFNjaGVtZT0iTVNDMjAwMCIgc2NoZW1lVVJJPSJodHRwOi8vd3d3LmFtcy5vcmcvbXNjL21zYzIwMDAuaHRtbCI+OTBBMDk8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8bGFuZ3VhZ2U+RU5HPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiLz4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iSVNTTiIgcmVsYXRpb25UeXBlPSJDaXRlcyI+MDk0Ni04NjMzPC9yZWxhdGVkSWRlbnRpZmllcj4KICA8L3JlbGF0ZWRJZGVudGlmaWVycz4KICA8Zm9ybWF0cz4KICAgIDxmb3JtYXQ+UERGPC9mb3JtYXQ+CiAgPC9mb3JtYXRzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+PCFbQ0RBVEFbV2Ugd2lsbCBzdHVkeSB0aGUgdGhvcm55IGlzc3VlcyBhcm91bmQgc2ltdWx0YW5lb3VzIGNhbGlicmF0aW9uIG9mIExJQk9SIG1vZGVscyB0byBjYXAobGV0KSBhbmQgc3dhcHRpb24gcHJpY2VzIGluIHRoZSBtYXJrZXRzLiBXZSB3aWxsIHNob3cgaW4gZ2VuZXJhbCB0aGF0IGxvdyBmYWN0b3IgbWFya2V0IG1vZGVscyBjYWxpYnJhdGVkIHRvIHRoZXNlIHByaWNlcyB0ZW5kIHRvIGltcGx5IHVucmVhbGlzdGljIGluc3RhbnRhbmVvdXMgY29ycmVsYXRpb25zIGJldHdlZW4gZGlmZmVyZW50IGZvcndhcmQgTElCT1IgcmF0ZXMuIE1hbnktZmFjdG9yIG1vZGVscywgaG93ZXZlciwgaGF2ZSBpbiBnZW5lcmFsIGEgbGFyZ2UgcGFyYW1ldGVyIGRpbWVuc2lvbiBhbmQgdGhlcmVmb3JlIHRlbmQgdG8gYmUgdW5zdGFibGUuIEluIHRoaXMgcGFwZXIgd2UgaGFuZGxlIHRoaXMgcHJvYmxlbSBieSB1c2luZyBhIHNlbWktcGFyYW1ldHJpYyBmdWxsIHJhbmsgY29ycmVsYXRpb24gc3RydWN0dXJlIGluIGEgQnJhY2UtR2F0YXJlay1NdXNpZWxhL0phbXNoaWRpYW4gZnJhbWV3b3JrLCBbMSwgNV0gc3ViamVjdCB0byBjZXJ0YWluIG5hdHVyYWwgY29uc3RyYWludHMgd2hpY2ggZW5mb3JjZSByZWFsaXN0aWMgYmVoYXZpb3VyIG9mIGZvcndhcmQgY29ycmVsYXRpb25zLiBBIExJQk9SIG1hcmtldCBtb2RlbCBlcXVpcHBlZCB3aXRoIHRoaXMgY29ycmVsYXRpb24gc3RydWN0dXJlIGhhcyBlc3NlbnRpYWxseSB0aGUgc2FtZSBwYXJhbWV0ZXIgZGltZW5zaW9uIGFzIGEgZ2VuZXJhbCB0d28tZmFjdG9yIG1vZGVsIGFuZCB3ZSBzaG93IHRoYXQgY2FsaWJyYXRpb24gb2Ygc3VjaCBhIG1vZGVsIHRvIG1hcmtldCBzd2FwdGlvbiBhbmQgY2FwKGxldCkgdm9sYXRpbGl0aWVzIGlzIHZlcnkgc3RhYmxlLiBNb3Jlb3ZlciwgdGhlIGltcGxpZWQgaW5zdGFudGFuZW91cyBmb3J3YXJkIExJQk9SIGNvcnJlbGF0aW9uIG1hdHJpeCBpcyBjb25zaXN0ZW50IHdpdGggZXN0aW1hdGlvbnMgZnJvbSBoaXN0b3JpY2FsIGRhdGEuIEZ1cnRoZXIsIGFwcGxpY2F0aW9uIG9mIHByaW5jaXBhbCBjb21wb25lbnQgYW5hbHlzaXMgdG8gdGhlIHRodXMgb2J0YWluZWQgbXVsdGktZmFjdG9yIG1vZGVsIHlpZWxkcyBzdGFibHkgY2FsaWJyYXRlZCBsb3ctZmFjdG9yIG1vZGVscy5dXT48L2Rlc2NyaXB0aW9uPgogIDwvZGVzY3JpcHRpb25zPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tib.wias",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tib",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

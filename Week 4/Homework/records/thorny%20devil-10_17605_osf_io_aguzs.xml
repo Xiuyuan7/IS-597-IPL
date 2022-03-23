@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.17605/OSF.IO/AGUZS</identifier>
+  <creators>
+    <creator>
+      <creatorName>Tiffany M. Stachnik</creatorName>
+      <givenName>Tiffany</givenName>
+      <familyName>Stachnik</familyName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Syncretism or Superimposition: An Analysis of the Devil in "The Original Folk and Fairy Tales of the Brothers Grimm"</title>
+  </titles>
+  <publisher>Open Science Framework</publisher>
+  <publicationYear>2019</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Project</resourceType>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/legalcode">CC-By Attribution 4.0 International</rights>
+  </rightsList>
+  <descriptions>
+    <description descriptionType="Abstract">Since their first full publication in 1815, the folk and fairy tales of the Brothers Grimm have provided a means of studying the rich oral traditions of Germany.  The Grimm brothers indicated time and time again in their personal notes that the oral traditions found in their folk and fairy tales included symbols, characters, and themes belonging to pre-Christian Germanic culture, as well as to the firmly Christian German states from which they collected their folk and fairy tales.  The blending of pre-Christian Germanic culture with Christian, German traditions is particularly salient in the figure of the devil, despite the fact that the devil is arguably one of the most popular Christian figures to date.  Through an exploration of the phylogenetic analyses of the Grimm’s tales featuring the devil, connections between the devil in the Grimm’s tales and other German or Germanic tales, and Christian and Germanic symbolism, this study demonstrates that the devil in the Grimm’s tales is an embodiment of syncretism between Christian and pre-Christian traditions.  This syncretic devil is not only consistent with the history of religious transformation in Germany, which involved the slow blending of elements of Germanic paganism and Christianity, but also points to a greater theme of syncretism between the cultural traditions of Germany and other nations worldwide.</description>
+  </descriptions>
+</resource>

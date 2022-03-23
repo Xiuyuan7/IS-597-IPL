@@ -1,0 +1,52 @@
+{
+    "id": "https://doi.org/10.17600/7480150",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17600/7480150",
+        "identifier": "https://doi.org/10.17600/7480150",
+        "url": "https://campagnes.flotteoceanographique.fr/campagnes/7480150/",
+        "author": [
+            {
+                "literal": "LAZURE Pascal"
+            }
+        ],
+        "title": "DEVIL 2 cruise,C\u00f4tes De La Manche R/V",
+        "container-title": "Sismer",
+        "description": "Les campagnes DEVIL ont pour objectif de d\u00e9crire la pr\u00e9sence de l'algue toxique Dinophysis en sud Bretagne et de d\u00e9crire les conditions hydrodynamiques propices \u00e0 leur croissance. Parall\u00e8lement \u00e0 cette \u00e9tude des pr\u00e9l\u00e8vements de zooplancton visant \u00e0 identifier la pr\u00e9sence de larves de pectinaires ont \u00e9t\u00e9 effectu\u00e9s.Deux campagnes ont \u00e9t\u00e9 effectu\u00e9es en Avril 2007. Une troisi\u00e8me campagne pr\u00e9vue a \u00e9t\u00e9 stopp\u00e9e pr\u00e9matur\u00e9ment suite \u00e0 une panne du C\u00f4tes de la Manche. Le projet de rattachement est le projet Ifremer GET (Gestion des Efflorescence toxiques).",
+        "resource-type-subtype": "oceanographic cruise",
+        "data-center-id": "inist.ifremer",
+        "member-id": "inist",
+        "resource-type-id": "other",
+        "version": null,
+        "license": null,
+        "schema-version": "3",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2007",
+        "registered": "2015-12-15T11:12:35.000Z",
+        "checked": null,
+        "updated": "2019-09-27T22:17:16.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc2MDAvNzQ4MDE1MDwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkxBWlVSRSBQYXNjYWw8L2NyZWF0b3JOYW1lPgogICAgICA8YWZmaWxpYXRpb24+RGF0YUNpdGU8L2FmZmlsaWF0aW9uPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5ERVZJTCAyIGNydWlzZSxDw7R0ZXMgRGUgTGEgTWFuY2hlIFIvVjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5TaXNtZXI8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMDc8L3B1YmxpY2F0aW9uWWVhcj4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9Ik90aGVyIj5vY2Vhbm9ncmFwaGljIGNydWlzZTwvcmVzb3VyY2VUeXBlPgogIDxyZWxhdGVkSWRlbnRpZmllcnMvPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+TGVzIGNhbXBhZ25lcyBERVZJTCBvbnQgcG91ciBvYmplY3RpZiBkZSBkw6ljcmlyZSBsYSBwcsOpc2VuY2UgZGUgbCdhbGd1ZSB0b3hpcXVlIERpbm9waHlzaXMgZW4gc3VkIEJyZXRhZ25lIGV0IGRlIGTDqWNyaXJlIGxlcyBjb25kaXRpb25zIGh5ZHJvZHluYW1pcXVlcyBwcm9waWNlcyDDoCBsZXVyIGNyb2lzc2FuY2UuIFBhcmFsbMOobGVtZW50IMOgIGNldHRlIMOpdHVkZSBkZXMgcHLDqWzDqHZlbWVudHMgZGUgem9vcGxhbmN0b24gdmlzYW50IMOgIGlkZW50aWZpZXIgbGEgcHLDqXNlbmNlIGRlIGxhcnZlcyBkZSBwZWN0aW5haXJlcyBvbnQgw6l0w6kgZWZmZWN0dcOpcy48YnIvPkRldXggY2FtcGFnbmVzIG9udCDDqXTDqSBlZmZlY3R1w6llcyBlbiBBdnJpbCAyMDA3LiBVbmUgdHJvaXNpw6htZSBjYW1wYWduZSBwcsOpdnVlIGEgw6l0w6kgc3RvcHDDqWUgcHLDqW1hdHVyw6ltZW50IHN1aXRlIMOgIHVuZSBwYW5uZSBkdSBDw7R0ZXMgZGUgbGEgTWFuY2hlLiBMZSBwcm9qZXQgZGUgcmF0dGFjaGVtZW50IGVzdCBsZSBwcm9qZXQgSWZyZW1lciBHRVQgKEdlc3Rpb24gZGVzIEVmZmxvcmVzY2VuY2UgdG94aXF1ZXMpLjwvZGVzY3JpcHRpb24+CiAgPC9kZXNjcmlwdGlvbnM+CiAgPGdlb0xvY2F0aW9ucz4KICAgIDxnZW9Mb2NhdGlvbj4KICAgICAgPGdlb0xvY2F0aW9uQm94PjQ3LjAgLTMuMyA0Ny44IC0yLjE8L2dlb0xvY2F0aW9uQm94PgogICAgPC9nZW9Mb2NhdGlvbj4KICA8L2dlb0xvY2F0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "inist.ifremer",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "inist",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "other",
+                "type": "resource-types"
+            }
+        }
+    }
+}

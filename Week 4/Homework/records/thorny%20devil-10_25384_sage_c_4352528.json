@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.25384/sage.c.4352528",
+    "type": "works",
+    "attributes": {
+        "doi": "10.25384/sage.c.4352528",
+        "identifier": "https://doi.org/10.25384/sage.c.4352528",
+        "url": "https://sage.figshare.com/collections/Who_Deals_With_the_Devil_Interdependence_Personality_and_Corrupted_Collaboration/4352528/1",
+        "author": [
+            {
+                "given": "Karolina A.",
+                "family": "\u015aciga\u0142a"
+            },
+            {
+                "given": "Christoph",
+                "family": "Schild"
+            },
+            {
+                "given": "Daniel W.",
+                "family": "Heck"
+            },
+            {
+                "given": "Ingo",
+                "family": "Zettler"
+            }
+        ],
+        "title": "Who Deals With the Devil? Interdependence, Personality, and Corrupted Collaboration",
+        "container-title": "SAGE Journals",
+        "description": "Corrupted collaboration, that is, gaining personal profits through collaborative immoral acts, is a common and destructive phenomenon in societies. Despite the societal relevance of corrupted collaboration, the role of one\u2019s own as well as one\u2019s partner\u2019s characteristics has hitherto remained unexplained. In the present study, we test these roles using the sequential dyadic die-rolling paradigm (<i>N</i> = 499 across five conditions). Our results indicate that interacting with a fully dishonest partner leads to higher cheating rates than interacting with a fully honest partner, although being paired with a fully honest partner does not eliminate dishonesty completely. Furthermore, we found that the basic personality dimension of Honesty\u2013Humility is consistently negatively related to collaborative dishonesty irrespective of whether participants interact with fully honest or fully dishonest partners. Overall, our investigation provides new insights on the role of interaction partner\u2019s characteristics in settings allowing for corrupted collaboration.",
+        "resource-type-subtype": "Collection",
+        "data-center-id": "figshare.sage",
+        "member-id": "figshare",
+        "resource-type-id": "collection",
+        "version": null,
+        "license": "https://creativecommons.org/licenses/by/4.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2018",
+        "registered": "2019-01-01T16:02:21.000Z",
+        "checked": null,
+        "updated": "2019-10-03T08:06:36.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00LjEvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4yNTM4NC9TQUdFLkMuNDM1MjUyODwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkthcm9saW5hIEEuIMWaY2lnYcWCYTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkNocmlzdG9waCBTY2hpbGQ8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5EYW5pZWwgVy4gSGVjazwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkluZ28gWmV0dGxlcjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPldobyBEZWFscyBXaXRoIHRoZSBEZXZpbD8gSW50ZXJkZXBlbmRlbmNlLCBQZXJzb25hbGl0eSwgYW5kIENvcnJ1cHRlZCBDb2xsYWJvcmF0aW9uPC90aXRsZT4KICA8L3RpdGxlcz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPiZsdDtkaXYmZ3Q7Jmx0O3AmZ3Q7Q29ycnVwdGVkIGNvbGxhYm9yYXRpb24sIHRoYXQgaXMsIGdhaW5pbmcgcGVyc29uYWwgcHJvZml0cyB0aHJvdWdoIGNvbGxhYm9yYXRpdmUgaW1tb3JhbCBhY3RzLCBpcyBhIGNvbW1vbiBhbmQgZGVzdHJ1Y3RpdmUgcGhlbm9tZW5vbiBpbiBzb2NpZXRpZXMuIERlc3BpdGUgdGhlIHNvY2lldGFsIHJlbGV2YW5jZSBvZiBjb3JydXB0ZWQgY29sbGFib3JhdGlvbiwgdGhlIHJvbGUgb2Ygb25l4oCZcyBvd24gYXMgd2VsbCBhcyBvbmXigJlzIHBhcnRuZXLigJlzIGNoYXJhY3RlcmlzdGljcyBoYXMgaGl0aGVydG8gcmVtYWluZWQgdW5leHBsYWluZWQuIEluIHRoZSBwcmVzZW50IHN0dWR5LCB3ZSB0ZXN0IHRoZXNlIHJvbGVzIHVzaW5nIHRoZSBzZXF1ZW50aWFsIGR5YWRpYyBkaWUtcm9sbGluZyBwYXJhZGlnbSAoJmx0O2kmZ3Q7TiZsdDsvaSZndDsgPSA0OTkgYWNyb3NzIGZpdmUgY29uZGl0aW9ucykuIE91ciByZXN1bHRzIGluZGljYXRlIHRoYXQgaW50ZXJhY3Rpbmcgd2l0aCBhIGZ1bGx5IGRpc2hvbmVzdCBwYXJ0bmVyIGxlYWRzIHRvIGhpZ2hlciBjaGVhdGluZyByYXRlcyB0aGFuIGludGVyYWN0aW5nIHdpdGggYSBmdWxseSBob25lc3QgcGFydG5lciwgYWx0aG91Z2ggYmVpbmcgcGFpcmVkIHdpdGggYSBmdWxseSBob25lc3QgcGFydG5lciBkb2VzIG5vdCBlbGltaW5hdGUgZGlzaG9uZXN0eSBjb21wbGV0ZWx5LiBGdXJ0aGVybW9yZSwgd2UgZm91bmQgdGhhdCB0aGUgYmFzaWMgcGVyc29uYWxpdHkgZGltZW5zaW9uIG9mIEhvbmVzdHnigJNIdW1pbGl0eSBpcyBjb25zaXN0ZW50bHkgbmVnYXRpdmVseSByZWxhdGVkIHRvIGNvbGxhYm9yYXRpdmUgZGlzaG9uZXN0eSBpcnJlc3BlY3RpdmUgb2Ygd2hldGhlciBwYXJ0aWNpcGFudHMgaW50ZXJhY3Qgd2l0aCBmdWxseSBob25lc3Qgb3IgZnVsbHkgZGlzaG9uZXN0IHBhcnRuZXJzLiBPdmVyYWxsLCBvdXIgaW52ZXN0aWdhdGlvbiBwcm92aWRlcyBuZXcgaW5zaWdodHMgb24gdGhlIHJvbGUgb2YgaW50ZXJhY3Rpb24gcGFydG5lcuKAmXMgY2hhcmFjdGVyaXN0aWNzIGluIHNldHRpbmdzIGFsbG93aW5nIGZvciBjb3JydXB0ZWQgY29sbGFib3JhdGlvbi4mbHQ7L3AmZ3Q7Jmx0Oy9kaXYmZ3Q7PC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdCBzY2hlbWVVUkk9Imh0dHA6Ly93d3cuYWJzLmdvdi5hdS9hdXNzdGF0cy9hYnNALm5zZi8wLzZCQjQyN0FCOTY5NkMyMjVDQTI1NzQxODAwMDQ0NjNFIiBzdWJqZWN0U2NoZW1lPSJGT1IiPjE3MDE5OSBQc3ljaG9sb2d5IG5vdCBlbHNld2hlcmUgY2xhc3NpZmllZDwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxwdWJsaXNoZXI+U0FHRSBKb3VybmFsczwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxODwvcHVibGljYXRpb25ZZWFyPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJDcmVhdGVkIj4yMDE5LTAxLTAxPC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9IlVwZGF0ZWQiPjIwMTktMTAtMDM8L2RhdGU+CiAgPC9kYXRlcz4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkNvbGxlY3Rpb24iPkNvbGxlY3Rpb248L3Jlc291cmNlVHlwZT4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9IklzU3VwcGxlbWVudFRvIj4xMC4xMTc3LzE5NDg1NTA2MTg4MTM0MTk8L3JlbGF0ZWRJZGVudGlmaWVyPgogIDwvcmVsYXRlZElkZW50aWZpZXJzPgogIDxyaWdodHNMaXN0PgogICAgPHJpZ2h0cyByaWdodHNVUkk9Imh0dHBzOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS80LjAvIj5DQyBCWSA0LjA8L3JpZ2h0cz4KICA8L3JpZ2h0c0xpc3Q+CjwvcmVzb3VyY2U+"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.sage",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "collection",
+                "type": "resource-types"
+            }
+        }
+    }
+}

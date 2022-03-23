@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.3203/iwf/e-2503",
+    "type": "works",
+    "attributes": {
+        "doi": "10.3203/iwf/e-2503",
+        "identifier": "https://doi.org/10.3203/iwf/e-2503",
+        "url": "https://av.tib.eu/media/27315",
+        "author": [
+            {
+                "given": "Borys",
+                "family": "Malkin"
+            }
+        ],
+        "title": "Eastern Europe, Poland - Carving a Toy Devil",
+        "container-title": "IWF (G\u00f6ttingen)",
+        "description": "An der Werkbank s\u00e4gt ein Mann einen Kloben Lindenholz zurecht, zeichnet Markierungen darauf und schnitzt daraus eine ca. 25 cm hohe Teufelsfigur, die er anschlie\u00dfend bemalt.",
+        "resource-type-subtype": "Documentation/Report",
+        "data-center-id": "tib.kmo",
+        "member-id": "tib",
+        "resource-type-id": "audiovisual",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "1978",
+        "registered": "2007-06-19T12:20:56.000Z",
+        "checked": null,
+        "updated": "2019-09-05T11:53:36.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMzIwMy9JV0YvRS0yNTAzPC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+TWFsa2luLCBCb3J5czwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkVhc3Rlcm4gRXVyb3BlLCBQb2xhbmQgLSBDYXJ2aW5nIGEgVG95IERldmlsPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPklXRiAoR8O2dHRpbmdlbik8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjE5Nzg8L3B1YmxpY2F0aW9uWWVhcj4KICA8bGFuZ3VhZ2U+cW5vPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IkF1ZGlvdmlzdWFsIj5Eb2N1bWVudGF0aW9uL1JlcG9ydDwvcmVzb3VyY2VUeXBlPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0PkV0aG5vbG9neTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkhvbHpiZWFyYmVpdHVuZyYjMTM7PC9zdWJqZWN0PgogICAgPHN1YmplY3Q+S3Vuc3RoYW5kd2VyayYjMTM7PC9zdWJqZWN0PgogICAgPHN1YmplY3Q+UGxhc3Rpa2VuJiMxMzs8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5TY2huaXR6ZW4mIzEzOzwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlRldWZlbDwvc3ViamVjdD4KICAgIDxzdWJqZWN0Pndvb2R3b3JraW5nJiMxMzs8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5oYW5kaWNyYWZ0JiMxMzs8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5zY3VscHR1cmVzJiMxMzs8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5jYXJ2aW5nJiMxMzs8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5kZXZpbDwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxkZXNjcmlwdGlvbnM+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+QW4gZGVyIFdlcmtiYW5rIHPDpGd0IGVpbiBNYW5uIGVpbmVuIEtsb2JlbiBMaW5kZW5ob2x6IHp1cmVjaHQsIHplaWNobmV0IE1hcmtpZXJ1bmdlbiBkYXJhdWYgdW5kIHNjaG5pdHp0IGRhcmF1cyBlaW5lIGNhLiAyNSBjbSBob2hlIFRldWZlbHNmaWd1ciwgZGllIGVyIGFuc2NobGllw59lbmQgYmVtYWx0LjwvZGVzY3JpcHRpb24+CiAgICA8ZGVzY3JpcHRpb24gZGVzY3JpcHRpb25UeXBlPSJBYnN0cmFjdCI+QSBtYW4gaXMgY2FydmluZyBhIHRveSBkZXZpbCBhdCBoaXMgd29yayBiZW5jaC4gSGUgdXNlcyBhIHByZXBhcmVkIGJsb2NrIG9mIGxpbmRlbiB0cmVlIG9uIHdoaWNoIGhlIHJvdWdobHkgbWFya3MgdGhlIG91dGxpbmVzIG9mIHRoZSBmaWd1cmUuIFdpdGggYSB2YXJpZXR5IG9mIHRvb2xzIGhlIHNoYXBlcyB0aGUgZmlndXJlLiBIZSBmaW5pc2hlcyB0aGUgYXBwcm94aW1hdGVseSAyNSBjbSBoaWdoIHRveSBkZXZpbCBieSBwYWludGluZyBpdCBpbiBwb2xpY2hyb21lIGNvbG91cnMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tib.kmo",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tib",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "audiovisual",
+                "type": "resource-types"
+            }
+        }
+    }
+}

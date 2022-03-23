@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.25911/5D73951F592A7</identifier>
+  <creators>
+    <creator>
+      <creatorName>Bailey, Liam D.</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Between the devil and the deep blue sea: Consequences of extreme climatic events in the Eurasian oystercatcher (Haematopus ostralegus)</title>
+  </titles>
+  <publisher>The Australian National University</publisher>
+  <publicationYear>2016</publicationYear>
+  <subjects>
+    <subject>climate change</subject>
+    <subject>extreme events</subject>
+    <subject>oystercatcher</subject>
+    <subject>saltmarsh</subject>
+    <subject>flooding</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="DataManager">
+      <contributorName>The Australian National University</contributorName>
+    </contributor>
+    <contributor contributorType="HostingInstitution">
+      <contributorName>The Australian National University</contributorName>
+    </contributor>
+  </contributors>
+  <dates>
+    <date dateType="Accepted">2017-05-16</date>
+    <date dateType="Available">2017-05-16</date>
+    <date dateType="Issued">2016</date>
+  </dates>
+  <language>en</language>
+  <resourceType resourceTypeGeneral="Other">Thesis (PhD)</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="other">b43751210</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="uri">http://hdl.handle.net/1885/116908</alternateIdentifier>
+  </alternateIdentifiers>
+  <descriptions>
+    <description descriptionType="Abstract">Anthropogenic climate change will not only change mean climatic conditions but is also predicted to alter the patterns of extreme climatic events (ECEs). Changes in the frequency and magnitude of ECEs can have broad impacts; however, empirical work on the topic has been limited. This thesis focuses on ECEs, with chapters one and two discussing the theory behind ecological research on ECEs and chapters 3 to 5 documenting the impacts of ECEs in a 32 year individual based dataset of the Eurasian oystercatcher (Haematopus ostralegus). 1. Research on ECEs has been limited by a lack of cohesiveness and structure. I will discuss the current challenges in ECE research, considering the way in which we define ECEs and design studies on the topic. I specifically highlight the need to conduct research that encompasses multiple ECE occurrences, as opposed to more common single event studies. 2. To understand the impacts of ECEs on biological systems it is necessary to identify the time period over which organisms are most sensitive to climatic changes. This is often done in an arbitrary way, limiting our biological understanding. To overcome this issue, I present a statistical toolbox in R to conduct climate sensitivity analyses using a variety of statistical methods. 3. Despite the growing interest in ECEs within ecology, how organisms will respond to changes in ECE patterns is poorly understood. I study phenotypic plasticity in H. ostralegus nest elevation as a response to increasingly frequent extreme flooding events, focussing on nest-site selection. I document little evidence of phenotypic change in nest-site selection, suggesting that this will not provide a viable mechanism for H. ostralegus to respond to flooding events. 4. H. ostralegus may also respond to changing flooding patterns through broader scale territory selection. I next investigate H. ostralegus settlement patterns and consider how these patterns may have changed in response to ECEs. H. ostralegus show changes in territory settlement, suggesting that this species may respond to changing patterns of ECEs at a broader spatial and temporal scale than we originally predicted. 5. Without a rapid response, increased ECE frequency is likely to drive a decline in H. ostralegus population density. This may lead to increased nest predation due to reduced neighbour vigilance and mobbing effectiveness. I investigate how changes in H. ostralegus density will impact nest predation, using both artificial and real nests. H. ostralegus nest predation is negatively related to conspecific nest density. This raises the possibility of a nest predation driven Allee effect in H. ostralegus. This thesis fills a number of key knowledge gaps present in ECE research. Chapters 1 and 2 provide practical tools for designing future ECE studies, while chapters 3 and 4 represent a unique investigation of phenotypic plasticity in response to ECEs. Finally in chapter 5, I document the population consequences of ECE changes using our unique long-term dataset. In combination, these chapters provide a broad investigation of ECEs in an ecological context.</description>
+  </descriptions>
+</resource>

@@ -1,0 +1,61 @@
+{
+    "id": "https://doi.org/10.17863/cam.27877",
+    "type": "works",
+    "attributes": {
+        "doi": "10.17863/cam.27877",
+        "identifier": "https://doi.org/10.17863/cam.27877",
+        "url": "https://www.repository.cam.ac.uk/handle/1810/280507",
+        "author": [
+            {
+                "given": "Guy",
+                "family": "Blanchard"
+            },
+            {
+                "given": "Alexander G",
+                "family": "Fletcher"
+            },
+            {
+                "given": "Linus J",
+                "family": "Schumacher"
+            }
+        ],
+        "title": "The devil is in the mesoscale: Mechanical and behavioural heterogeneity in collective cell movement.",
+        "container-title": "Apollo - University of Cambridge Repository",
+        "description": "Heterogeneity within cell populations can be an important aspect affecting their collective movement and tissue-mechanical properties, determining for example their effective viscoelasticity. Differences in cell-level properties and behaviour within a group of moving cells can give rise to unexpected and non-intuitive behaviours at the tissue level. Such emergent phenomena often manifest themselves through spatiotemporal patterns at an intermediate \u2018mesoscale\u2019 between cell and tissue scales, typically involving tens of cells. Focussing on the development of embryonic animal tissues, we review recent evidence for the importance of heterogeneity at the mesoscale for collective cell migration and convergence and extension movements. We further discuss approaches to incorporate heterogeneity into computational models to complement experimental investigations.",
+        "resource-type-subtype": "Article",
+        "data-center-id": "bl.cam",
+        "member-id": "bl",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2018-09-20T12:52:44.000Z",
+        "checked": null,
+        "updated": "2019-09-28T21:03:23.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTc4NjMvQ0FNLjI3ODc3PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+QmxhbmNoYXJkLCBHdXk8L2NyZWF0b3JOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgc2NoZW1lVVJJPSJodHRwOi8vb3JjaWQub3JnIiBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiPjAwMDAtMDAwMi0zNjg5LTA1MjI8L25hbWVJZGVudGlmaWVyPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5GbGV0Y2hlciwgQWxleGFuZGVyIEc8L2NyZWF0b3JOYW1lPgogICAgICA8bmFtZUlkZW50aWZpZXIgc2NoZW1lVVJJPSJodHRwOi8vb3JjaWQub3JnIiBuYW1lSWRlbnRpZmllclNjaGVtZT0iT1JDSUQiPjAwMDAtMDAwMy0wNTI1LTQzMzY8L25hbWVJZGVudGlmaWVyPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5TY2h1bWFjaGVyLCBMaW51cyBKPC9jcmVhdG9yTmFtZT4KICAgICAgPG5hbWVJZGVudGlmaWVyIHNjaGVtZVVSST0iaHR0cDovL29yY2lkLm9yZyIgbmFtZUlkZW50aWZpZXJTY2hlbWU9Ik9SQ0lEIj4wMDAwLTAwMDMtMDc5Ny0zNDA2PC9uYW1lSWRlbnRpZmllcj4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+VGhlIGRldmlsIGlzIGluIHRoZSBtZXNvc2NhbGU6IE1lY2hhbmljYWwgYW5kIGJlaGF2aW91cmFsIGhldGVyb2dlbmVpdHkgaW4gY29sbGVjdGl2ZSBjZWxsIG1vdmVtZW50LjwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5BcG9sbG8gLSBVbml2ZXJzaXR5IG9mIENhbWJyaWRnZSBSZXBvc2l0b3J5PC9wdWJsaXNoZXI+CiAgPHB1YmxpY2F0aW9uWWVhcj4yMDE5PC9wdWJsaWNhdGlvblllYXI+CiAgPGNvbnRyaWJ1dG9ycz4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IkRhdGFNYW5hZ2VyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5BcG9sbG8gLSBVbml2ZXJzaXR5IG9mIENhbWJyaWRnZSBSZXBvc2l0b3J5PC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iSG9zdGluZ0luc3RpdHV0aW9uIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5BcG9sbG8gLSBVbml2ZXJzaXR5IG9mIENhbWJyaWRnZSBSZXBvc2l0b3J5PC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogIDwvY29udHJpYnV0b3JzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJJc3N1ZWQiPjIwMTgtMDktMjA8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iQXZhaWxhYmxlIj4yMDE4LTA5LTIwPC9kYXRlPgogICAgPGRhdGUgZGF0ZVR5cGU9Iklzc3VlZCI+MjAxOS0wOTwvZGF0ZT4KICA8L2RhdGVzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+QXJ0aWNsZTwvcmVzb3VyY2VUeXBlPgogIDxhbHRlcm5hdGVJZGVudGlmaWVycz4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJpc3NuIj4xMDg0LTk1MjE8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0idXJpIj5odHRwczovL3d3dy5yZXBvc2l0b3J5LmNhbS5hYy51ay9oYW5kbGUvMTgxMC8yODA1MDc8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iZWlzc24iPjEwOTYtMzYzNDwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJkb2kiPjEwLjEwMTYvai5zZW1jZGIuMjAxOC4wNi4wMDM8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgPC9hbHRlcm5hdGVJZGVudGlmaWVycz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPkhldGVyb2dlbmVpdHkgd2l0aGluIGNlbGwgcG9wdWxhdGlvbnMgY2FuIGJlIGFuIGltcG9ydGFudCBhc3BlY3QgYWZmZWN0aW5nIHRoZWlyIGNvbGxlY3RpdmUgbW92ZW1lbnQgYW5kIHRpc3N1ZS1tZWNoYW5pY2FsIHByb3BlcnRpZXMsIGRldGVybWluaW5nIGZvciBleGFtcGxlIHRoZWlyIGVmZmVjdGl2ZSB2aXNjb2VsYXN0aWNpdHkuIERpZmZlcmVuY2VzIGluIGNlbGwtbGV2ZWwgcHJvcGVydGllcyBhbmQgYmVoYXZpb3VyIHdpdGhpbiBhIGdyb3VwIG9mIG1vdmluZyBjZWxscyBjYW4gZ2l2ZSByaXNlIHRvIHVuZXhwZWN0ZWQgYW5kIG5vbi1pbnR1aXRpdmUgYmVoYXZpb3VycyBhdCB0aGUgdGlzc3VlIGxldmVsLiBTdWNoIGVtZXJnZW50IHBoZW5vbWVuYSBvZnRlbiBtYW5pZmVzdCB0aGVtc2VsdmVzIHRocm91Z2ggc3BhdGlvdGVtcG9yYWwgcGF0dGVybnMgYXQgYW4gaW50ZXJtZWRpYXRlIOKAmG1lc29zY2FsZeKAmSBiZXR3ZWVuIGNlbGwgYW5kIHRpc3N1ZSBzY2FsZXMsIHR5cGljYWxseSBpbnZvbHZpbmcgdGVucyBvZiBjZWxscy4gRm9jdXNzaW5nIG9uIHRoZSBkZXZlbG9wbWVudCBvZiBlbWJyeW9uaWMgYW5pbWFsIHRpc3N1ZXMsIHdlIHJldmlldyByZWNlbnQgZXZpZGVuY2UgZm9yIHRoZSBpbXBvcnRhbmNlIG9mIGhldGVyb2dlbmVpdHkgYXQgdGhlIG1lc29zY2FsZSBmb3IgY29sbGVjdGl2ZSBjZWxsIG1pZ3JhdGlvbiBhbmQgY29udmVyZ2VuY2UgYW5kIGV4dGVuc2lvbiBtb3ZlbWVudHMuIFdlIGZ1cnRoZXIgZGlzY3VzcyBhcHByb2FjaGVzIHRvIGluY29ycG9yYXRlIGhldGVyb2dlbmVpdHkgaW50byBjb21wdXRhdGlvbmFsIG1vZGVscyB0byBjb21wbGVtZW50IGV4cGVyaW1lbnRhbCBpbnZlc3RpZ2F0aW9ucy48L2Rlc2NyaXB0aW9uPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iT3RoZXIiPkdCQiBhY2tub3dsZWRnZXMgdGhlIFdlbGxjb21lIFRydXN0IEludmVzdGlnYXRvciBBd2FyZCAwOTkyMzQvWi8xMi9aIHRvIELDqW7DqWRpY3RlIFNhbnNvbi4gQUdGIGlzIHN1cHBvcnRlZCBieSBhIFZpY2UtQ2hhbmNlbGxvcuKAmXMgRmVsbG93c2hpcCBmcm9tIHRoZSBVbml2ZXJzaXR5IG9mIFNoZWZmaWVsZC4gTEpTIGlzIHN1cHBvcnRlZCBieSBhIENoYW5jZWxsb3LigJlzIEZlbGxvd3NoaXAgZnJvbSB0aGUgVW5pdmVyc2l0eSBvZiBFZGluYnVyZ2guPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KICA8ZnVuZGluZ1JlZmVyZW5jZXM+CiAgICA8ZnVuZGluZ1JlZmVyZW5jZT4KICAgICAgPGZ1bmRlck5hbWU+V2VsbGNvbWUgVHJ1c3Q8L2Z1bmRlck5hbWU+CiAgICAgIDxhd2FyZE51bWJlcj4wOTkyMzQvWi8xMi9aPC9hd2FyZE51bWJlcj4KICAgIDwvZnVuZGluZ1JlZmVyZW5jZT4KICAgIDxmdW5kaW5nUmVmZXJlbmNlPgogICAgICA8ZnVuZGVyTmFtZT5CQlNSQzwvZnVuZGVyTmFtZT4KICAgICAgPGF3YXJkTnVtYmVyPkJCL0owMTAyNzgvMTwvYXdhcmROdW1iZXI+CiAgICA8L2Z1bmRpbmdSZWZlcmVuY2U+CiAgPC9mdW5kaW5nUmVmZXJlbmNlcz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "bl.cam",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "bl",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

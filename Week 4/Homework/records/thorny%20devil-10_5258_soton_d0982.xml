@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.5258/SOTON/D0982</identifier>
+  <creators>
+    <creator>
+      <creatorName nameType="Personal">Owen, Rachel</creatorName>
+      <givenName>Rachel</givenName>
+      <familyName>Owen</familyName>
+      <nameIdentifier nameIdentifierScheme="ORCID" schemeURI="https://orcid.org">https://orcid.org/0000-0001-6441-2213</nameIdentifier>
+    </creator>
+  </creators>
+  <titles>
+    <title xml:lang="en-us">Appendices for Investigating Cellular Origins to Identify Peptide Vaccine Targets in two Independent Transmissible Tumours Circulating in the Tasmanian Devil (Sarcophilus harrisii)</title>
+  </titles>
+  <publisher>University of Southampton</publisher>
+  <publicationYear>2019</publicationYear>
+  <resourceType resourceTypeGeneral="Dataset">Dataset</resourceType>
+  <subjects>
+    <subject xml:lang="en-us">MHC, Tasmanian devil, Transmissible cancer, Vaccine</subject>
+  </subjects>
+  <dates>
+    <date dateType="Collected">2015-10/2019-03</date>
+    <date dateType="Issued">2019</date>
+  </dates>
+  <version/>
+  <descriptions>
+    <description xml:lang="en-us" descriptionType="Abstract">This dataset supports the PhD These titled "Investigating Cellular Origins to Identify Peptide Vaccine Targets in two Independent Transmissible Tumours Circulating in the Tasmanian Devil" by Rachel Owen. It contains the following Appendices:Appendix C.1 - Raw mass spectrometry data for triplicate non-quantified whole cell proteomes for DFT2_RV, DFT1_4906 (+IFNγ) and fibroblast (Salem) cell lines.Appendix C.2 - Raw mass spectrometry data for label-free quantification of proteins identified in the whole cell proteomes of DFT2_RV, DFT1_4906 and fibroblast (Salem) cell lines.Appendix C.3 - Full results for functional analysis of the full, quantified proteomes of each cell line against the Gene Ontology: Biological process, Gene Ontology: Cellular compartment, Reactome and Human Protein Atlas databases.Appendix C.4 - Cross cell line comparisons of the functional analysis presented in Appendix C.3.Appendix C.5 - Full results for functional analysis of proteins unique to and quantified in a single cell line against the Gene Ontology: Biological process, Gene Ontology: Cellular compartment, Reactome and Human Protein Atlas databases.Appendix C.6 - Cross cell line comparisons of the functional analysis presented in Appendix C.5.Appendix C.7 - Functional analysis of tumour specific and ubiquitous proteins against the Gene Ontology: Biological process, Gene Ontology: Cellular compartment, Reactome and Human Protein Atlas databases.Appendix G.3 - Raw mass spectrometry data and sequenced peptide information following immunoaffinity purification of the MHC class I complex.Appendix G.4 - Raw mass spectrometry data and sequenced peptide information following immunoaffinity purification of the MHC class I complex performed by Annalisa Gastaldello et al. (in preparation).ROwen_README.docx - Full descriptions of the data contained in Appendices C.1-C.7 and G.3-G.4</description>
+  </descriptions>
+</resource>

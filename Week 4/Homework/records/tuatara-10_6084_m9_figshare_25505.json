@@ -1,0 +1,68 @@
+{
+    "id": "https://doi.org/10.6084/m9.figshare.25505",
+    "type": "works",
+    "attributes": {
+        "doi": "10.6084/m9.figshare.25505",
+        "identifier": "https://doi.org/10.6084/m9.figshare.25505",
+        "url": "https://figshare.com/articles/Phylogenetic_analysis_of_platypus_MHC_class_I_genes/25505",
+        "author": [
+            {
+                "given": "Juliane C",
+                "family": "Dohm"
+            },
+            {
+                "literal": "Enkhjargal Tsend-Ayush"
+            },
+            {
+                "given": "Richard",
+                "family": "Reinhardt"
+            },
+            {
+                "given": "Frank",
+                "family": "Gr\u00fctzner"
+            },
+            {
+                "given": "Heinz",
+                "family": "Himmelbauer"
+            }
+        ],
+        "title": "Phylogenetic analysis of platypus MHC class I genes",
+        "container-title": "Figshare",
+        "description": "Species tree of taxonomic entities represented in the trees shown in Figures 3 and 4b. MHC class I gene phylogenetic tree. Hosa, (human); Eqca, (horse); Cafa, (dog); Tube, (Northern tree shrew); Orcu, (rabbit); Rano, (rat); Modo, (opossum); Isma, (Northern brown bandicoot); Trvu, (silver-grey brushtail possum); Maru, (red-necked wallaby); Maeu, (tammar wallaby); Oran, (platypus); Taac, (echidna); Anpl, (duck); Gaga, (chicken); Pesi, (Chinese softshell turtle); Amam, (lizard); Nesi, (snake); Sppu, (tuatara); Amme, (axolotl); Rapi, (Northern leopard frog); Xela, (African clawed frog); Xetr, (Western clawed frog). Black diamonds highlight platypus class I sequences identified in this study. The marsupial Isoodon (Isma2-1-3) is represented by an artificial class I sequence that we generated from three separate overlapping class I sequence entries for this species. Tree construction using the NJ method was as described in Materials and methods. Numbers indicate bootstrap support in percent. Branch lengths are proportional to number of substitutions. The scale bar indicates 10% substitutions per site. Sequences used and their accession numbers are listed in Additional data file 11.<b>Copyright information:</b>Taken from \"Disruption and pseudoautosomal localization of the major histocompatibility complex in monotremes\"http://genomebiology.com/2007/8/8/R175Genome Biology 2007;8(8):R175-R175.Published online 29 Aug 2007PMCID:PMC2375005.",
+        "resource-type-subtype": "Figure",
+        "data-center-id": "figshare.ars",
+        "member-id": "figshare",
+        "resource-type-id": "image",
+        "version": null,
+        "license": "http://creativecommons.org/licenses/by/3.0/us",
+        "schema-version": "3",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2011",
+        "registered": "2012-06-07T17:39:25.000Z",
+        "checked": null,
+        "updated": "2019-08-02T00:47:56.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtMyBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0zL21ldGFkYXRhLnhzZCI+PGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNjA4NC9NOS5GSUdTSEFSRS4yNTUwNTwvaWRlbnRpZmllcj48Y3JlYXRvcnM+PGNyZWF0b3I+PGNyZWF0b3JOYW1lPkp1bGlhbmUgQyBEb2htPC9jcmVhdG9yTmFtZT48L2NyZWF0b3I+PGNyZWF0b3I+PGNyZWF0b3JOYW1lPkVua2hqYXJnYWwgVHNlbmQtQXl1c2g8L2NyZWF0b3JOYW1lPjwvY3JlYXRvcj48Y3JlYXRvcj48Y3JlYXRvck5hbWU+UmljaGFyZCBSZWluaGFyZHQ8L2NyZWF0b3JOYW1lPjwvY3JlYXRvcj48Y3JlYXRvcj48Y3JlYXRvck5hbWU+RnJhbmsgR3LDvHR6bmVyPC9jcmVhdG9yTmFtZT48L2NyZWF0b3I+PGNyZWF0b3I+PGNyZWF0b3JOYW1lPkhlaW56IEhpbW1lbGJhdWVyPC9jcmVhdG9yTmFtZT48L2NyZWF0b3I+PC9jcmVhdG9ycz48dGl0bGVzPjx0aXRsZT5QaHlsb2dlbmV0aWMgYW5hbHlzaXMgb2YgcGxhdHlwdXMgTUhDIGNsYXNzIEkgZ2VuZXM8L3RpdGxlPjwvdGl0bGVzPjxkZXNjcmlwdGlvbnM+PGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlNwZWNpZXMgdHJlZSBvZiB0YXhvbm9taWMgZW50aXRpZXMgcmVwcmVzZW50ZWQgaW4gdGhlIHRyZWVzIHNob3duIGluIEZpZ3VyZXMgMyBhbmQgNGIuIE1IQyBjbGFzcyBJIGdlbmUgcGh5bG9nZW5ldGljIHRyZWUuIEhvc2EsIChodW1hbik7IEVxY2EsIChob3JzZSk7IENhZmEsIChkb2cpOyBUdWJlLCAoTm9ydGhlcm4gdHJlZSBzaHJldyk7IE9yY3UsIChyYWJiaXQpOyBSYW5vLCAocmF0KTsgTW9kbywgKG9wb3NzdW0pOyBJc21hLCAoTm9ydGhlcm4gYnJvd24gYmFuZGljb290KTsgVHJ2dSwgKHNpbHZlci1ncmV5IGJydXNodGFpbCBwb3NzdW0pOyBNYXJ1LCAocmVkLW5lY2tlZCB3YWxsYWJ5KTsgTWFldSwgKHRhbW1hciB3YWxsYWJ5KTsgT3JhbiwgKHBsYXR5cHVzKTsgVGFhYywgKGVjaGlkbmEpOyBBbnBsLCAoZHVjayk7IEdhZ2EsIChjaGlja2VuKTsgUGVzaSwgKENoaW5lc2Ugc29mdHNoZWxsIHR1cnRsZSk7IEFtYW0sIChsaXphcmQpOyBOZXNpLCAoc25ha2UpOyBTcHB1LCAodHVhdGFyYSk7IEFtbWUsIChheG9sb3RsKTsgUmFwaSwgKE5vcnRoZXJuIGxlb3BhcmQgZnJvZyk7IFhlbGEsIChBZnJpY2FuIGNsYXdlZCBmcm9nKTsgWGV0ciwgKFdlc3Rlcm4gY2xhd2VkIGZyb2cpLiBCbGFjayBkaWFtb25kcyBoaWdobGlnaHQgcGxhdHlwdXMgY2xhc3MgSSBzZXF1ZW5jZXMgaWRlbnRpZmllZCBpbiB0aGlzIHN0dWR5LiBUaGUgbWFyc3VwaWFsIElzb29kb24gKElzbWEyLTEtMykgaXMgcmVwcmVzZW50ZWQgYnkgYW4gYXJ0aWZpY2lhbCBjbGFzcyBJIHNlcXVlbmNlIHRoYXQgd2UgZ2VuZXJhdGVkIGZyb20gdGhyZWUgc2VwYXJhdGUgb3ZlcmxhcHBpbmcgY2xhc3MgSSBzZXF1ZW5jZSBlbnRyaWVzIGZvciB0aGlzIHNwZWNpZXMuIFRyZWUgY29uc3RydWN0aW9uIHVzaW5nIHRoZSBOSiBtZXRob2Qgd2FzIGFzIGRlc2NyaWJlZCBpbiBNYXRlcmlhbHMgYW5kIG1ldGhvZHMuIE51bWJlcnMgaW5kaWNhdGUgYm9vdHN0cmFwIHN1cHBvcnQgaW4gcGVyY2VudC4gQnJhbmNoIGxlbmd0aHMgYXJlIHByb3BvcnRpb25hbCB0byBudW1iZXIgb2Ygc3Vic3RpdHV0aW9ucy4gVGhlIHNjYWxlIGJhciBpbmRpY2F0ZXMgMTAlIHN1YnN0aXR1dGlvbnMgcGVyIHNpdGUuIFNlcXVlbmNlcyB1c2VkIGFuZCB0aGVpciBhY2Nlc3Npb24gbnVtYmVycyBhcmUgbGlzdGVkIGluIEFkZGl0aW9uYWwgZGF0YSBmaWxlIDExLiZsdDtwJmd0OyZsdDtiJmd0O0NvcHlyaWdodCBpbmZvcm1hdGlvbjombHQ7L2ImZ3Q7Jmx0Oy9wJmd0OyZsdDtwJmd0O1Rha2VuIGZyb20gIkRpc3J1cHRpb24gYW5kIHBzZXVkb2F1dG9zb21hbCBsb2NhbGl6YXRpb24gb2YgdGhlIG1ham9yIGhpc3RvY29tcGF0aWJpbGl0eSBjb21wbGV4IGluIG1vbm90cmVtZXMiJmx0Oy9wJmd0OyZsdDtwJmd0O2h0dHA6Ly9nZW5vbWViaW9sb2d5LmNvbS8yMDA3LzgvOC9SMTc1Jmx0Oy9wJmd0OyZsdDtwJmd0O0dlbm9tZSBCaW9sb2d5IDIwMDc7OCg4KTpSMTc1LVIxNzUuJmx0Oy9wJmd0OyZsdDtwJmd0O1B1Ymxpc2hlZCBvbmxpbmUgMjkgQXVnIDIwMDcmbHQ7L3AmZ3Q7Jmx0O3AmZ3Q7UE1DSUQ6UE1DMjM3NTAwNS4mbHQ7L3AmZ3Q7Jmx0O3AmZ3Q7Jmx0Oy9wJmd0OzwvZGVzY3JpcHRpb24+PC9kZXNjcmlwdGlvbnM+PHN1YmplY3RzPjxzdWJqZWN0PkdlbmV0aWNzPC9zdWJqZWN0Pjwvc3ViamVjdHM+PHB1Ymxpc2hlcj5GaWdzaGFyZTwvcHVibGlzaGVyPjxwdWJsaWNhdGlvblllYXI+MjAxMTwvcHVibGljYXRpb25ZZWFyPjxkYXRlcz48ZGF0ZSBkYXRlVHlwZT0iQ3JlYXRlZCI+MjAxMS0xMi0zMDwvZGF0ZT48ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxMi0wNS0wODwvZGF0ZT48L2RhdGVzPjxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iSW1hZ2UiPkZpZ3VyZTwvcmVzb3VyY2VUeXBlPjxzaXplcz48c2l6ZT44NDE0NSBCeXRlczwvc2l6ZT48L3NpemVzPjxyaWdodHNMaXN0PjxyaWdodHMgcmlnaHRzVVJJPSJodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9saWNlbnNlcy9ieS8zLjAvdXMvIj5DQy1CWTwvcmlnaHRzPjwvcmlnaHRzTGlzdD48L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "figshare.ars",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "figshare",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "image",
+                "type": "resource-types"
+            }
+        }
+    }
+}

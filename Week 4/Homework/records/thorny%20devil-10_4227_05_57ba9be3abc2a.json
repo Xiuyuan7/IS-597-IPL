@@ -1,0 +1,58 @@
+{
+    "id": "https://doi.org/10.4227/05/57ba9be3abc2a",
+    "type": "works",
+    "attributes": {
+        "doi": "10.4227/05/57ba9be3abc2a",
+        "identifier": "https://doi.org/10.4227/05/57ba9be3abc2a",
+        "url": "http://www.aekos.org.au/dataset/258338",
+        "author": [
+            {
+                "literal": "L.C White"
+            },
+            {
+                "literal": "F. Saltr_?"
+            },
+            {
+                "literal": "C.J.A. Bradshaw"
+            },
+            {
+                "literal": "J.J. Austin"
+            }
+        ],
+        "title": "Mainland thylacine and devil radiocarbon dates, 2013-2015",
+        "container-title": "AEKOS - TERN Ecoinformatics",
+        "description": "This dataset comprises of new, high precision radiocarbon dates for 20 mainland thylacines and 24 mainland devils. Metadata includes museum accession numbers and origin of specimens.  We envision that this dataset could be used in studies of paleo-ecological reconstructions and for estimating extinction time for both devils and thylacines on mainland Australia. This dataset includes the youngest reliable fossil ages for both species on mainland Australia as per the criteria set out in Rodriguez-Rey at al (2015).\n\nRodr_?guez-Rey, Marta, et al. \"Criteria for assessing the quality of Middle Pleistocene to Holocene vertebrate fossil ages.\" Quaternary Geochronology 30 (2015): 69-79.",
+        "resource-type-subtype": null,
+        "data-center-id": "ands.centre-5",
+        "member-id": "ands",
+        "resource-type-id": null,
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2016",
+        "registered": "2016-08-22T06:30:01.000Z",
+        "checked": null,
+        "updated": "2019-09-20T19:01:52.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8cmVzb3VyY2UgeG1sbnM9Imh0dHA6Ly9kYXRhY2l0ZS5vcmcvc2NoZW1hL2tlcm5lbC0yLjEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhzaTpzY2hlbWFMb2NhdGlvbj0iaHR0cDovL2RhdGFjaXRlLm9yZy9zY2hlbWEva2VybmVsLTIuMSBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC0yLjEvbWV0YWRhdGEueHNkIj48aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC40MjI3LzA1LzU3QkE5QkUzQUJDMkE8L2lkZW50aWZpZXI+PGNyZWF0b3JzPjxjcmVhdG9yPjxjcmVhdG9yTmFtZT5MLkMgV2hpdGU8L2NyZWF0b3JOYW1lPjwvY3JlYXRvcj48Y3JlYXRvcj48Y3JlYXRvck5hbWU+Ri4gU2FsdHJfPzwvY3JlYXRvck5hbWU+PC9jcmVhdG9yPjxjcmVhdG9yPjxjcmVhdG9yTmFtZT5DLkouQS4gQnJhZHNoYXc8L2NyZWF0b3JOYW1lPjwvY3JlYXRvcj48Y3JlYXRvcj48Y3JlYXRvck5hbWU+Si5KLiBBdXN0aW48L2NyZWF0b3JOYW1lPjwvY3JlYXRvcj48L2NyZWF0b3JzPjx0aXRsZXM+PHRpdGxlPk1haW5sYW5kIHRoeWxhY2luZSBhbmQgZGV2aWwgcmFkaW9jYXJib24gZGF0ZXMsIDIwMTMtMjAxNTwvdGl0bGU+PC90aXRsZXM+PHB1Ymxpc2hlcj5BRUtPUyAtIFRFUk4gRWNvaW5mb3JtYXRpY3M8L3B1Ymxpc2hlcj48cHVibGljYXRpb25ZZWFyPjIwMTY8L3B1YmxpY2F0aW9uWWVhcj48c3ViamVjdHM+PHN1YmplY3Q+RWNvbG9neSAoMDYwMik8L3N1YmplY3Q+PHN1YmplY3Q+RW52aXJvbm1lbnRhbCBTY2llbmNlIEFuZCBNYW5hZ2VtZW50ICgwNTAyKTwvc3ViamVjdD48c3ViamVjdD5Fdm9sdXRpb25hcnkgQmlvbG9neSAoMDYwMyk8L3N1YmplY3Q+PHN1YmplY3Q+T3RoZXIgQmlvbG9naWNhbCBTY2llbmNlcyAoMDY5OSk8L3N1YmplY3Q+PHN1YmplY3Q+T3RoZXIgRW52aXJvbm1lbnRhbCBTY2llbmNlcyAoMDU5OSk8L3N1YmplY3Q+PHN1YmplY3Q+Wm9vbG9neSAoMDYwOCk8L3N1YmplY3Q+PHN1YmplY3Q+QmlvZGl2ZXJzaXR5IEludmVudG9yeTwvc3ViamVjdD48c3ViamVjdD5QYWxlb2Vjb2xvZ3k8L3N1YmplY3Q+PHN1YmplY3Q+U3BlY2llcyBEZWNsaW5lPC9zdWJqZWN0PjxzdWJqZWN0Pk5vbmU8L3N1YmplY3Q+PHN1YmplY3Q+Tm9uZTwvc3ViamVjdD48L3N1YmplY3RzPjxkZXNjcmlwdGlvbnM+PGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlRoaXMgZGF0YXNldCBjb21wcmlzZXMgb2YgbmV3LCBoaWdoIHByZWNpc2lvbiByYWRpb2NhcmJvbiBkYXRlcyBmb3IgMjAgbWFpbmxhbmQgdGh5bGFjaW5lcyBhbmQgMjQgbWFpbmxhbmQgZGV2aWxzLiBNZXRhZGF0YSBpbmNsdWRlcyBtdXNldW0gYWNjZXNzaW9uIG51bWJlcnMgYW5kIG9yaWdpbiBvZiBzcGVjaW1lbnMuICBXZSBlbnZpc2lvbiB0aGF0IHRoaXMgZGF0YXNldCBjb3VsZCBiZSB1c2VkIGluIHN0dWRpZXMgb2YgcGFsZW8tZWNvbG9naWNhbCByZWNvbnN0cnVjdGlvbnMgYW5kIGZvciBlc3RpbWF0aW5nIGV4dGluY3Rpb24gdGltZSBmb3IgYm90aCBkZXZpbHMgYW5kIHRoeWxhY2luZXMgb24gbWFpbmxhbmQgQXVzdHJhbGlhLiBUaGlzIGRhdGFzZXQgaW5jbHVkZXMgdGhlIHlvdW5nZXN0IHJlbGlhYmxlIGZvc3NpbCBhZ2VzIGZvciBib3RoIHNwZWNpZXMgb24gbWFpbmxhbmQgQXVzdHJhbGlhIGFzIHBlciB0aGUgY3JpdGVyaWEgc2V0IG91dCBpbiBSb2RyaWd1ZXotUmV5IGF0IGFsICgyMDE1KS4KClJvZHJfP2d1ZXotUmV5LCBNYXJ0YSwgZXQgYWwuICJDcml0ZXJpYSBmb3IgYXNzZXNzaW5nIHRoZSBxdWFsaXR5IG9mIE1pZGRsZSBQbGVpc3RvY2VuZSB0byBIb2xvY2VuZSB2ZXJ0ZWJyYXRlIGZvc3NpbCBhZ2VzLiIgUXVhdGVybmFyeSBHZW9jaHJvbm9sb2d5IDMwICgyMDE1KTogNjktNzkuIDwvZGVzY3JpcHRpb24+PC9kZXNjcmlwdGlvbnM+PC9yZXNvdXJjZT4K"
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "ands.centre-5",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "ands",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": null
+        }
+    }
+}

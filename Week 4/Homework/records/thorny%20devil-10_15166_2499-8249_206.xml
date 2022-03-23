@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://datacite.org/schema/kernel-4" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.1/metadata.xsd">
+ <identifier identifierType="DOI">10.15166/2499-8249/206</identifier>
+ <alternateIdentifiers>
+  <alternateIdentifier alternateIdentifierType="URI">http://www.europeanpapers.eu/en/e-journal/tdem-as-realistic-utopia-why-it-fits-with-parliaments</alternateIdentifier>
+ </alternateIdentifiers>
+ <creators>
+  <creator>
+   <creatorName nameType="Personal">Rozenberg, Olivier</creatorName>
+   <givenName>Olivier</givenName>
+   <familyName>Rozenberg</familyName>
+   <affiliation>Sciences Poy, Paris</affiliation>
+  </creator>
+ </creators>
+ <titles>
+  <title xml:lang="eng">The T-Dem as a Realistic Utopia: Why It Fits with What We Know About Parliaments</title>
+ </titles>
+ <publisher>European Papers (www.europeanpapers.eu)</publisher>
+ <publicationYear>2018</publicationYear>
+ <subjects>
+  <subject xml:lang="eng">democracy</subject>
+  <subject xml:lang="eng">parliament</subject>
+  <subject xml:lang="eng">European Parliament</subject>
+  <subject xml:lang="eng">legitimacy</subject>
+  <subject xml:lang="eng">national parliaments</subject>
+  <subject xml:lang="eng">Eurozone</subject>
+ </subjects>
+ <contributors>
+  <contributor contributorType="HostingInstitution">
+   <contributorName>Research Centre for European Law, Unitelma Sapienza - University of Rome</contributorName>
+  </contributor>
+ </contributors>
+ <language>eng</language>
+ <resourceType resourceTypeGeneral="Text">Overview</resourceType>
+ <formats>
+  <format>text/html</format>
+  <format>PDF</format>
+ </formats>
+ <rightsList>
+  <rights rightsURI="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</rights>
+ </rightsList>
+ <descriptions>
+  <description descriptionType="SeriesInformation">European Papers, Vol. 3, 2018, No 1, www.europeanpapers.eu, pp. 121-125, ISSN 2499-8249</description>
+  <description descriptionType="TableOfContents">I. Introduction. – II. An Assembly fitted with the multifunctional nature of legislatures. – III. An insurance against free-riding. – IV. A fair share for the European Parliament. – V. The devil is in the details. – VI. Conclusions.</description>
+  <description descriptionType="Abstract">A new assembly proposed for the Eurozone can be qualified as realistic utopia. Indeed, the Overview supports the view that the draft Treaty on the Democratization of the Governance of the Euro area (T-Dem) offers a coherent proposal given past lessons from legislative and EU studies. This is particularly the case regarding: a) the multidimensional functions of the Parliamentary Assembly of the Euro area proposed; b) the fact that this assembly would have important and open decisions to make; c) the provision of 80 percent of national Members of the Parliaments within it; d) the high level of detail regarding the membership of the assembly. Yet, the provisions of the treaty call for some changes or precisions regarding basic features of the parliamentary matrix, notably: pluralism, transparency and permanency.</description>
+ </descriptions>
+</resource>

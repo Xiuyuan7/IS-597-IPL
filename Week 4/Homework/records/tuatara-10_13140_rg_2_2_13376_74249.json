@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.13140/rg.2.2.13376.74249",
+    "type": "works",
+    "attributes": {
+        "doi": "10.13140/rg.2.2.13376.74249",
+        "identifier": "https://doi.org/10.13140/rg.2.2.13376.74249",
+        "url": "http://rgdoi.net/10.13140/RG.2.2.13376.74249",
+        "author": [
+            {
+                "given": "Nicholas C.",
+                "family": "Wu"
+            },
+            {
+                "given": "Joseph R.",
+                "family": "Waas"
+            }
+        ],
+        "title": "No evidence for across-population scent discrimination of cloacal gland secretions in tuatara (Sphenodon punctatus)",
+        "container-title": "Unpublished",
+        "description": null,
+        "resource-type-subtype": "Poster",
+        "data-center-id": "rg.rg",
+        "member-id": "rg",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2016",
+        "registered": "2016-09-11T22:51:02.000Z",
+        "checked": null,
+        "updated": "2019-08-02T12:19:47.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8cmVzb3VyY2UgeG1sbnM9Imh0dHA6Ly9kYXRhY2l0ZS5vcmcvc2NoZW1hL2tlcm5lbC00IiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly9kYXRhY2l0ZS5vcmcvc2NoZW1hL2tlcm5lbC00IGh0dHA6Ly9zY2hlbWEuZGF0YWNpdGUub3JnL21ldGEva2VybmVsLTQvbWV0YWRhdGEueHNkIj4KICA8aWRlbnRpZmllciBpZGVudGlmaWVyVHlwZT0iRE9JIj4xMC4xMzE0MC9SRy4yLjIuMTMzNzYuNzQyNDk8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5OaWNob2xhcyBDLiBXdTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkpvc2VwaCBSLiBXYWFzPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICA8L2NyZWF0b3JzPgogIDx0aXRsZXM+CiAgICA8dGl0bGU+Tm8gZXZpZGVuY2UgZm9yIGFjcm9zcy1wb3B1bGF0aW9uIHNjZW50IGRpc2NyaW1pbmF0aW9uIG9mIGNsb2FjYWwgZ2xhbmQgc2VjcmV0aW9ucyBpbiB0dWF0YXJhIChTcGhlbm9kb24gcHVuY3RhdHVzKTwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5VbnB1Ymxpc2hlZDwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxNjwvcHVibGljYXRpb25ZZWFyPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+UG9zdGVyPC9yZXNvdXJjZVR5cGU+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "rg.rg",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "rg",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

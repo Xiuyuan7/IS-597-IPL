@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<resource xmlns="http://datacite.org/schema/kernel-3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://datacite.org/schema/kernel-3 http://schema.datacite.org/meta/kernel-3/metadata.xsd">
+  <identifier identifierType="DOI">10.6084/m9.figshare.6817370</identifier>
+  <creators>
+    <creator>
+      <creatorName>Ignas Safari</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Wolfgang Goymann</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Additional file 1: of Certainty of paternity in two coucal species with divergent sex roles: the devil takes the hindmost</title>
+  </titles>
+  <descriptions>
+    <description descriptionType="Abstract">Additional notes on laboratory methods, parentage and sibship analysis, parameters of the microsatellites used, and additional tables and figures. (PDF 1017 kb)</description>
+  </descriptions>
+  <subjects>
+    <subject>Biochemistry</subject>
+    <subject>Genetics</subject>
+    <subject>Molecular Biology</subject>
+    <subject>Ecology</subject>
+    <subject>Sociology</subject>
+    <subject schemeURI="http://www.abs.gov.au/ausstats/abs@.nsf/0/6BB427AB9696C225CA2574180004463E" subjectScheme="FOR">69999 Biological Sciences not elsewhere classified</subject>
+    <subject>Developmental Biology</subject>
+  </subjects>
+  <publisher>Figshare</publisher>
+  <publicationYear>2018</publicationYear>
+  <dates>
+    <date dateType="Created">2018-07-14</date>
+    <date dateType="Updated">2018-07-14</date>
+  </dates>
+  <resourceType resourceTypeGeneral="Text">Paper</resourceType>
+  <sizes>
+    <size>1041527 Bytes</size>
+  </sizes>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1186/s12862-018-1225-y</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/licenses/by/4.0/">CC BY + CC0</rights>
+  </rightsList>
+</resource>

@@ -1,0 +1,69 @@
+{
+    "id": "https://doi.org/10.5061/dryad.p1s7r7g",
+    "type": "works",
+    "attributes": {
+        "doi": "10.5061/dryad.p1s7r7g",
+        "identifier": "https://doi.org/10.5061/dryad.p1s7r7g",
+        "url": "https://datadryad.org/resource/doi:10.5061/dryad.p1s7r7g",
+        "author": [
+            {
+                "given": "Calum",
+                "family": "Cunningham"
+            },
+            {
+                "given": "Christopher",
+                "family": "Johnson"
+            },
+            {
+                "given": "Tracey",
+                "family": "Hollings"
+            },
+            {
+                "given": "Kaely",
+                "family": "Kreger"
+            },
+            {
+                "given": "Menna",
+                "family": "Jones"
+            }
+        ],
+        "title": "Data from: Trophic rewilding establishes a landscape of fear: Tasmanian devil introduction increases risk-sensitive foraging in a key prey species",
+        "container-title": "Dryad Digital Repository",
+        "description": null,
+        "resource-type-subtype": "DataPackage",
+        "data-center-id": "dryad.dryad",
+        "member-id": "dryad",
+        "resource-type-id": "dataset",
+        "version": "1",
+        "license": "http://creativecommons.org/publicdomain/zero/1.0",
+        "schema-version": "4",
+        "results": [],
+        "related-identifiers": [],
+        "published": "2019",
+        "registered": "2019-08-21T15:26:55.000Z",
+        "checked": null,
+        "updated": "2019-08-24T06:17:31.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6bWV0cz0iaHR0cDovL3d3dy5sb2MuZ292L01FVFMvIiB4bWxuczpkc3BhY2U9Imh0dHA6Ly93d3cuZHNwYWNlLm9yZy94bWxucy9kc3BhY2UvZGltIiB4bWxuczpkaW09Imh0dHA6Ly93d3cuZHNwYWNlLm9yZy94bWxucy9kc3BhY2UvZGltIiB4bWxuczpkcnlhZD0iaHR0cDovL3B1cmwub3JnL2RyeWFkL3Rlcm1zLyIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuNTA2MS9EUllBRC5QMVM3UjdHPC9pZGVudGlmaWVyPgogIDx2ZXJzaW9uPjE8L3ZlcnNpb24+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5DdW5uaW5naGFtLCBDYWx1bTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkpvaG5zb24sIENocmlzdG9waGVyPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+SG9sbGluZ3MsIFRyYWNleTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPktyZWdlciwgS2FlbHk8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Kb25lcywgTWVubmE8L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5EYXRhIGZyb206IFRyb3BoaWMgcmV3aWxkaW5nIGVzdGFibGlzaGVzIGEgbGFuZHNjYXBlIG9mIGZlYXI6IFRhc21hbmlhbiBkZXZpbCBpbnRyb2R1Y3Rpb24gaW5jcmVhc2VzIHJpc2stc2Vuc2l0aXZlIGZvcmFnaW5nIGluIGEga2V5IHByZXkgc3BlY2llczwvdGl0bGU+CiAgPC90aXRsZXM+CiAgPHB1Ymxpc2hlcj5EcnlhZCBEaWdpdGFsIFJlcG9zaXRvcnk8L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTk8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5sYW5kc2NhcGUgb2YgZmVhcjwvc3ViamVjdD4KICAgIDxzdWJqZWN0PnRyb3BoaWMgcmV3aWxkaW5nPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+YXBleCBwcmVkYXRvcjwvc3ViamVjdD4KICAgIDxzdWJqZWN0PnByZWRhdG9yLXByZXk8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5naXZpbmctdXAgZGVuc2l0aWVzPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+dHJvcGhpYyBjYXNjYWRlPC9zdWJqZWN0PgogICAgPHN1YmplY3Q+VGFzbWFuaWE8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5BdXN0cmFsaWE8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5TYXJjb3BoaWx1cyBoYXJyaXNpaTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PlRyaWNob3N1cnVzIHZ1bHBlY3VsYTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iRGF0YXNldCI+RGF0YVBhY2thZ2U8L3Jlc291cmNlVHlwZT4KICA8cmVsYXRlZElkZW50aWZpZXJzPgogICAgPHJlbGF0ZWRJZGVudGlmaWVyIHJlbGF0ZWRJZGVudGlmaWVyVHlwZT0iRE9JIiByZWxhdGlvblR5cGU9Ikhhc1BhcnQiPjEwLjUwNjEvRFJZQUQuUDFTN1I3Ry8xPC9yZWxhdGVkSWRlbnRpZmllcj4KICAgIDxyZWxhdGVkSWRlbnRpZmllciByZWxhdGVkSWRlbnRpZmllclR5cGU9IkRPSSIgcmVsYXRpb25UeXBlPSJIYXNQYXJ0Ij4xMC41MDYxL0RSWUFELlAxUzdSN0cvMjwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNSZWZlcmVuY2VkQnkiPjEwLjExMTEvRUNPRy4wNDYzNTwvcmVsYXRlZElkZW50aWZpZXI+CiAgICA8cmVsYXRlZElkZW50aWZpZXIgcmVsYXRlZElkZW50aWZpZXJUeXBlPSJET0kiIHJlbGF0aW9uVHlwZT0iSXNTdXBwbGVtZW50VG8iPjEwLjExMTEvRUNPRy4wNDYzNTwvcmVsYXRlZElkZW50aWZpZXI+CiAgPC9yZWxhdGVkSWRlbnRpZmllcnM+CiAgPHJpZ2h0c0xpc3Q+CiAgICA8cmlnaHRzIHJpZ2h0c1VSST0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvcHVibGljZG9tYWluL3plcm8vMS4wLyIvPgogIDwvcmlnaHRzTGlzdD4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "dryad.dryad",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "dryad",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "dataset",
+                "type": "resource-types"
+            }
+        }
+    }
+}

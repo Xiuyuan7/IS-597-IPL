@@ -1,0 +1,65 @@
+{
+    "id": "https://doi.org/10.22004/ag.econ.93592",
+    "type": "works",
+    "attributes": {
+        "doi": "10.22004/ag.econ.93592",
+        "identifier": "https://doi.org/10.22004/ag.econ.93592",
+        "url": "https://ageconsearch.umn.edu/record/93592",
+        "author": [
+            {
+                "given": "William K.",
+                "family": "Hallman"
+            },
+            {
+                "given": "Helen L.",
+                "family": "Aquino"
+            },
+            {
+                "given": "William K.",
+                "family": "Hallman"
+            },
+            {
+                "given": "Helen L.",
+                "family": "Aquino"
+            }
+        ],
+        "title": "Consumers\u2019 Desire for GM Labels: Is the Devil in the Details?",
+        "container-title": "Unknown",
+        "description": null,
+        "resource-type-subtype": "Text",
+        "data-center-id": "tind.agecon",
+        "member-id": "tind",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2005",
+        "registered": "2019-08-24T02:45:09.000Z",
+        "checked": null,
+        "updated": "2019-08-25T08:16:37.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjIwMDQvQUcuRUNPTi45MzU5MjwvaWRlbnRpZmllcj4KICA8Y3JlYXRvcnM+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkhhbGxtYW4sIFdpbGxpYW0gSy48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5BcXVpbm8sIEhlbGVuIEwuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+SGFsbG1hbiwgV2lsbGlhbSBLLjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgICA8Y3JlYXRvcj4KICAgICAgPGNyZWF0b3JOYW1lPkFxdWlubywgSGVsZW4gTC48L2NyZWF0b3JOYW1lPgogICAgPC9jcmVhdG9yPgogIDwvY3JlYXRvcnM+CiAgPHRpdGxlcz4KICAgIDx0aXRsZT5Db25zdW1lcnPigJkgRGVzaXJlIGZvciBHTSBMYWJlbHM6IElzIHRoZSBEZXZpbCBpbiB0aGUgRGV0YWlscz88L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+VW5rbm93bjwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAwNTwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0PkNvbnN1bWVyL0hvdXNlaG9sZCBFY29ub21pY3M8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5Gb29kIENvbnN1bXB0aW9uL051dHJpdGlvbi9Gb29kIFNhZmV0eTwvc3ViamVjdD4KICA8L3N1YmplY3RzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJVcGRhdGVkIj4yMDE5LTA4LTI1VDAzOjE2OjM3LjAtMDU6MDA8L2RhdGU+CiAgPC9kYXRlcz4KICA8bGFuZ3VhZ2U+ZW48L2xhbmd1YWdlPgogIDxyZXNvdXJjZVR5cGUgcmVzb3VyY2VUeXBlR2VuZXJhbD0iVGV4dCI+VGV4dDwvcmVzb3VyY2VUeXBlPgo8L3Jlc291cmNlPg=="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tind.agecon",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tind",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}

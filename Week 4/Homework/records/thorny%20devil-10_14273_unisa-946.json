@@ -1,0 +1,53 @@
+{
+    "id": "https://doi.org/10.14273/unisa-946",
+    "type": "works",
+    "attributes": {
+        "doi": "10.14273/unisa-946",
+        "identifier": "https://doi.org/10.14273/unisa-946",
+        "url": "http://elea.unisa.it/xmlui/handle/10556/2547",
+        "author": [
+            {
+                "given": "Valentina",
+                "family": "Zambrano"
+            }
+        ],
+        "title": "Lotta al terrorismo e riconoscimento dello status di rifugiato nel quadro normativo e giurisprudenziale europeo: un rapporto problematico",
+        "container-title": "Universita' degli Studi di Salerno",
+        "description": "The European Union directive 2011/95 deals with a very thorny question: the relationship between terrorism and the denial of refugee status. In fact, Article 12 of the directive provides that a person is not recognized as a refugee where there are serious reasons for considering that he or she has been guilty of acts contrary to the purposes and principles of the United Nations. This paper aims to explore the content and limits of this exclusion clause in relation with acts of terrorism, analysing the article 1F(c) of the Convention relating to the status of refugees as a starting point. The jurisprudence of the EU Court of Justice is analysed to highlight the extent and the implementation of this clause in the European Union context. Finally, the paper deals with the question of the relationship between the exclusion clause and the expulsion of terrorists taking also into account the jurisprudence of the European Court of Human Rights on Article 3 ECHR.",
+        "resource-type-subtype": "Journal Article",
+        "data-center-id": "crui.unisa",
+        "member-id": "crui",
+        "resource-type-id": "other",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2017",
+        "registered": "2017-11-28T12:02:45.000Z",
+        "checked": null,
+        "updated": "2019-10-03T10:01:16.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJlc291cmNlIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIgeG1sbnM6ZHNwYWNlPSJodHRwOi8vd3d3LmRzcGFjZS5vcmcveG1sbnMvZHNwYWNlL2RpbSIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMTQyNzMvVU5JU0EtOTQ2PC9pZGVudGlmaWVyPgogIDxjcmVhdG9ycz4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+WmFtYnJhbm8sIFZhbGVudGluYTwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPkxvdHRhIGFsIHRlcnJvcmlzbW8gZSByaWNvbm9zY2ltZW50byBkZWxsbyBzdGF0dXMgZGkgcmlmdWdpYXRvIG5lbCBxdWFkcm8gbm9ybWF0aXZvIGUgZ2l1cmlzcHJ1ZGVuemlhbGUgZXVyb3BlbzogdW4gcmFwcG9ydG8gcHJvYmxlbWF0aWNvPC90aXRsZT4KICA8L3RpdGxlcz4KICA8cHVibGlzaGVyPlVuaXZlcnNpdGEnIGRlZ2xpIFN0dWRpIGRpIFNhbGVybm88L3B1Ymxpc2hlcj4KICA8cHVibGljYXRpb25ZZWFyPjIwMTc8L3B1YmxpY2F0aW9uWWVhcj4KICA8c3ViamVjdHM+CiAgICA8c3ViamVjdD5UZXJyb3Jpc208L3N1YmplY3Q+CiAgICA8c3ViamVjdD5SZWZ1Z2VlIHN0YXR1czwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkImYW1wO0QgY2FzZTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkxvdW5hbmkgY2FzZTwvc3ViamVjdD4KICAgIDxzdWJqZWN0PkFydC4gMyBFQ0hSPC9zdWJqZWN0PgogIDwvc3ViamVjdHM+CiAgPGNvbnRyaWJ1dG9ycz4KICAgIDxjb250cmlidXRvciBjb250cmlidXRvclR5cGU9IkRhdGFNYW5hZ2VyIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5Vbml2ZXJzaXRhJyBkZWdsaSBTdHVkaSBkaSBTYWxlcm5vPC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogICAgPGNvbnRyaWJ1dG9yIGNvbnRyaWJ1dG9yVHlwZT0iSG9zdGluZ0luc3RpdHV0aW9uIj4KICAgICAgPGNvbnRyaWJ1dG9yTmFtZT5Vbml2ZXJzaXRhJyBkZWdsaSBTdHVkaSBkaSBTYWxlcm5vPC9jb250cmlidXRvck5hbWU+CiAgICA8L2NvbnRyaWJ1dG9yPgogIDwvY29udHJpYnV0b3JzPgogIDxkYXRlcz4KICAgIDxkYXRlIGRhdGVUeXBlPSJBY2NlcHRlZCI+MjAxNy0xMS0yODwvZGF0ZT4KICAgIDxkYXRlIGRhdGVUeXBlPSJBdmFpbGFibGUiPjIwMTctMTEtMjg8L2RhdGU+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iSXNzdWVkIj4yMDE3PC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPml0PC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9Ik90aGVyIj5Kb3VybmFsIEFydGljbGU8L3Jlc291cmNlVHlwZT4KICA8YWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0iY2l0YXRpb24iPlphbWJyYW5vLCBWLiAiTG90dGEgYWwgdGVycm9yaXNtbyBlIHJpY29ub3NjaW1lbnRvIGRlbGxvIHN0YXR1cyBkaSByaWZ1Z2lhdG8gbmVsIHF1YWRybyBub3JtYXRpdm8gZSBnaXVyaXNwcnVkZW56aWFsZSBldXJvcGVvOiB1biByYXBwb3J0byBwcm9ibGVtYXRpY28uIiBGcmVlZG9tLCBTZWN1cml0eSAmYW1wOyBKdXN0aWNlOiBFdXJvcGVhbiBMZWdhbCBTdHVkaWVzIDMgKDIwMTcpOiA3MS05MDwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJpc3NuIj4yNTMyLTIwNzk8L2FsdGVybmF0ZUlkZW50aWZpZXI+CiAgICA8YWx0ZXJuYXRlSWRlbnRpZmllciBhbHRlcm5hdGVJZGVudGlmaWVyVHlwZT0idXJpIj5odHRwOi8vaGRsLmhhbmRsZS5uZXQvMTA1NTYvMjU0NzwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJ1cmkiPmh0dHA6Ly9keC5kb2kub3JnLzEwLjI2MzIxL1YuWkFNQlJBTk8uMDMuMjAxNy4wNTwvYWx0ZXJuYXRlSWRlbnRpZmllcj4KICAgIDxhbHRlcm5hdGVJZGVudGlmaWVyIGFsdGVybmF0ZUlkZW50aWZpZXJUeXBlPSJ1cmkiPmh0dHA6Ly93d3cuZnNqZXVyb3N0dWRpZXMuZXUvZmlsZXMvRlNKLjIwMTcuSUlJLlphbWJyYW5vXzVERUYucGRmPC9hbHRlcm5hdGVJZGVudGlmaWVyPgogIDwvYWx0ZXJuYXRlSWRlbnRpZmllcnM+CiAgPHNpemVzPgogICAgPHNpemU+UC4gNzEtOTA8L3NpemU+CiAgPC9zaXplcz4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlRoZSBFdXJvcGVhbiBVbmlvbiBkaXJlY3RpdmUgMjAxMS85NSBkZWFscyB3aXRoIGEgdmVyeSB0aG9ybnkgcXVlc3Rpb246IHRoZSByZWxhdGlvbnNoaXAgYmV0d2VlbiB0ZXJyb3Jpc20gYW5kIHRoZSBkZW5pYWwgb2YgcmVmdWdlZSBzdGF0dXMuIEluIGZhY3QsIEFydGljbGUgMTIgb2YgdGhlIGRpcmVjdGl2ZSBwcm92aWRlcyB0aGF0IGEgcGVyc29uIGlzIG5vdCByZWNvZ25pemVkIGFzIGEgcmVmdWdlZSB3aGVyZSB0aGVyZSBhcmUgc2VyaW91cyByZWFzb25zIGZvciBjb25zaWRlcmluZyB0aGF0IGhlIG9yIHNoZSBoYXMgYmVlbiBndWlsdHkgb2YgYWN0cyBjb250cmFyeSB0byB0aGUgcHVycG9zZXMgYW5kIHByaW5jaXBsZXMgb2YgdGhlIFVuaXRlZCBOYXRpb25zLiBUaGlzIHBhcGVyIGFpbXMgdG8gZXhwbG9yZSB0aGUgY29udGVudCBhbmQgbGltaXRzIG9mIHRoaXMgZXhjbHVzaW9uIGNsYXVzZSBpbiByZWxhdGlvbiB3aXRoIGFjdHMgb2YgdGVycm9yaXNtLCBhbmFseXNpbmcgdGhlIGFydGljbGUgMUYoYykgb2YgdGhlIENvbnZlbnRpb24gcmVsYXRpbmcgdG8gdGhlIHN0YXR1cyBvZiByZWZ1Z2VlcyBhcyBhIHN0YXJ0aW5nIHBvaW50LiBUaGUganVyaXNwcnVkZW5jZSBvZiB0aGUgRVUgQ291cnQgb2YgSnVzdGljZSBpcyBhbmFseXNlZCB0byBoaWdobGlnaHQgdGhlIGV4dGVudCBhbmQgdGhlIGltcGxlbWVudGF0aW9uIG9mIHRoaXMgY2xhdXNlIGluIHRoZSBFdXJvcGVhbiBVbmlvbiBjb250ZXh0LiBGaW5hbGx5LCB0aGUgcGFwZXIgZGVhbHMgd2l0aCB0aGUgcXVlc3Rpb24gb2YgdGhlIHJlbGF0aW9uc2hpcCBiZXR3ZWVuIHRoZSBleGNsdXNpb24gY2xhdXNlIGFuZCB0aGUgZXhwdWxzaW9uIG9mIHRlcnJvcmlzdHMgdGFraW5nIGFsc28gaW50byBhY2NvdW50IHRoZSBqdXJpc3BydWRlbmNlIG9mIHRoZSBFdXJvcGVhbiBDb3VydCBvZiBIdW1hbiBSaWdodHMgb24gQXJ0aWNsZSAzIEVDSFIuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "crui.unisa",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "crui",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "other",
+                "type": "resource-types"
+            }
+        }
+    }
+}

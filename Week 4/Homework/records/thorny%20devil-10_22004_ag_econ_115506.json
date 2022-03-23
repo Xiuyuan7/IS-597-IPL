@@ -1,0 +1,57 @@
+{
+    "id": "https://doi.org/10.22004/ag.econ.115506",
+    "type": "works",
+    "attributes": {
+        "doi": "10.22004/ag.econ.115506",
+        "identifier": "https://doi.org/10.22004/ag.econ.115506",
+        "url": "https://ageconsearch.umn.edu/record/115506",
+        "author": [
+            {
+                "given": "Ian",
+                "family": "Brown"
+            },
+            {
+                "given": "Ian",
+                "family": "Brown"
+            }
+        ],
+        "title": "The Role of ASM in Meeting Outcome Targets: A Perspective from the Coal Face",
+        "container-title": "Unknown",
+        "description": "The Environment Canterbury Act with the CWMS embed in \u2018law\u2019 a hierarchy of collaborative and more formal institutional arrangements in the form of regional and zone committees. Through these committees we increasingly see a fine tuning of the specificity of the targets around land use and water quality which lead to the maxim \u2013 \u2018the devil is in the detail\u2019. Under the zones sit an array of audited and non audited self management groups, containing a membership often worried about this \u2018devil\u2019, because it will cost. What does this mean for land managers working at the coal face and the agency personnel they then have to interact with? The audited self management (ASM) concept provides significant opportunities for land managers and the management agencies, such as Environment Canterbury. However, with the opportunities there are challenges particularly at the farm level. This paper explores some of these opportunities and challenges and lessons learnt using experiences from the North Otago Irrigation (NOIC), and Morven Glenavy Ikawai irrigation (MGI) schemes as examples of how the schemes, individual land managers and council\u2019s can work together to achieve agreed outcome targets.",
+        "resource-type-subtype": "Text",
+        "data-center-id": "tind.agecon",
+        "member-id": "tind",
+        "resource-type-id": "text",
+        "version": null,
+        "license": null,
+        "schema-version": null,
+        "results": [],
+        "related-identifiers": [],
+        "published": "2011",
+        "registered": "2019-08-24T03:17:39.000Z",
+        "checked": null,
+        "updated": "2019-08-25T09:07:41.000Z",
+        "media": [],
+        "xml": "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJlc291cmNlIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCIgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vZGF0YWNpdGUub3JnL3NjaGVtYS9rZXJuZWwtNCBodHRwOi8vc2NoZW1hLmRhdGFjaXRlLm9yZy9tZXRhL2tlcm5lbC00L21ldGFkYXRhLnhzZCI+CiAgPGlkZW50aWZpZXIgaWRlbnRpZmllclR5cGU9IkRPSSI+MTAuMjIwMDQvQUcuRUNPTi4xMTU1MDY8L2lkZW50aWZpZXI+CiAgPGNyZWF0b3JzPgogICAgPGNyZWF0b3I+CiAgICAgIDxjcmVhdG9yTmFtZT5Ccm93biwgSWFuPC9jcmVhdG9yTmFtZT4KICAgIDwvY3JlYXRvcj4KICAgIDxjcmVhdG9yPgogICAgICA8Y3JlYXRvck5hbWU+QnJvd24sIElhbjwvY3JlYXRvck5hbWU+CiAgICA8L2NyZWF0b3I+CiAgPC9jcmVhdG9ycz4KICA8dGl0bGVzPgogICAgPHRpdGxlPlRoZSBSb2xlIG9mIEFTTSBpbiBNZWV0aW5nIE91dGNvbWUgVGFyZ2V0czogQSBQZXJzcGVjdGl2ZSBmcm9tIHRoZSBDb2FsIEZhY2U8L3RpdGxlPgogIDwvdGl0bGVzPgogIDxwdWJsaXNoZXI+VW5rbm93bjwvcHVibGlzaGVyPgogIDxwdWJsaWNhdGlvblllYXI+MjAxMTwvcHVibGljYXRpb25ZZWFyPgogIDxzdWJqZWN0cz4KICAgIDxzdWJqZWN0PkVudmlyb25tZW50YWwgRWNvbm9taWNzIGFuZCBQb2xpY3k8L3N1YmplY3Q+CiAgICA8c3ViamVjdD5MYW5kIEVjb25vbWljcy9Vc2U8L3N1YmplY3Q+CiAgPC9zdWJqZWN0cz4KICA8ZGF0ZXM+CiAgICA8ZGF0ZSBkYXRlVHlwZT0iVXBkYXRlZCI+MjAxOS0wOC0yNVQwNDowNzo0MS4wLTA1OjAwPC9kYXRlPgogIDwvZGF0ZXM+CiAgPGxhbmd1YWdlPmVuPC9sYW5ndWFnZT4KICA8cmVzb3VyY2VUeXBlIHJlc291cmNlVHlwZUdlbmVyYWw9IlRleHQiPlRleHQ8L3Jlc291cmNlVHlwZT4KICA8ZGVzY3JpcHRpb25zPgogICAgPGRlc2NyaXB0aW9uIGRlc2NyaXB0aW9uVHlwZT0iQWJzdHJhY3QiPlRoZSBFbnZpcm9ubWVudCBDYW50ZXJidXJ5IEFjdCB3aXRoIHRoZSBDV01TIGVtYmVkIGluIOKAmGxhd+KAmSBhIGhpZXJhcmNoeSBvZiBjb2xsYWJvcmF0aXZlIGFuZCBtb3JlIGZvcm1hbCBpbnN0aXR1dGlvbmFsIGFycmFuZ2VtZW50cyBpbiB0aGUgZm9ybSBvZiByZWdpb25hbCBhbmQgem9uZSBjb21taXR0ZWVzLiBUaHJvdWdoIHRoZXNlIGNvbW1pdHRlZXMgd2UgaW5jcmVhc2luZ2x5IHNlZSBhIGZpbmUgdHVuaW5nIG9mIHRoZSBzcGVjaWZpY2l0eSBvZiB0aGUgdGFyZ2V0cyBhcm91bmQgbGFuZCB1c2UgYW5kIHdhdGVyIHF1YWxpdHkgd2hpY2ggbGVhZCB0byB0aGUgbWF4aW0g4oCTIOKAmHRoZSBkZXZpbCBpcyBpbiB0aGUgZGV0YWls4oCZLiBVbmRlciB0aGUgem9uZXMgc2l0IGFuIGFycmF5IG9mIGF1ZGl0ZWQgYW5kIG5vbiBhdWRpdGVkIHNlbGYgbWFuYWdlbWVudCBncm91cHMsIGNvbnRhaW5pbmcgYSBtZW1iZXJzaGlwIG9mdGVuIHdvcnJpZWQgYWJvdXQgdGhpcyDigJhkZXZpbOKAmSwgYmVjYXVzZSBpdCB3aWxsIGNvc3QuIFdoYXQgZG9lcyB0aGlzIG1lYW4gZm9yIGxhbmQgbWFuYWdlcnMgd29ya2luZyBhdCB0aGUgY29hbCBmYWNlIGFuZCB0aGUgYWdlbmN5IHBlcnNvbm5lbCB0aGV5IHRoZW4gaGF2ZSB0byBpbnRlcmFjdCB3aXRoPyAgVGhlIGF1ZGl0ZWQgc2VsZiBtYW5hZ2VtZW50IChBU00pIGNvbmNlcHQgcHJvdmlkZXMgc2lnbmlmaWNhbnQgb3Bwb3J0dW5pdGllcyBmb3IgbGFuZCBtYW5hZ2VycyBhbmQgdGhlIG1hbmFnZW1lbnQgYWdlbmNpZXMsIHN1Y2ggYXMgRW52aXJvbm1lbnQgQ2FudGVyYnVyeS4gIEhvd2V2ZXIsIHdpdGggdGhlIG9wcG9ydHVuaXRpZXMgdGhlcmUgYXJlIGNoYWxsZW5nZXMgcGFydGljdWxhcmx5IGF0IHRoZSBmYXJtIGxldmVsLiBUaGlzIHBhcGVyIGV4cGxvcmVzIHNvbWUgb2YgdGhlc2Ugb3Bwb3J0dW5pdGllcyBhbmQgY2hhbGxlbmdlcyBhbmQgbGVzc29ucyBsZWFybnQgdXNpbmcgZXhwZXJpZW5jZXMgZnJvbSB0aGUgTm9ydGggT3RhZ28gSXJyaWdhdGlvbiAoTk9JQyksIGFuZCBNb3J2ZW4gR2xlbmF2eSBJa2F3YWkgaXJyaWdhdGlvbiAoTUdJKSBzY2hlbWVzIGFzIGV4YW1wbGVzIG9mIGhvdyB0aGUgc2NoZW1lcywgaW5kaXZpZHVhbCBsYW5kIG1hbmFnZXJzIGFuZCBjb3VuY2ls4oCZcyBjYW4gd29yayB0b2dldGhlciB0byBhY2hpZXZlIGFncmVlZCBvdXRjb21lIHRhcmdldHMuPC9kZXNjcmlwdGlvbj4KICA8L2Rlc2NyaXB0aW9ucz4KPC9yZXNvdXJjZT4="
+    },
+    "relationships": {
+        "data-center": {
+            "data": {
+                "id": "tind.agecon",
+                "type": "data-centers"
+            }
+        },
+        "member": {
+            "data": {
+                "id": "tind",
+                "type": "members"
+            }
+        },
+        "resource-type": {
+            "data": {
+                "id": "text",
+                "type": "resource-types"
+            }
+        }
+    }
+}
